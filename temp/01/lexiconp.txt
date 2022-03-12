@@ -1,0 +1,2913 @@
+<SIL> 1.0 SIL_S
+A 1.0 EY1_S
+BABY 1.0 B_B EY1_I B_I IY0_E
+BABY 1.0 B_B IY1_I EY1_I B_I IY1_I W_I AY1_E
+CALLMEMAYBE 1.0 K_B AE1_I L_I M_I EY0_I M_I EY1_I B_I IY0_E
+CPU 1.0 S_B IY1_I P_I IY1_I Y_I UW1_E
+D 1.0 D_B IY1_E
+DJ 1.0 D_B IY1_I JH_I EY1_E
+DRAM 1.0 D_B IY1_I AA1_I R_I EY1_I EH1_I M_E
+DRAM 1.0 D_B IY1_I R_I AE2_I M_E
+DRAM 1.0 D_B R_I AE1_I M_E
+EYN 1.0 EH1_B AH0_I N_E
+F 1.0 EH1_B F_E
+GPS 1.0 G_B IY1_I P_I IY0_I EH1_I S_E
+GPS 1.0 JH_B IY1_I P_I IY1_I EH1_I S_E
+HANNAH 1.0 EY1_B CH_I EY1_I EH1_I N_I EH1_I N_I EY1_I EY1_I CH_E
+HANNAH 1.0 HH_B AE1_I N_I AH0_E
+HOLD 1.0 EY1_B CH_I OW1_I EH1_I L_I D_I IY1_E
+HOLD 1.0 HH_B OW1_I L_I D_E
+IC 1.0 AY1_B S_I IY1_E
+IC 1.0 IH0_B K_E
+II 1.0 AY1_B AY1_E
+II 1.0 IY1_B IY0_E
+IT 1.0 AY1_B T_I IY1_E
+IT 1.0 IH0_B T_E
+IT 1.0 IH1_B T_E
+IT 1.0 IH1_B T_I AH0_E
+LOFT 1.0 EH1_B L_I OW1_I EH1_I F_I T_I IY1_E
+LOFT 1.0 L_B AO1_I F_I T_E
+LOGO 1.0 EH1_B L_I OW1_I JH_I IY1_I OW1_E
+LOGO 1.0 L_B OW1_I G_I OW0_E
+MAPS 1.0 EH1_B M_I EY1_I P_I IY1_I EH1_I S_E
+MAPS 1.0 M_B AE1_I P_I S_E
+MP 1.0 EH1_B M_I P_I IY1_E
+N 1.0 EH1_B N_E
+T恤 1.0 T_B IY1_I x_I v4_E
+V 1.0 V_B IY1_E
+X 1.0 AE1_B K_I S_E
+X 1.0 EH1_B K_I S_E
+X 1.0 ch_B a1_E
+一 1.0 i1_S
+一 1.0 iao1_S
+一下 1.0 i1_B x_I ia4_E
+一下 1.0 i2_B x_I ia4_E
+一个 1.0 i1_B g_I e4_E
+一个 1.0 i2_B g_I e4_E
+一个 1.0 i2_B g_I e5_E
+一个月 1.0 i1_B g_I e4_I ve4_E
+一个月 1.0 i2_B g_I e3_I ve4_E
+一个月 1.0 i2_B g_I e4_I ve4_E
+一九九零年 1.0 i1_B j_I iu3_I j_I iu3_I l_I ing2_I n_I ian2_E
+一事 1.0 i1_B sh_I ix4_E
+一事 1.0 i2_B sh_I ix4_E
+一二年 1.0 i1_B er4_I n_I ian2_E
+一些 1.0 i1_B x_I ie1_E
+一些 1.0 i4_B x_I ie1_E
+一件 1.0 i1_B j_I ian4_E
+一件 1.0 i2_B j_I ian4_E
+一份 1.0 i1_B f_I en4_E
+一份 1.0 i2_B f_I en4_E
+一位 1.0 i1_B ui4_E
+一位 1.0 i2_B ui4_E
+一千 1.0 i1_B q_I ian1_E
+一千 1.0 i4_B q_I ian1_E
+一千亿 1.0 i1_B q_I ian1_I i4_E
+一千亿 1.0 i4_B q_I ian1_I i4_E
+一只 1.0 i1_B zh_I ix1_E
+一只 1.0 i4_B zh_I ix1_E
+一名 1.0 i1_B m_I ing2_E
+一名 1.0 i4_B m_I ing2_E
+一向 1.0 i1_B x_I iang4_E
+一向 1.0 i2_B x_I iang4_E
+一周 1.0 i1_B zh_I ou1_E
+一周 1.0 i4_B zh_I ou1_E
+一圈 1.0 i1_B q_I van1_E
+一圈 1.0 i4_B q_I van1_E
+一场 1.0 i1_B ch_I ang3_E
+一场 1.0 i4_B ch_I ang3_E
+一天 1.0 i1_B t_I ian1_E
+一天 1.0 i4_B t_I ian1_E
+一季度 1.0 i1_B j_I i4_I d_I u4_E
+一季度 1.0 i2_B j_I i4_I d_I u4_E
+一定 1.0 i2_B d_I ing4_E
+一家 1.0 i1_B j_I ia1_E
+一家 1.0 i4_B j_I ia1_E
+一对 1.0 i1_B d_I ui4_E
+一对 1.0 i2_B d_I ui4_E
+一年 1.0 i1_B n_I ian2_E
+一年 1.0 i4_B n_I ian2_E
+一度 1.0 i1_B d_I u4_E
+一度 1.0 i2_B d_I u4_E
+一张 1.0 i1_B zh_I ang1_E
+一张 1.0 i4_B zh_I ang1_E
+一日 1.0 i1_B r_I iz4_E
+一日 1.0 i2_B r_I iz4_E
+一枪 1.0 i1_B q_I iang1_E
+一枪 1.0 i4_B q_I iang1_E
+一样 1.0 i1_B iang4_E
+一样 1.0 i2_B iang4_E
+一概而论 1.0 i1_B g_I ai4_I er2_I l_I un4_E
+一概而论 1.0 i2_B g_I ai4_I er2_I l_I un4_E
+一步 1.0 i1_B b_I u4_E
+一步 1.0 i2_B b_I u4_E
+一段 1.0 i1_B d_I uan4_E
+一段 1.0 i2_B d_I uan4_E
+一点 1.0 i1_B d_I ian3_E
+一点 1.0 i4_B d_I ian3_E
+一生 1.0 i4_B sh_I eng1_E
+一男一女 1.0 i1_B n_I an2_I i1_I n_I v3_E
+一男一女 1.0 i4_B n_I an2_I i4_I n_I v3_E
+一百一十 1.0 i1_B b_I ai3_I i1_I sh_I ix2_E
+一百一十 1.0 i4_B b_I ai3_I i1_I sh_I ix2_E
+一直 1.0 i1_B zh_I ix2_E
+一直 1.0 i4_B zh_I ix2_E
+一种 1.0 i1_B zh_I ong3_E
+一种 1.0 i4_B zh_I ong3_E
+一米 1.0 i1_B m_I i3_E
+一米 1.0 i4_B m_I i3_E
+一类 1.0 i1_B l_I ei4_E
+一类 1.0 i2_B l_I ei4_E
+一线 1.0 i1_B x_I ian4_E
+一线 1.0 i2_B x_I ian4_E
+一致 1.0 i1_B zh_I ix4_E
+一致 1.0 i2_B zh_I ix4_E
+一致性 1.0 i1_B zh_I ix4_I x_I ing4_E
+一致性 1.0 i2_B zh_I ix4_I x_I ing4_E
+一般 1.0 i1_B b_I an1_E
+一般 1.0 i4_B b_I an1_E
+一般而言 1.0 i1_B b_I an1_I er2_I ian2_E
+一般而言 1.0 i4_B b_I an1_I er2_I ian2_E
+一起 1.0 i1_B q_I i3_E
+一起 1.0 i4_B q_I i3_E
+一身 1.0 i1_B sh_I en1_E
+一身 1.0 i4_B sh_I en1_E
+一辆 1.0 i1_B l_I iang4_E
+一辆 1.0 i2_B l_I iang4_E
+一辈子 1.0 i1_B b_I ei4_I z_I iy5_E
+一辈子 1.0 i2_B b_I ei4_I z_I iy5_E
+一首 1.0 i1_B sh_I ou3_E
+一首 1.0 i4_B sh_I ou3_E
+丁香 1.0 d_B ing1_I x_I iang1_E
+七 1.0 q_B i1_E
+七十万 1.0 q_B i1_I sh_I ix2_I uan4_E
+七月 1.0 q_B i1_I ve4_E
+万余 1.0 uan4_B v2_E
+万科 1.0 uan4_B k_I e1_E
+万达 1.0 uan4_B d_I a2_E
+丈夫 1.0 zh_B ang4_I f_I u1_E
+丈夫 1.0 zh_B ang4_I f_I u5_E
+三 1.0 s_B an1_E
+三个 1.0 s_B an1_I g_I e3_E
+三个 1.0 s_B an1_I g_I e4_E
+三井 1.0 s_B an1_I j_I ing3_E
+三位 1.0 s_B an1_I ui4_E
+三分之一 1.0 s_B an1_I f_I en1_I zh_I ix1_I i1_E
+三分之二 1.0 s_B an1_I f_I en1_I zh_I ix1_I er4_E
+三十 1.0 s_B an1_I sh_I ix2_E
+三十五岁 1.0 s_B an1_I sh_I ix2_I u3_I s_I ui4_E
+三十四 1.0 s_B an1_I sh_I ix2_I s_I iy4_E
+三十日 1.0 s_B an1_I sh_I ix2_I r_I iz4_E
+三千 1.0 s_B an1_I q_I ian1_E
+三叶 1.0 s_B an1_I ie4_E
+三号 1.0 s_B an1_I h_I ao4_E
+三天 1.0 s_B an1_I t_I ian1_E
+三年 1.0 s_B an1_I n_I ian2_E
+三成 1.0 s_B an1_I ch_I eng2_E
+三明 1.0 s_B an1_I m_I ing2_E
+三星 1.0 s_B an1_I x_I ing1_E
+三星公司 1.0 s_B an1_I x_I ing1_I g_I ong1_I s_I iy1_E
+三星电子 1.0 s_B an1_I x_I ing1_I d_I ian4_I z_I iy3_E
+三是 1.0 s_B an1_I sh_I ix4_E
+三月 1.0 s_B an1_I ve4_E
+三月份 1.0 s_B an1_I ve4_I f_I en4_E
+三栋 1.0 s_B an1_I d_I ong4_E
+三次 1.0 s_B an1_I c_I iy4_E
+三点 1.0 s_B an1_I d_I ian3_E
+三百 1.0 s_B an1_I b_I ai3_E
+三维 1.0 s_B an1_I ui2_E
+三里屯 1.0 s_B an1_I l_I i3_I t_I un2_E
+上 1.0 sh_B ang4_E
+上一年 1.0 sh_B ang4_I i3_I n_I ian2_E
+上一年 1.0 sh_B ang4_I i4_I n_I ian2_E
+上去 1.0 sh_B ang4_I q_I v4_E
+上去 1.0 sh_B ang4_I q_I v5_E
+上周 1.0 sh_B ang4_I zh_I ou1_E
+上市 1.0 sh_B ang4_I sh_I ix4_E
+上映 1.0 sh_B ang4_I ing4_E
+上来 1.0 sh_B ang4_I l_I ai2_E
+上来 1.0 sh_B ang4_I l_I ai5_E
+上海 1.0 sh_B ang4_I h_I ai3_E
+上海市 1.0 sh_B ang4_I h_I ai3_I sh_I ix4_E
+上涨 1.0 sh_B ang4_I zh_I ang3_E
+上空 1.0 sh_B ang4_I k_I ong1_E
+上述 1.0 sh_B ang4_I sh_I u4_E
+下 1.0 x_B ia4_E
+下一代 1.0 x_B ia4_I i1_I d_I ai4_E
+下一代 1.0 x_B ia4_I i2_I d_I ai4_E
+下半年 1.0 x_B ia4_I b_I an4_I n_I ian2_E
+下周 1.0 x_B ia4_I zh_I ou1_E
+下滑 1.0 x_B ia4_I h_I ua2_E
+下课 1.0 x_B ia4_I k_I e4_E
+下调 1.0 x_B ia4_I d_I iao4_E
+下调 1.0 x_B ia4_I t_I iao2_E
+下跌 1.0 x_B ia4_I d_I ie1_E
+下降 1.0 x_B ia4_I j_I iang4_E
+不 1.0 b_B u2_E
+不 1.0 b_B u4_E
+不仅 1.0 b_B u4_I j_I in3_E
+不会 1.0 b_B u2_I h_I ui4_E
+不住 1.0 b_B u2_I zh_I u4_E
+不再 1.0 b_B u2_I z_I ai4_E
+不到 1.0 b_B u2_I d_I ao4_E
+不动产 1.0 b_B u2_I d_I ong4_I ch_I an3_E
+不及 1.0 b_B u4_I j_I i2_E
+不可 1.0 b_B u4_I k_I e3_E
+不同 1.0 b_B u4_I t_I ong2_E
+不在意 1.0 b_B u2_I z_I ai4_I i4_E
+不够 1.0 b_B u2_I g_I ou4_E
+不好 1.0 b_B u4_I h_I ao3_E
+不少 1.0 b_B u4_I sh_I ao3_E
+不得不 1.0 b_B u4_I d_I e2_I b_I u4_E
+不必 1.0 b_B u2_I b_I i4_E
+不断 1.0 b_B u2_I d_I uan4_E
+不是 1.0 b_B u2_I sh_I ix4_E
+不满 1.0 b_B u4_I m_I an3_E
+不用 1.0 b_B u2_I iong4_E
+不能 1.0 b_B u4_I n_I eng2_E
+不过 1.0 b_B u2_I g_I uo4_E
+不远处 1.0 b_B u4_I van3_I ch_I u4_E
+与 1.0 v3_S
+与 1.0 v4_S
+与其 1.0 v3_B q_I i2_E
+丑闻 1.0 ch_B ou3_I un2_E
+专业 1.0 zh_B uan1_I ie4_E
+专业人士 1.0 zh_B uan1_I ie4_I r_I en2_I sh_I ix4_E
+专家 1.0 zh_B uan1_I j_I ia1_E
+专心 1.0 zh_B uan1_I x_I in1_E
+专车 1.0 zh_B uan1_I ch_I e1_E
+世界 1.0 sh_B ix4_I j_I ie4_E
+世界冠军 1.0 sh_B ix4_I j_I ie4_I g_I uan4_I j_I vn1_E
+世界杯 1.0 sh_B ix4_I j_I ie4_I b_I ei1_E
+世纪 1.0 sh_B ix4_I j_I i4_E
+世锦赛 1.0 sh_B ix4_I j_I in3_I s_I ai4_E
+业主 1.0 ie4_B zh_I u3_E
+业内人士 1.0 ie4_B n_I ei4_I r_I en2_I sh_I ix4_E
+业务 1.0 ie4_B u4_E
+业务 1.0 ie4_B u5_E
+业绩 1.0 ie4_B j_I i4_E
+东三环 1.0 d_B ong1_I s_I an1_I h_I uan2_E
+东京 1.0 d_B ong1_I j_I ing1_E
+东便门 1.0 d_B ong1_I b_I ian4_I m_I en2_E
+东北 1.0 d_B ong1_I b_I ei3_E
+东南 1.0 d_B ong1_I n_I an2_E
+东四环 1.0 d_B ong1_I s_I iy4_I h_I uan2_E
+东方 1.0 d_B ong1_I f_I ang1_E
+东西 1.0 d_B ong1_I x_I i1_E
+东西 1.0 d_B ong1_I x_I i5_E
+东部 1.0 d_B ong1_I b_I u4_E
+两 1.0 l_B iang3_E
+两个 1.0 l_B iang3_I g_I e3_E
+两个 1.0 l_B iang3_I g_I e4_E
+两人 1.0 l_B iang3_I r_I en2_E
+两名 1.0 l_B iang3_I m_I ing2_E
+两块钱 1.0 l_B iang3_I k_I uai4_I q_I ian2_E
+两大类 1.0 l_B iang3_I d_I a4_I l_I ei4_E
+两家 1.0 l_B iang3_I j_I ia1_E
+两年 1.0 l_B iang3_I n_I ian2_E
+两度 1.0 l_B iang3_I d_I u4_E
+两张 1.0 l_B iang3_I zh_I ang1_E
+两点 1.0 l_B iang2_I d_I ian3_E
+两点 1.0 l_B iang3_I d_I ian3_E
+两者 1.0 l_B iang2_I zh_I e3_E
+两者 1.0 l_B iang3_I zh_I e3_E
+两辆 1.0 l_B iang3_I l_I iang4_E
+严厉 1.0 ian2_B l_I i4_E
+严格 1.0 ian2_B g_I e2_E
+严重 1.0 ian2_B zh_I ong4_E
+个 1.0 g_B e4_E
+个人 1.0 g_B e4_I r_I en2_E
+中 1.0 zh_B ong1_E
+中 1.0 zh_B ong4_E
+中伤 1.0 zh_B ong1_I sh_I ang1_E
+中伤 1.0 zh_B ong4_I sh_I ang1_E
+中原 1.0 zh_B ong1_I van2_E
+中国 1.0 zh_B ong1_I g_I uo2_E
+中国证监会 1.0 zh_B ong1_I g_I uo2_I zh_I eng4_I j_I ian1_I h_I ui4_E
+中小企业 1.0 zh_B ong1_I x_I iao2_I q_I i3_I ie4_E
+中小企业 1.0 zh_B ong1_I x_I iao3_I q_I i3_I ie4_E
+中年 1.0 zh_B ong1_I n_I ian2_E
+中心 1.0 zh_B ong1_I x_I in1_E
+中指 1.0 zh_B ong1_I zh_I ix3_E
+中新网 1.0 zh_B ong1_I x_I in1_I uang3_E
+中止 1.0 zh_B ong1_I zh_I ix3_E
+中法 1.0 zh_B ong1_I f_I a3_E
+中老年 1.0 zh_B ong1_I l_I ao3_I n_I ian2_E
+中行 1.0 zh_B ong1_I h_I ang2_E
+中长期 1.0 zh_B ong1_I ch_I ang2_I q_I i1_E
+丰富 1.0 f_B eng1_I f_I u4_E
+临时 1.0 l_B in2_I sh_I ix2_E
+临界值 1.0 l_B in2_I j_I ie4_I zh_I ix2_E
+临界点 1.0 l_B in2_I j_I ie4_I d_I ian3_E
+为 1.0 ui2_S
+为 1.0 ui4_S
+为主 1.0 ui2_B zh_I u3_E
+为了 1.0 ui4_B l_I e5_E
+为何 1.0 ui4_B h_I e2_E
+为例 1.0 ui2_B l_I i4_E
+为此 1.0 ui4_B c_I iy3_E
+主人 1.0 zh_B u3_I r_I en2_E
+主力 1.0 zh_B u3_I l_I i4_E
+主办方 1.0 zh_B u3_I b_I an4_I f_I ang1_E
+主持 1.0 zh_B u3_I ch_I ix2_E
+主流 1.0 zh_B u3_I l_I iu2_E
+主管 1.0 zh_B u2_I g_I uan3_E
+主管 1.0 zh_B u3_I g_I uan3_E
+主要 1.0 zh_B u3_I iao4_E
+主路 1.0 zh_B u3_I l_I u4_E
+主题 1.0 zh_B u3_I t_I i2_E
+主题曲 1.0 zh_B u3_I t_I i2_I q_I v3_E
+丽江 1.0 l_B i4_I j_I iang1_E
+丽江市 1.0 l_B i4_I j_I iang1_I sh_I ix4_E
+举 1.0 j_B v3_E
+举办 1.0 j_B v3_I b_I an4_E
+举行 1.0 j_B v3_I x_I ing2_E
+乃至 1.0 n_B ai3_I zh_I ix4_E
+久 1.0 j_B iu3_E
+之一 1.0 zh_B ix1_I i1_E
+之中 1.0 zh_B ix1_I zh_I ong1_E
+之前 1.0 zh_B ix1_I q_I ian2_E
+之后 1.0 zh_B ix1_I h_I ou4_E
+之外 1.0 zh_B ix1_I uai4_E
+之日起 1.0 zh_B ix1_I r_I iz4_I q_I i3_E
+之间 1.0 zh_B ix1_I j_I ian1_E
+乐园 1.0 l_B e4_I van2_E
+乒乓 1.0 p_B ing1_I p_I ang1_E
+乒乓球 1.0 p_B ing1_I p_I ang1_I q_I iu2_E
+乒乓球拍 1.0 p_B ing1_I p_I ang1_I q_I iu2_I p_I ai1_E
+乘势 1.0 ch_B eng2_I sh_I ix4_E
+乘坐 1.0 ch_B eng2_I z_I uo4_E
+乘客 1.0 ch_B eng2_I k_I e4_E
+九 1.0 j_B iu3_E
+九月 1.0 j_B iu3_I ve4_E
+九零 1.0 j_B iu3_I l_I ing2_E
+也 1.0 ie3_S
+书城 1.0 sh_B u1_I ch_I eng2_E
+买 1.0 m_B ai3_E
+买家 1.0 m_B ai3_I j_I ia1_E
+买房 1.0 m_B ai3_I f_I ang2_E
+了 1.0 l_B e5_E
+了 1.0 l_B iao3_E
+了 1.0 l_B iao4_E
+了解 1.0 l_B iao2_I j_I ie3_E
+了解 1.0 l_B iao3_I j_I ie3_E
+予以 1.0 v2_B i3_E
+予以 1.0 v3_B i3_E
+争夺 1.0 zh_B eng1_I d_I uo2_E
+事 1.0 sh_B ix4_E
+事件 1.0 sh_B ix4_I j_I ian4_E
+事件簿 1.0 sh_B ix4_I j_I ian4_I b_I u4_E
+事前 1.0 sh_B ix4_I q_I ian2_E
+事发 1.0 sh_B ix4_I f_I a1_E
+事后 1.0 sh_B ix4_I h_I ou4_E
+事实上 1.0 sh_B ix4_I sh_I ix2_I sh_I ang4_E
+事情 1.0 sh_B ix4_I q_I ing5_E
+事故 1.0 sh_B ix4_I g_I u4_E
+事故 1.0 sh_B ix4_I g_I u5_E
+事项 1.0 sh_B ix4_I x_I iang4_E
+二 1.0 er4_S
+二三 1.0 er4_B s_I an1_E
+二十九 1.0 er4_B sh_I ix2_I j_I iu3_E
+二十五 1.0 er4_B sh_I ix2_I u3_E
+二十八日 1.0 er4_B sh_I ix2_I b_I a1_I r_I iz4_E
+二店 1.0 er4_B d_I ian4_E
+二手房 1.0 er4_B sh_I ou3_I f_I ang2_E
+二是 1.0 er4_B sh_I ix4_E
+二级 1.0 er4_B j_I i2_E
+二线 1.0 er4_B x_I ian4_E
+二郎 1.0 er4_B l_I ang2_E
+二零一 1.0 er4_B l_I ing2_I i1_E
+二零一 1.0 er4_B l_I ing2_I iao1_E
+二零零三年 1.0 er4_B l_I ing2_I l_I ing2_I s_I an1_I n_I ian2_E
+二零零六年 1.0 er4_B l_I ing2_I l_I ing2_I l_I iu4_I n_I ian2_E
+于 1.0 u1_S
+于 1.0 v1_S
+于 1.0 v2_S
+于是 1.0 v2_B sh_I ix4_E
+亏空 1.0 k_B ui1_I k_I ong1_E
+互动 1.0 h_B u4_I d_I ong4_E
+五 1.0 u3_S
+五万 1.0 u3_B uan4_E
+五倍 1.0 u3_B b_I ei4_E
+五年 1.0 u3_B n_I ian2_E
+五日 1.0 u3_B r_I iz4_E
+五点 1.0 u2_B d_I ian3_E
+五点 1.0 u3_B d_I ian3_E
+亚洲 1.0 ia4_B zh_I ou1_E
+亡妻 1.0 uang2_B q_I i1_E
+交易 1.0 j_B iao1_I i4_E
+交易额 1.0 j_B iao1_I i4_I e2_E
+交汇 1.0 j_B iao1_I h_I ui4_E
+交流 1.0 j_B iao1_I l_I iu2_E
+交通 1.0 j_B iao1_I t_I ong1_E
+交通委 1.0 j_B iao1_I t_I ong1_I ui3_E
+亦 1.0 i4_S
+产业 1.0 ch_B an3_I ie4_E
+产品 1.0 ch_B an2_I p_I in3_E
+产品 1.0 ch_B an3_I p_I in3_E
+产能 1.0 ch_B an3_I n_I eng2_E
+享受 1.0 x_B iang3_I sh_I ou4_E
+亭 1.0 t_B ing2_E
+亲子 1.0 q_B in1_I z_I iy3_E
+亲爱 1.0 q_B in1_I ai4_E
+人 1.0 r_B en2_E
+人们 1.0 r_B en2_I m_I en5_E
+人口 1.0 r_B en2_I k_I ou3_E
+人员 1.0 r_B en2_I van2_E
+人士 1.0 r_B en2_I sh_I ix4_E
+人家 1.0 r_B en2_I j_I ia1_E
+人家 1.0 r_B en2_I j_I ia5_E
+人才 1.0 r_B en2_I c_I ai2_E
+人数 1.0 r_B en2_I sh_I u4_E
+人民网 1.0 r_B en2_I m_I in2_I uang3_E
+人气 1.0 r_B en2_I q_I i4_E
+人群 1.0 r_B en2_I q_I vn2_E
+亿 1.0 i4_S
+亿美元 1.0 i4_B m_I ei3_I van2_E
+什么 1.0 sh_B en2_I m_I a2_E
+什么 1.0 sh_B en2_I m_I e5_E
+什么 1.0 sh_B en2_I m_I o2_E
+仅 1.0 j_B in3_E
+今后 1.0 j_B in1_I h_I ou4_E
+今天下午 1.0 j_B in1_I t_I ian1_I x_I ia4_I u3_E
+今年 1.0 j_B in1_I n_I ian2_E
+今年初 1.0 j_B in1_I n_I ian2_I ch_I u1_E
+今生 1.0 j_B in1_I sh_I eng1_E
+仍 1.0 r_B eng2_E
+仍会 1.0 r_B eng2_I h_I ui4_E
+从 1.0 c_B ong2_E
+从未见过 1.0 c_B ong2_I ui4_I j_I ian4_I g_I uo3_E
+从未见过 1.0 c_B ong2_I ui4_I j_I ian4_I g_I uo4_E
+从来 1.0 c_B ong2_I l_I ai2_E
+他 1.0 t_B a1_E
+他人 1.0 t_B a1_I r_I en2_E
+他们 1.0 t_B a1_I m_I en5_E
+付 1.0 f_B u4_E
+仙桃市 1.0 x_B ian1_I t_I ao2_I sh_I ix4_E
+代行 1.0 d_B ai4_I x_I ing2_E
+代表 1.0 d_B ai4_I b_I iao3_E
+以 1.0 i3_S
+以上 1.0 i3_B sh_I ang4_E
+以下 1.0 i3_B x_I ia4_E
+以及 1.0 i3_B j_I i2_E
+以外 1.0 i3_B uai4_E
+以往 1.0 i2_B uang3_E
+以往 1.0 i3_B uang3_E
+以来 1.0 i3_B l_I ai2_E
+以点带面 1.0 i2_B d_I ian3_I d_I ai4_I m_I ian4_E
+以点带面 1.0 i3_B d_I ian3_I d_I ai4_I m_I ian4_E
+们 1.0 m_B en2_E
+们 1.0 m_B en5_E
+价格 1.0 j_B ia4_I g_I e2_E
+任 1.0 r_B en2_E
+任 1.0 r_B en4_E
+任何 1.0 r_B en4_I h_I e2_E
+任务 1.0 r_B en4_I u3_E
+任务 1.0 r_B en4_I u4_E
+任职 1.0 r_B en4_I zh_I ix2_E
+份额 1.0 f_B en4_I e2_E
+企业 1.0 q_B i3_I ie4_E
+优势 1.0 iu1_B sh_I ix4_E
+优惠 1.0 iu1_B h_I ui4_E
+优衣库 1.0 iu1_B i1_I k_I u4_E
+会 1.0 h_B ui4_E
+会 1.0 k_B uai4_E
+会上 1.0 h_B ui4_I sh_I ang3_E
+会上 1.0 h_B ui4_I sh_I ang4_E
+会徽 1.0 h_B ui4_I h_I ui1_E
+传感器 1.0 ch_B uan2_I g_I an3_I q_I i4_E
+传统 1.0 ch_B uan2_I t_I ong3_E
+传言 1.0 ch_B uan2_I ian2_E
+传达 1.0 ch_B uan2_I d_I a2_E
+伤 1.0 sh_B ang1_E
+伤人 1.0 sh_B ang1_I r_I en2_E
+伤者 1.0 sh_B ang1_I zh_I e3_E
+伪造 1.0 ui3_B z_I ao4_E
+伴随 1.0 b_B an4_I s_I ui2_E
+似乎 1.0 s_B iy4_I h_I u1_E
+但 1.0 d_B an4_E
+但是 1.0 d_B an4_I sh_I ix4_E
+位于 1.0 ui4_B v1_E
+位于 1.0 ui4_B v2_E
+位置 1.0 ui4_B zh_I ix4_E
+位置 1.0 ui4_B zh_I ix5_E
+低价 1.0 d_B i1_I j_I ia4_E
+低收入 1.0 d_B i1_I sh_I ou1_I r_I u4_E
+低迷 1.0 d_B i1_I m_I i2_E
+住 1.0 zh_B u4_E
+住宅 1.0 zh_B u4_I zh_I ai2_E
+住房 1.0 zh_B u4_I f_I ang2_E
+体制改革 1.0 t_B i3_I zh_I ix4_I g_I ai3_I g_I e2_E
+体系 1.0 t_B i3_I x_I i4_E
+体育 1.0 t_B i3_I v4_E
+体验 1.0 t_B i3_I ian4_E
+何时 1.0 h_B e2_I sh_I ix2_E
+何曾 1.0 h_B e2_I c_I eng2_E
+何种 1.0 h_B e2_I zh_I ong3_E
+作为 1.0 z_B uo4_I ui2_E
+作为 1.0 z_B uo4_I ui3_E
+作出 1.0 z_B uo4_I ch_I u1_E
+作品 1.0 z_B uo4_I p_I in3_E
+作用 1.0 z_B uo4_I iong3_E
+作用 1.0 z_B uo4_I iong4_E
+你 1.0 n_B i3_E
+使得 1.0 sh_B ix3_I d_I e2_E
+使用 1.0 sh_B ix3_I iong4_E
+使用费 1.0 sh_B ix3_I iong4_I f_I ei4_E
+供应 1.0 g_B ong1_I ing4_E
+供应 1.0 g_B ong4_I ing3_E
+供应 1.0 g_B ong4_I ing4_E
+依旧 1.0 i1_B j_I iu4_E
+依然 1.0 i1_B r_I an2_E
+依照 1.0 i1_B zh_I ao4_E
+依赖 1.0 i1_B l_I ai4_E
+依靠 1.0 i1_B k_I ao4_E
+侠 1.0 x_B ia2_E
+侠侣 1.0 x_B ia2_I l_I v3_E
+促 1.0 c_B u4_E
+促进 1.0 c_B u4_I j_I in4_E
+俏皮 1.0 q_B iao4_I p_I i2_E
+保利 1.0 b_B ao3_I l_I i4_E
+保安 1.0 b_B ao3_I an1_E
+保证 1.0 b_B ao3_I zh_I eng4_E
+保障 1.0 b_B ao3_I zh_I ang4_E
+信号 1.0 x_B in4_I h_I ao4_E
+信号 1.0 x_B in4_I h_I ao5_E
+信心 1.0 x_B in4_I x_I in1_E
+信息 1.0 x_B in4_I x_I i1_E
+信托 1.0 x_B in4_I t_I uo1_E
+信贷 1.0 x_B in4_I d_I ai4_E
+信赖 1.0 x_B in4_I l_I ai4_E
+信赖 1.0 x_B in4_I l_I ai5_E
+修改 1.0 x_B iu1_I g_I ai3_E
+修订 1.0 x_B iu1_I d_I ing4_E
+倍数 1.0 b_B ei4_I sh_I u4_E
+倍数 1.0 b_B ei4_I sh_I u5_E
+倒地 1.0 d_B ao3_I d_I i4_E
+借鉴 1.0 j_B ie4_I j_I ian4_E
+假期 1.0 j_B ia4_I q_I i1_E
+偏差 1.0 p_B ian1_I ch_I a1_E
+偏差 1.0 p_B ian1_I ch_I a4_E
+做 1.0 z_B uo4_E
+做出 1.0 z_B uo4_I ch_I u1_E
+做好 1.0 z_B uo4_I h_I ao3_E
+停下 1.0 t_B ing2_I x_I ia4_E
+停下 1.0 t_B ing2_I x_I ia5_E
+停业 1.0 t_B ing2_I ie4_E
+停用 1.0 t_B ing2_I iong4_E
+停留 1.0 t_B ing2_I l_I iu2_E
+停车 1.0 t_B ing2_I ch_I e1_E
+停车费 1.0 t_B ing2_I ch_I e1_I f_I ei4_E
+健康 1.0 j_B ian4_I k_I ang1_E
+健身 1.0 j_B ian4_I sh_I en1_E
+健身房 1.0 j_B ian4_I sh_I en1_I f_I ang2_E
+偶 1.0 ou3_S
+偶尔 1.0 ou2_B er3_E
+偶尔 1.0 ou3_B er3_E
+傍晚 1.0 b_B ang4_I uan3_E
+储蓄 1.0 ch_B u3_I x_I v4_E
+儿子 1.0 er2_B z_I iy5_E
+元素 1.0 van2_B s_I u4_E
+兄弟 1.0 x_B iong1_I d_I i4_E
+兄弟 1.0 x_B iong1_I d_I i5_E
+充分 1.0 ch_B ong1_I f_I en4_E
+充分发挥 1.0 ch_B ong1_I f_I en4_I f_I a1_I h_I ui1_E
+先 1.0 x_B ian1_E
+先后 1.0 x_B ian1_I h_I ou4_E
+先机 1.0 x_B ian1_I j_I i1_E
+光晕 1.0 g_B uang1_I vn1_E
+光晕 1.0 g_B uang1_I vn4_E
+免征 1.0 m_B ian3_I zh_I eng1_E
+全 1.0 q_B van2_E
+全体 1.0 q_B van2_I t_I i3_E
+全国 1.0 q_B van2_I g_I uo2_E
+全民 1.0 q_B van2_I m_I in2_E
+全职 1.0 q_B van2_I zh_I ix2_E
+全自动 1.0 q_B van2_I z_I iy4_I d_I ong4_E
+全部 1.0 q_B van2_I b_I u4_E
+全面 1.0 q_B van2_I m_I ian4_E
+八 1.0 b_B a1_E
+八月 1.0 b_B a1_I ve4_E
+公交 1.0 g_B ong1_I j_I iao1_E
+公募 1.0 g_B ong1_I m_I u4_E
+公司 1.0 g_B ong1_I s_I iy1_E
+公园 1.0 g_B ong1_I van2_E
+公安机关 1.0 g_B ong1_I an1_I j_I i1_I g_I uan1_E
+公布 1.0 g_B ong1_I b_I u4_E
+公布于众 1.0 g_B ong1_I b_I u4_I v2_I zh_I ong4_E
+公开 1.0 g_B ong1_I k_I ai1_E
+公款 1.0 g_B ong1_I k_I uan3_E
+公积金 1.0 g_B ong1_I j_I i1_I j_I in1_E
+六 1.0 l_B iu4_E
+六号 1.0 l_B iu4_I h_I ao4_E
+六年 1.0 l_B iu4_I n_I ian2_E
+共 1.0 g_B ong4_E
+共享 1.0 g_B ong4_I x_I iang3_E
+共有 1.0 g_B ong4_I iu3_E
+共识 1.0 g_B ong4_I sh_I ix2_E
+关于 1.0 g_B uan1_I v2_E
+关于 1.0 g_B uan1_I v3_E
+关注 1.0 g_B uan1_I zh_I u4_E
+关注点 1.0 g_B uan1_I zh_I u4_I d_I ian3_E
+关键 1.0 g_B uan1_I j_I ian4_E
+兴奋 1.0 x_B ing1_I f_I en4_E
+其 1.0 q_B i2_E
+其中 1.0 q_B i2_I zh_I ong1_E
+其他 1.0 q_B i2_I t_I a1_E
+其余 1.0 q_B i2_I v2_E
+其实 1.0 q_B i2_I sh_I ix2_E
+具体 1.0 j_B v4_I t_I i3_E
+具备 1.0 j_B v4_I b_I ei4_E
+具有 1.0 j_B v4_I iu3_E
+兼职 1.0 j_B ian1_I zh_I ix2_E
+内 1.0 n_B ei4_E
+内侧 1.0 n_B ei4_I c_I e4_E
+内因 1.0 n_B ei4_I in1_E
+内外 1.0 n_B ei4_I uai4_E
+内存 1.0 n_B ei4_I c_I un2_E
+内容 1.0 n_B ei4_I r_I ong2_E
+内战 1.0 n_B ei4_I zh_I an4_E
+内环 1.0 n_B ei4_I h_I uan2_E
+内设 1.0 n_B ei4_I sh_I e4_E
+内部 1.0 n_B ei4_I b_I u3_E
+内部 1.0 n_B ei4_I b_I u4_E
+再 1.0 z_B ai4_E
+再度 1.0 z_B ai4_I d_I u4_E
+再次 1.0 z_B ai4_I c_I iy4_E
+冠军 1.0 g_B uan4_I j_I vn1_E
+冰晶 1.0 b_B ing1_I j_I ing1_E
+冲击 1.0 ch_B ong1_I j_I i1_E
+冲突 1.0 ch_B ong1_I t_I u1_E
+冲突 1.0 ch_B ong1_I t_I u5_E
+决定 1.0 j_B ve2_I d_I ing4_E
+决赛 1.0 j_B ve2_I s_I ai4_E
+冷静 1.0 l_B eng3_I j_I ing4_E
+净 1.0 j_B ing4_E
+净利润 1.0 j_B ing4_I l_I i4_I r_I un4_E
+净利润 1.0 j_B ing4_I l_I i4_I r_I un5_E
+准备 1.0 zh_B un3_I b_I ei4_E
+准备金 1.0 zh_B un3_I b_I ei4_I j_I in1_E
+减少 1.0 j_B ian2_I sh_I ao3_E
+减少 1.0 j_B ian3_I sh_I ao3_E
+减弱 1.0 j_B ian3_I r_I uo4_E
+几个 1.0 j_B i3_I g_I e3_E
+几个 1.0 j_B i3_I g_I e4_E
+几乎 1.0 j_B i1_I h_I u1_E
+凤凰 1.0 f_B eng4_I h_I uang2_E
+凤凰 1.0 f_B eng4_I h_I uang5_E
+凤凰网 1.0 f_B eng4_I h_I uang2_I uang3_E
+出 1.0 ch_B u1_E
+出发 1.0 ch_B u1_I f_I a1_E
+出发点 1.0 ch_B u1_I f_I a1_I d_I ian3_E
+出台 1.0 ch_B u1_I t_I ai2_E
+出库 1.0 ch_B u1_I k_I u4_E
+出来 1.0 ch_B u1_I l_I ai2_E
+出来 1.0 ch_B u1_I l_I ai5_E
+出现 1.0 ch_B u1_I x_I ian4_E
+出生 1.0 ch_B u1_I sh_I eng1_E
+出生证 1.0 ch_B u1_I sh_I eng1_I zh_I eng4_E
+出租屋 1.0 ch_B u1_I z_I u1_I u1_E
+出纳 1.0 ch_B u1_I n_I a4_E
+出纳员 1.0 ch_B u1_I n_I a4_I van2_E
+击毙 1.0 j_B i1_I b_I i4_E
+击败 1.0 j_B i1_I b_I ai4_E
+分为 1.0 f_B en1_I ui2_E
+分别 1.0 f_B en1_I b_I ie2_E
+分店 1.0 f_B en1_I d_I ian4_E
+分支 1.0 f_B en1_I zh_I ix1_E
+分给 1.0 f_B en1_I g_I ei3_E
+分配 1.0 f_B en1_I p_I ei4_E
+刑事拘留 1.0 x_B ing2_I sh_I ix4_I j_I v1_I l_I iu2_E
+列日 1.0 l_B ie4_I r_I iz4_E
+则 1.0 z_B e2_E
+刚 1.0 g_B ang1_E
+刚刚 1.0 g_B ang1_I g_I ang1_E
+刚才 1.0 g_B ang1_I c_I ai2_E
+创 1.0 ch_B uang1_E
+创 1.0 ch_B uang4_E
+创业 1.0 ch_B uang4_I ie4_E
+创业板 1.0 ch_B uang4_I ie4_I b_I an3_E
+创建 1.0 ch_B uang4_I j_I ian4_E
+创新 1.0 ch_B uang4_I x_I in1_E
+创造 1.0 ch_B uang4_I z_I ao4_E
+判断 1.0 p_B an4_I d_I uan4_E
+利好 1.0 l_B i4_I h_I ao3_E
+利息 1.0 l_B i4_I x_I i1_E
+利息 1.0 l_B i4_I x_I i5_E
+利润 1.0 l_B i4_I r_I un4_E
+利润 1.0 l_B i4_I r_I un5_E
+利用 1.0 l_B i4_I iong4_E
+利用 1.0 l_B i4_I iong5_E
+利益 1.0 l_B i4_I i4_E
+利益 1.0 l_B i4_I i5_E
+别 1.0 b_B ie2_E
+别 1.0 b_B ie4_E
+到 1.0 d_B ao4_E
+到位 1.0 d_B ao4_I ui4_E
+到场 1.0 d_B ao4_I ch_I ang3_E
+到底 1.0 d_B ao4_I d_I i3_E
+到达 1.0 d_B ao4_I d_I a2_E
+制作 1.0 zh_B ix4_I z_I uo4_E
+制度 1.0 zh_B ix4_I d_I u4_E
+制度 1.0 zh_B ix4_I d_I u5_E
+制服 1.0 zh_B ix4_I f_I u2_E
+制造 1.0 zh_B ix4_I z_I ao4_E
+刺伤 1.0 c_B iy4_I sh_I ang1_E
+剁 1.0 d_B uo4_E
+削弱 1.0 x_B ve1_I r_I uo4_E
+前 1.0 q_B ian2_E
+前不久 1.0 q_B ian2_I b_I u4_I j_I iu3_E
+前后 1.0 q_B ian2_I h_I ou4_E
+前所未有 1.0 q_B ian2_I s_I uo3_I ui4_I iu3_E
+前期 1.0 q_B ian2_I q_I i1_E
+前来 1.0 q_B ian2_I l_I ai2_E
+剑 1.0 j_B ian4_E
+剥离 1.0 b_B ao1_I l_I i2_E
+剥离 1.0 b_B o1_I l_I i2_E
+剧场 1.0 j_B v4_I ch_I ang3_E
+剽窃 1.0 p_B iao1_I q_I ie4_E
+剽窃 1.0 p_B iao2_I q_I ie4_E
+力度 1.0 l_B i4_I d_I u4_E
+力度 1.0 l_B i4_I d_I u5_E
+劝解 1.0 q_B van4_I j_I ie3_E
+劝说 1.0 q_B van4_I sh_I uo1_E
+办事处 1.0 b_B an4_I sh_I ix4_I ch_I u4_E
+办成 1.0 b_B an4_I ch_I eng2_E
+办法 1.0 b_B an4_I f_I a3_E
+办法 1.0 b_B an4_I f_I a5_E
+功能 1.0 g_B ong1_I n_I eng2_E
+加上 1.0 j_B ia1_I sh_I ang4_E
+加上 1.0 j_B ia1_I sh_I ang5_E
+加入 1.0 j_B ia1_I r_I u4_E
+加大 1.0 j_B ia1_I d_I a4_E
+动 1.0 d_B ong4_E
+动作 1.0 d_B ong4_I z_I uo4_E
+动作 1.0 d_B ong4_I z_I uo5_E
+动力 1.0 d_B ong4_I l_I i4_E
+动手 1.0 d_B ong4_I sh_I ou3_E
+动植物园 1.0 d_B ong4_I zh_I ix2_I u4_I van2_E
+勇气 1.0 iong3_B q_I i4_E
+募 1.0 m_B u4_E
+化 1.0 h_B ua4_E
+化名 1.0 h_B ua4_I m_I ing2_E
+北京 1.0 b_B ei3_I j_I ing1_E
+北京市 1.0 b_B ei3_I j_I ing1_I sh_I ix4_E
+北段 1.0 b_B ei3_I d_I uan4_E
+北湖 1.0 b_B ei3_I h_I u2_E
+北部 1.0 b_B ei3_I b_I u4_E
+医师 1.0 i1_B sh_I ix1_E
+医生 1.0 i1_B sh_I eng1_E
+医药费 1.0 i1_B iao4_I f_I ei4_E
+医院 1.0 i1_B van4_E
+十一 1.0 sh_B ix2_I i1_E
+十一日 1.0 sh_B ix2_I i1_I r_I iz4_E
+十七年 1.0 sh_B ix2_I q_I i1_I n_I ian2_E
+十二月 1.0 sh_B ix2_I er4_I ve4_E
+十二月份 1.0 sh_B ix2_I er4_I ve4_I f_I en4_E
+十五 1.0 sh_B ix2_I u3_E
+十五万 1.0 sh_B ix2_I u3_I uan4_E
+十元 1.0 sh_B ix2_I van2_E
+十六 1.0 sh_B ix2_I l_I iu4_E
+十六日 1.0 sh_B ix2_I l_I iu4_I r_I iz4_E
+十分 1.0 sh_B ix2_I f_I en1_E
+十分钟 1.0 sh_B ix2_I f_I en1_I zh_I ong1_E
+十年 1.0 sh_B ix2_I n_I ian2_E
+十月 1.0 sh_B ix2_I ve4_E
+千元 1.0 q_B ian1_I van2_E
+升温 1.0 sh_B eng1_I un1_E
+半决赛 1.0 b_B an4_I j_I ve2_I s_I ai4_E
+半小时 1.0 b_B an4_I x_I iao3_I sh_I ix2_E
+半数 1.0 b_B an4_I sh_I u4_E
+华威 1.0 h_B ua2_I ui1_E
+华山 1.0 h_B ua4_I sh_I an1_E
+协商 1.0 x_B ie2_I sh_I ang1_E
+卓阳 1.0 zh_B uo1_I iang2_E
+单一 1.0 d_B an1_I i1_E
+单位 1.0 d_B an1_I ui4_E
+单打 1.0 d_B an1_I d_I a3_E
+单纯 1.0 d_B an1_I ch_I un2_E
+卖萌 1.0 m_B ai4_I m_I eng2_E
+南一街 1.0 n_B an2_I i1_I j_I ie1_E
+南口 1.0 n_B an2_I k_I ou3_E
+南桥 1.0 n_B an2_I q_I iao2_E
+南沙 1.0 n_B an2_I sh_I a1_E
+南翔 1.0 n_B an2_I x_I iang2_E
+南部 1.0 n_B an2_I b_I u4_E
+博客 1.0 b_B o2_I k_I e4_E
+博物馆 1.0 b_B o2_I u4_I g_I uan3_E
+卜卦 1.0 b_B u3_I g_I ua4_E
+占地 1.0 zh_B an4_I d_I i4_E
+占款 1.0 zh_B an4_I k_I uan3_E
+占用 1.0 zh_B an4_I iong4_E
+印制 1.0 in4_B zh_I ix4_E
+印度 1.0 in4_B d_I u4_E
+危机感 1.0 ui1_B j_I i1_I g_I an3_E
+危险 1.0 ui1_B x_I ian3_E
+即 1.0 j_B i2_E
+即使 1.0 j_B i2_I sh_I ix3_E
+即将 1.0 j_B i2_I j_I iang1_E
+却 1.0 q_B ve4_E
+却是 1.0 q_B ve4_I sh_I ix4_E
+卷 1.0 j_B van3_E
+卷 1.0 j_B van4_E
+压力 1.0 ia1_B l_I i4_E
+原则 1.0 van2_B z_I e2_E
+原则性 1.0 van2_B z_I e2_I x_I ing4_E
+原味 1.0 van2_B ui4_E
+原因 1.0 van2_B in1_E
+原由 1.0 van2_B iu2_E
+厦门 1.0 x_B ia4_I m_I en2_E
+去 1.0 q_B v4_E
+去年 1.0 q_B v4_I n_I ian2_E
+去年底 1.0 q_B v4_I n_I ian2_I d_I i3_E
+参与 1.0 c_B an1_I v3_E
+参与 1.0 c_B an1_I v4_E
+参加 1.0 c_B an1_I j_I ia1_E
+又 1.0 iu4_S
+及 1.0 j_B i2_E
+及其 1.0 j_B i2_I q_I i2_E
+及时 1.0 j_B i2_I sh_I ix2_E
+双双 1.0 sh_B uang1_I sh_I uang1_E
+双方 1.0 sh_B uang1_I f_I ang1_E
+反 1.0 f_B an3_E
+反射 1.0 f_B an3_I sh_I e4_E
+反应 1.0 f_B an3_I ing3_E
+反应 1.0 f_B an3_I ing4_E
+反映 1.0 f_B an3_I ing4_E
+发声 1.0 f_B a1_I sh_I eng1_E
+发展 1.0 f_B a1_I zh_I an3_E
+发布 1.0 f_B a1_I b_I u4_E
+发布会 1.0 f_B a1_I b_I u4_I h_I ui4_E
+发挥 1.0 f_B a1_I h_I ui1_E
+发放 1.0 f_B a1_I f_I ang4_E
+发来 1.0 f_B a1_I l_I ai2_E
+发现 1.0 f_B a1_I x_I ian4_E
+发生 1.0 f_B a1_I sh_I eng1_E
+发生变化 1.0 f_B a1_I sh_I eng1_I b_I ian4_I h_I ua4_E
+发福 1.0 f_B a1_I f_I u2_E
+发行 1.0 f_B a1_I x_I ing2_E
+发行价 1.0 f_B a1_I x_I ing2_I j_I ia4_E
+发言人 1.0 f_B a1_I ian2_I r_I en2_E
+发达 1.0 f_B a1_I d_I a2_E
+取代 1.0 q_B v3_I d_I ai4_E
+取消 1.0 q_B v3_I x_I iao1_E
+取胜 1.0 q_B v3_I sh_I eng1_E
+取胜 1.0 q_B v3_I sh_I eng4_E
+受伤 1.0 sh_B ou4_I sh_I ang1_E
+受到 1.0 sh_B ou4_I d_I ao4_E
+受到 1.0 sh_B ou4_I d_I ao5_E
+受益权 1.0 sh_B ou4_I i4_I q_I van2_E
+变温 1.0 b_B ian4_I un1_E
+变相 1.0 b_B ian4_I x_I iang4_E
+古城 1.0 g_B u3_I ch_I eng2_E
+另 1.0 l_B ing4_E
+另外 1.0 l_B ing4_I uai4_E
+只 1.0 zh_B ix1_E
+只 1.0 zh_B ix3_E
+只会 1.0 zh_B ix3_I h_I ui4_E
+只是 1.0 zh_B ix3_I sh_I ix4_E
+只有 1.0 zh_B ix2_I iu3_E
+只有 1.0 zh_B ix3_I iu3_E
+只能 1.0 zh_B ix3_I n_I eng2_E
+只要 1.0 zh_B ix3_I iao4_E
+叫 1.0 j_B iao4_E
+叫做 1.0 j_B iao4_I z_I uo4_E
+叫做 1.0 j_B iao4_I z_I uo5_E
+召开 1.0 zh_B ao1_I k_I ai1_E
+召开 1.0 zh_B ao4_I k_I ai1_E
+可 1.0 k_B e3_E
+可以 1.0 k_B e2_I i3_E
+可以 1.0 k_B e3_I i3_E
+可能 1.0 k_B e3_I n_I eng2_E
+可能性 1.0 k_B e3_I n_I eng2_I x_I ing4_E
+台 1.0 t_B ai1_E
+台 1.0 t_B ai2_E
+台湾 1.0 t_B ai2_I uan1_E
+史上 1.0 sh_B ix3_I sh_I ang3_E
+史上 1.0 sh_B ix3_I sh_I ang4_E
+号召力 1.0 h_B ao4_I zh_I ao4_I l_I i4_E
+司机 1.0 s_B iy1_I j_I i1_E
+各 1.0 g_B e4_E
+各个 1.0 g_B e4_I g_I e4_E
+各个 1.0 g_B e4_I g_I e5_E
+各大 1.0 g_B e4_I d_I a4_E
+各方 1.0 g_B e4_I f_I ang1_E
+各种 1.0 g_B e4_I zh_I ong3_E
+合作 1.0 h_B e2_I z_I uo4_E
+合影 1.0 h_B e2_I ing3_E
+合法权益 1.0 h_B e2_I f_I a3_I q_I van2_I i4_E
+合理 1.0 h_B e2_I l_I i3_E
+合规 1.0 h_B e2_I g_I ui1_E
+吉利 1.0 j_B i2_I l_I i4_E
+吊销 1.0 d_B iao4_I x_I iao1_E
+同 1.0 t_B ong2_E
+同时 1.0 t_B ong2_I sh_I ix2_E
+同步 1.0 t_B ong2_I b_I u4_E
+名 1.0 m_B ing2_E
+名为 1.0 m_B ing2_I ui2_E
+名义 1.0 m_B ing2_I i4_E
+名将 1.0 m_B ing2_I j_I iang4_E
+名店 1.0 m_B ing2_I d_I ian4_E
+后 1.0 h_B ou4_E
+后期 1.0 h_B ou4_I q_I i1_E
+后者 1.0 h_B ou4_I zh_I e3_E
+后面 1.0 h_B ou4_I m_I ian4_E
+后面 1.0 h_B ou4_I m_I ian5_E
+向 1.0 x_B iang4_E
+向下 1.0 x_B iang4_I x_I ia4_E
+向来 1.0 x_B iang4_I l_I ai2_E
+吗 1.0 m_B a2_E
+吗 1.0 m_B a3_E
+吗 1.0 m_B a5_E
+听取 1.0 t_B ing1_I q_I v3_E
+启动 1.0 q_B i3_I d_I ong4_E
+吵架 1.0 ch_B ao3_I j_I ia4_E
+吸引 1.0 x_B i1_I in3_E
+呃 1.0 e4_S
+呈现 1.0 ch_B eng2_I x_I ian4_E
+呈现出 1.0 ch_B eng2_I x_I ian4_I ch_I u1_E
+员 1.0 van2_S
+员工 1.0 van2_B g_I ong1_E
+呢 1.0 n_B e5_E
+呢 1.0 n_B i2_E
+周围 1.0 zh_B ou1_I ui2_E
+周杰伦 1.0 zh_B ou1_I j_I ie2_I l_I un2_E
+周董 1.0 zh_B ou1_I d_I ong3_E
+味道 1.0 ui4_B d_I ao4_E
+味道 1.0 ui4_B d_I ao5_E
+和 1.0 h_B e2_E
+和 1.0 h_B e4_E
+和 1.0 h_B u2_E
+和 1.0 h_B uo2_E
+和 1.0 h_B uo4_E
+咖啡 1.0 k_B a1_I f_I ei1_E
+咬伤 1.0 iao3_B sh_I ang1_E
+品牌 1.0 p_B in3_I p_I ai2_E
+哈根达斯 1.0 h_B a1_I g_I en1_I d_I a2_I s_I iy1_E
+哪 1.0 n_B a3_E
+哪 1.0 n_B a5_E
+哪 1.0 n_B e2_E
+哪 1.0 n_B ei3_E
+哪些 1.0 n_B a3_I x_I ie1_E
+哪些 1.0 n_B ei3_I x_I ie1_E
+哪儿 1.0 n_B a3_I er1_E
+哪儿 1.0 n_B a3_I er2_E
+售价 1.0 sh_B ou4_I j_I ia4_E
+售后 1.0 sh_B ou4_I h_I ou4_E
+唱 1.0 ch_B ang4_E
+商厦 1.0 sh_B ang1_I sh_I a4_E
+商品房 1.0 sh_B ang1_I p_I in3_I f_I ang2_E
+商城 1.0 sh_B ang1_I ch_I eng2_E
+商店 1.0 sh_B ang1_I d_I ian4_E
+商标 1.0 sh_B ang1_I b_I iao1_E
+喊 1.0 h_B an3_E
+喜欢 1.0 x_B i3_I h_I uan1_E
+喜爱 1.0 x_B i3_I ai4_E
+嗣后 1.0 s_B iy4_I h_I ou4_E
+嗯 1.0 en1_S
+嗯 1.0 en2_S
+嗯 1.0 en4_S
+嗯 1.0 en5_S
+嗯 1.0 eng1_S
+嗯 1.0 eng2_S
+嗯 1.0 eng3_S
+嗯 1.0 eng4_S
+嘉定 1.0 j_B ia1_I d_I ing4_E
+器官 1.0 q_B i4_I g_I uan1_E
+噱头 1.0 x_B ve2_I t_I ou2_E
+噱头 1.0 x_B ve2_I t_I ou5_E
+四 1.0 s_B iy4_E
+四个 1.0 s_B iy4_I g_I e3_E
+四个 1.0 s_B iy4_I g_I e4_E
+四千 1.0 s_B iy4_I q_I ian1_E
+四千万 1.0 s_B iy4_I q_I ian1_I uan4_E
+四家 1.0 s_B iy4_I j_I ia1_E
+四川 1.0 s_B iy4_I ch_I uan1_E
+四年 1.0 s_B iy4_I n_I ian2_E
+四成 1.0 s_B iy4_I ch_I eng2_E
+四月 1.0 s_B iy4_I ve4_E
+四段 1.0 s_B iy4_I d_I uan4_E
+四环 1.0 s_B iy4_I h_I uan2_E
+四百 1.0 s_B iy4_I b_I ai3_E
+四线 1.0 s_B iy4_I x_I ian4_E
+回到 1.0 h_B ui2_I d_I ao4_E
+回到 1.0 h_B ui2_I d_I ao5_E
+回暖 1.0 h_B ui2_I n_I uan3_E
+回球 1.0 h_B ui2_I q_I iu2_E
+回答 1.0 h_B ui2_I d_I a2_E
+因 1.0 in1_S
+因为 1.0 in1_B ui2_E
+因为 1.0 in1_B ui4_E
+因此 1.0 in1_B c_I iy3_E
+因素 1.0 in1_B s_I u4_E
+团队 1.0 t_B uan2_I d_I ui4_E
+囧 1.0 j_B iong3_E
+园 1.0 van2_S
+园区 1.0 van2_B q_I v1_E
+困扰 1.0 k_B un4_I r_I ao3_E
+围绕 1.0 ui2_B r_I ao4_E
+国企 1.0 g_B uo2_I q_I i3_E
+国内 1.0 g_B uo2_I n_I ei4_E
+国务院 1.0 g_B uo2_I u4_I van4_E
+国家 1.0 g_B uo2_I j_I ia1_E
+国民 1.0 g_B uo2_I m_I in2_E
+国球 1.0 g_B uo2_I q_I iu2_E
+国立 1.0 g_B uo2_I l_I i4_E
+国色 1.0 g_B uo2_I s_I e4_E
+国防 1.0 g_B uo2_I f_I ang2_E
+国际 1.0 g_B uo2_I j_I i4_E
+国际乒联 1.0 g_B uo2_I j_I i4_I p_I ing1_I l_I ian2_E
+国际奥委会 1.0 g_B uo2_I j_I i4_I ao4_I ui3_I h_I ui4_E
+图 1.0 t_B u2_E
+图纸 1.0 t_B u2_I zh_I ix3_E
+土地 1.0 t_B u3_I d_I i4_E
+在 1.0 z_B ai4_E
+在于 1.0 z_B ai4_I v2_E
+在家 1.0 z_B ai4_I j_I ia1_E
+在意 1.0 z_B ai4_I i4_E
+地 1.0 d_B e5_E
+地 1.0 d_B i4_E
+地产 1.0 d_B i4_I ch_I an3_E
+地区 1.0 d_B i4_I q_I v1_E
+地方 1.0 d_B i4_I f_I ang1_E
+地方 1.0 d_B i4_I f_I ang5_E
+地球 1.0 d_B i4_I q_I iu2_E
+地盘 1.0 d_B i4_I p_I an2_E
+场外 1.0 ch_B ang3_I uai4_E
+均 1.0 j_B vn1_E
+坐月子 1.0 z_B uo4_I ve4_I z_I iy5_E
+垃圾箱 1.0 l_B a1_I j_I i1_I x_I iang1_E
+城 1.0 ch_B eng2_E
+城区 1.0 ch_B eng2_I q_I v1_E
+城堡 1.0 ch_B eng2_I b_I ao3_E
+城市 1.0 ch_B eng2_I sh_I ix4_E
+城市化 1.0 ch_B eng2_I sh_I ix4_I h_I ua4_E
+城市道路 1.0 ch_B eng2_I sh_I ix4_I d_I ao4_I l_I u4_E
+城隍庙 1.0 ch_B eng2_I h_I uang2_I m_I iao4_E
+培养 1.0 p_B ei2_I iang3_E
+基于 1.0 j_B i1_I v2_E
+基本 1.0 j_B i1_I b_I en3_E
+基本上 1.0 j_B i1_I b_I en3_I sh_I ang3_E
+基本上 1.0 j_B i1_I b_I en3_I sh_I ang4_E
+基本上 1.0 j_B i1_I b_I en3_I sh_I ang5_E
+基础 1.0 j_B i1_I ch_I u3_E
+基础设施 1.0 j_B i1_I ch_I u3_I sh_I e4_I sh_I ix1_E
+基金 1.0 j_B i1_I j_I in1_E
+基金法 1.0 j_B i1_I j_I in1_I f_I a3_E
+堆积 1.0 d_B ui1_I j_I i1_E
+堵 1.0 d_B u3_E
+塔斯 1.0 t_B a3_I s_I iy1_E
+增加 1.0 z_B eng1_I j_I ia1_E
+增多 1.0 z_B eng1_I d_I uo1_E
+增量 1.0 z_B eng1_I l_I iang4_E
+增长 1.0 z_B eng1_I zh_I ang3_E
+墨西哥 1.0 m_B o4_I x_I i1_I g_I e1_E
+墨镜 1.0 m_B o4_I j_I ing4_E
+声 1.0 sh_B eng1_E
+声称 1.0 sh_B eng1_I ch_I eng1_E
+处于 1.0 ch_B u3_I v2_E
+处于 1.0 ch_B u4_I v2_E
+处理 1.0 ch_B u2_I l_I i3_E
+处理 1.0 ch_B u3_I l_I i3_E
+处理 1.0 ch_B u4_I l_I i3_E
+处理器 1.0 ch_B u2_I l_I i3_I q_I i4_E
+处理器 1.0 ch_B u3_I l_I i3_I q_I i4_E
+复杂 1.0 f_B u4_I z_I a2_E
+复苏 1.0 f_B u4_I s_I u1_E
+夏朵 1.0 x_B ia4_I d_I uo3_E
+外出 1.0 uai4_B ch_I u1_E
+外国人 1.0 uai4_B g_I uo2_I r_I en2_E
+外地 1.0 uai4_B d_I i4_E
+外地人 1.0 uai4_B d_I i4_I r_I en2_E
+外形 1.0 uai4_B x_I ing2_E
+外汇 1.0 uai4_B h_I ui4_E
+外滩 1.0 uai4_B t_I an1_E
+外界 1.0 uai4_B j_I ie4_E
+外部 1.0 uai4_B b_I u4_E
+外面 1.0 uai4_B m_I ian4_E
+外面 1.0 uai4_B m_I ian5_E
+多 1.0 d_B uo1_E
+多个 1.0 d_B uo1_I g_I e4_E
+多位 1.0 d_B uo1_I ui4_E
+多变 1.0 d_B uo1_I b_I ian4_E
+多名 1.0 d_B uo1_I m_I ing2_E
+多家 1.0 d_B uo1_I j_I ia1_E
+多年 1.0 d_B uo1_I n_I ian2_E
+多渠道 1.0 d_B uo1_I q_I v2_I d_I ao4_E
+多种 1.0 d_B uo1_I zh_I ong3_E
+多项 1.0 d_B uo1_I x_I iang4_E
+夜市 1.0 ie4_B sh_I ix4_E
+夜空 1.0 ie4_B k_I ong1_E
+够不上 1.0 g_B ou4_I b_I u2_I sh_I ang4_E
+大 1.0 d_B a4_E
+大 1.0 d_B ai4_E
+大于 1.0 d_B a4_I v2_E
+大力 1.0 d_B a4_I l_I i4_E
+大厦 1.0 d_B a4_I sh_I a4_E
+大名鼎鼎 1.0 d_B a4_I m_I ing2_I d_I ing2_I d_I ing3_E
+大名鼎鼎 1.0 d_B a4_I m_I ing2_I d_I ing3_I d_I ing3_E
+大型 1.0 d_B a4_I x_I ing2_E
+大城市 1.0 d_B a4_I ch_I eng2_I sh_I ix4_E
+大家 1.0 d_B a4_I j_I ia1_E
+大容量 1.0 d_B a4_I r_I ong2_I l_I iang4_E
+大小 1.0 d_B a4_I x_I iao3_E
+大成 1.0 d_B a4_I ch_I eng2_E
+大户 1.0 d_B a4_I h_I u4_E
+大楼 1.0 d_B a4_I l_I ou2_E
+大片 1.0 d_B a4_I p_I ian4_E
+大理 1.0 d_B a4_I l_I i3_E
+大篷车 1.0 d_B a4_I p_I eng2_I ch_I e1_E
+大约 1.0 d_B a4_I ve1_E
+大街 1.0 d_B a4_I j_I ie1_E
+大道 1.0 d_B a4_I d_I ao4_E
+大酒楼 1.0 d_B a4_I j_I iu3_I l_I ou2_E
+大量 1.0 d_B a4_I l_I iang4_E
+天山 1.0 t_B ian1_I sh_I an1_E
+天津 1.0 t_B ian1_I j_I in1_E
+天王 1.0 t_B ian1_I uang2_E
+天空 1.0 t_B ian1_I k_I ong1_E
+太 1.0 t_B ai4_E
+太田 1.0 t_B ai4_I t_I ian2_E
+太阳 1.0 t_B ai4_I iang2_E
+太阳 1.0 t_B ai4_I iang5_E
+失去 1.0 sh_B ix1_I q_I v4_E
+失态 1.0 sh_B ix1_I t_I ai4_E
+失踪 1.0 sh_B ix1_I z_I ong1_E
+奔驰 1.0 b_B en1_I ch_I ix2_E
+奖杯 1.0 j_B iang3_I b_I ei1_E
+套 1.0 t_B ao4_E
+套房 1.0 t_B ao4_I f_I ang2_E
+套数 1.0 t_B ao4_I sh_I u4_E
+套数 1.0 t_B ao4_I sh_I u5_E
+奥 1.0 ao4_S
+奥斯卡 1.0 ao4_B s_I iy1_I k_I a3_E
+奥组委 1.0 ao4_B z_I u2_I ui3_E
+奥组委 1.0 ao4_B z_I u3_I ui3_E
+奥运 1.0 ao4_B vn4_E
+女儿 1.0 n_B v3_I er1_E
+女儿 1.0 n_B v3_I er2_E
+女子 1.0 n_B v2_I z_I iy3_E
+女子 1.0 n_B v3_I z_I iy3_E
+女孩 1.0 n_B v3_I h_I ai2_E
+女童 1.0 n_B v3_I t_I ong2_E
+奶奶 1.0 n_B ai3_I n_I ai5_E
+她 1.0 t_B a1_E
+好 1.0 h_B ao3_E
+好 1.0 h_B ao4_E
+好像 1.0 h_B ao3_I x_I iang4_E
+好友 1.0 h_B ao2_I iu3_E
+好友 1.0 h_B ao3_I iu3_E
+好吃 1.0 h_B ao3_I ch_I ix1_E
+好吃 1.0 h_B ao4_I ch_I ix1_E
+好莱坞 1.0 h_B ao3_I l_I ai2_I u4_E
+如今 1.0 r_B u2_I j_I in1_E
+如何 1.0 r_B u2_I h_I e2_E
+如同 1.0 r_B u2_I t_I ong2_E
+如愿 1.0 r_B u2_I van4_E
+如果 1.0 r_B u2_I g_I uo3_E
+如此 1.0 r_B u2_I c_I iy3_E
+妈妈 1.0 m_B a1_I m_I a5_E
+妻子 1.0 q_B i1_I z_I iy3_E
+妻子 1.0 q_B i1_I z_I iy5_E
+姐妹 1.0 j_B ie3_I m_I ei4_E
+威慑 1.0 ui1_B sh_I e4_E
+威胁 1.0 ui1_B x_I ie2_E
+娇小 1.0 j_B iao1_I x_I iao3_E
+娱乐 1.0 v2_B l_I e4_E
+媒体 1.0 m_B ei2_I t_I i3_E
+媒体报道 1.0 m_B ei2_I t_I i3_I b_I ao4_I d_I ao4_E
+嫌疑 1.0 x_B ian2_I i2_E
+嫌疑人 1.0 x_B ian2_I i2_I r_I en2_E
+子公司 1.0 z_B iy3_I g_I ong1_I s_I iy1_E
+孔乙己 1.0 k_B ong3_I i2_I j_I i3_E
+孔乙己 1.0 k_B ong3_I i3_I j_I i3_E
+孔亮 1.0 k_B ong3_I l_I iang4_E
+孔家 1.0 k_B ong3_I j_I ia1_E
+存储器 1.0 c_B un2_I ch_I u3_I q_I i4_E
+存在 1.0 c_B un2_I z_I ai4_E
+存量 1.0 c_B un2_I l_I iang4_E
+孙中山 1.0 s_B un1_I zh_I ong1_I sh_I an1_E
+学校 1.0 x_B ve2_I x_I iao4_E
+孩子 1.0 h_B ai2_I z_I iy5_E
+孵化期 1.0 f_B u1_I h_I ua4_I q_I i1_E
+它 1.0 t_B a1_E
+它们 1.0 t_B a1_I m_I en5_E
+守护人 1.0 sh_B ou3_I h_I u4_I r_I en2_E
+守护者 1.0 sh_B ou3_I h_I u4_I zh_I e3_E
+安全 1.0 an1_B q_I van2_E
+安宁 1.0 an1_B n_I ing2_E
+完全 1.0 uan2_B q_I van2_E
+完善 1.0 uan2_B sh_I an4_E
+完备 1.0 uan2_B b_I ei4_E
+完美 1.0 uan2_B m_I ei3_E
+完胜 1.0 uan2_B sh_I eng4_E
+宏观调控 1.0 h_B ong2_I g_I uan1_I t_I iao2_I k_I ong4_E
+官方 1.0 g_B uan1_I f_I ang1_E
+定 1.0 d_B ing4_E
+定位仪 1.0 d_B ing4_I ui4_I i2_E
+定制 1.0 d_B ing4_I zh_I ix4_E
+实力 1.0 sh_B ix2_I l_I i4_E
+实施 1.0 sh_B ix2_I sh_I ix1_E
+实现 1.0 sh_B ix2_I x_I ian4_E
+实行 1.0 sh_B ix2_I x_I ing2_E
+实际 1.0 sh_B ix2_I j_I i4_E
+审批 1.0 sh_B en3_I p_I i1_E
+客 1.0 k_B e4_E
+客户 1.0 k_B e4_I h_I u4_E
+宣布 1.0 x_B van1_I b_I u4_E
+宣称 1.0 x_B van1_I ch_I eng1_E
+害怕 1.0 h_B ai4_I p_I a4_E
+家乐福 1.0 j_B ia1_I l_I e4_I f_I u2_E
+家人 1.0 j_B ia1_I r_I en2_E
+家居 1.0 j_B ia1_I j_I v1_E
+家属 1.0 j_B ia1_I sh_I u3_E
+家庭 1.0 j_B ia1_I t_I ing2_E
+容易 1.0 r_B ong2_I i3_E
+容易 1.0 r_B ong2_I i4_E
+宽 1.0 k_B uan1_E
+宽松 1.0 k_B uan1_I s_I ong1_E
+密不可分 1.0 m_B i4_I b_I u2_I k_I e3_I f_I en1_E
+密不可分 1.0 m_B i4_I b_I u4_I k_I e3_I f_I en1_E
+密切 1.0 m_B i4_I q_I ie4_E
+寒暑假 1.0 h_B an2_I sh_I u3_I j_I ia4_E
+寮 1.0 l_B iao2_E
+对 1.0 d_B ui4_E
+对于 1.0 d_B ui4_I v2_E
+对冲 1.0 d_B ui4_I ch_I ong1_E
+对待 1.0 d_B ui4_I d_I ai4_E
+对手 1.0 d_B ui4_I sh_I ou3_E
+对抗 1.0 d_B ui4_I k_I ang4_E
+对此 1.0 d_B ui4_I c_I iy3_E
+对称 1.0 d_B ui4_I ch_I en4_E
+对象 1.0 d_B ui4_I x_I iang4_E
+寺 1.0 s_B iy4_E
+导游 1.0 d_B ao3_I iu2_E
+导游证 1.0 d_B ao3_I iu2_I zh_I eng4_E
+导致 1.0 d_B ao3_I zh_I ix4_E
+封杀 1.0 f_B eng1_I sh_I a1_E
+将 1.0 j_B iang1_E
+将 1.0 j_B iang4_E
+将 1.0 q_B iang1_E
+将会 1.0 j_B iang1_I h_I ui4_E
+小 1.0 x_B iao3_E
+小伙 1.0 x_B iao2_I h_I uo3_E
+小伙 1.0 x_B iao3_I h_I uo3_E
+小勇 1.0 x_B iao2_I iong3_E
+小勇 1.0 x_B iao3_I iong3_E
+小区 1.0 x_B iao3_I q_I v1_E
+小型 1.0 x_B iao3_I x_I ing2_E
+小孩 1.0 x_B iao3_I h_I ai2_E
+小拇指 1.0 x_B iao3_I m_I u2_I zh_I ix3_E
+小拇指 1.0 x_B iao3_I m_I u3_I zh_I ix3_E
+小时 1.0 x_B iao3_I sh_I ix2_E
+小贩 1.0 x_B iao3_I f_I an4_E
+小轿车 1.0 x_B iao3_I j_I iao4_I ch_I e1_E
+小鸡 1.0 x_B iao3_I j_I i1_E
+少有 1.0 sh_B ao2_I iu3_E
+少有 1.0 sh_B ao3_I iu3_E
+尖刀 1.0 j_B ian1_I d_I ao1_E
+尤其 1.0 iu2_B q_I i2_E
+就 1.0 j_B iu4_E
+就是 1.0 j_B iu4_I sh_I ix3_E
+就是 1.0 j_B iu4_I sh_I ix4_E
+就要 1.0 j_B iu4_I iao4_E
+尸体 1.0 sh_B ix1_I t_I i3_E
+尽快 1.0 j_B in3_I k_I uai4_E
+尽快 1.0 j_B in4_I k_I uai4_E
+局部地区 1.0 j_B v2_I b_I u4_I d_I i4_I q_I v1_E
+局面 1.0 j_B v2_I m_I ian4_E
+居民 1.0 j_B v1_I m_I in2_E
+屏幕 1.0 p_B ing2_I m_I u4_E
+展示 1.0 zh_B an3_I sh_I ix4_E
+屡 1.0 l_B v3_E
+履职 1.0 l_B v3_I zh_I ix2_E
+山里红 1.0 sh_B an1_I l_I i5_I h_I ong2_E
+崇明岛 1.0 ch_B ong2_I m_I ing2_I d_I ao3_E
+巡航 1.0 x_B vn2_I h_I ang2_E
+工业 1.0 g_B ong1_I ie4_E
+工人 1.0 g_B ong1_I r_I en2_E
+工作 1.0 g_B ong1_I z_I uo4_E
+工作日 1.0 g_B ong1_I z_I uo4_I r_I iz4_E
+工作站 1.0 g_B ong1_I z_I uo4_I zh_I an4_E
+工作者 1.0 g_B ong1_I z_I uo4_I zh_I e3_E
+工厂 1.0 g_B ong1_I ch_I ang3_E
+工艺 1.0 g_B ong1_I i4_E
+左 1.0 z_B uo3_E
+左右 1.0 z_B uo3_I iu4_E
+左小蕾 1.0 z_B uo3_I x_I iao2_I l_I ei3_E
+左小蕾 1.0 z_B uo3_I x_I iao3_I l_I ei3_E
+巨大 1.0 j_B v4_I d_I a4_E
+巩固 1.0 g_B ong3_I g_I u4_E
+差别化 1.0 ch_B a1_I b_I ie2_I h_I ua4_E
+差异 1.0 ch_B a1_I i4_E
+已 1.0 i3_S
+已有 1.0 i2_B iu3_E
+已经 1.0 i3_B j_I ing1_E
+已获 1.0 i3_B h_I uo4_E
+巴士 1.0 b_B a1_I sh_I ix4_E
+市 1.0 sh_B ix4_E
+市值 1.0 sh_B ix4_I zh_I ix2_E
+市场 1.0 sh_B ix4_I ch_I ang3_E
+市场份额 1.0 sh_B ix4_I ch_I ang3_I f_I en4_I e2_E
+市场部 1.0 sh_B ix4_I ch_I ang3_I b_I u4_E
+市场需求 1.0 sh_B ix4_I ch_I ang3_I x_I v1_I q_I iu2_E
+市政府 1.0 sh_B ix4_I zh_I eng4_I f_I u3_E
+市民 1.0 sh_B ix4_I m_I in2_E
+市盈率 1.0 sh_B ix4_I ing2_I l_I v4_E
+市长 1.0 sh_B ix4_I zh_I ang3_E
+布局 1.0 b_B u4_I j_I v2_E
+希望 1.0 x_B i1_I uang4_E
+带 1.0 d_B ai4_E
+带动 1.0 d_B ai4_I d_I ong4_E
+带来 1.0 d_B ai4_I l_I ai2_E
+带来 1.0 d_B ai4_I l_I ai3_E
+席卷 1.0 x_B i2_I j_I van3_E
+席卷 1.0 x_B i2_I j_I van4_E
+帮 1.0 b_B ang1_E
+帽子 1.0 m_B ao4_I z_I iy5_E
+干 1.0 g_B an1_E
+干 1.0 g_B an4_E
+干 1.0 q_B ian2_E
+平台 1.0 p_B ing2_I t_I ai2_E
+平时 1.0 p_B ing2_I sh_I ix2_E
+平米 1.0 p_B ing2_I m_I i3_E
+年内 1.0 n_B ian2_I n_I ei4_E
+年头 1.0 n_B ian2_I t_I ou2_E
+年报 1.0 n_B ian2_I b_I ao4_E
+年轻 1.0 n_B ian2_I q_I ing1_E
+年龄段 1.0 n_B ian2_I l_I ing2_I d_I uan4_E
+并 1.0 b_B ing1_E
+并 1.0 b_B ing4_E
+并且 1.0 b_B ing4_I q_I ie3_E
+并未 1.0 b_B ing4_I ui4_E
+并非 1.0 b_B ing4_I f_I ei1_E
+幸福 1.0 x_B ing4_I f_I u2_E
+幸运 1.0 x_B ing4_I vn4_E
+幸运 1.0 x_B ing4_I vn5_E
+幺 1.0 iao1_S
+广场 1.0 g_B uang2_I ch_I ang3_E
+广场 1.0 g_B uang3_I ch_I ang3_E
+广州 1.0 g_B uang3_I zh_I ou1_E
+应 1.0 ing1_S
+应 1.0 ing4_S
+应从 1.0 ing1_B c_I ong2_E
+应对 1.0 ing4_B d_I ui4_E
+应用 1.0 ing4_B iong4_E
+应该 1.0 ing1_B g_I ai1_E
+底线 1.0 d_B i3_I x_I ian4_E
+店 1.0 d_B ian4_E
+店子 1.0 d_B ian4_I z_I iy5_E
+度 1.0 d_B u4_E
+度 1.0 d_B uo2_E
+康斯坦丁 1.0 k_B ang1_I s_I iy1_I t_I an3_I d_I ing1_E
+康熙 1.0 k_B ang1_I x_I i1_E
+延长 1.0 ian2_B ch_I ang2_E
+建成 1.0 j_B ian4_I ch_I eng2_E
+建立 1.0 j_B ian4_I l_I i4_E
+建议 1.0 j_B ian4_I i4_E
+建设 1.0 j_B ian4_I sh_I e4_E
+开发 1.0 k_B ai1_I f_I a1_E
+开发商 1.0 k_B ai1_I f_I a1_I sh_I ang1_E
+开园 1.0 k_B ai1_I van2_E
+开始 1.0 k_B ai1_I sh_I ix3_E
+开展 1.0 k_B ai1_I zh_I an3_E
+开幕 1.0 k_B ai1_I m_I u4_E
+开盘 1.0 k_B ai1_I p_I an2_E
+弊端 1.0 b_B i4_I d_I uan1_E
+式 1.0 sh_B ix4_E
+引来 1.0 in3_B l_I ai2_E
+引爆 1.0 in3_B b_I ao4_E
+弗雷 1.0 f_B u2_I l_I ei2_E
+张伟 1.0 zh_B ang1_I ui3_E
+张女士 1.0 zh_B ang1_I n_I v3_I sh_I ix4_E
+弥补 1.0 m_B i2_I b_I u3_E
+强烈 1.0 q_B iang2_I l_I ie4_E
+强行 1.0 q_B iang2_I x_I ing2_E
+强调 1.0 q_B iang2_I d_I iao4_E
+当 1.0 d_B ang1_E
+当 1.0 d_B ang4_E
+当中 1.0 d_B ang1_I zh_I ong1_E
+当事人 1.0 d_B ang1_I sh_I ix4_I r_I en2_E
+当做 1.0 d_B ang4_I z_I uo4_E
+当前 1.0 d_B ang1_I q_I ian2_E
+当地 1.0 d_B ang1_I d_I i4_E
+当场 1.0 d_B ang1_I ch_I ang3_E
+当天 1.0 d_B ang1_I t_I ian1_E
+当天 1.0 d_B ang4_I t_I ian1_E
+当时 1.0 d_B ang1_I sh_I ix2_E
+形式 1.0 x_B ing2_I sh_I ix4_E
+形成 1.0 x_B ing2_I ch_I eng2_E
+形象 1.0 x_B ing2_I x_I iang4_E
+影响 1.0 ing2_B x_I iang3_E
+影响 1.0 ing3_B x_I iang3_E
+影响力 1.0 ing2_B x_I iang3_I l_I i4_E
+影响力 1.0 ing3_B x_I iang3_I l_I i4_E
+影帝 1.0 ing3_B d_I i4_E
+影片 1.0 ing3_B p_I ian1_E
+影片 1.0 ing3_B p_I ian4_E
+彻底 1.0 ch_B e4_I d_I i3_E
+征信 1.0 zh_B eng1_I x_I in4_E
+征管 1.0 zh_B eng1_I g_I uan3_E
+征选 1.0 zh_B eng1_I x_I van3_E
+很 1.0 h_B en3_E
+很多 1.0 h_B en3_I d_I uo1_E
+很强 1.0 h_B en3_I q_I iang2_E
+很快 1.0 h_B en3_I k_I uai4_E
+得 1.0 d_B e2_E
+得 1.0 d_B e5_E
+得 1.0 d_B ei3_E
+得不偿失 1.0 d_B e2_I b_I u4_I ch_I ang2_I sh_I ix1_E
+得到 1.0 d_B e2_I d_I ao4_E
+得到 1.0 d_B e2_I d_I ao5_E
+微博 1.0 ui1_B b_I o2_E
+微小 1.0 ui1_B x_I iao3_E
+德国 1.0 d_B e2_I g_I uo2_E
+心 1.0 x_B in1_E
+心情 1.0 x_B in1_I q_I ing2_E
+心脏 1.0 x_B in1_I z_I ang4_E
+必将 1.0 b_B i4_I j_I iang1_E
+必要 1.0 b_B i4_I iao4_E
+必要性 1.0 b_B i4_I iao4_I x_I ing4_E
+必须 1.0 b_B i4_I x_I v1_E
+忘记 1.0 uang4_B j_I i4_E
+忠心耿耿 1.0 zh_B ong1_I x_I in1_I g_I eng2_I g_I eng3_E
+忠心耿耿 1.0 zh_B ong1_I x_I in1_I g_I eng3_I g_I eng3_E
+快乐 1.0 k_B uai4_I l_I e4_E
+快乐 1.0 k_B uai4_I l_I e5_E
+快讯 1.0 k_B uai4_I x_I vn4_E
+快速 1.0 k_B uai4_I s_I u4_E
+怀 1.0 h_B uai2_E
+怀中 1.0 h_B uai2_I zh_I ong1_E
+态势 1.0 t_B ai4_I sh_I ix4_E
+态度 1.0 t_B ai4_I d_I u5_E
+怎么 1.0 z_B en3_I m_I e5_E
+怎么 1.0 z_B en3_I m_I o2_E
+怕 1.0 p_B a4_E
+思考 1.0 s_B iy1_I k_I ao3_E
+思路 1.0 s_B iy1_I l_I u4_E
+急剧 1.0 j_B i2_I j_I v4_E
+性能 1.0 x_B ing4_I n_I eng2_E
+总体 1.0 z_B ong2_I t_I i3_E
+总体 1.0 z_B ong3_I t_I i3_E
+总共 1.0 z_B ong3_I g_I ong4_E
+总裁 1.0 z_B ong3_I c_I ai2_E
+恋人 1.0 l_B ian4_I r_I en2_E
+恋人 1.0 l_B ian4_I r_I en5_E
+恒大 1.0 h_B eng2_I d_I a4_E
+恢复 1.0 h_B ui1_I f_I u4_E
+恢复 1.0 h_B ui1_I f_I u5_E
+您 1.0 n_B in2_E
+悼念 1.0 d_B ao4_I n_I ian4_E
+情侣 1.0 q_B ing2_I l_I v3_E
+情况 1.0 q_B ing2_I k_I uang4_E
+情感 1.0 q_B ing2_I g_I an3_E
+情歌 1.0 q_B ing2_I g_I e1_E
+惨死 1.0 c_B an2_I s_I iy3_E
+惨死 1.0 c_B an3_I s_I iy3_E
+想 1.0 x_B iang3_E
+想要 1.0 x_B iang3_I iao4_E
+惹 1.0 r_B e3_E
+意在 1.0 i4_B z_I ai4_E
+意见 1.0 i4_B j_I ian3_E
+意见 1.0 i4_B j_I ian4_E
+感叹 1.0 g_B an3_I t_I an4_E
+成为 1.0 ch_B eng2_I ui2_E
+成交 1.0 ch_B eng2_I j_I iao1_E
+成功 1.0 ch_B eng2_I g_I ong1_E
+成果 1.0 ch_B eng2_I g_I uo3_E
+成立 1.0 ch_B eng2_I l_I i4_E
+成都 1.0 ch_B eng2_I d_I u1_E
+我 1.0 uo3_S
+我们 1.0 uo3_B m_I en5_E
+我国 1.0 uo3_B g_I uo2_E
+或 1.0 h_B uo4_E
+或者 1.0 h_B uo4_I zh_I e3_E
+或许 1.0 h_B uo4_I x_I v3_E
+战胜 1.0 zh_B an4_I sh_I eng4_E
+截至 1.0 j_B ie2_I zh_I ix4_E
+戴 1.0 d_B ai4_E
+房产 1.0 f_B ang2_I ch_I an3_E
+房价 1.0 f_B ang2_I j_I ia4_E
+房企 1.0 f_B ang2_I q_I i3_E
+房地产 1.0 f_B ang2_I d_I i4_I ch_I an3_E
+房源 1.0 f_B ang2_I van2_E
+房租 1.0 f_B ang2_I z_I u1_E
+房管 1.0 f_B ang2_I g_I uan3_E
+房贷 1.0 f_B ang2_I d_I ai4_E
+所 1.0 s_B uo3_E
+所以 1.0 s_B uo2_I i3_E
+所以 1.0 s_B uo3_I i3_E
+所幸 1.0 s_B uo3_I x_I ing4_E
+所有 1.0 s_B uo2_I iu3_E
+所有 1.0 s_B uo3_I iu3_E
+所有权 1.0 s_B uo2_I iu3_I q_I van2_E
+所有权 1.0 s_B uo3_I iu3_I q_I van2_E
+所有者 1.0 s_B uo2_I iu2_I zh_I e3_E
+所有者 1.0 s_B uo3_I iu3_I zh_I e3_E
+所致 1.0 s_B uo3_I zh_I ix4_E
+所谓 1.0 s_B uo3_I ui4_E
+手指 1.0 sh_B ou2_I zh_I ix3_E
+手指 1.0 sh_B ou3_I zh_I ix3_E
+手机 1.0 sh_B ou3_I j_I i1_E
+手环 1.0 sh_B ou3_I h_I uan2_E
+手臂 1.0 sh_B ou3_I b_I i4_E
+才 1.0 c_B ai2_E
+扑灭 1.0 p_B u1_I m_I ie4_E
+打 1.0 d_B a2_E
+打 1.0 d_B a3_E
+打击 1.0 d_B a3_I j_I i1_E
+打印 1.0 d_B a3_I in4_E
+打印机 1.0 d_B a3_I in4_I j_I i1_E
+打开 1.0 d_B a3_I k_I ai1_E
+打电话 1.0 d_B a3_I d_I ian4_I h_I ua4_E
+打造 1.0 d_B a3_I z_I ao4_E
+托 1.0 t_B uo1_E
+托管 1.0 t_B uo1_I g_I uan3_E
+托管人 1.0 t_B uo1_I g_I uan3_I r_I en2_E
+执行 1.0 zh_B ix2_I x_I ing2_E
+扫清 1.0 s_B ao3_I q_I ing1_E
+扬言 1.0 iang2_B ian2_E
+扮演 1.0 b_B an4_I ian3_E
+扶持 1.0 f_B u2_I ch_I ix2_E
+扶植 1.0 f_B u2_I zh_I ix2_E
+批判 1.0 p_B i1_I p_I an4_E
+承认 1.0 ch_B eng2_I r_I en4_E
+承诺 1.0 ch_B eng2_I n_I uo4_E
+技术 1.0 j_B i4_I sh_I u4_E
+技术 1.0 j_B i4_I sh_I u5_E
+抄袭 1.0 ch_B ao1_I x_I i2_E
+把 1.0 b_B a3_E
+把 1.0 b_B a4_E
+抑制 1.0 i4_B zh_I ix4_E
+投入 1.0 t_B ou2_I r_I u4_E
+投机 1.0 t_B ou2_I j_I i1_E
+投资 1.0 t_B ou2_I z_I iy1_E
+投资性 1.0 t_B ou2_I z_I iy1_I x_I ing4_E
+折 1.0 sh_B e2_E
+折 1.0 zh_B e1_E
+折 1.0 zh_B e2_E
+折射 1.0 zh_B e2_I sh_I e4_E
+折扣 1.0 zh_B e2_I k_I ou4_E
+抢 1.0 q_B iang1_E
+抢 1.0 q_B iang3_E
+抢占 1.0 q_B iang3_I zh_I an4_E
+抢攻 1.0 q_B iang3_I g_I ong1_E
+报告 1.0 b_B ao4_I g_I ao4_E
+报摊 1.0 b_B ao4_I t_I an1_E
+报警 1.0 b_B ao4_I j_I ing3_E
+报送 1.0 b_B ao4_I s_I ong4_E
+报道 1.0 b_B ao4_I d_I ao4_E
+抱 1.0 b_B ao4_E
+抽烟 1.0 ch_B ou1_I ian1_E
+抽象 1.0 ch_B ou1_I x_I iang4_E
+拉着 1.0 l_B a1_I zh_I e5_E
+拍 1.0 p_B ai1_E
+拍照 1.0 p_B ai1_I zh_I ao4_E
+拘 1.0 j_B v1_E
+拥堵 1.0 iong1_B d_I u3_E
+拥有 1.0 iong1_B iu3_E
+拿下 1.0 n_B a2_I x_I ia4_E
+持 1.0 ch_B ix2_E
+持刀 1.0 ch_B ix2_I d_I ao1_E
+持有 1.0 ch_B ix2_I iu3_E
+持有人 1.0 ch_B ix2_I iu3_I r_I en2_E
+持续 1.0 ch_B ix2_I x_I v4_E
+持续时间 1.0 ch_B ix2_I x_I v4_I sh_I ix2_I j_I ian1_E
+持股 1.0 ch_B ix2_I g_I u3_E
+挂钩 1.0 g_B ua4_I g_I ou1_E
+指出 1.0 zh_B ix3_I ch_I u1_E
+指导 1.0 zh_B ix2_I d_I ao3_E
+指导 1.0 zh_B ix3_I d_I ao3_E
+指控 1.0 zh_B ix3_I k_I ong4_E
+指数 1.0 zh_B ix3_I sh_I u4_E
+指明 1.0 zh_B ix3_I m_I ing2_E
+指标 1.0 zh_B ix3_I b_I iao1_E
+按照 1.0 an4_B zh_I ao4_E
+挑 1.0 t_B iao1_E
+挑 1.0 t_B iao3_E
+挑剔 1.0 t_B iao1_I t_I i1_E
+挑剔 1.0 t_B iao1_I t_I i5_E
+挑战赛 1.0 t_B iao3_I zh_I an4_I s_I ai4_E
+挣钱 1.0 zh_B eng4_I q_I ian2_E
+挥刀 1.0 h_B ui1_I d_I ao1_E
+挪用 1.0 n_B uo2_I iong4_E
+挪用公款 1.0 n_B uo2_I iong4_I g_I ong1_I k_I uan3_E
+挽回 1.0 uan3_B h_I ui2_E
+挽救 1.0 uan3_B j_I iu4_E
+损失 1.0 s_B un3_I sh_I ix1_E
+据 1.0 j_B v1_E
+据 1.0 j_B v4_E
+据为己有 1.0 j_B v4_I ui2_I j_I i2_I iu3_E
+据为己有 1.0 j_B v4_I ui2_I j_I i3_I iu3_E
+掀 1.0 x_B ian1_E
+掀开 1.0 x_B ian1_I k_I ai1_E
+授信 1.0 sh_B ou4_I x_I in4_E
+授权 1.0 sh_B ou4_I q_I van2_E
+掉 1.0 d_B iao4_E
+排名 1.0 p_B ai2_I m_I ing2_E
+探 1.0 t_B an4_E
+探索 1.0 t_B an4_I s_I uo3_E
+接 1.0 j_B ie1_E
+接下来 1.0 j_B ie1_I x_I ia3_I l_I ai3_E
+接下来 1.0 j_B ie1_I x_I ia4_I l_I ai2_E
+接下来 1.0 j_B ie1_I x_I ia4_I l_I ai3_E
+接受 1.0 j_B ie1_I sh_I ou4_E
+接盘 1.0 j_B ie1_I p_I an2_E
+接近 1.0 j_B ie1_I j_I in4_E
+控制 1.0 k_B ong4_I zh_I ix4_E
+控制器 1.0 k_B ong4_I zh_I ix4_I q_I i4_E
+控股 1.0 k_B ong4_I g_I u3_E
+推 1.0 t_B ui1_E
+推出 1.0 t_B ui1_I ch_I u1_E
+推动 1.0 t_B ui1_I d_I ong4_E
+推广 1.0 t_B ui1_I g_I uang3_E
+推进 1.0 t_B ui1_I j_I in4_E
+措施 1.0 c_B uo4_I sh_I ix1_E
+提供 1.0 t_B i2_I g_I ong1_E
+提供 1.0 t_B i2_I g_I ong4_E
+提出 1.0 t_B i2_I ch_I u1_E
+提到 1.0 t_B i2_I d_I ao4_E
+提高 1.0 t_B i2_I g_I ao1_E
+揭晓 1.0 j_B ie1_I x_I iao3_E
+搜狐 1.0 s_B ou1_I h_I u2_E
+搜索 1.0 s_B ou1_I s_I uo3_E
+搞 1.0 g_B ao3_E
+搞清楚 1.0 g_B ao3_I q_I ing1_I ch_I u3_E
+摄 1.0 sh_B e4_E
+摄氏度 1.0 sh_B e4_I sh_I ix4_I d_I u4_E
+摆放 1.0 b_B ai3_I f_I ang4_E
+撞 1.0 zh_B uang4_E
+撤回 1.0 ch_B e4_I h_I ui2_E
+撤离 1.0 ch_B e4_I l_I i2_E
+撤走 1.0 ch_B e4_I z_I ou3_E
+攒 1.0 c_B uan2_E
+攒 1.0 z_B an3_E
+攒够 1.0 z_B an3_I g_I ou4_E
+支付 1.0 zh_B ix1_I f_I u4_E
+支持 1.0 zh_B ix1_I ch_I ix2_E
+支撑 1.0 zh_B ix1_I ch_I eng1_E
+支票 1.0 zh_B ix1_I p_I iao4_E
+收入 1.0 sh_B ou1_I r_I u4_E
+收取 1.0 sh_B ou1_I q_I v3_E
+收益 1.0 sh_B ou1_I i4_E
+收获 1.0 sh_B ou1_I h_I uo4_E
+收费 1.0 sh_B ou1_I f_I ei4_E
+收集 1.0 sh_B ou1_I j_I i2_E
+改为 1.0 g_B ai3_I ui2_E
+改变 1.0 g_B ai3_I b_I ian4_E
+改革 1.0 g_B ai3_I g_I e2_E
+放学 1.0 f_B ang4_I x_I ve2_E
+放宽 1.0 f_B ang4_I k_I uan1_E
+放缓 1.0 f_B ang4_I h_I uan3_E
+政府 1.0 zh_B eng4_I f_I u3_E
+政策 1.0 zh_B eng4_I c_I e4_E
+故事 1.0 g_B u4_I sh_I ix4_E
+故事 1.0 g_B u4_I sh_I ix5_E
+故居 1.0 g_B u4_I j_I v1_E
+效率 1.0 x_B iao4_I l_I v4_E
+敏感 1.0 m_B in2_I g_I an3_E
+敏感 1.0 m_B in3_I g_I an3_E
+救世主 1.0 j_B iu4_I sh_I ix4_I zh_I u3_E
+救助 1.0 j_B iu4_I zh_I u4_E
+救治 1.0 j_B iu4_I zh_I ix4_E
+教育 1.0 j_B iao4_I v4_E
+数据 1.0 sh_B u4_I j_I v4_E
+数月 1.0 sh_B u4_I ve4_E
+数百 1.0 sh_B u4_I b_I ai3_E
+数量 1.0 sh_B u4_I l_I iang4_E
+数量 1.0 sh_B u4_I l_I iang5_E
+整个 1.0 zh_B eng3_I g_I e4_E
+整个 1.0 zh_B eng3_I g_I e5_E
+整体 1.0 zh_B eng2_I t_I i3_E
+整体 1.0 zh_B eng3_I t_I i3_E
+整改 1.0 zh_B eng2_I g_I ai3_E
+整改 1.0 zh_B eng3_I g_I ai3_E
+文 1.0 un2_S
+文化 1.0 un2_B h_I ua4_E
+文轩 1.0 un2_B x_I van1_E
+斗转星移 1.0 d_B ou2_I zh_I uan3_I x_I ing1_I i2_E
+斗转星移 1.0 d_B ou3_I zh_I uan3_I x_I ing1_I i2_E
+斥责 1.0 ch_B ix4_I z_I e2_E
+断崖 1.0 d_B uan4_I ia2_E
+新 1.0 x_B in1_E
+新一轮 1.0 x_B in1_I i1_I l_I un2_E
+新世纪 1.0 x_B in1_I sh_I ix4_I j_I i4_E
+新低 1.0 x_B in1_I d_I i1_E
+新华书店 1.0 x_B in1_I h_I ua2_I sh_I u1_I d_I ian4_E
+新增 1.0 x_B in1_I z_I eng1_E
+新婚夫妇 1.0 x_B in1_I h_I un1_I f_I u1_I f_I u4_E
+新房 1.0 x_B in1_I f_I ang2_E
+新手 1.0 x_B in1_I sh_I ou3_E
+新政 1.0 x_B in1_I zh_I eng4_E
+新梅 1.0 x_B in1_I m_I ei2_E
+新款 1.0 x_B in1_I k_I uan3_E
+新篇章 1.0 x_B in1_I p_I ian1_I zh_I ang1_E
+新股 1.0 x_B in1_I g_I u3_E
+新货 1.0 x_B in1_I h_I uo4_E
+新闻 1.0 x_B in1_I un2_E
+新闻网 1.0 x_B in1_I un2_I uang3_E
+新鲜 1.0 x_B in1_I x_I ian1_E
+新鲜 1.0 x_B in1_I x_I ian3_E
+方便 1.0 f_B ang1_I b_I ian4_E
+方式 1.0 f_B ang1_I sh_I ix4_E
+方案 1.0 f_B ang1_I an4_E
+方面 1.0 f_B ang1_I m_I ian4_E
+施压 1.0 sh_B ix1_I ia1_E
+旅游 1.0 l_B v3_I iu2_E
+旅行社 1.0 l_B v3_I x_I ing2_I sh_I e4_E
+无 1.0 u2_S
+无所谓 1.0 u2_B s_I uo3_I ui4_E
+无故 1.0 u2_B g_I u4_E
+无效 1.0 u2_B x_I iao4_E
+无比 1.0 u2_B b_I i3_E
+无法 1.0 u2_B f_I a3_E
+日 1.0 r_B iz4_E
+日产 1.0 r_B iz4_I ch_I an3_E
+日光 1.0 r_B iz4_I g_I uang1_E
+日前 1.0 r_B iz4_I q_I ian2_E
+日常 1.0 r_B iz4_I ch_I ang2_E
+日本 1.0 r_B iz4_I b_I en3_E
+早前 1.0 z_B ao3_I q_I ian2_E
+时 1.0 sh_B ix2_E
+时代 1.0 sh_B ix2_I d_I ai4_E
+时候 1.0 sh_B ix2_I h_I ou4_E
+时候 1.0 sh_B ix2_I h_I ou5_E
+时光 1.0 sh_B ix2_I g_I uang1_E
+时尚 1.0 sh_B ix2_I sh_I ang4_E
+时间 1.0 sh_B ix2_I j_I ian1_E
+昆凌 1.0 k_B un1_I l_I ing2_E
+明年 1.0 m_B ing2_I n_I ian2_E
+明星 1.0 m_B ing2_I x_I ing1_E
+明显 1.0 m_B ing2_I x_I ian3_E
+明确 1.0 m_B ing2_I q_I ve4_E
+星 1.0 x_B ing1_E
+星巴克 1.0 x_B ing1_I b_I a1_I k_I e4_E
+星座 1.0 x_B ing1_I z_I uo4_E
+星系 1.0 x_B ing1_I x_I i4_E
+昨天 1.0 z_B uo2_I t_I ian1_E
+是 1.0 sh_B ix4_E
+是从 1.0 sh_B ix4_I c_I ong2_E
+是否 1.0 sh_B ix4_I f_I ou3_E
+显得 1.0 x_B ian3_I d_I e3_E
+显得 1.0 x_B ian3_I d_I e5_E
+显效 1.0 x_B ian3_I x_I iao4_E
+显现出 1.0 x_B ian3_I x_I ian4_I ch_I u1_E
+显示 1.0 x_B ian3_I sh_I ix4_E
+显而易见 1.0 x_B ian3_I er2_I i4_I j_I ian4_E
+晋升 1.0 j_B in4_I sh_I eng1_E
+晒 1.0 sh_B ai4_E
+晚 1.0 uan3_S
+普及 1.0 p_B u3_I j_I i2_E
+普遍 1.0 p_B u3_I b_I ian4_E
+普里 1.0 p_B u2_I l_I i3_E
+普里 1.0 p_B u3_I l_I i3_E
+景区 1.0 j_B ing3_I q_I v1_E
+智能 1.0 zh_B ix4_I n_I eng2_E
+智能机 1.0 zh_B ix4_I n_I eng2_I j_I i1_E
+暂时 1.0 z_B an4_I sh_I ix2_E
+暂行办法 1.0 z_B an4_I x_I ing2_I b_I an4_I f_I a3_E
+曝光 1.0 b_B ao4_I g_I uang1_E
+曝光 1.0 p_B u4_I g_I uang1_E
+曲线 1.0 q_B v1_I x_I ian4_E
+曲线 1.0 q_B v3_I x_I ian4_E
+更 1.0 g_B eng1_E
+更 1.0 g_B eng4_E
+更为 1.0 g_B eng4_I ui2_E
+更加 1.0 g_B eng4_I j_I ia1_E
+更大 1.0 g_B eng4_I d_I a4_E
+更好 1.0 g_B eng4_I h_I ao3_E
+更长 1.0 g_B eng4_I ch_I ang2_E
+最 1.0 z_B ui4_E
+最初 1.0 z_B ui4_I ch_I u1_E
+最后 1.0 z_B ui4_I h_I ou4_E
+最多 1.0 z_B ui4_I d_I uo1_E
+最大 1.0 z_B ui4_I d_I a4_E
+最大化 1.0 z_B ui4_I d_I a4_I h_I ua4_E
+最早 1.0 z_B ui4_I z_I ao3_E
+最晚 1.0 z_B ui4_I uan3_E
+最终 1.0 z_B ui4_I zh_I ong1_E
+最近 1.0 z_B ui4_I j_I in4_E
+最高 1.0 z_B ui4_I g_I ao1_E
+月 1.0 ve4_S
+有 1.0 iu3_S
+有个 1.0 iu3_B g_I e3_E
+有个 1.0 iu3_B g_I e4_E
+有些 1.0 iu3_B x_I ie1_E
+有人 1.0 iu3_B r_I en2_E
+有关 1.0 iu3_B g_I uan1_E
+有利于 1.0 iu3_B l_I i4_I v2_E
+有助于 1.0 iu3_B zh_I u4_I v2_E
+有效 1.0 iu3_B x_I iao4_E
+有效性 1.0 iu3_B x_I iao4_I x_I ing4_E
+朋友 1.0 p_B eng2_I iu5_E
+服务 1.0 f_B u2_I u4_E
+服务员 1.0 f_B u2_I u4_I van2_E
+朝阳区 1.0 ch_B ao2_I iang2_I q_I v1_E
+期 1.0 q_B i1_E
+期限 1.0 q_B i1_I x_I ian4_E
+未 1.0 ui4_S
+未来 1.0 ui4_B l_I ai2_E
+未能 1.0 ui4_B n_I eng2_E
+本人 1.0 b_B en3_I r_I en2_E
+本报讯 1.0 b_B en3_I b_I ao4_I x_I vn4_E
+本月 1.0 b_B en3_I ve4_E
+本次 1.0 b_B en3_I c_I iy4_E
+本质 1.0 b_B en3_I zh_I ix4_E
+本身 1.0 b_B en3_I sh_I en1_E
+本项 1.0 b_B en3_I x_I iang4_E
+机制 1.0 j_B i1_I zh_I ix4_E
+机构 1.0 j_B i1_I g_I ou4_E
+材料 1.0 c_B ai2_I l_I iao4_E
+条件 1.0 t_B iao2_I j_I ian4_E
+条款 1.0 t_B iao2_I k_I uan3_E
+来 1.0 l_B ai2_E
+来源 1.0 l_B ai2_I van2_E
+来看 1.0 l_B ai2_I k_I an4_E
+来自 1.0 l_B ai2_I z_I iy4_E
+来说 1.0 l_B ai2_I sh_I uo1_E
+杭州 1.0 h_B ang2_I zh_I ou1_E
+极地 1.0 j_B i2_I d_I i4_E
+某 1.0 m_B ou3_E
+某一 1.0 m_B ou3_I i1_E
+某某 1.0 m_B ou2_I m_I ou3_E
+某某 1.0 m_B ou3_I m_I ou3_E
+查实 1.0 ch_B a2_I sh_I ix2_E
+查明 1.0 ch_B a2_I m_I ing2_E
+标准版 1.0 b_B iao1_I zh_I un2_I b_I an3_E
+标准版 1.0 b_B iao1_I zh_I un3_I b_I an3_E
+标志 1.0 b_B iao1_I zh_I ix4_E
+标配 1.0 b_B iao1_I p_I ei4_E
+栏目 1.0 l_B an2_I m_I u4_E
+校园 1.0 x_B iao4_I van2_E
+校际 1.0 x_B iao4_I j_I i4_E
+根据 1.0 g_B en1_I j_I v4_E
+根本 1.0 g_B en1_I b_I en3_E
+桂湖 1.0 g_B ui4_I h_I u2_E
+档 1.0 d_B ang4_E
+档案 1.0 d_B ang4_I an4_E
+桥 1.0 q_B iao2_E
+桥桥 1.0 q_B iao2_I q_I iao2_E
+桥段 1.0 q_B iao2_I d_I uan4_E
+梳理 1.0 sh_B u1_I l_I i3_E
+检查 1.0 j_B ian3_I ch_I a2_E
+楼 1.0 l_B ou2_E
+楼市 1.0 l_B ou2_I sh_I ix4_E
+楼盘 1.0 l_B ou2_I p_I an2_E
+概念 1.0 g_B ai4_I n_I ian4_E
+概念股 1.0 g_B ai4_I n_I ian4_I g_I u3_E
+概念车 1.0 g_B ai4_I n_I ian4_I ch_I e1_E
+模仿 1.0 m_B o2_I f_I ang3_E
+模式 1.0 m_B o2_I sh_I ix4_E
+欢迎 1.0 h_B uan1_I ing2_E
+欧洲 1.0 ou1_B zh_I ou1_E
+歌声 1.0 g_B e1_I sh_I eng1_E
+歌曲 1.0 g_B e1_I q_I v3_E
+正在 1.0 zh_B eng4_I z_I ai4_E
+正式 1.0 zh_B eng4_I sh_I ix4_E
+正是 1.0 zh_B eng4_I sh_I ix4_E
+此事 1.0 c_B iy3_I sh_I ix4_E
+此前 1.0 c_B iy3_I q_I ian2_E
+此次 1.0 c_B iy3_I c_I iy4_E
+步 1.0 b_B u4_E
+武侯 1.0 u3_B h_I ou2_E
+武侯祠 1.0 u3_B h_I ou2_I c_I iy2_E
+武汉 1.0 u3_B h_I an4_E
+武隆 1.0 u3_B l_I ong2_E
+死亡 1.0 s_B iy3_I uang2_E
+死者 1.0 s_B iy2_I zh_I e3_E
+死者 1.0 s_B iy3_I zh_I e3_E
+残疾人 1.0 c_B an2_I j_I i2_I r_I en2_E
+殴打 1.0 ou1_B d_I a3_E
+段 1.0 d_B uan4_E
+母女俩 1.0 m_B u2_I n_I v2_I l_I ia3_E
+母女俩 1.0 m_B u3_I n_I v3_I l_I ia3_E
+每 1.0 m_B ei3_E
+每个 1.0 m_B ei3_I g_I e4_E
+每日 1.0 m_B ei3_I r_I iz4_E
+比 1.0 b_B i3_E
+比例 1.0 b_B i3_I l_I i4_E
+比利时 1.0 b_B i3_I l_I i4_I sh_I ix2_E
+比如 1.0 b_B i3_I r_I u2_E
+比赛 1.0 b_B i3_I s_I ai4_E
+比较 1.0 b_B i2_I j_I iao3_E
+比较 1.0 b_B i3_I j_I iao4_E
+民众 1.0 m_B in2_I zh_I ong4_E
+民警 1.0 m_B in2_I j_I ing3_E
+民间 1.0 m_B in2_I j_I ian1_E
+水平 1.0 sh_B ui3_I p_I ing2_E
+水族馆 1.0 sh_B ui3_I z_I u2_I g_I uan3_E
+水泥 1.0 sh_B ui3_I n_I i2_E
+水谷 1.0 sh_B ui2_I g_I u3_E
+水谷 1.0 sh_B ui3_I g_I u3_E
+永远 1.0 iong2_B van3_E
+永远 1.0 iong3_B van3_E
+求婚 1.0 q_B iu2_I h_I un1_E
+汉斯 1.0 h_B an4_I s_I iy1_E
+汽车 1.0 q_B i4_I ch_I e1_E
+汽车业 1.0 q_B i4_I ch_I e1_I ie4_E
+沃尔玛 1.0 uo4_B er2_I m_I a3_E
+沃尔玛 1.0 uo4_B er3_I m_I a3_E
+沉着 1.0 ch_B en2_I zh_I uo2_E
+沙子 1.0 sh_B a1_I z_I iy5_E
+没 1.0 m_B ao3_E
+没 1.0 m_B ei2_E
+没 1.0 m_B o4_E
+没带 1.0 m_B ei2_I d_I ai4_E
+没有 1.0 m_B ei2_I iu3_E
+治疗 1.0 zh_B ix4_I l_I iao2_E
+法国 1.0 f_B a3_I g_I uo2_E
+法庭 1.0 f_B a3_I t_I ing2_E
+法律 1.0 f_B a3_I l_I v4_E
+法规 1.0 f_B a3_I g_I ui1_E
+泡沫 1.0 p_B ao4_I m_I o4_E
+注入 1.0 zh_B u4_I r_I u4_E
+注意力 1.0 zh_B u4_I i4_I l_I i4_E
+注重 1.0 zh_B u4_I zh_I ong4_E
+泰斗 1.0 t_B ai4_I d_I ou3_E
+洛夫 1.0 l_B uo4_I f_I u1_E
+活动 1.0 h_B uo2_I d_I ong4_E
+活泼 1.0 h_B uo2_I p_I o1_E
+派出 1.0 p_B ai4_I ch_I u1_E
+派出所 1.0 p_B ai4_I ch_I u1_I s_I uo3_E
+派发 1.0 p_B ai4_I f_I a1_E
+派对 1.0 p_B ai4_I d_I ui4_E
+派生 1.0 p_B ai4_I sh_I eng1_E
+流入 1.0 l_B iu2_I r_I u4_E
+流出 1.0 l_B iu2_I ch_I u1_E
+流动性 1.0 l_B iu2_I d_I ong4_I x_I ing4_E
+流失 1.0 l_B iu2_I sh_I ix1_E
+流着泪 1.0 l_B iu2_I zh_I e5_I l_I ei4_E
+浑水 1.0 h_B un2_I sh_I ui3_E
+浓烈 1.0 n_B ong2_I l_I ie4_E
+海宁 1.0 h_B ai3_I n_I ing2_E
+海昌 1.0 h_B ai3_I ch_I ang1_E
+海洋 1.0 h_B ai3_I iang2_E
+海阔天空 1.0 h_B ai3_I k_I uo4_I t_I ian1_I k_I ong1_E
+海鲜 1.0 h_B ai3_I x_I ian1_E
+消息 1.0 x_B iao1_I x_I i5_E
+消耗 1.0 x_B iao1_I h_I ao4_E
+消防车 1.0 x_B iao1_I f_I ang2_I ch_I e1_E
+涉事 1.0 sh_B e4_I sh_I ix4_E
+涉嫌 1.0 sh_B e4_I x_I ian2_E
+涨价 1.0 zh_B ang3_I j_I ia4_E
+涨幅 1.0 zh_B ang3_I f_I u2_E
+淘汰赛 1.0 t_B ao2_I t_I ai4_I s_I ai4_E
+淮海店 1.0 h_B uai2_I h_I ai3_I d_I ian4_E
+深入 1.0 sh_B en1_I r_I u4_E
+深圳 1.0 sh_B en1_I zh_I en4_E
+混合 1.0 h_B un3_I h_I e2_E
+混合 1.0 h_B un4_I h_I e2_E
+添堵 1.0 t_B ian1_I d_I u3_E
+清明 1.0 q_B ing1_I m_I ing2_E
+清明节 1.0 q_B ing1_I m_I ing2_I j_I ie2_E
+清水 1.0 q_B ing1_I sh_I ui3_E
+清洁 1.0 q_B ing1_I j_I ie2_E
+清点 1.0 q_B ing1_I d_I ian3_E
+清障车 1.0 q_B ing1_I zh_I ang4_I ch_I e1_E
+清香 1.0 q_B ing1_I x_I iang1_E
+渔具 1.0 v2_B j_I v4_E
+渠道 1.0 q_B v2_I d_I ao4_E
+温度 1.0 un1_B d_I u4_E
+游客 1.0 iu2_B k_I e4_E
+源 1.0 van2_S
+溺水 1.0 n_B i4_I sh_I ui3_E
+滑板鞋 1.0 h_B ua2_I b_I an3_I x_I ie2_E
+满意 1.0 m_B an3_I i4_E
+满足 1.0 m_B an3_I z_I u2_E
+滨江 1.0 b_B in1_I j_I iang1_E
+漕运 1.0 c_B ao2_I vn4_E
+潍坊 1.0 ui2_B f_I ang1_E
+澄清 1.0 ch_B eng2_I q_I ing1_E
+激光 1.0 j_B i1_I g_I uang1_E
+激励 1.0 j_B i1_I l_I i4_E
+激情 1.0 j_B i1_I q_I ing2_E
+激烈 1.0 j_B i1_I l_I ie4_E
+火 1.0 h_B uo3_E
+火热 1.0 h_B uo3_I r_I e4_E
+火锅 1.0 h_B uo3_I g_I uo1_E
+火鸟 1.0 h_B uo2_I n_I iao3_E
+火鸟 1.0 h_B uo3_I n_I iao3_E
+灵 1.0 l_B ing2_E
+灵堂 1.0 l_B ing2_I t_I ang2_E
+灵山 1.0 l_B ing2_I sh_I an1_E
+灵异 1.0 l_B ing2_I i4_E
+灵感 1.0 l_B ing2_I g_I an3_E
+炒作 1.0 ch_B ao3_I z_I uo4_E
+炒股 1.0 ch_B ao2_I g_I u3_E
+炒股 1.0 ch_B ao3_I g_I u3_E
+炮轰 1.0 p_B ao4_I h_I ong1_E
+炷 1.0 zh_B u4_E
+点 1.0 d_B ian3_E
+点燃 1.0 d_B ian3_I r_I an2_E
+热潮 1.0 r_B e4_I ch_I ao2_E
+热门 1.0 r_B e4_I m_I en2_E
+然而 1.0 r_B an2_I er2_E
+照片 1.0 zh_B ao4_I p_I ian1_E
+照片 1.0 zh_B ao4_I p_I ian4_E
+照顾 1.0 zh_B ao4_I g_I u4_E
+照顾 1.0 zh_B ao4_I g_I u5_E
+煮 1.0 zh_B u3_E
+熟知 1.0 sh_B ou2_I zh_I ix1_E
+熟知 1.0 sh_B u2_I zh_I ix1_E
+爆炸 1.0 b_B ao4_I zh_I a4_E
+爱 1.0 ai4_S
+爱情 1.0 ai4_B q_I ing2_E
+爱情路 1.0 ai4_B q_I ing2_I l_I u4_E
+父亲 1.0 f_B u4_I q_I in1_E
+父亲 1.0 f_B u4_I q_I in5_E
+父母 1.0 f_B u4_I m_I u3_E
+爸爸 1.0 b_B a4_I b_I a5_E
+版 1.0 b_B an3_E
+牌照 1.0 p_B ai2_I zh_I ao4_E
+牛排 1.0 n_B iu2_I p_I ai2_E
+物 1.0 u4_S
+物业 1.0 u4_B ie4_E
+物业公司 1.0 u4_B ie4_I g_I ong1_I s_I iy1_E
+物体 1.0 u4_B t_I i3_E
+特 1.0 t_B e4_E
+特别 1.0 t_B e4_I b_I ie2_E
+特定 1.0 t_B e4_I d_I ing4_E
+独家 1.0 d_B u2_I j_I ia1_E
+猜疑 1.0 c_B ai1_I i2_E
+猝死 1.0 c_B u4_I s_I iy3_E
+猴子 1.0 h_B ou2_I z_I iy5_E
+率先 1.0 sh_B uai4_I x_I ian1_E
+王 1.0 uang2_S
+玩水 1.0 uan2_B sh_I ui3_E
+环境 1.0 h_B uan2_I j_I ing4_E
+环比 1.0 h_B uan2_I b_I i3_E
+现在 1.0 x_B ian4_I z_I ai4_E
+现场 1.0 x_B ian4_I ch_I ang3_E
+现已 1.0 x_B ian4_I i3_E
+现象 1.0 x_B ian4_I x_I iang4_E
+现金 1.0 x_B ian4_I j_I in1_E
+珠宝店 1.0 zh_B u1_I b_I ao3_I d_I ian4_E
+珠帘 1.0 zh_B u1_I l_I ian2_E
+球台 1.0 q_B iu2_I t_I ai2_E
+球员 1.0 q_B iu2_I van2_E
+球类 1.0 q_B iu2_I l_I ei4_E
+球路 1.0 q_B iu2_I l_I u4_E
+球迷 1.0 q_B iu2_I m_I i2_E
+理念 1.0 l_B i3_I n_I ian4_E
+理想 1.0 l_B i2_I x_I iang3_E
+理想 1.0 l_B i3_I x_I iang3_E
+理由 1.0 l_B i3_I iu2_E
+琴台 1.0 q_B in2_I t_I ai2_E
+甚至 1.0 sh_B en4_I zh_I ix4_E
+甚至 1.0 sh_B en4_I zh_I ix5_E
+生产 1.0 sh_B eng1_I ch_I an3_E
+生产线 1.0 sh_B eng1_I ch_I an3_I x_I ian4_E
+生活 1.0 sh_B eng1_I h_I uo2_E
+用 1.0 iong4_S
+用于 1.0 iong4_B v2_E
+用地 1.0 iong4_B d_I i4_E
+用户 1.0 iong4_B h_I u4_E
+用途 1.0 iong4_B t_I u2_E
+由 1.0 iu2_S
+由于 1.0 iu2_B v2_E
+申请 1.0 sh_B en1_I q_I ing3_E
+电动 1.0 d_B ian4_I d_I ong4_E
+电动车 1.0 d_B ian4_I d_I ong4_I ch_I e1_E
+电子 1.0 d_B ian4_I z_I iy3_E
+电池 1.0 d_B ian4_I ch_I ix2_E
+电脑 1.0 d_B ian4_I n_I ao3_E
+电脑城 1.0 d_B ian4_I n_I ao3_I ch_I eng2_E
+电视台 1.0 d_B ian4_I sh_I ix4_I t_I ai2_E
+电话 1.0 d_B ian4_I h_I ua4_E
+电量 1.0 d_B ian4_I l_I iang4_E
+男主角 1.0 n_B an2_I zh_I u3_I j_I ve2_E
+男子 1.0 n_B an2_I z_I iy3_E
+男孩 1.0 n_B an2_I h_I ai2_E
+畅所欲言 1.0 ch_B ang4_I s_I uo3_I v4_I ian2_E
+界定 1.0 j_B ie4_I d_I ing4_E
+番禺 1.0 p_B an1_I v2_E
+疑因 1.0 i2_B in1_E
+痴迷 1.0 ch_B ix1_I m_I i2_E
+登陆 1.0 d_B eng1_I l_I u4_E
+白衣 1.0 b_B ai2_I i1_E
+百分之一 1.0 b_B ai3_I f_I en1_I zh_I ix1_I i1_E
+百分之五十 1.0 b_B ai3_I f_I en1_I zh_I ix1_I u3_I sh_I ix2_E
+百分之八十 1.0 b_B ai3_I f_I en1_I zh_I ix1_I b_I a1_I sh_I ix2_E
+百分之六十 1.0 b_B ai3_I f_I en1_I zh_I ix1_I l_I iu4_I sh_I ix2_E
+百盛 1.0 b_B ai3_I sh_I eng4_E
+百货 1.0 b_B ai3_I h_I uo4_E
+的 1.0 d_B e5_E
+的 1.0 d_B i2_E
+的 1.0 d_B i3_E
+的 1.0 d_B i4_E
+皇城 1.0 h_B uang2_I ch_I eng2_E
+皮肤 1.0 p_B i2_I f_I u1_E
+皮革 1.0 p_B i2_I g_I e2_E
+益州 1.0 i4_B zh_I ou1_E
+监事 1.0 j_B ian1_I sh_I ix4_E
+监管 1.0 j_B ian1_I g_I uan3_E
+盗用 1.0 d_B ao4_I iong4_E
+盛宴 1.0 sh_B eng4_I ian4_E
+盛源 1.0 sh_B eng4_I van2_E
+目前 1.0 m_B u4_I q_I ian2_E
+目的 1.0 m_B u4_I d_I i4_E
+目的 1.0 m_B u4_I d_I i5_E
+直接 1.0 zh_B ix2_I j_I ie1_E
+直言 1.0 zh_B ix2_I ian2_E
+相互 1.0 x_B iang1_I h_I u4_E
+相似 1.0 x_B iang1_I s_I iy4_E
+相信 1.0 x_B iang1_I x_I in4_E
+相关 1.0 x_B iang1_I g_I uan1_E
+相关性 1.0 x_B iang1_I g_I uan1_I x_I ing4_E
+相对 1.0 x_B iang1_I d_I ui4_E
+相应 1.0 x_B iang1_I ing4_E
+相当于 1.0 x_B iang1_I d_I ang1_I v2_E
+相比 1.0 x_B iang1_I b_I i3_E
+相隔 1.0 x_B iang1_I g_I e2_E
+看 1.0 k_B an1_E
+看 1.0 k_B an4_E
+看上去 1.0 k_B an4_I sh_I ang4_I q_I v3_E
+看上去 1.0 k_B an4_I sh_I ang4_I q_I v4_E
+看上去 1.0 k_B an4_I sh_I ang5_I q_I v5_E
+看到 1.0 k_B an4_I d_I ao4_E
+看到 1.0 k_B an4_I d_I ao5_E
+看待 1.0 k_B an4_I d_I ai4_E
+看房 1.0 k_B an4_I f_I ang2_E
+看来 1.0 k_B an4_I l_I ai2_E
+看楼 1.0 k_B an4_I l_I ou2_E
+看起来 1.0 k_B an4_I q_I i3_I l_I ai2_E
+看起来 1.0 k_B an4_I q_I i5_I l_I ai5_E
+真 1.0 zh_B en1_E
+真的 1.0 zh_B en1_I d_I e5_E
+眼 1.0 ian3_S
+眼下 1.0 ian3_B x_I ia4_E
+眼帘 1.0 ian3_B l_I ian2_E
+眼镜 1.0 ian3_B j_I ing4_E
+着 1.0 zh_B ao1_E
+着 1.0 zh_B ao2_E
+着 1.0 zh_B e5_E
+着 1.0 zh_B uo2_E
+督促 1.0 d_B u1_I c_I u4_E
+督察 1.0 d_B u1_I ch_I a2_E
+督察组 1.0 d_B u1_I ch_I a2_I z_I u3_E
+督查 1.0 d_B u1_I ch_I a2_E
+知名度 1.0 zh_B ix1_I m_I ing2_I d_I u4_E
+码头 1.0 m_B a3_I t_I ou2_E
+码头 1.0 m_B a3_I t_I ou3_E
+砍 1.0 k_B an3_E
+砍伤 1.0 k_B an3_I sh_I ang1_E
+砍倒 1.0 k_B an2_I d_I ao3_E
+研 1.0 ian2_S
+研究 1.0 ian2_B j_I iu1_E
+研究者 1.0 ian2_B j_I iu1_I zh_I e3_E
+破 1.0 p_B o4_E
+破灭 1.0 p_B o4_I m_I ie4_E
+硅谷 1.0 g_B ui1_I g_I u3_E
+硅谷 1.0 x_B i1_I g_I u3_E
+硕士学位 1.0 sh_B uo4_I sh_I ix4_I x_I ve2_I ui4_E
+硬塞 1.0 ing4_B s_I ai1_E
+硬币 1.0 ing4_B b_I i4_E
+确 1.0 q_B ve4_E
+确保 1.0 q_B ve4_I b_I ao3_E
+确定 1.0 q_B ve4_I d_I ing4_E
+社会 1.0 sh_B e4_I h_I ui4_E
+社会各界 1.0 sh_B e4_I h_I ui4_I g_I e4_I j_I ie4_E
+神奇 1.0 sh_B en2_I q_I i2_E
+神秘 1.0 sh_B en2_I m_I i4_E
+神箭 1.0 sh_B en2_I j_I ian4_E
+祥和 1.0 x_B iang2_I h_I e2_E
+福建 1.0 f_B u2_I j_I ian4_E
+私家车 1.0 s_B iy1_I j_I ia1_I ch_I e1_E
+种子 1.0 zh_B ong3_I z_I iy5_E
+科幻 1.0 k_B e1_I h_I uan4_E
+科幻小说 1.0 k_B e1_I h_I uan4_I x_I iao3_I sh_I uo1_E
+科技 1.0 k_B e1_I j_I i4_E
+科技人才 1.0 k_B e1_I j_I i4_I r_I en2_I c_I ai2_E
+科技界 1.0 k_B e1_I j_I i4_I j_I ie4_E
+租凭 1.0 z_B u1_I p_I ing2_E
+积极 1.0 j_B i1_I j_I i2_E
+称 1.0 ch_B en4_E
+称 1.0 ch_B eng1_E
+称 1.0 ch_B eng4_E
+移动 1.0 i2_B d_I ong4_E
+移开 1.0 i2_B k_I ai1_E
+程度 1.0 ch_B eng2_I d_I u4_E
+税收 1.0 sh_B ui4_I sh_I ou1_E
+税收政策 1.0 sh_B ui4_I sh_I ou1_I zh_I eng4_I c_I e4_E
+稳稳 1.0 un2_B un3_E
+稳稳 1.0 un3_B un3_E
+究竟 1.0 j_B iu1_I j_I ing4_E
+穿戴 1.0 ch_B uan1_I d_I ai4_E
+突然 1.0 t_B u1_I r_I an2_E
+立案 1.0 l_B i4_I an4_E
+立马 1.0 l_B i4_I m_I a3_E
+站 1.0 zh_B an4_E
+竞技 1.0 j_B ing4_I j_I i4_E
+竞赛 1.0 j_B ing4_I s_I ai4_E
+笑 1.0 x_B iao4_E
+符号 1.0 f_B u2_I h_I ao4_E
+第一 1.0 d_B i4_I i1_E
+第五 1.0 d_B i4_I u3_E
+等 1.0 d_B eng3_E
+等到 1.0 d_B eng3_I d_I ao4_E
+等到 1.0 d_B eng3_I d_I ao5_E
+筹备 1.0 ch_B ou2_I b_I ei4_E
+筹款 1.0 ch_B ou2_I k_I uan3_E
+签名 1.0 q_B ian1_I m_I ing2_E
+签约 1.0 q_B ian1_I ve1_E
+简化 1.0 j_B ian3_I h_I ua4_E
+简单 1.0 j_B ian3_I d_I an1_E
+管理 1.0 g_B uan2_I l_I i3_E
+管理 1.0 g_B uan3_I l_I i3_E
+篮球 1.0 l_B an2_I q_I iu2_E
+籍 1.0 j_B i2_E
+米 1.0 m_B i3_E
+类似 1.0 l_B ei4_I s_I iy4_E
+精卫填海 1.0 j_B ing1_I ui4_I t_I ian2_I h_I ai3_E
+精武 1.0 j_B ing1_I u3_E
+精武门 1.0 j_B ing1_I u3_I m_I en2_E
+精灵 1.0 j_B ing1_I l_I ing2_E
+精神 1.0 j_B ing1_I sh_I en2_E
+精神 1.0 j_B ing1_I sh_I en5_E
+精神病 1.0 j_B ing1_I sh_I en2_I b_I ing4_E
+系列 1.0 x_B i4_I l_I ie4_E
+系统 1.0 x_B i4_I t_I ong3_E
+素有 1.0 s_B u4_I iu3_E
+索尼 1.0 s_B uo3_I n_I i2_E
+紫光 1.0 z_B iy3_I g_I uang1_E
+紫竹 1.0 z_B iy3_I zh_I u2_E
+累计 1.0 l_B ei3_I j_I i4_E
+繁华 1.0 f_B an2_I h_I ua2_E
+纠纷 1.0 j_B iu1_I f_I en1_E
+纠结 1.0 j_B iu1_I j_I ie2_E
+红 1.0 h_B ong2_E
+红利 1.0 h_B ong2_I l_I i4_E
+红星路 1.0 h_B ong2_I x_I ing1_I l_I u4_E
+红豆 1.0 h_B ong2_I d_I ou4_E
+约 1.0 ve1_S
+约束 1.0 ve1_B sh_I u4_E
+级 1.0 j_B i2_E
+纪念馆 1.0 j_B i4_I n_I ian4_I g_I uan3_E
+纷纷 1.0 f_B en1_I f_I en1_E
+组委会 1.0 z_B u2_I ui3_I h_I ui4_E
+组委会 1.0 z_B u3_I ui3_I h_I ui4_E
+组成 1.0 z_B u3_I ch_I eng2_E
+组织 1.0 z_B u3_I zh_I ix1_E
+细化 1.0 x_B i4_I h_I ua4_E
+终于 1.0 zh_B ong1_I u1_E
+终于 1.0 zh_B ong1_I v1_E
+终于 1.0 zh_B ong1_I v2_E
+终结 1.0 zh_B ong1_I j_I ie2_E
+绍兴 1.0 sh_B ao4_I x_I ing1_E
+绍兴 1.0 sh_B ao4_I x_I ing5_E
+经常性 1.0 j_B ing1_I ch_I ang2_I x_I ing4_E
+经济 1.0 j_B ing1_I j_I i4_E
+经济体 1.0 j_B ing1_I j_I i4_I t_I i3_E
+经纬 1.0 j_B ing1_I ui3_E
+经过 1.0 j_B ing1_I g_I uo4_E
+经验 1.0 j_B ing1_I ian4_E
+结合 1.0 j_B ie2_I h_I e2_E
+结束 1.0 j_B ie2_I sh_I u4_E
+结构 1.0 j_B ie2_I g_I ou4_E
+结果 1.0 j_B ie2_I g_I uo3_E
+给 1.0 g_B ei3_E
+给 1.0 j_B i3_E
+绝大多数 1.0 j_B ve2_I d_I a4_I d_I uo1_I sh_I u4_E
+绝对 1.0 j_B ve2_I d_I ui4_E
+统一 1.0 t_B ong3_I i1_E
+统计 1.0 t_B ong3_I j_I i4_E
+继续 1.0 j_B i4_I x_I v4_E
+继续 1.0 j_B i4_I x_I v5_E
+续航 1.0 x_B v4_I h_I ang2_E
+维修 1.0 ui2_B x_I iu1_E
+维护 1.0 ui2_B h_I u4_E
+维持 1.0 ui2_B ch_I ix2_E
+缓解 1.0 h_B uan2_I j_I ie3_E
+缓解 1.0 h_B uan3_I j_I ie3_E
+缩减 1.0 s_B uo1_I j_I ian3_E
+缺少 1.0 q_B ve1_I sh_I ao3_E
+网 1.0 uang3_S
+网友 1.0 uang2_B iu3_E
+网友 1.0 uang3_B iu3_E
+网友会 1.0 uang2_B iu3_I h_I ui4_E
+网络 1.0 uang3_B l_I uo4_E
+罚款 1.0 f_B a2_I k_I uan3_E
+美国 1.0 m_B ei3_I g_I uo2_E
+群体 1.0 q_B vn2_I t_I i3_E
+老 1.0 l_B ao3_E
+老三 1.0 l_B ao3_I s_I an1_E
+老妈 1.0 l_B ao3_I m_I a1_E
+老婆 1.0 l_B ao3_I p_I o2_E
+老婆 1.0 l_B ao3_I p_I o5_E
+老洋房 1.0 l_B ao3_I iang2_I f_I ang2_E
+考虑 1.0 k_B ao3_I l_I v4_E
+考试 1.0 k_B ao3_I sh_I ix4_E
+者 1.0 zh_B e3_E
+而 1.0 er2_S
+而且 1.0 er2_B q_I ie3_E
+而是 1.0 er2_B sh_I ix4_E
+耗电 1.0 h_B ao4_I d_I ian4_E
+耗电量 1.0 h_B ao4_I d_I ian4_I l_I iang4_E
+耗费 1.0 h_B ao4_I f_I ei4_E
+耳朵 1.0 er3_B d_I uo3_E
+耳朵 1.0 er3_B d_I uo5_E
+职业道德 1.0 zh_B ix2_I ie4_I d_I ao4_I d_I e2_E
+职务 1.0 zh_B ix2_I u4_E
+职能 1.0 zh_B ix2_I n_I eng2_E
+联合 1.0 l_B ian2_I h_I e2_E
+联盟 1.0 l_B ian2_I m_I eng2_E
+联系 1.0 l_B ian2_I x_I i4_E
+联系 1.0 l_B ian2_I x_I i5_E
+联络 1.0 l_B ian2_I l_I uo4_E
+聚焦 1.0 j_B v4_I j_I iao1_E
+肌肉 1.0 j_B i1_I r_I ou4_E
+肚子 1.0 d_B u3_I z_I iy5_E
+肚子 1.0 d_B u4_I z_I iy5_E
+肚皮 1.0 d_B u4_I p_I i2_E
+股东 1.0 g_B u3_I d_I ong1_E
+股票 1.0 g_B u3_I p_I iao4_E
+肺部 1.0 f_B ei4_I b_I u4_E
+胜利 1.0 sh_B eng4_I l_I i4_E
+胸部 1.0 x_B iong1_I b_I u4_E
+能 1.0 n_B eng2_E
+能力 1.0 n_B eng2_I l_I i4_E
+能够 1.0 n_B eng2_I g_I ou4_E
+能源 1.0 n_B eng2_I van2_E
+脚步 1.0 j_B iao3_I b_I u4_E
+自 1.0 z_B iy4_E
+自主 1.0 z_B iy4_I zh_I u3_E
+自住 1.0 z_B iy4_I zh_I u4_E
+自动 1.0 z_B iy4_I d_I ong4_E
+自家 1.0 z_B iy4_I j_I ia1_E
+自己 1.0 z_B iy4_I j_I i3_E
+自律 1.0 z_B iy4_I l_I v4_E
+自我 1.0 z_B iy4_I uo3_E
+自断 1.0 z_B iy4_I d_I uan4_E
+自此 1.0 z_B iy4_I c_I iy3_E
+自然 1.0 z_B iy4_I r_I an2_E
+自燃 1.0 z_B iy4_I r_I an2_E
+自由自在 1.0 z_B iy4_I iu2_I z_I iy4_I z_I ai4_E
+自行 1.0 z_B iy4_I x_I ing2_E
+自贡 1.0 z_B iy4_I g_I ong4_E
+自身 1.0 z_B iy4_I sh_I en1_E
+自驾车 1.0 z_B iy4_I j_I ia4_I ch_I e1_E
+臭名远扬 1.0 ch_B ou4_I m_I ing2_I van3_I iang2_E
+至 1.0 zh_B ix4_E
+至今 1.0 zh_B ix4_I j_I in1_E
+至少 1.0 zh_B ix4_I sh_I ao3_E
+致 1.0 zh_B ix4_E
+致电 1.0 zh_B ix4_I d_I ian4_E
+舆论 1.0 v2_B l_I un4_E
+芯片 1.0 x_B in1_I p_I ian4_E
+花上 1.0 h_B ua1_I sh_I ang3_E
+花上 1.0 h_B ua1_I sh_I ang4_E
+花园 1.0 h_B ua1_I van2_E
+苛刻 1.0 k_B e1_I k_I e4_E
+英国 1.0 ing1_B g_I uo2_E
+苹果 1.0 p_B ing2_I g_I uo3_E
+茂名 1.0 m_B ao4_I m_I ing2_E
+范围 1.0 f_B an4_I ui2_E
+范晓萱 1.0 f_B an4_I x_I iao3_I x_I van1_E
+茶 1.0 ch_B a2_E
+草案 1.0 c_B ao3_I an4_E
+荣昌 1.0 r_B ong2_I ch_I ang1_E
+荷塘月色 1.0 h_B e2_I t_I ang2_I ve4_I s_I e4_E
+获刑 1.0 h_B uo4_I x_I ing2_E
+获得 1.0 h_B uo4_I d_I e2_E
+获得成功 1.0 h_B uo4_I d_I e2_I ch_I eng2_I g_I ong1_E
+获悉 1.0 h_B uo4_I x_I i1_E
+菜 1.0 c_B ai4_E
+萎缩 1.0 ui3_B s_I uo1_E
+营业 1.0 ing2_B ie4_E
+营业税 1.0 ing2_B ie4_I sh_I ui4_E
+萨尔 1.0 s_B a4_I er3_E
+落地 1.0 l_B uo4_I d_I i4_E
+落实 1.0 l_B uo4_I sh_I ix2_E
+落户 1.0 l_B uo4_I h_I u4_E
+董事 1.0 d_B ong3_I sh_I ix4_E
+蔡康永 1.0 c_B ai4_I k_I ang1_I iong3_E
+藏品 1.0 c_B ang2_I p_I in3_E
+藏獒 1.0 z_B ang4_I ao2_E
+虹桥 1.0 h_B ong2_I q_I iao2_E
+虽 1.0 s_B ui1_E
+虽然 1.0 s_B ui1_I r_I an2_E
+蜀 1.0 sh_B u3_E
+蜀九香 1.0 sh_B u3_I j_I iu3_I x_I iang1_E
+蜀山 1.0 sh_B u3_I sh_I an1_E
+血案 1.0 x_B ve4_I an4_E
+行业 1.0 h_B ang2_I ie4_E
+行为 1.0 x_B ing2_I ui2_E
+行列 1.0 h_B ang2_I l_I ie4_E
+行政 1.0 x_B ing2_I zh_I eng4_E
+行程 1.0 x_B ing2_I ch_I eng2_E
+衣袖 1.0 i1_B x_I iu4_E
+补上 1.0 b_B u3_I sh_I ang4_E
+补上 1.0 b_B u3_I sh_I ang5_E
+补助 1.0 b_B u3_I zh_I u4_E
+表态 1.0 b_B iao3_I t_I ai4_E
+表示 1.0 b_B iao3_I sh_I ix4_E
+表示感谢 1.0 b_B iao3_I sh_I ix4_I g_I an3_I x_I ie4_E
+被 1.0 b_B ei4_E
+袭击 1.0 x_B i2_I j_I i1_E
+装入 1.0 zh_B uang1_I r_I u4_E
+装饰 1.0 zh_B uang1_I sh_I ix4_E
+西南 1.0 x_B i1_I n_I an2_E
+西堤 1.0 x_B i1_I d_I i1_E
+西航 1.0 x_B i1_I h_I ang2_E
+西路 1.0 x_B i1_I l_I u4_E
+西门 1.0 x_B i1_I m_I en2_E
+要 1.0 iao1_S
+要 1.0 iao4_S
+要求 1.0 iao1_B q_I iu2_E
+要素 1.0 iao4_B s_I u4_E
+覆盖 1.0 f_B u4_I g_I ai4_E
+见 1.0 j_B ian4_E
+见 1.0 x_B ian4_E
+见习 1.0 j_B ian4_I x_I i2_E
+观众 1.0 g_B uan1_I zh_I ong4_E
+观察 1.0 g_B uan1_I ch_I a2_E
+规划 1.0 g_B ui1_I h_I ua4_E
+规则 1.0 g_B ui1_I z_I e2_E
+规定 1.0 g_B ui1_I d_I ing4_E
+规范 1.0 g_B ui1_I f_I an4_E
+视觉 1.0 sh_B ix4_I j_I ve2_E
+视频 1.0 sh_B ix4_I p_I in2_E
+觉得 1.0 j_B ve2_I d_I e5_E
+角度 1.0 j_B iao3_I d_I u4_E
+角色 1.0 j_B ve2_I s_I e4_E
+解决 1.0 j_B ie3_I j_I ve2_E
+解决方案 1.0 j_B ie3_I j_I ve2_I f_I ang1_I an4_E
+解决问题 1.0 j_B ie3_I j_I ve2_I un4_I t_I i2_E
+解决问题 1.0 j_B ie3_I j_I ve2_I un4_I t_I i3_E
+解套 1.0 j_B ie3_I t_I ao4_E
+解散 1.0 j_B ie3_I s_I an4_E
+解析 1.0 j_B ie3_I x_I i1_E
+言语 1.0 ian2_B v3_E
+警察 1.0 j_B ing3_I ch_I a2_E
+警方 1.0 j_B ing3_I f_I ang1_E
+计划 1.0 j_B i4_I h_I ua4_E
+计划 1.0 j_B i4_I h_I ua5_E
+计提 1.0 j_B i4_I t_I i2_E
+计生 1.0 j_B i4_I sh_I eng1_E
+认为 1.0 r_B en4_I ui2_E
+认真 1.0 r_B en4_I zh_I en1_E
+让 1.0 r_B ang4_E
+讯 1.0 x_B vn4_E
+记录 1.0 j_B i4_I l_I u4_E
+记者 1.0 j_B i4_I zh_I e3_E
+记者会 1.0 j_B i4_I zh_I e3_I h_I ui4_E
+讲 1.0 j_B iang3_E
+讲究 1.0 j_B iang3_I j_I iu1_E
+讲述 1.0 j_B iang3_I sh_I u4_E
+许 1.0 x_B v3_E
+许多 1.0 x_B v3_I d_I uo1_E
+设 1.0 sh_B e4_E
+设为 1.0 sh_B e4_I ui2_E
+设备 1.0 sh_B e4_I b_I ei4_E
+设备 1.0 sh_B e4_I b_I ei5_E
+设定 1.0 sh_B e4_I d_I ing4_E
+设想 1.0 sh_B e4_I x_I iang3_E
+设立 1.0 sh_B e4_I l_I i4_E
+设计 1.0 sh_B e4_I j_I i4_E
+设计 1.0 sh_B e4_I j_I i5_E
+设计师 1.0 sh_B e4_I j_I i4_I sh_I ix1_E
+设计师 1.0 sh_B e4_I j_I i5_I sh_I ix1_E
+设计界 1.0 sh_B e4_I j_I i4_I j_I ie4_E
+证 1.0 zh_B eng4_E
+证券 1.0 zh_B eng4_I q_I van4_E
+证券化 1.0 zh_B eng4_I q_I van4_I h_I ua4_E
+证监会 1.0 zh_B eng4_I j_I ian1_I h_I ui4_E
+试探 1.0 sh_B ix4_I t_I an4_E
+试探 1.0 sh_B ix4_I t_I an5_E
+试点 1.0 sh_B ix4_I d_I ian3_E
+话题 1.0 h_B ua4_I t_I i2_E
+诡异 1.0 g_B ui3_I i4_E
+该 1.0 g_B ai1_E
+该校 1.0 g_B ai1_I x_I iao4_E
+该法 1.0 g_B ai1_I f_I a3_E
+详细 1.0 x_B iang2_I x_I i4_E
+说 1.0 sh_B ui4_E
+说 1.0 sh_B uo1_E
+说 1.0 ve4_S
+说明 1.0 sh_B uo1_I m_I ing2_E
+读卖新闻 1.0 d_B u2_I m_I ai4_I x_I in1_I un2_E
+诽谤 1.0 f_B ei3_I b_I ang4_E
+谁 1.0 sh_B ei2_E
+谁 1.0 sh_B ui2_E
+调 1.0 d_B iao4_E
+调 1.0 t_B iao2_E
+调动 1.0 d_B iao4_I d_I ong4_E
+调控 1.0 t_B iao2_I k_I ong4_E
+调整 1.0 t_B iao2_I zh_I eng3_E
+调查 1.0 d_B iao4_I ch_I a2_E
+调查组 1.0 d_B iao4_I ch_I a2_I z_I u3_E
+调节 1.0 t_B iao2_I j_I ie2_E
+谎言 1.0 h_B uang3_I ian2_E
+谢罪 1.0 x_B ie4_I z_I ui4_E
+负责 1.0 f_B u4_I z_I e2_E
+负责人 1.0 f_B u4_I z_I e2_I r_I en2_E
+贡献 1.0 g_B ong4_I x_I ian4_E
+财产 1.0 c_B ai2_I ch_I an3_E
+财政 1.0 c_B ai2_I zh_I eng4_E
+账户 1.0 zh_B ang4_I h_I u4_E
+货车 1.0 h_B uo4_I ch_I e1_E
+质疑 1.0 zh_B ix4_I i2_E
+购买 1.0 g_B ou4_I m_I ai3_E
+购买力 1.0 g_B ou4_I m_I ai3_I l_I i4_E
+购房 1.0 g_B ou4_I f_I ang2_E
+购房者 1.0 g_B ou4_I f_I ang2_I zh_I e3_E
+购物 1.0 g_B ou4_I u4_E
+贯彻 1.0 g_B uan4_I ch_I e4_E
+贵妃醉酒 1.0 g_B ui4_I f_I ei1_I z_I ui4_I j_I iu3_E
+贷款 1.0 d_B ai4_I k_I uan3_E
+费 1.0 f_B ei4_E
+费用 1.0 f_B ei4_I iong4_E
+费用 1.0 f_B ei4_I iong5_E
+资产 1.0 z_B iy1_I ch_I an3_E
+资本 1.0 z_B iy1_I b_I en3_E
+资本论 1.0 z_B iy1_I b_I en3_I l_I un4_E
+资源 1.0 z_B iy1_I van2_E
+赔 1.0 p_B ei2_E
+赚钱 1.0 zh_B uan4_I q_I ian2_E
+赛事 1.0 s_B ai4_I sh_I ix4_E
+赛场 1.0 s_B ai4_I ch_I ang3_E
+赢得 1.0 ing2_B d_I e2_E
+走 1.0 z_B ou3_E
+走失 1.0 z_B ou3_I sh_I ix1_E
+走访 1.0 z_B ou2_I f_I ang3_E
+走访 1.0 z_B ou3_I f_I ang3_E
+走进 1.0 z_B ou3_I j_I in4_E
+赶到 1.0 g_B an3_I d_I ao4_E
+赶往 1.0 g_B an2_I uang3_E
+赶往 1.0 g_B an3_I uang3_E
+赶来 1.0 g_B an3_I l_I ai2_E
+起 1.0 q_B i3_E
+起来 1.0 q_B i3_I l_I ai2_E
+起来 1.0 q_B i3_I l_I ai3_E
+起来 1.0 q_B i3_I l_I ai5_E
+起火 1.0 q_B i2_I h_I uo3_E
+起火 1.0 q_B i3_I h_I uo3_E
+起点 1.0 q_B i2_I d_I ian3_E
+起点 1.0 q_B i3_I d_I ian3_E
+起草 1.0 q_B i2_I c_I ao3_E
+起草 1.0 q_B i3_I c_I ao3_E
+起诉 1.0 q_B i3_I s_I u4_E
+超 1.0 ch_B ao1_E
+超市 1.0 ch_B ao1_I sh_I ix4_E
+超生 1.0 ch_B ao1_I sh_I eng1_E
+超过 1.0 ch_B ao1_I g_I uo4_E
+越来越 1.0 ve4_B l_I ai2_I ve4_E
+趋势 1.0 q_B v1_I sh_I ix4_E
+趣味 1.0 q_B v4_I ui4_E
+足以 1.0 z_B u2_I i3_E
+足够 1.0 z_B u2_I g_I ou4_E
+足额 1.0 z_B u2_I e2_E
+趴 1.0 p_B a1_E
+跃入 1.0 ve4_B r_I u4_E
+距离 1.0 j_B v4_I l_I i2_E
+跟 1.0 g_B en1_E
+跨国 1.0 k_B ua4_I g_I uo2_E
+跨界 1.0 k_B ua4_I j_I ie4_E
+路 1.0 l_B u4_E
+路口 1.0 l_B u4_I k_I ou3_E
+路店 1.0 l_B u4_I d_I ian4_E
+身上 1.0 sh_B en1_I sh_I ang3_E
+身上 1.0 sh_B en1_I sh_I ang4_E
+身穿 1.0 sh_B en1_I ch_I uan1_E
+身躯 1.0 sh_B en1_I q_I v1_E
+躲雨 1.0 d_B uo2_I v3_E
+躲雨 1.0 d_B uo3_I v3_E
+车 1.0 ch_B e1_E
+车 1.0 j_B v1_E
+车库 1.0 ch_B e1_I k_I u4_E
+车辆 1.0 ch_B e1_I l_I iang4_E
+车道 1.0 ch_B e1_I d_I ao4_E
+转向 1.0 zh_B uan3_I x_I iang4_E
+转换 1.0 zh_B uan3_I h_I uan4_E
+转移 1.0 zh_B uan3_I i2_E
+轮廓 1.0 l_B un2_I k_I uo4_E
+轰 1.0 h_B ong1_E
+轿车 1.0 j_B iao4_I ch_I e1_E
+较 1.0 j_B iao4_E
+较大 1.0 j_B iao4_I d_I a4_E
+较量 1.0 j_B iao4_I l_I iang4_E
+较量 1.0 j_B iao4_I l_I iang5_E
+辅助 1.0 f_B u3_I zh_I u4_E
+边际 1.0 b_B ian1_I j_I i4_E
+达 1.0 d_B a2_E
+达到 1.0 d_B a2_I d_I ao4_E
+达成 1.0 d_B a2_I ch_I eng2_E
+达成协议 1.0 d_B a2_I ch_I eng2_I x_I ie2_I i4_E
+迁至 1.0 q_B ian1_I zh_I ix4_E
+迄今 1.0 q_B i4_I j_I in1_E
+迅速 1.0 x_B vn4_I s_I u4_E
+过 1.0 g_B uo4_E
+过半 1.0 g_B uo4_I b_I an4_E
+过去 1.0 g_B uo4_I q_I v4_E
+过去 1.0 g_B uo4_I q_I v5_E
+过生日 1.0 g_B uo4_I sh_I eng1_I r_I iz4_E
+过程 1.0 g_B uo4_I ch_I eng2_E
+过程 1.0 g_B uo4_I ch_I eng3_E
+迎来 1.0 ing2_B l_I ai2_E
+运作 1.0 vn4_B z_I uo4_E
+运动 1.0 vn4_B d_I ong3_E
+运动 1.0 vn4_B d_I ong4_E
+运动员 1.0 vn4_B d_I ong4_I van2_E
+运用 1.0 vn4_B iong4_E
+运算 1.0 vn4_B s_I uan4_E
+运营 1.0 vn4_B ing2_E
+运行 1.0 vn4_B x_I ing2_E
+近 1.0 j_B in4_E
+近年来 1.0 j_B in4_I n_I ian2_I l_I ai2_E
+近日 1.0 j_B in4_I r_I iz4_E
+近期 1.0 j_B in4_I q_I i1_E
+近来 1.0 j_B in4_I l_I ai2_E
+近照 1.0 j_B in4_I zh_I ao4_E
+返还 1.0 f_B an3_I h_I uan2_E
+还 1.0 h_B ai2_E
+还 1.0 h_B uan2_E
+还是 1.0 h_B ai2_I sh_I ix3_E
+还是 1.0 h_B ai2_I sh_I ix4_E
+还有 1.0 h_B ai2_I iu3_E
+还要 1.0 h_B ai2_I iao4_E
+这 1.0 zh_B e4_E
+这 1.0 zh_B ei4_E
+这一 1.0 zh_B e4_I i1_E
+这一 1.0 zh_B ei4_I i1_E
+这个 1.0 zh_B e4_I g_I e4_E
+这个 1.0 zh_B e4_I g_I e5_E
+这个 1.0 zh_B ei4_I g_I e5_E
+这些 1.0 zh_B e4_I x_I ie1_E
+这些 1.0 zh_B ei4_I x_I ie1_E
+这位 1.0 zh_B e4_I ui4_E
+这位 1.0 zh_B ei4_I ui4_E
+这场 1.0 zh_B e4_I ch_I ang3_E
+这场 1.0 zh_B ei4_I ch_I ang3_E
+这家 1.0 zh_B e4_I j_I ia1_E
+这家 1.0 zh_B ei4_I j_I ia1_E
+这座 1.0 zh_B e4_I z_I uo4_E
+这座 1.0 zh_B ei4_I z_I uo4_E
+这才 1.0 zh_B e4_I c_I ai2_E
+这才 1.0 zh_B ei4_I c_I ai2_E
+这方面 1.0 zh_B e4_I f_I ang1_I m_I ian4_E
+这方面 1.0 zh_B ei4_I f_I ang1_I m_I ian4_E
+这样 1.0 zh_B e4_I iang4_E
+这样 1.0 zh_B e4_I iang5_E
+这样 1.0 zh_B ei4_I iang4_E
+这次 1.0 zh_B e4_I c_I iy4_E
+这次 1.0 zh_B ei4_I c_I iy4_E
+这种 1.0 zh_B e4_I zh_I ong3_E
+这种 1.0 zh_B ei4_I zh_I ong3_E
+这类 1.0 zh_B e4_I l_I ei4_E
+这类 1.0 zh_B ei4_I l_I ei4_E
+这项 1.0 zh_B e4_I x_I iang4_E
+这项 1.0 zh_B ei4_I x_I iang4_E
+进一步 1.0 j_B in4_I i1_I b_I u4_E
+进一步 1.0 j_B in4_I i2_I b_I u4_E
+进入 1.0 j_B in4_I r_I u4_E
+进行 1.0 j_B in4_I x_I ing2_E
+远东 1.0 van3_B d_I ong1_E
+远远 1.0 van2_B van3_E
+远远 1.0 van3_B van3_E
+违法 1.0 ui2_B f_I a3_E
+违规行为 1.0 ui2_B g_I ui1_I x_I ing2_I ui2_E
+连 1.0 l_B ian2_E
+迟到 1.0 ch_B ix2_I d_I ao4_E
+迹象 1.0 j_B i4_I x_I iang4_E
+迹象 1.0 j_B i4_I x_I iang5_E
+追尾 1.0 zh_B ui1_I ui3_E
+追踪 1.0 zh_B ui1_I z_I ong1_E
+追逃 1.0 zh_B ui1_I t_I ao2_E
+追随 1.0 zh_B ui1_I s_I ui2_E
+退出 1.0 t_B ui4_I ch_I u1_E
+退市 1.0 t_B ui4_I sh_I ix4_E
+送 1.0 s_B ong4_E
+送医 1.0 s_B ong4_I i1_E
+送往 1.0 s_B ong4_I uang3_E
+适应性 1.0 sh_B ix4_I ing4_I x_I ing4_E
+适当 1.0 sh_B ix4_I d_I ang1_E
+适当 1.0 sh_B ix4_I d_I ang4_E
+适当 1.0 sh_B ix4_I d_I ang5_E
+适时 1.0 sh_B ix4_I sh_I ix2_E
+适用 1.0 sh_B ix4_I iong4_E
+逃走 1.0 t_B ao2_I z_I ou3_E
+逃跑 1.0 t_B ao2_I p_I ao3_E
+逆差 1.0 n_B i4_I ch_I a1_E
+逆战 1.0 n_B i4_I zh_I an4_E
+逆行 1.0 n_B i4_I x_I ing2_E
+选定 1.0 x_B van3_I d_I ing4_E
+选手 1.0 x_B van2_I sh_I ou3_E
+选手 1.0 x_B van3_I sh_I ou3_E
+选拔 1.0 x_B van3_I b_I a2_E
+选择 1.0 x_B van3_I z_I e2_E
+透明 1.0 t_B ou4_I m_I ing2_E
+透明性 1.0 t_B ou4_I m_I ing2_I x_I ing4_E
+透露 1.0 t_B ou4_I l_I u4_E
+逐渐 1.0 zh_B u2_I j_I ian4_E
+递交 1.0 d_B i4_I j_I iao1_E
+途中 1.0 t_B u2_I zh_I ong1_E
+通信 1.0 t_B ong1_I x_I in4_E
+通气会 1.0 t_B ong1_I q_I i4_I h_I ui4_E
+通过 1.0 t_B ong1_I g_I uo4_E
+造成 1.0 z_B ao4_I ch_I eng2_E
+造星 1.0 z_B ao4_I x_I ing1_E
+遇到 1.0 v4_B d_I ao4_E
+遇到 1.0 v4_B d_I ao5_E
+道 1.0 d_B ao4_E
+道路 1.0 d_B ao4_I l_I u4_E
+遭 1.0 z_B ao1_E
+遴选 1.0 l_B in2_I x_I van3_E
+避免 1.0 b_B i4_I m_I ian3_E
+那 1.0 n_B a1_E
+那 1.0 n_B a4_E
+那 1.0 n_B e4_E
+那 1.0 n_B ei4_E
+那么 1.0 n_B a4_I m_I e5_E
+那么 1.0 n_B a4_I m_I o2_E
+那么 1.0 n_B e4_I m_I o2_E
+那么 1.0 n_B ei4_I m_I o2_E
+那时 1.0 n_B a4_I sh_I ix2_E
+那时 1.0 n_B ei4_I sh_I ix2_E
+那样 1.0 n_B a4_I iang3_E
+那样 1.0 n_B a4_I iang4_E
+那样 1.0 n_B ei4_I iang3_E
+部分 1.0 b_B u4_I f_I en4_E
+部分 1.0 b_B u4_I f_I en5_E
+部门 1.0 b_B u4_I m_I en2_E
+都 1.0 d_B ou1_E
+都 1.0 d_B u1_E
+都江堰 1.0 d_B u1_I j_I iang1_I ian4_E
+配备 1.0 p_B ei4_I b_I ei4_E
+配套 1.0 p_B ei4_I t_I ao4_E
+酒吧 1.0 j_B iu3_I b_I a1_E
+酒吧街 1.0 j_B iu3_I b_I a1_I j_I ie1_E
+酒家 1.0 j_B iu3_I j_I ia1_E
+酒托 1.0 j_B iu3_I t_I uo1_E
+酒楼 1.0 j_B iu3_I l_I ou2_E
+酷似 1.0 k_B u4_I s_I iy4_E
+采取 1.0 c_B ai2_I q_I v3_E
+采取 1.0 c_B ai3_I q_I v3_E
+采访 1.0 c_B ai2_I f_I ang3_E
+采访 1.0 c_B ai3_I f_I ang3_E
+释放 1.0 sh_B ix4_I f_I ang4_E
+里 1.0 l_B i3_E
+重塑 1.0 ch_B ong2_I s_I u4_E
+重大 1.0 zh_B ong4_I d_I a4_E
+重庆 1.0 ch_B ong2_I q_I ing4_E
+重整 1.0 ch_B ong2_I zh_I eng3_E
+重新 1.0 ch_B ong2_I x_I in1_E
+重点 1.0 zh_B ong4_I d_I ian3_E
+重要 1.0 zh_B ong4_I iao4_E
+重要性 1.0 zh_B ong4_I iao4_I x_I ing4_E
+重视 1.0 zh_B ong4_I sh_I ix3_E
+重视 1.0 zh_B ong4_I sh_I ix4_E
+量 1.0 l_B iang2_E
+量 1.0 l_B iang4_E
+量身 1.0 l_B iang2_I sh_I en1_E
+金 1.0 j_B in1_E
+金融 1.0 j_B in1_I r_I ong2_E
+针对 1.0 zh_B en1_I d_I ui4_E
+针对性 1.0 zh_B en1_I d_I ui4_I x_I ing4_E
+针对性 1.0 zh_B en1_I d_I ui4_I x_I ing5_E
+钱 1.0 q_B ian2_E
+钻戒 1.0 z_B uan4_I j_I ie4_E
+铆劲 1.0 m_B ao3_I j_I in4_E
+铆劲 1.0 m_B ao3_I j_I ing4_E
+银行 1.0 in2_B h_I ang2_E
+铺开 1.0 p_B u1_I k_I ai1_E
+铺开 1.0 p_B u4_I k_I ai1_E
+链子 1.0 l_B ian4_I z_I iy5_E
+销售 1.0 x_B iao1_I sh_I ou4_E
+销货 1.0 x_B iao1_I h_I uo4_E
+锁死 1.0 s_B uo3_I s_I iy3_E
+锐减 1.0 r_B ui4_I j_I ian3_E
+长 1.0 ch_B ang2_E
+长 1.0 zh_B ang3_E
+长假 1.0 ch_B ang2_I j_I ia4_E
+长效 1.0 ch_B ang2_I x_I iao4_E
+长时间 1.0 ch_B ang2_I sh_I ix2_I j_I ian1_E
+门 1.0 m_B en2_E
+门口 1.0 m_B en2_I k_I ou3_E
+问到 1.0 un4_B d_I ao4_E
+问到 1.0 un4_B d_I ao5_E
+问题 1.0 un4_B t_I i2_E
+问题 1.0 un4_B t_I i3_E
+闯 1.0 ch_B uang3_E
+间隙 1.0 j_B ian4_I x_I i4_E
+阴阳 1.0 in1_B iang2_E
+阻 1.0 z_B u3_E
+阻止 1.0 z_B u2_I zh_I ix3_E
+阻止 1.0 z_B u3_I zh_I ix3_E
+阿 1.0 a1_S
+阿 1.0 e1_S
+附近 1.0 f_B u4_I j_I in4_E
+陆续 1.0 l_B u4_I x_I v4_E
+陆续 1.0 l_B u4_I x_I v5_E
+陈子 1.0 ch_B en2_I z_I iy3_E
+陈小春 1.0 ch_B en2_I x_I iao3_I ch_I un1_E
+陈真 1.0 ch_B en2_I zh_I en1_E
+降 1.0 j_B iang4_E
+降 1.0 x_B iang2_E
+降低 1.0 j_B iang4_I d_I i1_E
+降息 1.0 j_B iang4_I x_I i1_E
+限制 1.0 x_B ian4_I zh_I ix4_E
+限度 1.0 x_B ian4_I d_I u4_E
+限购 1.0 x_B ian4_I g_I ou4_E
+院 1.0 van4_S
+除 1.0 ch_B u2_E
+除了 1.0 ch_B u2_I l_I e5_E
+陪 1.0 p_B ei2_E
+随后 1.0 s_B ui2_I h_I ou4_E
+随着 1.0 s_B ui2_I zh_I e5_E
+障碍 1.0 zh_B ang4_I ai4_E
+障碍 1.0 zh_B ang4_I ai5_E
+隼 1.0 s_B un3_E
+难 1.0 n_B an2_E
+难 1.0 n_B an4_E
+难以 1.0 n_B an2_I i3_E
+难易 1.0 n_B an2_I i4_E
+难题 1.0 n_B an2_I t_I i2_E
+集 1.0 j_B i2_E
+集中 1.0 j_B i2_I zh_I ong1_E
+集团 1.0 j_B i2_I t_I uan2_E
+雨 1.0 v3_S
+雨具 1.0 v3_B j_I v4_E
+雪崩 1.0 x_B ve3_I b_I eng1_E
+零 1.0 l_B ing2_E
+零零 1.0 l_B ing2_I l_I ing2_E
+雷诺 1.0 l_B ei2_I n_I uo4_E
+需 1.0 x_B v1_E
+需求 1.0 x_B v1_I q_I iu2_E
+需要 1.0 x_B v1_I iao4_E
+青少年 1.0 q_B ing1_I sh_I ao4_I n_I ian2_E
+青春 1.0 q_B ing1_I ch_I un1_E
+青梅竹马 1.0 q_B ing1_I m_I ei2_I zh_I u2_I m_I a3_E
+静安 1.0 j_B ing4_I an1_E
+非 1.0 f_B ei1_E
+非常 1.0 f_B ei1_I ch_I ang2_E
+靠 1.0 k_B ao4_E
+面前 1.0 m_B ian4_I q_I ian2_E
+韩国 1.0 h_B an2_I g_I uo2_E
+音乐 1.0 in1_B ve4_E
+顶住 1.0 d_B ing3_I zh_I u4_E
+顶层 1.0 d_B ing3_I c_I eng2_E
+项目 1.0 x_B iang4_I m_I u4_E
+项链 1.0 x_B iang4_I l_I ian4_E
+顺 1.0 sh_B un4_E
+顾问 1.0 g_B u4_I un4_E
+预产期 1.0 v4_B ch_I an3_I q_I i1_E
+预料到 1.0 v4_B l_I iao4_I d_I ao4_E
+预料到 1.0 v4_B l_I iao4_I d_I ao5_E
+预期 1.0 v4_B q_I i1_E
+预测 1.0 v4_B c_I e4_E
+预计 1.0 v4_B j_I i4_E
+领先 1.0 l_B ing3_I x_I ian1_E
+领域 1.0 l_B ing3_I v4_E
+领导小组 1.0 l_B ing2_I d_I ao3_I x_I iao2_I z_I u3_E
+频繁 1.0 p_B in2_I f_I an2_E
+频道 1.0 p_B in2_I d_I ao4_E
+频频 1.0 p_B in2_I p_I in2_E
+颠覆 1.0 d_B ian1_I f_I u4_E
+风向 1.0 f_B eng1_I x_I iang4_E
+风月 1.0 f_B eng1_I ve4_E
+风波 1.0 f_B eng1_I b_I o1_E
+风险 1.0 f_B eng1_I x_I ian3_E
+飞鸿 1.0 f_B ei1_I h_I ong2_E
+食品 1.0 sh_B ix2_I p_I in3_E
+饕餮 1.0 t_B ao1_I t_I ie4_E
+饭店 1.0 f_B an4_I d_I ian4_E
+饺子 1.0 j_B iao3_I z_I iy5_E
+馆 1.0 g_B uan3_E
+首 1.0 sh_B ou3_E
+首付 1.0 sh_B ou3_I f_I u4_E
+首先 1.0 sh_B ou3_I x_I ian1_E
+首尔 1.0 sh_B ou2_I er3_E
+首尔 1.0 sh_B ou3_I er3_E
+首席 1.0 sh_B ou3_I x_I i2_E
+首次 1.0 sh_B ou3_I c_I iy4_E
+首要 1.0 sh_B ou3_I iao4_E
+马上 1.0 m_B a3_I sh_I ang4_E
+马上 1.0 m_B a3_I sh_I ang5_E
+马市 1.0 m_B a3_I sh_I ix4_E
+马龙 1.0 m_B a3_I l_I ong2_E
+驴 1.0 l_B v2_E
+驾驶 1.0 j_B ia4_I sh_I ix3_E
+骷髅 1.0 k_B u1_I l_I ou2_E
+高 1.0 g_B ao1_E
+高原 1.0 g_B ao1_I van2_E
+高峰 1.0 g_B ao1_I f_I eng1_E
+高峰期 1.0 g_B ao1_I f_I eng1_I q_I i1_E
+高度 1.0 g_B ao1_I d_I u4_E
+高性能 1.0 g_B ao1_I x_I ing4_I n_I eng2_E
+高管 1.0 g_B ao1_I g_I uan3_E
+高级 1.0 g_B ao1_I j_I i2_E
+高谈阔论 1.0 g_B ao1_I t_I an2_I k_I uo4_I l_I un4_E
+高质量 1.0 g_B ao1_I zh_I ix4_I l_I iang4_E
+高质量 1.0 g_B ao1_I zh_I ix4_I l_I iang5_E
+高超 1.0 g_B ao1_I ch_I ao1_E
+高速 1.0 g_B ao1_I s_I u4_E
+魂 1.0 h_B un2_E
+魔法 1.0 m_B o2_I f_I a3_E
+鲁莽 1.0 l_B u2_I m_I ang3_E
+鲁莽 1.0 l_B u3_I m_I ang3_E
+鳝鱼 1.0 sh_B an4_I v2_E
+黄浦 1.0 h_B uang2_I p_I u3_E
+黑色 1.0 h_B ei1_I s_I e4_E
+鼓励 1.0 g_B u3_I l_I i4_E
+龙 1.0 l_B ong2_E
+龙耀 1.0 l_B ong2_I iao4_E

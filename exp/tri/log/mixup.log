@@ -1,0 +1,3 @@
+gmm-mixup --mix-up=2500 /root/data/mys/data/exp/tri/1.mdl /root/data/mys/data/exp/tri/1.occs /root/data/mys/data/exp/tri/1.mdl 
+LOG (gmm-mixup[5.5.1008~1-0be61]:SplitByCount():am-diag-gmm.cc:116) Split 1448 states with target = 2500, power = 0.2, perturb_factor = 0.01 and min_count = 20, split #Gauss from 1448 to 2500
+LOG (gmm-mixup[5.5.1008~1-0be61]:main():gmm-mixup.cc:103) Written model to /root/data/mys/data/exp/tri/1.mdl

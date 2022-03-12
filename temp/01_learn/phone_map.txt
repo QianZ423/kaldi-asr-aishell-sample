@@ -1,0 +1,17 @@
+SIL SIL SIL_B SIL_E SIL_I SIL_S 
+ai2 ai2_B ai2_E ai2_I ai2_S 
+ao3 ao3_B ao3_E ao3_I ao3_S 
+b b_B b_E b_I b_S 
+en1 en1_B en1_E en1_I en1_S 
+h h_B h_E h_I h_S 
+i4 i4_B i4_E i4_I i4_S 
+ian1 ian1_B ian1_E ian1_I ian1_S 
+in1 in1_B in1_E in1_I in1_S 
+ing2 ing2_B ing2_E ing2_I ing2_S 
+j j_B j_E j_I j_S 
+q q_B q_E q_I q_S 
+t t_B t_E t_I t_S 
+u2 u2_B u2_E u2_I u2_S 
+uan2 uan2_B uan2_E uan2_I uan2_S 
+x x_B x_E x_I x_S 
+zh zh_B zh_E zh_I zh_S 

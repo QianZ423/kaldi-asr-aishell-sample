@@ -1,0 +1,7 @@
+# set -o pipefail && ali-to-phones --write-lengths=true /root/data/mys/data/exp/mono/final.mdl "ark:gunzip -c /root/data/mys/data/exp/mono/ali.1.gz|" ark,t:- | sed -E "s/^[^ ]+ //" | awk 'BEGIN{FS=" ; "; OFS="\n";} {print "begin " $1; if (NF>1) print "end " $NF; for (n=1;n<=NF;n++) print "all " $n; }' | sort | uniq -c | gzip -c > /root/data/mys/data/exp/mono/phone_stats.1.gz 
+# Started at Fri Feb 25 15:27:05 CST 2022
+#
+ali-to-phones --write-lengths=true /root/data/mys/data/exp/mono/final.mdl 'ark:gunzip -c /root/data/mys/data/exp/mono/ali.1.gz|' ark,t:- 
+LOG (ali-to-phones[5.5.1008~1-0be61]:main():ali-to-phones.cc:134) Done 1000 utterances.
+# Accounting: time=1 threads=1
+# Ended (code 0) at Fri Feb 25 15:27:06 CST 2022, elapsed time 1 seconds

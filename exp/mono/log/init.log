@@ -1,0 +1,9 @@
+# gmm-init-mono --shared-phones=/root/data/mys/data/L/lang/phones/sets.int "--train-feats=ark,s,cs:apply-cmvn  --utt2spk=ark:/root/data/mys/data/kaldi_file/split1/1/utt2spk scp:/root/data/mys/data/kaldi_file/split1/1/cmvn.scp scp:/root/data/mys/data/kaldi_file/split1/1/feats.scp ark:- | add-deltas  ark:- ark:- | subset-feats --n=10 ark:- ark:-|" /root/data/mys/data/L/lang/topo 39 /root/data/mys/data/exp/mono/0.mdl /root/data/mys/data/exp/mono/tree 
+# Started at Fri Feb 25 15:23:02 CST 2022
+#
+gmm-init-mono --shared-phones=/root/data/mys/data/L/lang/phones/sets.int '--train-feats=ark,s,cs:apply-cmvn  --utt2spk=ark:/root/data/mys/data/kaldi_file/split1/1/utt2spk scp:/root/data/mys/data/kaldi_file/split1/1/cmvn.scp scp:/root/data/mys/data/kaldi_file/split1/1/feats.scp ark:- | add-deltas  ark:- ark:- | subset-feats --n=10 ark:- ark:-|' /root/data/mys/data/L/lang/topo 39 /root/data/mys/data/exp/mono/0.mdl /root/data/mys/data/exp/mono/tree 
+apply-cmvn --utt2spk=ark:/root/data/mys/data/kaldi_file/split1/1/utt2spk scp:/root/data/mys/data/kaldi_file/split1/1/cmvn.scp scp:/root/data/mys/data/kaldi_file/split1/1/feats.scp ark:- 
+subset-feats --n=10 ark:- ark:- 
+add-deltas ark:- ark:- 
+# Accounting: time=2 threads=1
+# Ended (code 0) at Fri Feb 25 15:23:04 CST 2022, elapsed time 2 seconds

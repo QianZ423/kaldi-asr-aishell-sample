@@ -1,0 +1,2914 @@
+<SIL> <SIL> SIL_S
+<eps> <eps> SIL
+A A EY1_S
+BABY BABY B_B EY1_I B_I IY0_E
+BABY BABY B_B IY1_I EY1_I B_I IY1_I W_I AY1_E
+CALLMEMAYBE CALLMEMAYBE K_B AE1_I L_I M_I EY0_I M_I EY1_I B_I IY0_E
+CPU CPU S_B IY1_I P_I IY1_I Y_I UW1_E
+D D D_B IY1_E
+DJ DJ D_B IY1_I JH_I EY1_E
+DRAM DRAM D_B IY1_I AA1_I R_I EY1_I EH1_I M_E
+DRAM DRAM D_B IY1_I R_I AE2_I M_E
+DRAM DRAM D_B R_I AE1_I M_E
+EYN EYN EH1_B AH0_I N_E
+F F EH1_B F_E
+GPS GPS G_B IY1_I P_I IY0_I EH1_I S_E
+GPS GPS JH_B IY1_I P_I IY1_I EH1_I S_E
+HANNAH HANNAH EY1_B CH_I EY1_I EH1_I N_I EH1_I N_I EY1_I EY1_I CH_E
+HANNAH HANNAH HH_B AE1_I N_I AH0_E
+HOLD HOLD EY1_B CH_I OW1_I EH1_I L_I D_I IY1_E
+HOLD HOLD HH_B OW1_I L_I D_E
+IC IC AY1_B S_I IY1_E
+IC IC IH0_B K_E
+II II AY1_B AY1_E
+II II IY1_B IY0_E
+IT IT AY1_B T_I IY1_E
+IT IT IH0_B T_E
+IT IT IH1_B T_E
+IT IT IH1_B T_I AH0_E
+LOFT LOFT EH1_B L_I OW1_I EH1_I F_I T_I IY1_E
+LOFT LOFT L_B AO1_I F_I T_E
+LOGO LOGO EH1_B L_I OW1_I JH_I IY1_I OW1_E
+LOGO LOGO L_B OW1_I G_I OW0_E
+MAPS MAPS EH1_B M_I EY1_I P_I IY1_I EH1_I S_E
+MAPS MAPS M_B AE1_I P_I S_E
+MP MP EH1_B M_I P_I IY1_E
+N N EH1_B N_E
+T恤 T恤 T_B IY1_I x_I v4_E
+V V V_B IY1_E
+X X AE1_B K_I S_E
+X X EH1_B K_I S_E
+X X ch_B a1_E
+一 一 i1_S
+一 一 iao1_S
+一下 一下 i1_B x_I ia4_E
+一下 一下 i2_B x_I ia4_E
+一个 一个 i1_B g_I e4_E
+一个 一个 i2_B g_I e4_E
+一个 一个 i2_B g_I e5_E
+一个月 一个月 i1_B g_I e4_I ve4_E
+一个月 一个月 i2_B g_I e3_I ve4_E
+一个月 一个月 i2_B g_I e4_I ve4_E
+一九九零年 一九九零年 i1_B j_I iu3_I j_I iu3_I l_I ing2_I n_I ian2_E
+一事 一事 i1_B sh_I ix4_E
+一事 一事 i2_B sh_I ix4_E
+一二年 一二年 i1_B er4_I n_I ian2_E
+一些 一些 i1_B x_I ie1_E
+一些 一些 i4_B x_I ie1_E
+一件 一件 i1_B j_I ian4_E
+一件 一件 i2_B j_I ian4_E
+一份 一份 i1_B f_I en4_E
+一份 一份 i2_B f_I en4_E
+一位 一位 i1_B ui4_E
+一位 一位 i2_B ui4_E
+一千 一千 i1_B q_I ian1_E
+一千 一千 i4_B q_I ian1_E
+一千亿 一千亿 i1_B q_I ian1_I i4_E
+一千亿 一千亿 i4_B q_I ian1_I i4_E
+一只 一只 i1_B zh_I ix1_E
+一只 一只 i4_B zh_I ix1_E
+一名 一名 i1_B m_I ing2_E
+一名 一名 i4_B m_I ing2_E
+一向 一向 i1_B x_I iang4_E
+一向 一向 i2_B x_I iang4_E
+一周 一周 i1_B zh_I ou1_E
+一周 一周 i4_B zh_I ou1_E
+一圈 一圈 i1_B q_I van1_E
+一圈 一圈 i4_B q_I van1_E
+一场 一场 i1_B ch_I ang3_E
+一场 一场 i4_B ch_I ang3_E
+一天 一天 i1_B t_I ian1_E
+一天 一天 i4_B t_I ian1_E
+一季度 一季度 i1_B j_I i4_I d_I u4_E
+一季度 一季度 i2_B j_I i4_I d_I u4_E
+一定 一定 i2_B d_I ing4_E
+一家 一家 i1_B j_I ia1_E
+一家 一家 i4_B j_I ia1_E
+一对 一对 i1_B d_I ui4_E
+一对 一对 i2_B d_I ui4_E
+一年 一年 i1_B n_I ian2_E
+一年 一年 i4_B n_I ian2_E
+一度 一度 i1_B d_I u4_E
+一度 一度 i2_B d_I u4_E
+一张 一张 i1_B zh_I ang1_E
+一张 一张 i4_B zh_I ang1_E
+一日 一日 i1_B r_I iz4_E
+一日 一日 i2_B r_I iz4_E
+一枪 一枪 i1_B q_I iang1_E
+一枪 一枪 i4_B q_I iang1_E
+一样 一样 i1_B iang4_E
+一样 一样 i2_B iang4_E
+一概而论 一概而论 i1_B g_I ai4_I er2_I l_I un4_E
+一概而论 一概而论 i2_B g_I ai4_I er2_I l_I un4_E
+一步 一步 i1_B b_I u4_E
+一步 一步 i2_B b_I u4_E
+一段 一段 i1_B d_I uan4_E
+一段 一段 i2_B d_I uan4_E
+一点 一点 i1_B d_I ian3_E
+一点 一点 i4_B d_I ian3_E
+一生 一生 i4_B sh_I eng1_E
+一男一女 一男一女 i1_B n_I an2_I i1_I n_I v3_E
+一男一女 一男一女 i4_B n_I an2_I i4_I n_I v3_E
+一百一十 一百一十 i1_B b_I ai3_I i1_I sh_I ix2_E
+一百一十 一百一十 i4_B b_I ai3_I i1_I sh_I ix2_E
+一直 一直 i1_B zh_I ix2_E
+一直 一直 i4_B zh_I ix2_E
+一种 一种 i1_B zh_I ong3_E
+一种 一种 i4_B zh_I ong3_E
+一米 一米 i1_B m_I i3_E
+一米 一米 i4_B m_I i3_E
+一类 一类 i1_B l_I ei4_E
+一类 一类 i2_B l_I ei4_E
+一线 一线 i1_B x_I ian4_E
+一线 一线 i2_B x_I ian4_E
+一致 一致 i1_B zh_I ix4_E
+一致 一致 i2_B zh_I ix4_E
+一致性 一致性 i1_B zh_I ix4_I x_I ing4_E
+一致性 一致性 i2_B zh_I ix4_I x_I ing4_E
+一般 一般 i1_B b_I an1_E
+一般 一般 i4_B b_I an1_E
+一般而言 一般而言 i1_B b_I an1_I er2_I ian2_E
+一般而言 一般而言 i4_B b_I an1_I er2_I ian2_E
+一起 一起 i1_B q_I i3_E
+一起 一起 i4_B q_I i3_E
+一身 一身 i1_B sh_I en1_E
+一身 一身 i4_B sh_I en1_E
+一辆 一辆 i1_B l_I iang4_E
+一辆 一辆 i2_B l_I iang4_E
+一辈子 一辈子 i1_B b_I ei4_I z_I iy5_E
+一辈子 一辈子 i2_B b_I ei4_I z_I iy5_E
+一首 一首 i1_B sh_I ou3_E
+一首 一首 i4_B sh_I ou3_E
+丁香 丁香 d_B ing1_I x_I iang1_E
+七 七 q_B i1_E
+七十万 七十万 q_B i1_I sh_I ix2_I uan4_E
+七月 七月 q_B i1_I ve4_E
+万余 万余 uan4_B v2_E
+万科 万科 uan4_B k_I e1_E
+万达 万达 uan4_B d_I a2_E
+丈夫 丈夫 zh_B ang4_I f_I u1_E
+丈夫 丈夫 zh_B ang4_I f_I u5_E
+三 三 s_B an1_E
+三个 三个 s_B an1_I g_I e3_E
+三个 三个 s_B an1_I g_I e4_E
+三井 三井 s_B an1_I j_I ing3_E
+三位 三位 s_B an1_I ui4_E
+三分之一 三分之一 s_B an1_I f_I en1_I zh_I ix1_I i1_E
+三分之二 三分之二 s_B an1_I f_I en1_I zh_I ix1_I er4_E
+三十 三十 s_B an1_I sh_I ix2_E
+三十五岁 三十五岁 s_B an1_I sh_I ix2_I u3_I s_I ui4_E
+三十四 三十四 s_B an1_I sh_I ix2_I s_I iy4_E
+三十日 三十日 s_B an1_I sh_I ix2_I r_I iz4_E
+三千 三千 s_B an1_I q_I ian1_E
+三叶 三叶 s_B an1_I ie4_E
+三号 三号 s_B an1_I h_I ao4_E
+三天 三天 s_B an1_I t_I ian1_E
+三年 三年 s_B an1_I n_I ian2_E
+三成 三成 s_B an1_I ch_I eng2_E
+三明 三明 s_B an1_I m_I ing2_E
+三星 三星 s_B an1_I x_I ing1_E
+三星公司 三星公司 s_B an1_I x_I ing1_I g_I ong1_I s_I iy1_E
+三星电子 三星电子 s_B an1_I x_I ing1_I d_I ian4_I z_I iy3_E
+三是 三是 s_B an1_I sh_I ix4_E
+三月 三月 s_B an1_I ve4_E
+三月份 三月份 s_B an1_I ve4_I f_I en4_E
+三栋 三栋 s_B an1_I d_I ong4_E
+三次 三次 s_B an1_I c_I iy4_E
+三点 三点 s_B an1_I d_I ian3_E
+三百 三百 s_B an1_I b_I ai3_E
+三维 三维 s_B an1_I ui2_E
+三里屯 三里屯 s_B an1_I l_I i3_I t_I un2_E
+上 上 sh_B ang4_E
+上一年 上一年 sh_B ang4_I i3_I n_I ian2_E
+上一年 上一年 sh_B ang4_I i4_I n_I ian2_E
+上去 上去 sh_B ang4_I q_I v4_E
+上去 上去 sh_B ang4_I q_I v5_E
+上周 上周 sh_B ang4_I zh_I ou1_E
+上市 上市 sh_B ang4_I sh_I ix4_E
+上映 上映 sh_B ang4_I ing4_E
+上来 上来 sh_B ang4_I l_I ai2_E
+上来 上来 sh_B ang4_I l_I ai5_E
+上海 上海 sh_B ang4_I h_I ai3_E
+上海市 上海市 sh_B ang4_I h_I ai3_I sh_I ix4_E
+上涨 上涨 sh_B ang4_I zh_I ang3_E
+上空 上空 sh_B ang4_I k_I ong1_E
+上述 上述 sh_B ang4_I sh_I u4_E
+下 下 x_B ia4_E
+下一代 下一代 x_B ia4_I i1_I d_I ai4_E
+下一代 下一代 x_B ia4_I i2_I d_I ai4_E
+下半年 下半年 x_B ia4_I b_I an4_I n_I ian2_E
+下周 下周 x_B ia4_I zh_I ou1_E
+下滑 下滑 x_B ia4_I h_I ua2_E
+下课 下课 x_B ia4_I k_I e4_E
+下调 下调 x_B ia4_I d_I iao4_E
+下调 下调 x_B ia4_I t_I iao2_E
+下跌 下跌 x_B ia4_I d_I ie1_E
+下降 下降 x_B ia4_I j_I iang4_E
+不 不 b_B u2_E
+不 不 b_B u4_E
+不仅 不仅 b_B u4_I j_I in3_E
+不会 不会 b_B u2_I h_I ui4_E
+不住 不住 b_B u2_I zh_I u4_E
+不再 不再 b_B u2_I z_I ai4_E
+不到 不到 b_B u2_I d_I ao4_E
+不动产 不动产 b_B u2_I d_I ong4_I ch_I an3_E
+不及 不及 b_B u4_I j_I i2_E
+不可 不可 b_B u4_I k_I e3_E
+不同 不同 b_B u4_I t_I ong2_E
+不在意 不在意 b_B u2_I z_I ai4_I i4_E
+不够 不够 b_B u2_I g_I ou4_E
+不好 不好 b_B u4_I h_I ao3_E
+不少 不少 b_B u4_I sh_I ao3_E
+不得不 不得不 b_B u4_I d_I e2_I b_I u4_E
+不必 不必 b_B u2_I b_I i4_E
+不断 不断 b_B u2_I d_I uan4_E
+不是 不是 b_B u2_I sh_I ix4_E
+不满 不满 b_B u4_I m_I an3_E
+不用 不用 b_B u2_I iong4_E
+不能 不能 b_B u4_I n_I eng2_E
+不过 不过 b_B u2_I g_I uo4_E
+不远处 不远处 b_B u4_I van3_I ch_I u4_E
+与 与 v3_S
+与 与 v4_S
+与其 与其 v3_B q_I i2_E
+丑闻 丑闻 ch_B ou3_I un2_E
+专业 专业 zh_B uan1_I ie4_E
+专业人士 专业人士 zh_B uan1_I ie4_I r_I en2_I sh_I ix4_E
+专家 专家 zh_B uan1_I j_I ia1_E
+专心 专心 zh_B uan1_I x_I in1_E
+专车 专车 zh_B uan1_I ch_I e1_E
+世界 世界 sh_B ix4_I j_I ie4_E
+世界冠军 世界冠军 sh_B ix4_I j_I ie4_I g_I uan4_I j_I vn1_E
+世界杯 世界杯 sh_B ix4_I j_I ie4_I b_I ei1_E
+世纪 世纪 sh_B ix4_I j_I i4_E
+世锦赛 世锦赛 sh_B ix4_I j_I in3_I s_I ai4_E
+业主 业主 ie4_B zh_I u3_E
+业内人士 业内人士 ie4_B n_I ei4_I r_I en2_I sh_I ix4_E
+业务 业务 ie4_B u4_E
+业务 业务 ie4_B u5_E
+业绩 业绩 ie4_B j_I i4_E
+东三环 东三环 d_B ong1_I s_I an1_I h_I uan2_E
+东京 东京 d_B ong1_I j_I ing1_E
+东便门 东便门 d_B ong1_I b_I ian4_I m_I en2_E
+东北 东北 d_B ong1_I b_I ei3_E
+东南 东南 d_B ong1_I n_I an2_E
+东四环 东四环 d_B ong1_I s_I iy4_I h_I uan2_E
+东方 东方 d_B ong1_I f_I ang1_E
+东西 东西 d_B ong1_I x_I i1_E
+东西 东西 d_B ong1_I x_I i5_E
+东部 东部 d_B ong1_I b_I u4_E
+两 两 l_B iang3_E
+两个 两个 l_B iang3_I g_I e3_E
+两个 两个 l_B iang3_I g_I e4_E
+两人 两人 l_B iang3_I r_I en2_E
+两名 两名 l_B iang3_I m_I ing2_E
+两块钱 两块钱 l_B iang3_I k_I uai4_I q_I ian2_E
+两大类 两大类 l_B iang3_I d_I a4_I l_I ei4_E
+两家 两家 l_B iang3_I j_I ia1_E
+两年 两年 l_B iang3_I n_I ian2_E
+两度 两度 l_B iang3_I d_I u4_E
+两张 两张 l_B iang3_I zh_I ang1_E
+两点 两点 l_B iang2_I d_I ian3_E
+两点 两点 l_B iang3_I d_I ian3_E
+两者 两者 l_B iang2_I zh_I e3_E
+两者 两者 l_B iang3_I zh_I e3_E
+两辆 两辆 l_B iang3_I l_I iang4_E
+严厉 严厉 ian2_B l_I i4_E
+严格 严格 ian2_B g_I e2_E
+严重 严重 ian2_B zh_I ong4_E
+个 个 g_B e4_E
+个人 个人 g_B e4_I r_I en2_E
+中 中 zh_B ong1_E
+中 中 zh_B ong4_E
+中伤 中伤 zh_B ong1_I sh_I ang1_E
+中伤 中伤 zh_B ong4_I sh_I ang1_E
+中原 中原 zh_B ong1_I van2_E
+中国 中国 zh_B ong1_I g_I uo2_E
+中国证监会 中国证监会 zh_B ong1_I g_I uo2_I zh_I eng4_I j_I ian1_I h_I ui4_E
+中小企业 中小企业 zh_B ong1_I x_I iao2_I q_I i3_I ie4_E
+中小企业 中小企业 zh_B ong1_I x_I iao3_I q_I i3_I ie4_E
+中年 中年 zh_B ong1_I n_I ian2_E
+中心 中心 zh_B ong1_I x_I in1_E
+中指 中指 zh_B ong1_I zh_I ix3_E
+中新网 中新网 zh_B ong1_I x_I in1_I uang3_E
+中止 中止 zh_B ong1_I zh_I ix3_E
+中法 中法 zh_B ong1_I f_I a3_E
+中老年 中老年 zh_B ong1_I l_I ao3_I n_I ian2_E
+中行 中行 zh_B ong1_I h_I ang2_E
+中长期 中长期 zh_B ong1_I ch_I ang2_I q_I i1_E
+丰富 丰富 f_B eng1_I f_I u4_E
+临时 临时 l_B in2_I sh_I ix2_E
+临界值 临界值 l_B in2_I j_I ie4_I zh_I ix2_E
+临界点 临界点 l_B in2_I j_I ie4_I d_I ian3_E
+为 为 ui2_S
+为 为 ui4_S
+为主 为主 ui2_B zh_I u3_E
+为了 为了 ui4_B l_I e5_E
+为何 为何 ui4_B h_I e2_E
+为例 为例 ui2_B l_I i4_E
+为此 为此 ui4_B c_I iy3_E
+主人 主人 zh_B u3_I r_I en2_E
+主力 主力 zh_B u3_I l_I i4_E
+主办方 主办方 zh_B u3_I b_I an4_I f_I ang1_E
+主持 主持 zh_B u3_I ch_I ix2_E
+主流 主流 zh_B u3_I l_I iu2_E
+主管 主管 zh_B u2_I g_I uan3_E
+主管 主管 zh_B u3_I g_I uan3_E
+主要 主要 zh_B u3_I iao4_E
+主路 主路 zh_B u3_I l_I u4_E
+主题 主题 zh_B u3_I t_I i2_E
+主题曲 主题曲 zh_B u3_I t_I i2_I q_I v3_E
+丽江 丽江 l_B i4_I j_I iang1_E
+丽江市 丽江市 l_B i4_I j_I iang1_I sh_I ix4_E
+举 举 j_B v3_E
+举办 举办 j_B v3_I b_I an4_E
+举行 举行 j_B v3_I x_I ing2_E
+乃至 乃至 n_B ai3_I zh_I ix4_E
+久 久 j_B iu3_E
+之一 之一 zh_B ix1_I i1_E
+之中 之中 zh_B ix1_I zh_I ong1_E
+之前 之前 zh_B ix1_I q_I ian2_E
+之后 之后 zh_B ix1_I h_I ou4_E
+之外 之外 zh_B ix1_I uai4_E
+之日起 之日起 zh_B ix1_I r_I iz4_I q_I i3_E
+之间 之间 zh_B ix1_I j_I ian1_E
+乐园 乐园 l_B e4_I van2_E
+乒乓 乒乓 p_B ing1_I p_I ang1_E
+乒乓球 乒乓球 p_B ing1_I p_I ang1_I q_I iu2_E
+乒乓球拍 乒乓球拍 p_B ing1_I p_I ang1_I q_I iu2_I p_I ai1_E
+乘势 乘势 ch_B eng2_I sh_I ix4_E
+乘坐 乘坐 ch_B eng2_I z_I uo4_E
+乘客 乘客 ch_B eng2_I k_I e4_E
+九 九 j_B iu3_E
+九月 九月 j_B iu3_I ve4_E
+九零 九零 j_B iu3_I l_I ing2_E
+也 也 ie3_S
+书城 书城 sh_B u1_I ch_I eng2_E
+买 买 m_B ai3_E
+买家 买家 m_B ai3_I j_I ia1_E
+买房 买房 m_B ai3_I f_I ang2_E
+了 了 l_B e5_E
+了 了 l_B iao3_E
+了 了 l_B iao4_E
+了解 了解 l_B iao2_I j_I ie3_E
+了解 了解 l_B iao3_I j_I ie3_E
+予以 予以 v2_B i3_E
+予以 予以 v3_B i3_E
+争夺 争夺 zh_B eng1_I d_I uo2_E
+事 事 sh_B ix4_E
+事件 事件 sh_B ix4_I j_I ian4_E
+事件簿 事件簿 sh_B ix4_I j_I ian4_I b_I u4_E
+事前 事前 sh_B ix4_I q_I ian2_E
+事发 事发 sh_B ix4_I f_I a1_E
+事后 事后 sh_B ix4_I h_I ou4_E
+事实上 事实上 sh_B ix4_I sh_I ix2_I sh_I ang4_E
+事情 事情 sh_B ix4_I q_I ing5_E
+事故 事故 sh_B ix4_I g_I u4_E
+事故 事故 sh_B ix4_I g_I u5_E
+事项 事项 sh_B ix4_I x_I iang4_E
+二 二 er4_S
+二三 二三 er4_B s_I an1_E
+二十九 二十九 er4_B sh_I ix2_I j_I iu3_E
+二十五 二十五 er4_B sh_I ix2_I u3_E
+二十八日 二十八日 er4_B sh_I ix2_I b_I a1_I r_I iz4_E
+二店 二店 er4_B d_I ian4_E
+二手房 二手房 er4_B sh_I ou3_I f_I ang2_E
+二是 二是 er4_B sh_I ix4_E
+二级 二级 er4_B j_I i2_E
+二线 二线 er4_B x_I ian4_E
+二郎 二郎 er4_B l_I ang2_E
+二零一 二零一 er4_B l_I ing2_I i1_E
+二零一 二零一 er4_B l_I ing2_I iao1_E
+二零零三年 二零零三年 er4_B l_I ing2_I l_I ing2_I s_I an1_I n_I ian2_E
+二零零六年 二零零六年 er4_B l_I ing2_I l_I ing2_I l_I iu4_I n_I ian2_E
+于 于 u1_S
+于 于 v1_S
+于 于 v2_S
+于是 于是 v2_B sh_I ix4_E
+亏空 亏空 k_B ui1_I k_I ong1_E
+互动 互动 h_B u4_I d_I ong4_E
+五 五 u3_S
+五万 五万 u3_B uan4_E
+五倍 五倍 u3_B b_I ei4_E
+五年 五年 u3_B n_I ian2_E
+五日 五日 u3_B r_I iz4_E
+五点 五点 u2_B d_I ian3_E
+五点 五点 u3_B d_I ian3_E
+亚洲 亚洲 ia4_B zh_I ou1_E
+亡妻 亡妻 uang2_B q_I i1_E
+交易 交易 j_B iao1_I i4_E
+交易额 交易额 j_B iao1_I i4_I e2_E
+交汇 交汇 j_B iao1_I h_I ui4_E
+交流 交流 j_B iao1_I l_I iu2_E
+交通 交通 j_B iao1_I t_I ong1_E
+交通委 交通委 j_B iao1_I t_I ong1_I ui3_E
+亦 亦 i4_S
+产业 产业 ch_B an3_I ie4_E
+产品 产品 ch_B an2_I p_I in3_E
+产品 产品 ch_B an3_I p_I in3_E
+产能 产能 ch_B an3_I n_I eng2_E
+享受 享受 x_B iang3_I sh_I ou4_E
+亭 亭 t_B ing2_E
+亲子 亲子 q_B in1_I z_I iy3_E
+亲爱 亲爱 q_B in1_I ai4_E
+人 人 r_B en2_E
+人们 人们 r_B en2_I m_I en5_E
+人口 人口 r_B en2_I k_I ou3_E
+人员 人员 r_B en2_I van2_E
+人士 人士 r_B en2_I sh_I ix4_E
+人家 人家 r_B en2_I j_I ia1_E
+人家 人家 r_B en2_I j_I ia5_E
+人才 人才 r_B en2_I c_I ai2_E
+人数 人数 r_B en2_I sh_I u4_E
+人民网 人民网 r_B en2_I m_I in2_I uang3_E
+人气 人气 r_B en2_I q_I i4_E
+人群 人群 r_B en2_I q_I vn2_E
+亿 亿 i4_S
+亿美元 亿美元 i4_B m_I ei3_I van2_E
+什么 什么 sh_B en2_I m_I a2_E
+什么 什么 sh_B en2_I m_I e5_E
+什么 什么 sh_B en2_I m_I o2_E
+仅 仅 j_B in3_E
+今后 今后 j_B in1_I h_I ou4_E
+今天下午 今天下午 j_B in1_I t_I ian1_I x_I ia4_I u3_E
+今年 今年 j_B in1_I n_I ian2_E
+今年初 今年初 j_B in1_I n_I ian2_I ch_I u1_E
+今生 今生 j_B in1_I sh_I eng1_E
+仍 仍 r_B eng2_E
+仍会 仍会 r_B eng2_I h_I ui4_E
+从 从 c_B ong2_E
+从未见过 从未见过 c_B ong2_I ui4_I j_I ian4_I g_I uo3_E
+从未见过 从未见过 c_B ong2_I ui4_I j_I ian4_I g_I uo4_E
+从来 从来 c_B ong2_I l_I ai2_E
+他 他 t_B a1_E
+他人 他人 t_B a1_I r_I en2_E
+他们 他们 t_B a1_I m_I en5_E
+付 付 f_B u4_E
+仙桃市 仙桃市 x_B ian1_I t_I ao2_I sh_I ix4_E
+代行 代行 d_B ai4_I x_I ing2_E
+代表 代表 d_B ai4_I b_I iao3_E
+以 以 i3_S
+以上 以上 i3_B sh_I ang4_E
+以下 以下 i3_B x_I ia4_E
+以及 以及 i3_B j_I i2_E
+以外 以外 i3_B uai4_E
+以往 以往 i2_B uang3_E
+以往 以往 i3_B uang3_E
+以来 以来 i3_B l_I ai2_E
+以点带面 以点带面 i2_B d_I ian3_I d_I ai4_I m_I ian4_E
+以点带面 以点带面 i3_B d_I ian3_I d_I ai4_I m_I ian4_E
+们 们 m_B en2_E
+们 们 m_B en5_E
+价格 价格 j_B ia4_I g_I e2_E
+任 任 r_B en2_E
+任 任 r_B en4_E
+任何 任何 r_B en4_I h_I e2_E
+任务 任务 r_B en4_I u3_E
+任务 任务 r_B en4_I u4_E
+任职 任职 r_B en4_I zh_I ix2_E
+份额 份额 f_B en4_I e2_E
+企业 企业 q_B i3_I ie4_E
+优势 优势 iu1_B sh_I ix4_E
+优惠 优惠 iu1_B h_I ui4_E
+优衣库 优衣库 iu1_B i1_I k_I u4_E
+会 会 h_B ui4_E
+会 会 k_B uai4_E
+会上 会上 h_B ui4_I sh_I ang3_E
+会上 会上 h_B ui4_I sh_I ang4_E
+会徽 会徽 h_B ui4_I h_I ui1_E
+传感器 传感器 ch_B uan2_I g_I an3_I q_I i4_E
+传统 传统 ch_B uan2_I t_I ong3_E
+传言 传言 ch_B uan2_I ian2_E
+传达 传达 ch_B uan2_I d_I a2_E
+伤 伤 sh_B ang1_E
+伤人 伤人 sh_B ang1_I r_I en2_E
+伤者 伤者 sh_B ang1_I zh_I e3_E
+伪造 伪造 ui3_B z_I ao4_E
+伴随 伴随 b_B an4_I s_I ui2_E
+似乎 似乎 s_B iy4_I h_I u1_E
+但 但 d_B an4_E
+但是 但是 d_B an4_I sh_I ix4_E
+位于 位于 ui4_B v1_E
+位于 位于 ui4_B v2_E
+位置 位置 ui4_B zh_I ix4_E
+位置 位置 ui4_B zh_I ix5_E
+低价 低价 d_B i1_I j_I ia4_E
+低收入 低收入 d_B i1_I sh_I ou1_I r_I u4_E
+低迷 低迷 d_B i1_I m_I i2_E
+住 住 zh_B u4_E
+住宅 住宅 zh_B u4_I zh_I ai2_E
+住房 住房 zh_B u4_I f_I ang2_E
+体制改革 体制改革 t_B i3_I zh_I ix4_I g_I ai3_I g_I e2_E
+体系 体系 t_B i3_I x_I i4_E
+体育 体育 t_B i3_I v4_E
+体验 体验 t_B i3_I ian4_E
+何时 何时 h_B e2_I sh_I ix2_E
+何曾 何曾 h_B e2_I c_I eng2_E
+何种 何种 h_B e2_I zh_I ong3_E
+作为 作为 z_B uo4_I ui2_E
+作为 作为 z_B uo4_I ui3_E
+作出 作出 z_B uo4_I ch_I u1_E
+作品 作品 z_B uo4_I p_I in3_E
+作用 作用 z_B uo4_I iong3_E
+作用 作用 z_B uo4_I iong4_E
+你 你 n_B i3_E
+使得 使得 sh_B ix3_I d_I e2_E
+使用 使用 sh_B ix3_I iong4_E
+使用费 使用费 sh_B ix3_I iong4_I f_I ei4_E
+供应 供应 g_B ong1_I ing4_E
+供应 供应 g_B ong4_I ing3_E
+供应 供应 g_B ong4_I ing4_E
+依旧 依旧 i1_B j_I iu4_E
+依然 依然 i1_B r_I an2_E
+依照 依照 i1_B zh_I ao4_E
+依赖 依赖 i1_B l_I ai4_E
+依靠 依靠 i1_B k_I ao4_E
+侠 侠 x_B ia2_E
+侠侣 侠侣 x_B ia2_I l_I v3_E
+促 促 c_B u4_E
+促进 促进 c_B u4_I j_I in4_E
+俏皮 俏皮 q_B iao4_I p_I i2_E
+保利 保利 b_B ao3_I l_I i4_E
+保安 保安 b_B ao3_I an1_E
+保证 保证 b_B ao3_I zh_I eng4_E
+保障 保障 b_B ao3_I zh_I ang4_E
+信号 信号 x_B in4_I h_I ao4_E
+信号 信号 x_B in4_I h_I ao5_E
+信心 信心 x_B in4_I x_I in1_E
+信息 信息 x_B in4_I x_I i1_E
+信托 信托 x_B in4_I t_I uo1_E
+信贷 信贷 x_B in4_I d_I ai4_E
+信赖 信赖 x_B in4_I l_I ai4_E
+信赖 信赖 x_B in4_I l_I ai5_E
+修改 修改 x_B iu1_I g_I ai3_E
+修订 修订 x_B iu1_I d_I ing4_E
+倍数 倍数 b_B ei4_I sh_I u4_E
+倍数 倍数 b_B ei4_I sh_I u5_E
+倒地 倒地 d_B ao3_I d_I i4_E
+借鉴 借鉴 j_B ie4_I j_I ian4_E
+假期 假期 j_B ia4_I q_I i1_E
+偏差 偏差 p_B ian1_I ch_I a1_E
+偏差 偏差 p_B ian1_I ch_I a4_E
+做 做 z_B uo4_E
+做出 做出 z_B uo4_I ch_I u1_E
+做好 做好 z_B uo4_I h_I ao3_E
+停下 停下 t_B ing2_I x_I ia4_E
+停下 停下 t_B ing2_I x_I ia5_E
+停业 停业 t_B ing2_I ie4_E
+停用 停用 t_B ing2_I iong4_E
+停留 停留 t_B ing2_I l_I iu2_E
+停车 停车 t_B ing2_I ch_I e1_E
+停车费 停车费 t_B ing2_I ch_I e1_I f_I ei4_E
+健康 健康 j_B ian4_I k_I ang1_E
+健身 健身 j_B ian4_I sh_I en1_E
+健身房 健身房 j_B ian4_I sh_I en1_I f_I ang2_E
+偶 偶 ou3_S
+偶尔 偶尔 ou2_B er3_E
+偶尔 偶尔 ou3_B er3_E
+傍晚 傍晚 b_B ang4_I uan3_E
+储蓄 储蓄 ch_B u3_I x_I v4_E
+儿子 儿子 er2_B z_I iy5_E
+元素 元素 van2_B s_I u4_E
+兄弟 兄弟 x_B iong1_I d_I i4_E
+兄弟 兄弟 x_B iong1_I d_I i5_E
+充分 充分 ch_B ong1_I f_I en4_E
+充分发挥 充分发挥 ch_B ong1_I f_I en4_I f_I a1_I h_I ui1_E
+先 先 x_B ian1_E
+先后 先后 x_B ian1_I h_I ou4_E
+先机 先机 x_B ian1_I j_I i1_E
+光晕 光晕 g_B uang1_I vn1_E
+光晕 光晕 g_B uang1_I vn4_E
+免征 免征 m_B ian3_I zh_I eng1_E
+全 全 q_B van2_E
+全体 全体 q_B van2_I t_I i3_E
+全国 全国 q_B van2_I g_I uo2_E
+全民 全民 q_B van2_I m_I in2_E
+全职 全职 q_B van2_I zh_I ix2_E
+全自动 全自动 q_B van2_I z_I iy4_I d_I ong4_E
+全部 全部 q_B van2_I b_I u4_E
+全面 全面 q_B van2_I m_I ian4_E
+八 八 b_B a1_E
+八月 八月 b_B a1_I ve4_E
+公交 公交 g_B ong1_I j_I iao1_E
+公募 公募 g_B ong1_I m_I u4_E
+公司 公司 g_B ong1_I s_I iy1_E
+公园 公园 g_B ong1_I van2_E
+公安机关 公安机关 g_B ong1_I an1_I j_I i1_I g_I uan1_E
+公布 公布 g_B ong1_I b_I u4_E
+公布于众 公布于众 g_B ong1_I b_I u4_I v2_I zh_I ong4_E
+公开 公开 g_B ong1_I k_I ai1_E
+公款 公款 g_B ong1_I k_I uan3_E
+公积金 公积金 g_B ong1_I j_I i1_I j_I in1_E
+六 六 l_B iu4_E
+六号 六号 l_B iu4_I h_I ao4_E
+六年 六年 l_B iu4_I n_I ian2_E
+共 共 g_B ong4_E
+共享 共享 g_B ong4_I x_I iang3_E
+共有 共有 g_B ong4_I iu3_E
+共识 共识 g_B ong4_I sh_I ix2_E
+关于 关于 g_B uan1_I v2_E
+关于 关于 g_B uan1_I v3_E
+关注 关注 g_B uan1_I zh_I u4_E
+关注点 关注点 g_B uan1_I zh_I u4_I d_I ian3_E
+关键 关键 g_B uan1_I j_I ian4_E
+兴奋 兴奋 x_B ing1_I f_I en4_E
+其 其 q_B i2_E
+其中 其中 q_B i2_I zh_I ong1_E
+其他 其他 q_B i2_I t_I a1_E
+其余 其余 q_B i2_I v2_E
+其实 其实 q_B i2_I sh_I ix2_E
+具体 具体 j_B v4_I t_I i3_E
+具备 具备 j_B v4_I b_I ei4_E
+具有 具有 j_B v4_I iu3_E
+兼职 兼职 j_B ian1_I zh_I ix2_E
+内 内 n_B ei4_E
+内侧 内侧 n_B ei4_I c_I e4_E
+内因 内因 n_B ei4_I in1_E
+内外 内外 n_B ei4_I uai4_E
+内存 内存 n_B ei4_I c_I un2_E
+内容 内容 n_B ei4_I r_I ong2_E
+内战 内战 n_B ei4_I zh_I an4_E
+内环 内环 n_B ei4_I h_I uan2_E
+内设 内设 n_B ei4_I sh_I e4_E
+内部 内部 n_B ei4_I b_I u3_E
+内部 内部 n_B ei4_I b_I u4_E
+再 再 z_B ai4_E
+再度 再度 z_B ai4_I d_I u4_E
+再次 再次 z_B ai4_I c_I iy4_E
+冠军 冠军 g_B uan4_I j_I vn1_E
+冰晶 冰晶 b_B ing1_I j_I ing1_E
+冲击 冲击 ch_B ong1_I j_I i1_E
+冲突 冲突 ch_B ong1_I t_I u1_E
+冲突 冲突 ch_B ong1_I t_I u5_E
+决定 决定 j_B ve2_I d_I ing4_E
+决赛 决赛 j_B ve2_I s_I ai4_E
+冷静 冷静 l_B eng3_I j_I ing4_E
+净 净 j_B ing4_E
+净利润 净利润 j_B ing4_I l_I i4_I r_I un4_E
+净利润 净利润 j_B ing4_I l_I i4_I r_I un5_E
+准备 准备 zh_B un3_I b_I ei4_E
+准备金 准备金 zh_B un3_I b_I ei4_I j_I in1_E
+减少 减少 j_B ian2_I sh_I ao3_E
+减少 减少 j_B ian3_I sh_I ao3_E
+减弱 减弱 j_B ian3_I r_I uo4_E
+几个 几个 j_B i3_I g_I e3_E
+几个 几个 j_B i3_I g_I e4_E
+几乎 几乎 j_B i1_I h_I u1_E
+凤凰 凤凰 f_B eng4_I h_I uang2_E
+凤凰 凤凰 f_B eng4_I h_I uang5_E
+凤凰网 凤凰网 f_B eng4_I h_I uang2_I uang3_E
+出 出 ch_B u1_E
+出发 出发 ch_B u1_I f_I a1_E
+出发点 出发点 ch_B u1_I f_I a1_I d_I ian3_E
+出台 出台 ch_B u1_I t_I ai2_E
+出库 出库 ch_B u1_I k_I u4_E
+出来 出来 ch_B u1_I l_I ai2_E
+出来 出来 ch_B u1_I l_I ai5_E
+出现 出现 ch_B u1_I x_I ian4_E
+出生 出生 ch_B u1_I sh_I eng1_E
+出生证 出生证 ch_B u1_I sh_I eng1_I zh_I eng4_E
+出租屋 出租屋 ch_B u1_I z_I u1_I u1_E
+出纳 出纳 ch_B u1_I n_I a4_E
+出纳员 出纳员 ch_B u1_I n_I a4_I van2_E
+击毙 击毙 j_B i1_I b_I i4_E
+击败 击败 j_B i1_I b_I ai4_E
+分为 分为 f_B en1_I ui2_E
+分别 分别 f_B en1_I b_I ie2_E
+分店 分店 f_B en1_I d_I ian4_E
+分支 分支 f_B en1_I zh_I ix1_E
+分给 分给 f_B en1_I g_I ei3_E
+分配 分配 f_B en1_I p_I ei4_E
+刑事拘留 刑事拘留 x_B ing2_I sh_I ix4_I j_I v1_I l_I iu2_E
+列日 列日 l_B ie4_I r_I iz4_E
+则 则 z_B e2_E
+刚 刚 g_B ang1_E
+刚刚 刚刚 g_B ang1_I g_I ang1_E
+刚才 刚才 g_B ang1_I c_I ai2_E
+创 创 ch_B uang1_E
+创 创 ch_B uang4_E
+创业 创业 ch_B uang4_I ie4_E
+创业板 创业板 ch_B uang4_I ie4_I b_I an3_E
+创建 创建 ch_B uang4_I j_I ian4_E
+创新 创新 ch_B uang4_I x_I in1_E
+创造 创造 ch_B uang4_I z_I ao4_E
+判断 判断 p_B an4_I d_I uan4_E
+利好 利好 l_B i4_I h_I ao3_E
+利息 利息 l_B i4_I x_I i1_E
+利息 利息 l_B i4_I x_I i5_E
+利润 利润 l_B i4_I r_I un4_E
+利润 利润 l_B i4_I r_I un5_E
+利用 利用 l_B i4_I iong4_E
+利用 利用 l_B i4_I iong5_E
+利益 利益 l_B i4_I i4_E
+利益 利益 l_B i4_I i5_E
+别 别 b_B ie2_E
+别 别 b_B ie4_E
+到 到 d_B ao4_E
+到位 到位 d_B ao4_I ui4_E
+到场 到场 d_B ao4_I ch_I ang3_E
+到底 到底 d_B ao4_I d_I i3_E
+到达 到达 d_B ao4_I d_I a2_E
+制作 制作 zh_B ix4_I z_I uo4_E
+制度 制度 zh_B ix4_I d_I u4_E
+制度 制度 zh_B ix4_I d_I u5_E
+制服 制服 zh_B ix4_I f_I u2_E
+制造 制造 zh_B ix4_I z_I ao4_E
+刺伤 刺伤 c_B iy4_I sh_I ang1_E
+剁 剁 d_B uo4_E
+削弱 削弱 x_B ve1_I r_I uo4_E
+前 前 q_B ian2_E
+前不久 前不久 q_B ian2_I b_I u4_I j_I iu3_E
+前后 前后 q_B ian2_I h_I ou4_E
+前所未有 前所未有 q_B ian2_I s_I uo3_I ui4_I iu3_E
+前期 前期 q_B ian2_I q_I i1_E
+前来 前来 q_B ian2_I l_I ai2_E
+剑 剑 j_B ian4_E
+剥离 剥离 b_B ao1_I l_I i2_E
+剥离 剥离 b_B o1_I l_I i2_E
+剧场 剧场 j_B v4_I ch_I ang3_E
+剽窃 剽窃 p_B iao1_I q_I ie4_E
+剽窃 剽窃 p_B iao2_I q_I ie4_E
+力度 力度 l_B i4_I d_I u4_E
+力度 力度 l_B i4_I d_I u5_E
+劝解 劝解 q_B van4_I j_I ie3_E
+劝说 劝说 q_B van4_I sh_I uo1_E
+办事处 办事处 b_B an4_I sh_I ix4_I ch_I u4_E
+办成 办成 b_B an4_I ch_I eng2_E
+办法 办法 b_B an4_I f_I a3_E
+办法 办法 b_B an4_I f_I a5_E
+功能 功能 g_B ong1_I n_I eng2_E
+加上 加上 j_B ia1_I sh_I ang4_E
+加上 加上 j_B ia1_I sh_I ang5_E
+加入 加入 j_B ia1_I r_I u4_E
+加大 加大 j_B ia1_I d_I a4_E
+动 动 d_B ong4_E
+动作 动作 d_B ong4_I z_I uo4_E
+动作 动作 d_B ong4_I z_I uo5_E
+动力 动力 d_B ong4_I l_I i4_E
+动手 动手 d_B ong4_I sh_I ou3_E
+动植物园 动植物园 d_B ong4_I zh_I ix2_I u4_I van2_E
+勇气 勇气 iong3_B q_I i4_E
+募 募 m_B u4_E
+化 化 h_B ua4_E
+化名 化名 h_B ua4_I m_I ing2_E
+北京 北京 b_B ei3_I j_I ing1_E
+北京市 北京市 b_B ei3_I j_I ing1_I sh_I ix4_E
+北段 北段 b_B ei3_I d_I uan4_E
+北湖 北湖 b_B ei3_I h_I u2_E
+北部 北部 b_B ei3_I b_I u4_E
+医师 医师 i1_B sh_I ix1_E
+医生 医生 i1_B sh_I eng1_E
+医药费 医药费 i1_B iao4_I f_I ei4_E
+医院 医院 i1_B van4_E
+十一 十一 sh_B ix2_I i1_E
+十一日 十一日 sh_B ix2_I i1_I r_I iz4_E
+十七年 十七年 sh_B ix2_I q_I i1_I n_I ian2_E
+十二月 十二月 sh_B ix2_I er4_I ve4_E
+十二月份 十二月份 sh_B ix2_I er4_I ve4_I f_I en4_E
+十五 十五 sh_B ix2_I u3_E
+十五万 十五万 sh_B ix2_I u3_I uan4_E
+十元 十元 sh_B ix2_I van2_E
+十六 十六 sh_B ix2_I l_I iu4_E
+十六日 十六日 sh_B ix2_I l_I iu4_I r_I iz4_E
+十分 十分 sh_B ix2_I f_I en1_E
+十分钟 十分钟 sh_B ix2_I f_I en1_I zh_I ong1_E
+十年 十年 sh_B ix2_I n_I ian2_E
+十月 十月 sh_B ix2_I ve4_E
+千元 千元 q_B ian1_I van2_E
+升温 升温 sh_B eng1_I un1_E
+半决赛 半决赛 b_B an4_I j_I ve2_I s_I ai4_E
+半小时 半小时 b_B an4_I x_I iao3_I sh_I ix2_E
+半数 半数 b_B an4_I sh_I u4_E
+华威 华威 h_B ua2_I ui1_E
+华山 华山 h_B ua4_I sh_I an1_E
+协商 协商 x_B ie2_I sh_I ang1_E
+卓阳 卓阳 zh_B uo1_I iang2_E
+单一 单一 d_B an1_I i1_E
+单位 单位 d_B an1_I ui4_E
+单打 单打 d_B an1_I d_I a3_E
+单纯 单纯 d_B an1_I ch_I un2_E
+卖萌 卖萌 m_B ai4_I m_I eng2_E
+南一街 南一街 n_B an2_I i1_I j_I ie1_E
+南口 南口 n_B an2_I k_I ou3_E
+南桥 南桥 n_B an2_I q_I iao2_E
+南沙 南沙 n_B an2_I sh_I a1_E
+南翔 南翔 n_B an2_I x_I iang2_E
+南部 南部 n_B an2_I b_I u4_E
+博客 博客 b_B o2_I k_I e4_E
+博物馆 博物馆 b_B o2_I u4_I g_I uan3_E
+卜卦 卜卦 b_B u3_I g_I ua4_E
+占地 占地 zh_B an4_I d_I i4_E
+占款 占款 zh_B an4_I k_I uan3_E
+占用 占用 zh_B an4_I iong4_E
+印制 印制 in4_B zh_I ix4_E
+印度 印度 in4_B d_I u4_E
+危机感 危机感 ui1_B j_I i1_I g_I an3_E
+危险 危险 ui1_B x_I ian3_E
+即 即 j_B i2_E
+即使 即使 j_B i2_I sh_I ix3_E
+即将 即将 j_B i2_I j_I iang1_E
+却 却 q_B ve4_E
+却是 却是 q_B ve4_I sh_I ix4_E
+卷 卷 j_B van3_E
+卷 卷 j_B van4_E
+压力 压力 ia1_B l_I i4_E
+原则 原则 van2_B z_I e2_E
+原则性 原则性 van2_B z_I e2_I x_I ing4_E
+原味 原味 van2_B ui4_E
+原因 原因 van2_B in1_E
+原由 原由 van2_B iu2_E
+厦门 厦门 x_B ia4_I m_I en2_E
+去 去 q_B v4_E
+去年 去年 q_B v4_I n_I ian2_E
+去年底 去年底 q_B v4_I n_I ian2_I d_I i3_E
+参与 参与 c_B an1_I v3_E
+参与 参与 c_B an1_I v4_E
+参加 参加 c_B an1_I j_I ia1_E
+又 又 iu4_S
+及 及 j_B i2_E
+及其 及其 j_B i2_I q_I i2_E
+及时 及时 j_B i2_I sh_I ix2_E
+双双 双双 sh_B uang1_I sh_I uang1_E
+双方 双方 sh_B uang1_I f_I ang1_E
+反 反 f_B an3_E
+反射 反射 f_B an3_I sh_I e4_E
+反应 反应 f_B an3_I ing3_E
+反应 反应 f_B an3_I ing4_E
+反映 反映 f_B an3_I ing4_E
+发声 发声 f_B a1_I sh_I eng1_E
+发展 发展 f_B a1_I zh_I an3_E
+发布 发布 f_B a1_I b_I u4_E
+发布会 发布会 f_B a1_I b_I u4_I h_I ui4_E
+发挥 发挥 f_B a1_I h_I ui1_E
+发放 发放 f_B a1_I f_I ang4_E
+发来 发来 f_B a1_I l_I ai2_E
+发现 发现 f_B a1_I x_I ian4_E
+发生 发生 f_B a1_I sh_I eng1_E
+发生变化 发生变化 f_B a1_I sh_I eng1_I b_I ian4_I h_I ua4_E
+发福 发福 f_B a1_I f_I u2_E
+发行 发行 f_B a1_I x_I ing2_E
+发行价 发行价 f_B a1_I x_I ing2_I j_I ia4_E
+发言人 发言人 f_B a1_I ian2_I r_I en2_E
+发达 发达 f_B a1_I d_I a2_E
+取代 取代 q_B v3_I d_I ai4_E
+取消 取消 q_B v3_I x_I iao1_E
+取胜 取胜 q_B v3_I sh_I eng1_E
+取胜 取胜 q_B v3_I sh_I eng4_E
+受伤 受伤 sh_B ou4_I sh_I ang1_E
+受到 受到 sh_B ou4_I d_I ao4_E
+受到 受到 sh_B ou4_I d_I ao5_E
+受益权 受益权 sh_B ou4_I i4_I q_I van2_E
+变温 变温 b_B ian4_I un1_E
+变相 变相 b_B ian4_I x_I iang4_E
+古城 古城 g_B u3_I ch_I eng2_E
+另 另 l_B ing4_E
+另外 另外 l_B ing4_I uai4_E
+只 只 zh_B ix1_E
+只 只 zh_B ix3_E
+只会 只会 zh_B ix3_I h_I ui4_E
+只是 只是 zh_B ix3_I sh_I ix4_E
+只有 只有 zh_B ix2_I iu3_E
+只有 只有 zh_B ix3_I iu3_E
+只能 只能 zh_B ix3_I n_I eng2_E
+只要 只要 zh_B ix3_I iao4_E
+叫 叫 j_B iao4_E
+叫做 叫做 j_B iao4_I z_I uo4_E
+叫做 叫做 j_B iao4_I z_I uo5_E
+召开 召开 zh_B ao1_I k_I ai1_E
+召开 召开 zh_B ao4_I k_I ai1_E
+可 可 k_B e3_E
+可以 可以 k_B e2_I i3_E
+可以 可以 k_B e3_I i3_E
+可能 可能 k_B e3_I n_I eng2_E
+可能性 可能性 k_B e3_I n_I eng2_I x_I ing4_E
+台 台 t_B ai1_E
+台 台 t_B ai2_E
+台湾 台湾 t_B ai2_I uan1_E
+史上 史上 sh_B ix3_I sh_I ang3_E
+史上 史上 sh_B ix3_I sh_I ang4_E
+号召力 号召力 h_B ao4_I zh_I ao4_I l_I i4_E
+司机 司机 s_B iy1_I j_I i1_E
+各 各 g_B e4_E
+各个 各个 g_B e4_I g_I e4_E
+各个 各个 g_B e4_I g_I e5_E
+各大 各大 g_B e4_I d_I a4_E
+各方 各方 g_B e4_I f_I ang1_E
+各种 各种 g_B e4_I zh_I ong3_E
+合作 合作 h_B e2_I z_I uo4_E
+合影 合影 h_B e2_I ing3_E
+合法权益 合法权益 h_B e2_I f_I a3_I q_I van2_I i4_E
+合理 合理 h_B e2_I l_I i3_E
+合规 合规 h_B e2_I g_I ui1_E
+吉利 吉利 j_B i2_I l_I i4_E
+吊销 吊销 d_B iao4_I x_I iao1_E
+同 同 t_B ong2_E
+同时 同时 t_B ong2_I sh_I ix2_E
+同步 同步 t_B ong2_I b_I u4_E
+名 名 m_B ing2_E
+名为 名为 m_B ing2_I ui2_E
+名义 名义 m_B ing2_I i4_E
+名将 名将 m_B ing2_I j_I iang4_E
+名店 名店 m_B ing2_I d_I ian4_E
+后 后 h_B ou4_E
+后期 后期 h_B ou4_I q_I i1_E
+后者 后者 h_B ou4_I zh_I e3_E
+后面 后面 h_B ou4_I m_I ian4_E
+后面 后面 h_B ou4_I m_I ian5_E
+向 向 x_B iang4_E
+向下 向下 x_B iang4_I x_I ia4_E
+向来 向来 x_B iang4_I l_I ai2_E
+吗 吗 m_B a2_E
+吗 吗 m_B a3_E
+吗 吗 m_B a5_E
+听取 听取 t_B ing1_I q_I v3_E
+启动 启动 q_B i3_I d_I ong4_E
+吵架 吵架 ch_B ao3_I j_I ia4_E
+吸引 吸引 x_B i1_I in3_E
+呃 呃 e4_S
+呈现 呈现 ch_B eng2_I x_I ian4_E
+呈现出 呈现出 ch_B eng2_I x_I ian4_I ch_I u1_E
+员 员 van2_S
+员工 员工 van2_B g_I ong1_E
+呢 呢 n_B e5_E
+呢 呢 n_B i2_E
+周围 周围 zh_B ou1_I ui2_E
+周杰伦 周杰伦 zh_B ou1_I j_I ie2_I l_I un2_E
+周董 周董 zh_B ou1_I d_I ong3_E
+味道 味道 ui4_B d_I ao4_E
+味道 味道 ui4_B d_I ao5_E
+和 和 h_B e2_E
+和 和 h_B e4_E
+和 和 h_B u2_E
+和 和 h_B uo2_E
+和 和 h_B uo4_E
+咖啡 咖啡 k_B a1_I f_I ei1_E
+咬伤 咬伤 iao3_B sh_I ang1_E
+品牌 品牌 p_B in3_I p_I ai2_E
+哈根达斯 哈根达斯 h_B a1_I g_I en1_I d_I a2_I s_I iy1_E
+哪 哪 n_B a3_E
+哪 哪 n_B a5_E
+哪 哪 n_B e2_E
+哪 哪 n_B ei3_E
+哪些 哪些 n_B a3_I x_I ie1_E
+哪些 哪些 n_B ei3_I x_I ie1_E
+哪儿 哪儿 n_B a3_I er1_E
+哪儿 哪儿 n_B a3_I er2_E
+售价 售价 sh_B ou4_I j_I ia4_E
+售后 售后 sh_B ou4_I h_I ou4_E
+唱 唱 ch_B ang4_E
+商厦 商厦 sh_B ang1_I sh_I a4_E
+商品房 商品房 sh_B ang1_I p_I in3_I f_I ang2_E
+商城 商城 sh_B ang1_I ch_I eng2_E
+商店 商店 sh_B ang1_I d_I ian4_E
+商标 商标 sh_B ang1_I b_I iao1_E
+喊 喊 h_B an3_E
+喜欢 喜欢 x_B i3_I h_I uan1_E
+喜爱 喜爱 x_B i3_I ai4_E
+嗣后 嗣后 s_B iy4_I h_I ou4_E
+嗯 嗯 en1_S
+嗯 嗯 en2_S
+嗯 嗯 en4_S
+嗯 嗯 en5_S
+嗯 嗯 eng1_S
+嗯 嗯 eng2_S
+嗯 嗯 eng3_S
+嗯 嗯 eng4_S
+嘉定 嘉定 j_B ia1_I d_I ing4_E
+器官 器官 q_B i4_I g_I uan1_E
+噱头 噱头 x_B ve2_I t_I ou2_E
+噱头 噱头 x_B ve2_I t_I ou5_E
+四 四 s_B iy4_E
+四个 四个 s_B iy4_I g_I e3_E
+四个 四个 s_B iy4_I g_I e4_E
+四千 四千 s_B iy4_I q_I ian1_E
+四千万 四千万 s_B iy4_I q_I ian1_I uan4_E
+四家 四家 s_B iy4_I j_I ia1_E
+四川 四川 s_B iy4_I ch_I uan1_E
+四年 四年 s_B iy4_I n_I ian2_E
+四成 四成 s_B iy4_I ch_I eng2_E
+四月 四月 s_B iy4_I ve4_E
+四段 四段 s_B iy4_I d_I uan4_E
+四环 四环 s_B iy4_I h_I uan2_E
+四百 四百 s_B iy4_I b_I ai3_E
+四线 四线 s_B iy4_I x_I ian4_E
+回到 回到 h_B ui2_I d_I ao4_E
+回到 回到 h_B ui2_I d_I ao5_E
+回暖 回暖 h_B ui2_I n_I uan3_E
+回球 回球 h_B ui2_I q_I iu2_E
+回答 回答 h_B ui2_I d_I a2_E
+因 因 in1_S
+因为 因为 in1_B ui2_E
+因为 因为 in1_B ui4_E
+因此 因此 in1_B c_I iy3_E
+因素 因素 in1_B s_I u4_E
+团队 团队 t_B uan2_I d_I ui4_E
+囧 囧 j_B iong3_E
+园 园 van2_S
+园区 园区 van2_B q_I v1_E
+困扰 困扰 k_B un4_I r_I ao3_E
+围绕 围绕 ui2_B r_I ao4_E
+国企 国企 g_B uo2_I q_I i3_E
+国内 国内 g_B uo2_I n_I ei4_E
+国务院 国务院 g_B uo2_I u4_I van4_E
+国家 国家 g_B uo2_I j_I ia1_E
+国民 国民 g_B uo2_I m_I in2_E
+国球 国球 g_B uo2_I q_I iu2_E
+国立 国立 g_B uo2_I l_I i4_E
+国色 国色 g_B uo2_I s_I e4_E
+国防 国防 g_B uo2_I f_I ang2_E
+国际 国际 g_B uo2_I j_I i4_E
+国际乒联 国际乒联 g_B uo2_I j_I i4_I p_I ing1_I l_I ian2_E
+国际奥委会 国际奥委会 g_B uo2_I j_I i4_I ao4_I ui3_I h_I ui4_E
+图 图 t_B u2_E
+图纸 图纸 t_B u2_I zh_I ix3_E
+土地 土地 t_B u3_I d_I i4_E
+在 在 z_B ai4_E
+在于 在于 z_B ai4_I v2_E
+在家 在家 z_B ai4_I j_I ia1_E
+在意 在意 z_B ai4_I i4_E
+地 地 d_B e5_E
+地 地 d_B i4_E
+地产 地产 d_B i4_I ch_I an3_E
+地区 地区 d_B i4_I q_I v1_E
+地方 地方 d_B i4_I f_I ang1_E
+地方 地方 d_B i4_I f_I ang5_E
+地球 地球 d_B i4_I q_I iu2_E
+地盘 地盘 d_B i4_I p_I an2_E
+场外 场外 ch_B ang3_I uai4_E
+均 均 j_B vn1_E
+坐月子 坐月子 z_B uo4_I ve4_I z_I iy5_E
+垃圾箱 垃圾箱 l_B a1_I j_I i1_I x_I iang1_E
+城 城 ch_B eng2_E
+城区 城区 ch_B eng2_I q_I v1_E
+城堡 城堡 ch_B eng2_I b_I ao3_E
+城市 城市 ch_B eng2_I sh_I ix4_E
+城市化 城市化 ch_B eng2_I sh_I ix4_I h_I ua4_E
+城市道路 城市道路 ch_B eng2_I sh_I ix4_I d_I ao4_I l_I u4_E
+城隍庙 城隍庙 ch_B eng2_I h_I uang2_I m_I iao4_E
+培养 培养 p_B ei2_I iang3_E
+基于 基于 j_B i1_I v2_E
+基本 基本 j_B i1_I b_I en3_E
+基本上 基本上 j_B i1_I b_I en3_I sh_I ang3_E
+基本上 基本上 j_B i1_I b_I en3_I sh_I ang4_E
+基本上 基本上 j_B i1_I b_I en3_I sh_I ang5_E
+基础 基础 j_B i1_I ch_I u3_E
+基础设施 基础设施 j_B i1_I ch_I u3_I sh_I e4_I sh_I ix1_E
+基金 基金 j_B i1_I j_I in1_E
+基金法 基金法 j_B i1_I j_I in1_I f_I a3_E
+堆积 堆积 d_B ui1_I j_I i1_E
+堵 堵 d_B u3_E
+塔斯 塔斯 t_B a3_I s_I iy1_E
+增加 增加 z_B eng1_I j_I ia1_E
+增多 增多 z_B eng1_I d_I uo1_E
+增量 增量 z_B eng1_I l_I iang4_E
+增长 增长 z_B eng1_I zh_I ang3_E
+墨西哥 墨西哥 m_B o4_I x_I i1_I g_I e1_E
+墨镜 墨镜 m_B o4_I j_I ing4_E
+声 声 sh_B eng1_E
+声称 声称 sh_B eng1_I ch_I eng1_E
+处于 处于 ch_B u3_I v2_E
+处于 处于 ch_B u4_I v2_E
+处理 处理 ch_B u2_I l_I i3_E
+处理 处理 ch_B u3_I l_I i3_E
+处理 处理 ch_B u4_I l_I i3_E
+处理器 处理器 ch_B u2_I l_I i3_I q_I i4_E
+处理器 处理器 ch_B u3_I l_I i3_I q_I i4_E
+复杂 复杂 f_B u4_I z_I a2_E
+复苏 复苏 f_B u4_I s_I u1_E
+夏朵 夏朵 x_B ia4_I d_I uo3_E
+外出 外出 uai4_B ch_I u1_E
+外国人 外国人 uai4_B g_I uo2_I r_I en2_E
+外地 外地 uai4_B d_I i4_E
+外地人 外地人 uai4_B d_I i4_I r_I en2_E
+外形 外形 uai4_B x_I ing2_E
+外汇 外汇 uai4_B h_I ui4_E
+外滩 外滩 uai4_B t_I an1_E
+外界 外界 uai4_B j_I ie4_E
+外部 外部 uai4_B b_I u4_E
+外面 外面 uai4_B m_I ian4_E
+外面 外面 uai4_B m_I ian5_E
+多 多 d_B uo1_E
+多个 多个 d_B uo1_I g_I e4_E
+多位 多位 d_B uo1_I ui4_E
+多变 多变 d_B uo1_I b_I ian4_E
+多名 多名 d_B uo1_I m_I ing2_E
+多家 多家 d_B uo1_I j_I ia1_E
+多年 多年 d_B uo1_I n_I ian2_E
+多渠道 多渠道 d_B uo1_I q_I v2_I d_I ao4_E
+多种 多种 d_B uo1_I zh_I ong3_E
+多项 多项 d_B uo1_I x_I iang4_E
+夜市 夜市 ie4_B sh_I ix4_E
+夜空 夜空 ie4_B k_I ong1_E
+够不上 够不上 g_B ou4_I b_I u2_I sh_I ang4_E
+大 大 d_B a4_E
+大 大 d_B ai4_E
+大于 大于 d_B a4_I v2_E
+大力 大力 d_B a4_I l_I i4_E
+大厦 大厦 d_B a4_I sh_I a4_E
+大名鼎鼎 大名鼎鼎 d_B a4_I m_I ing2_I d_I ing2_I d_I ing3_E
+大名鼎鼎 大名鼎鼎 d_B a4_I m_I ing2_I d_I ing3_I d_I ing3_E
+大型 大型 d_B a4_I x_I ing2_E
+大城市 大城市 d_B a4_I ch_I eng2_I sh_I ix4_E
+大家 大家 d_B a4_I j_I ia1_E
+大容量 大容量 d_B a4_I r_I ong2_I l_I iang4_E
+大小 大小 d_B a4_I x_I iao3_E
+大成 大成 d_B a4_I ch_I eng2_E
+大户 大户 d_B a4_I h_I u4_E
+大楼 大楼 d_B a4_I l_I ou2_E
+大片 大片 d_B a4_I p_I ian4_E
+大理 大理 d_B a4_I l_I i3_E
+大篷车 大篷车 d_B a4_I p_I eng2_I ch_I e1_E
+大约 大约 d_B a4_I ve1_E
+大街 大街 d_B a4_I j_I ie1_E
+大道 大道 d_B a4_I d_I ao4_E
+大酒楼 大酒楼 d_B a4_I j_I iu3_I l_I ou2_E
+大量 大量 d_B a4_I l_I iang4_E
+天山 天山 t_B ian1_I sh_I an1_E
+天津 天津 t_B ian1_I j_I in1_E
+天王 天王 t_B ian1_I uang2_E
+天空 天空 t_B ian1_I k_I ong1_E
+太 太 t_B ai4_E
+太田 太田 t_B ai4_I t_I ian2_E
+太阳 太阳 t_B ai4_I iang2_E
+太阳 太阳 t_B ai4_I iang5_E
+失去 失去 sh_B ix1_I q_I v4_E
+失态 失态 sh_B ix1_I t_I ai4_E
+失踪 失踪 sh_B ix1_I z_I ong1_E
+奔驰 奔驰 b_B en1_I ch_I ix2_E
+奖杯 奖杯 j_B iang3_I b_I ei1_E
+套 套 t_B ao4_E
+套房 套房 t_B ao4_I f_I ang2_E
+套数 套数 t_B ao4_I sh_I u4_E
+套数 套数 t_B ao4_I sh_I u5_E
+奥 奥 ao4_S
+奥斯卡 奥斯卡 ao4_B s_I iy1_I k_I a3_E
+奥组委 奥组委 ao4_B z_I u2_I ui3_E
+奥组委 奥组委 ao4_B z_I u3_I ui3_E
+奥运 奥运 ao4_B vn4_E
+女儿 女儿 n_B v3_I er1_E
+女儿 女儿 n_B v3_I er2_E
+女子 女子 n_B v2_I z_I iy3_E
+女子 女子 n_B v3_I z_I iy3_E
+女孩 女孩 n_B v3_I h_I ai2_E
+女童 女童 n_B v3_I t_I ong2_E
+奶奶 奶奶 n_B ai3_I n_I ai5_E
+她 她 t_B a1_E
+好 好 h_B ao3_E
+好 好 h_B ao4_E
+好像 好像 h_B ao3_I x_I iang4_E
+好友 好友 h_B ao2_I iu3_E
+好友 好友 h_B ao3_I iu3_E
+好吃 好吃 h_B ao3_I ch_I ix1_E
+好吃 好吃 h_B ao4_I ch_I ix1_E
+好莱坞 好莱坞 h_B ao3_I l_I ai2_I u4_E
+如今 如今 r_B u2_I j_I in1_E
+如何 如何 r_B u2_I h_I e2_E
+如同 如同 r_B u2_I t_I ong2_E
+如愿 如愿 r_B u2_I van4_E
+如果 如果 r_B u2_I g_I uo3_E
+如此 如此 r_B u2_I c_I iy3_E
+妈妈 妈妈 m_B a1_I m_I a5_E
+妻子 妻子 q_B i1_I z_I iy3_E
+妻子 妻子 q_B i1_I z_I iy5_E
+姐妹 姐妹 j_B ie3_I m_I ei4_E
+威慑 威慑 ui1_B sh_I e4_E
+威胁 威胁 ui1_B x_I ie2_E
+娇小 娇小 j_B iao1_I x_I iao3_E
+娱乐 娱乐 v2_B l_I e4_E
+媒体 媒体 m_B ei2_I t_I i3_E
+媒体报道 媒体报道 m_B ei2_I t_I i3_I b_I ao4_I d_I ao4_E
+嫌疑 嫌疑 x_B ian2_I i2_E
+嫌疑人 嫌疑人 x_B ian2_I i2_I r_I en2_E
+子公司 子公司 z_B iy3_I g_I ong1_I s_I iy1_E
+孔乙己 孔乙己 k_B ong3_I i2_I j_I i3_E
+孔乙己 孔乙己 k_B ong3_I i3_I j_I i3_E
+孔亮 孔亮 k_B ong3_I l_I iang4_E
+孔家 孔家 k_B ong3_I j_I ia1_E
+存储器 存储器 c_B un2_I ch_I u3_I q_I i4_E
+存在 存在 c_B un2_I z_I ai4_E
+存量 存量 c_B un2_I l_I iang4_E
+孙中山 孙中山 s_B un1_I zh_I ong1_I sh_I an1_E
+学校 学校 x_B ve2_I x_I iao4_E
+孩子 孩子 h_B ai2_I z_I iy5_E
+孵化期 孵化期 f_B u1_I h_I ua4_I q_I i1_E
+它 它 t_B a1_E
+它们 它们 t_B a1_I m_I en5_E
+守护人 守护人 sh_B ou3_I h_I u4_I r_I en2_E
+守护者 守护者 sh_B ou3_I h_I u4_I zh_I e3_E
+安全 安全 an1_B q_I van2_E
+安宁 安宁 an1_B n_I ing2_E
+完全 完全 uan2_B q_I van2_E
+完善 完善 uan2_B sh_I an4_E
+完备 完备 uan2_B b_I ei4_E
+完美 完美 uan2_B m_I ei3_E
+完胜 完胜 uan2_B sh_I eng4_E
+宏观调控 宏观调控 h_B ong2_I g_I uan1_I t_I iao2_I k_I ong4_E
+官方 官方 g_B uan1_I f_I ang1_E
+定 定 d_B ing4_E
+定位仪 定位仪 d_B ing4_I ui4_I i2_E
+定制 定制 d_B ing4_I zh_I ix4_E
+实力 实力 sh_B ix2_I l_I i4_E
+实施 实施 sh_B ix2_I sh_I ix1_E
+实现 实现 sh_B ix2_I x_I ian4_E
+实行 实行 sh_B ix2_I x_I ing2_E
+实际 实际 sh_B ix2_I j_I i4_E
+审批 审批 sh_B en3_I p_I i1_E
+客 客 k_B e4_E
+客户 客户 k_B e4_I h_I u4_E
+宣布 宣布 x_B van1_I b_I u4_E
+宣称 宣称 x_B van1_I ch_I eng1_E
+害怕 害怕 h_B ai4_I p_I a4_E
+家乐福 家乐福 j_B ia1_I l_I e4_I f_I u2_E
+家人 家人 j_B ia1_I r_I en2_E
+家居 家居 j_B ia1_I j_I v1_E
+家属 家属 j_B ia1_I sh_I u3_E
+家庭 家庭 j_B ia1_I t_I ing2_E
+容易 容易 r_B ong2_I i3_E
+容易 容易 r_B ong2_I i4_E
+宽 宽 k_B uan1_E
+宽松 宽松 k_B uan1_I s_I ong1_E
+密不可分 密不可分 m_B i4_I b_I u2_I k_I e3_I f_I en1_E
+密不可分 密不可分 m_B i4_I b_I u4_I k_I e3_I f_I en1_E
+密切 密切 m_B i4_I q_I ie4_E
+寒暑假 寒暑假 h_B an2_I sh_I u3_I j_I ia4_E
+寮 寮 l_B iao2_E
+对 对 d_B ui4_E
+对于 对于 d_B ui4_I v2_E
+对冲 对冲 d_B ui4_I ch_I ong1_E
+对待 对待 d_B ui4_I d_I ai4_E
+对手 对手 d_B ui4_I sh_I ou3_E
+对抗 对抗 d_B ui4_I k_I ang4_E
+对此 对此 d_B ui4_I c_I iy3_E
+对称 对称 d_B ui4_I ch_I en4_E
+对象 对象 d_B ui4_I x_I iang4_E
+寺 寺 s_B iy4_E
+导游 导游 d_B ao3_I iu2_E
+导游证 导游证 d_B ao3_I iu2_I zh_I eng4_E
+导致 导致 d_B ao3_I zh_I ix4_E
+封杀 封杀 f_B eng1_I sh_I a1_E
+将 将 j_B iang1_E
+将 将 j_B iang4_E
+将 将 q_B iang1_E
+将会 将会 j_B iang1_I h_I ui4_E
+小 小 x_B iao3_E
+小伙 小伙 x_B iao2_I h_I uo3_E
+小伙 小伙 x_B iao3_I h_I uo3_E
+小勇 小勇 x_B iao2_I iong3_E
+小勇 小勇 x_B iao3_I iong3_E
+小区 小区 x_B iao3_I q_I v1_E
+小型 小型 x_B iao3_I x_I ing2_E
+小孩 小孩 x_B iao3_I h_I ai2_E
+小拇指 小拇指 x_B iao3_I m_I u2_I zh_I ix3_E
+小拇指 小拇指 x_B iao3_I m_I u3_I zh_I ix3_E
+小时 小时 x_B iao3_I sh_I ix2_E
+小贩 小贩 x_B iao3_I f_I an4_E
+小轿车 小轿车 x_B iao3_I j_I iao4_I ch_I e1_E
+小鸡 小鸡 x_B iao3_I j_I i1_E
+少有 少有 sh_B ao2_I iu3_E
+少有 少有 sh_B ao3_I iu3_E
+尖刀 尖刀 j_B ian1_I d_I ao1_E
+尤其 尤其 iu2_B q_I i2_E
+就 就 j_B iu4_E
+就是 就是 j_B iu4_I sh_I ix3_E
+就是 就是 j_B iu4_I sh_I ix4_E
+就要 就要 j_B iu4_I iao4_E
+尸体 尸体 sh_B ix1_I t_I i3_E
+尽快 尽快 j_B in3_I k_I uai4_E
+尽快 尽快 j_B in4_I k_I uai4_E
+局部地区 局部地区 j_B v2_I b_I u4_I d_I i4_I q_I v1_E
+局面 局面 j_B v2_I m_I ian4_E
+居民 居民 j_B v1_I m_I in2_E
+屏幕 屏幕 p_B ing2_I m_I u4_E
+展示 展示 zh_B an3_I sh_I ix4_E
+屡 屡 l_B v3_E
+履职 履职 l_B v3_I zh_I ix2_E
+山里红 山里红 sh_B an1_I l_I i5_I h_I ong2_E
+崇明岛 崇明岛 ch_B ong2_I m_I ing2_I d_I ao3_E
+巡航 巡航 x_B vn2_I h_I ang2_E
+工业 工业 g_B ong1_I ie4_E
+工人 工人 g_B ong1_I r_I en2_E
+工作 工作 g_B ong1_I z_I uo4_E
+工作日 工作日 g_B ong1_I z_I uo4_I r_I iz4_E
+工作站 工作站 g_B ong1_I z_I uo4_I zh_I an4_E
+工作者 工作者 g_B ong1_I z_I uo4_I zh_I e3_E
+工厂 工厂 g_B ong1_I ch_I ang3_E
+工艺 工艺 g_B ong1_I i4_E
+左 左 z_B uo3_E
+左右 左右 z_B uo3_I iu4_E
+左小蕾 左小蕾 z_B uo3_I x_I iao2_I l_I ei3_E
+左小蕾 左小蕾 z_B uo3_I x_I iao3_I l_I ei3_E
+巨大 巨大 j_B v4_I d_I a4_E
+巩固 巩固 g_B ong3_I g_I u4_E
+差别化 差别化 ch_B a1_I b_I ie2_I h_I ua4_E
+差异 差异 ch_B a1_I i4_E
+已 已 i3_S
+已有 已有 i2_B iu3_E
+已经 已经 i3_B j_I ing1_E
+已获 已获 i3_B h_I uo4_E
+巴士 巴士 b_B a1_I sh_I ix4_E
+市 市 sh_B ix4_E
+市值 市值 sh_B ix4_I zh_I ix2_E
+市场 市场 sh_B ix4_I ch_I ang3_E
+市场份额 市场份额 sh_B ix4_I ch_I ang3_I f_I en4_I e2_E
+市场部 市场部 sh_B ix4_I ch_I ang3_I b_I u4_E
+市场需求 市场需求 sh_B ix4_I ch_I ang3_I x_I v1_I q_I iu2_E
+市政府 市政府 sh_B ix4_I zh_I eng4_I f_I u3_E
+市民 市民 sh_B ix4_I m_I in2_E
+市盈率 市盈率 sh_B ix4_I ing2_I l_I v4_E
+市长 市长 sh_B ix4_I zh_I ang3_E
+布局 布局 b_B u4_I j_I v2_E
+希望 希望 x_B i1_I uang4_E
+带 带 d_B ai4_E
+带动 带动 d_B ai4_I d_I ong4_E
+带来 带来 d_B ai4_I l_I ai2_E
+带来 带来 d_B ai4_I l_I ai3_E
+席卷 席卷 x_B i2_I j_I van3_E
+席卷 席卷 x_B i2_I j_I van4_E
+帮 帮 b_B ang1_E
+帽子 帽子 m_B ao4_I z_I iy5_E
+干 干 g_B an1_E
+干 干 g_B an4_E
+干 干 q_B ian2_E
+平台 平台 p_B ing2_I t_I ai2_E
+平时 平时 p_B ing2_I sh_I ix2_E
+平米 平米 p_B ing2_I m_I i3_E
+年内 年内 n_B ian2_I n_I ei4_E
+年头 年头 n_B ian2_I t_I ou2_E
+年报 年报 n_B ian2_I b_I ao4_E
+年轻 年轻 n_B ian2_I q_I ing1_E
+年龄段 年龄段 n_B ian2_I l_I ing2_I d_I uan4_E
+并 并 b_B ing1_E
+并 并 b_B ing4_E
+并且 并且 b_B ing4_I q_I ie3_E
+并未 并未 b_B ing4_I ui4_E
+并非 并非 b_B ing4_I f_I ei1_E
+幸福 幸福 x_B ing4_I f_I u2_E
+幸运 幸运 x_B ing4_I vn4_E
+幸运 幸运 x_B ing4_I vn5_E
+幺 幺 iao1_S
+广场 广场 g_B uang2_I ch_I ang3_E
+广场 广场 g_B uang3_I ch_I ang3_E
+广州 广州 g_B uang3_I zh_I ou1_E
+应 应 ing1_S
+应 应 ing4_S
+应从 应从 ing1_B c_I ong2_E
+应对 应对 ing4_B d_I ui4_E
+应用 应用 ing4_B iong4_E
+应该 应该 ing1_B g_I ai1_E
+底线 底线 d_B i3_I x_I ian4_E
+店 店 d_B ian4_E
+店子 店子 d_B ian4_I z_I iy5_E
+度 度 d_B u4_E
+度 度 d_B uo2_E
+康斯坦丁 康斯坦丁 k_B ang1_I s_I iy1_I t_I an3_I d_I ing1_E
+康熙 康熙 k_B ang1_I x_I i1_E
+延长 延长 ian2_B ch_I ang2_E
+建成 建成 j_B ian4_I ch_I eng2_E
+建立 建立 j_B ian4_I l_I i4_E
+建议 建议 j_B ian4_I i4_E
+建设 建设 j_B ian4_I sh_I e4_E
+开发 开发 k_B ai1_I f_I a1_E
+开发商 开发商 k_B ai1_I f_I a1_I sh_I ang1_E
+开园 开园 k_B ai1_I van2_E
+开始 开始 k_B ai1_I sh_I ix3_E
+开展 开展 k_B ai1_I zh_I an3_E
+开幕 开幕 k_B ai1_I m_I u4_E
+开盘 开盘 k_B ai1_I p_I an2_E
+弊端 弊端 b_B i4_I d_I uan1_E
+式 式 sh_B ix4_E
+引来 引来 in3_B l_I ai2_E
+引爆 引爆 in3_B b_I ao4_E
+弗雷 弗雷 f_B u2_I l_I ei2_E
+张伟 张伟 zh_B ang1_I ui3_E
+张女士 张女士 zh_B ang1_I n_I v3_I sh_I ix4_E
+弥补 弥补 m_B i2_I b_I u3_E
+强烈 强烈 q_B iang2_I l_I ie4_E
+强行 强行 q_B iang2_I x_I ing2_E
+强调 强调 q_B iang2_I d_I iao4_E
+当 当 d_B ang1_E
+当 当 d_B ang4_E
+当中 当中 d_B ang1_I zh_I ong1_E
+当事人 当事人 d_B ang1_I sh_I ix4_I r_I en2_E
+当做 当做 d_B ang4_I z_I uo4_E
+当前 当前 d_B ang1_I q_I ian2_E
+当地 当地 d_B ang1_I d_I i4_E
+当场 当场 d_B ang1_I ch_I ang3_E
+当天 当天 d_B ang1_I t_I ian1_E
+当天 当天 d_B ang4_I t_I ian1_E
+当时 当时 d_B ang1_I sh_I ix2_E
+形式 形式 x_B ing2_I sh_I ix4_E
+形成 形成 x_B ing2_I ch_I eng2_E
+形象 形象 x_B ing2_I x_I iang4_E
+影响 影响 ing2_B x_I iang3_E
+影响 影响 ing3_B x_I iang3_E
+影响力 影响力 ing2_B x_I iang3_I l_I i4_E
+影响力 影响力 ing3_B x_I iang3_I l_I i4_E
+影帝 影帝 ing3_B d_I i4_E
+影片 影片 ing3_B p_I ian1_E
+影片 影片 ing3_B p_I ian4_E
+彻底 彻底 ch_B e4_I d_I i3_E
+征信 征信 zh_B eng1_I x_I in4_E
+征管 征管 zh_B eng1_I g_I uan3_E
+征选 征选 zh_B eng1_I x_I van3_E
+很 很 h_B en3_E
+很多 很多 h_B en3_I d_I uo1_E
+很强 很强 h_B en3_I q_I iang2_E
+很快 很快 h_B en3_I k_I uai4_E
+得 得 d_B e2_E
+得 得 d_B e5_E
+得 得 d_B ei3_E
+得不偿失 得不偿失 d_B e2_I b_I u4_I ch_I ang2_I sh_I ix1_E
+得到 得到 d_B e2_I d_I ao4_E
+得到 得到 d_B e2_I d_I ao5_E
+微博 微博 ui1_B b_I o2_E
+微小 微小 ui1_B x_I iao3_E
+德国 德国 d_B e2_I g_I uo2_E
+心 心 x_B in1_E
+心情 心情 x_B in1_I q_I ing2_E
+心脏 心脏 x_B in1_I z_I ang4_E
+必将 必将 b_B i4_I j_I iang1_E
+必要 必要 b_B i4_I iao4_E
+必要性 必要性 b_B i4_I iao4_I x_I ing4_E
+必须 必须 b_B i4_I x_I v1_E
+忘记 忘记 uang4_B j_I i4_E
+忠心耿耿 忠心耿耿 zh_B ong1_I x_I in1_I g_I eng2_I g_I eng3_E
+忠心耿耿 忠心耿耿 zh_B ong1_I x_I in1_I g_I eng3_I g_I eng3_E
+快乐 快乐 k_B uai4_I l_I e4_E
+快乐 快乐 k_B uai4_I l_I e5_E
+快讯 快讯 k_B uai4_I x_I vn4_E
+快速 快速 k_B uai4_I s_I u4_E
+怀 怀 h_B uai2_E
+怀中 怀中 h_B uai2_I zh_I ong1_E
+态势 态势 t_B ai4_I sh_I ix4_E
+态度 态度 t_B ai4_I d_I u5_E
+怎么 怎么 z_B en3_I m_I e5_E
+怎么 怎么 z_B en3_I m_I o2_E
+怕 怕 p_B a4_E
+思考 思考 s_B iy1_I k_I ao3_E
+思路 思路 s_B iy1_I l_I u4_E
+急剧 急剧 j_B i2_I j_I v4_E
+性能 性能 x_B ing4_I n_I eng2_E
+总体 总体 z_B ong2_I t_I i3_E
+总体 总体 z_B ong3_I t_I i3_E
+总共 总共 z_B ong3_I g_I ong4_E
+总裁 总裁 z_B ong3_I c_I ai2_E
+恋人 恋人 l_B ian4_I r_I en2_E
+恋人 恋人 l_B ian4_I r_I en5_E
+恒大 恒大 h_B eng2_I d_I a4_E
+恢复 恢复 h_B ui1_I f_I u4_E
+恢复 恢复 h_B ui1_I f_I u5_E
+您 您 n_B in2_E
+悼念 悼念 d_B ao4_I n_I ian4_E
+情侣 情侣 q_B ing2_I l_I v3_E
+情况 情况 q_B ing2_I k_I uang4_E
+情感 情感 q_B ing2_I g_I an3_E
+情歌 情歌 q_B ing2_I g_I e1_E
+惨死 惨死 c_B an2_I s_I iy3_E
+惨死 惨死 c_B an3_I s_I iy3_E
+想 想 x_B iang3_E
+想要 想要 x_B iang3_I iao4_E
+惹 惹 r_B e3_E
+意在 意在 i4_B z_I ai4_E
+意见 意见 i4_B j_I ian3_E
+意见 意见 i4_B j_I ian4_E
+感叹 感叹 g_B an3_I t_I an4_E
+成为 成为 ch_B eng2_I ui2_E
+成交 成交 ch_B eng2_I j_I iao1_E
+成功 成功 ch_B eng2_I g_I ong1_E
+成果 成果 ch_B eng2_I g_I uo3_E
+成立 成立 ch_B eng2_I l_I i4_E
+成都 成都 ch_B eng2_I d_I u1_E
+我 我 uo3_S
+我们 我们 uo3_B m_I en5_E
+我国 我国 uo3_B g_I uo2_E
+或 或 h_B uo4_E
+或者 或者 h_B uo4_I zh_I e3_E
+或许 或许 h_B uo4_I x_I v3_E
+战胜 战胜 zh_B an4_I sh_I eng4_E
+截至 截至 j_B ie2_I zh_I ix4_E
+戴 戴 d_B ai4_E
+房产 房产 f_B ang2_I ch_I an3_E
+房价 房价 f_B ang2_I j_I ia4_E
+房企 房企 f_B ang2_I q_I i3_E
+房地产 房地产 f_B ang2_I d_I i4_I ch_I an3_E
+房源 房源 f_B ang2_I van2_E
+房租 房租 f_B ang2_I z_I u1_E
+房管 房管 f_B ang2_I g_I uan3_E
+房贷 房贷 f_B ang2_I d_I ai4_E
+所 所 s_B uo3_E
+所以 所以 s_B uo2_I i3_E
+所以 所以 s_B uo3_I i3_E
+所幸 所幸 s_B uo3_I x_I ing4_E
+所有 所有 s_B uo2_I iu3_E
+所有 所有 s_B uo3_I iu3_E
+所有权 所有权 s_B uo2_I iu3_I q_I van2_E
+所有权 所有权 s_B uo3_I iu3_I q_I van2_E
+所有者 所有者 s_B uo2_I iu2_I zh_I e3_E
+所有者 所有者 s_B uo3_I iu3_I zh_I e3_E
+所致 所致 s_B uo3_I zh_I ix4_E
+所谓 所谓 s_B uo3_I ui4_E
+手指 手指 sh_B ou2_I zh_I ix3_E
+手指 手指 sh_B ou3_I zh_I ix3_E
+手机 手机 sh_B ou3_I j_I i1_E
+手环 手环 sh_B ou3_I h_I uan2_E
+手臂 手臂 sh_B ou3_I b_I i4_E
+才 才 c_B ai2_E
+扑灭 扑灭 p_B u1_I m_I ie4_E
+打 打 d_B a2_E
+打 打 d_B a3_E
+打击 打击 d_B a3_I j_I i1_E
+打印 打印 d_B a3_I in4_E
+打印机 打印机 d_B a3_I in4_I j_I i1_E
+打开 打开 d_B a3_I k_I ai1_E
+打电话 打电话 d_B a3_I d_I ian4_I h_I ua4_E
+打造 打造 d_B a3_I z_I ao4_E
+托 托 t_B uo1_E
+托管 托管 t_B uo1_I g_I uan3_E
+托管人 托管人 t_B uo1_I g_I uan3_I r_I en2_E
+执行 执行 zh_B ix2_I x_I ing2_E
+扫清 扫清 s_B ao3_I q_I ing1_E
+扬言 扬言 iang2_B ian2_E
+扮演 扮演 b_B an4_I ian3_E
+扶持 扶持 f_B u2_I ch_I ix2_E
+扶植 扶植 f_B u2_I zh_I ix2_E
+批判 批判 p_B i1_I p_I an4_E
+承认 承认 ch_B eng2_I r_I en4_E
+承诺 承诺 ch_B eng2_I n_I uo4_E
+技术 技术 j_B i4_I sh_I u4_E
+技术 技术 j_B i4_I sh_I u5_E
+抄袭 抄袭 ch_B ao1_I x_I i2_E
+把 把 b_B a3_E
+把 把 b_B a4_E
+抑制 抑制 i4_B zh_I ix4_E
+投入 投入 t_B ou2_I r_I u4_E
+投机 投机 t_B ou2_I j_I i1_E
+投资 投资 t_B ou2_I z_I iy1_E
+投资性 投资性 t_B ou2_I z_I iy1_I x_I ing4_E
+折 折 sh_B e2_E
+折 折 zh_B e1_E
+折 折 zh_B e2_E
+折射 折射 zh_B e2_I sh_I e4_E
+折扣 折扣 zh_B e2_I k_I ou4_E
+抢 抢 q_B iang1_E
+抢 抢 q_B iang3_E
+抢占 抢占 q_B iang3_I zh_I an4_E
+抢攻 抢攻 q_B iang3_I g_I ong1_E
+报告 报告 b_B ao4_I g_I ao4_E
+报摊 报摊 b_B ao4_I t_I an1_E
+报警 报警 b_B ao4_I j_I ing3_E
+报送 报送 b_B ao4_I s_I ong4_E
+报道 报道 b_B ao4_I d_I ao4_E
+抱 抱 b_B ao4_E
+抽烟 抽烟 ch_B ou1_I ian1_E
+抽象 抽象 ch_B ou1_I x_I iang4_E
+拉着 拉着 l_B a1_I zh_I e5_E
+拍 拍 p_B ai1_E
+拍照 拍照 p_B ai1_I zh_I ao4_E
+拘 拘 j_B v1_E
+拥堵 拥堵 iong1_B d_I u3_E
+拥有 拥有 iong1_B iu3_E
+拿下 拿下 n_B a2_I x_I ia4_E
+持 持 ch_B ix2_E
+持刀 持刀 ch_B ix2_I d_I ao1_E
+持有 持有 ch_B ix2_I iu3_E
+持有人 持有人 ch_B ix2_I iu3_I r_I en2_E
+持续 持续 ch_B ix2_I x_I v4_E
+持续时间 持续时间 ch_B ix2_I x_I v4_I sh_I ix2_I j_I ian1_E
+持股 持股 ch_B ix2_I g_I u3_E
+挂钩 挂钩 g_B ua4_I g_I ou1_E
+指出 指出 zh_B ix3_I ch_I u1_E
+指导 指导 zh_B ix2_I d_I ao3_E
+指导 指导 zh_B ix3_I d_I ao3_E
+指控 指控 zh_B ix3_I k_I ong4_E
+指数 指数 zh_B ix3_I sh_I u4_E
+指明 指明 zh_B ix3_I m_I ing2_E
+指标 指标 zh_B ix3_I b_I iao1_E
+按照 按照 an4_B zh_I ao4_E
+挑 挑 t_B iao1_E
+挑 挑 t_B iao3_E
+挑剔 挑剔 t_B iao1_I t_I i1_E
+挑剔 挑剔 t_B iao1_I t_I i5_E
+挑战赛 挑战赛 t_B iao3_I zh_I an4_I s_I ai4_E
+挣钱 挣钱 zh_B eng4_I q_I ian2_E
+挥刀 挥刀 h_B ui1_I d_I ao1_E
+挪用 挪用 n_B uo2_I iong4_E
+挪用公款 挪用公款 n_B uo2_I iong4_I g_I ong1_I k_I uan3_E
+挽回 挽回 uan3_B h_I ui2_E
+挽救 挽救 uan3_B j_I iu4_E
+损失 损失 s_B un3_I sh_I ix1_E
+据 据 j_B v1_E
+据 据 j_B v4_E
+据为己有 据为己有 j_B v4_I ui2_I j_I i2_I iu3_E
+据为己有 据为己有 j_B v4_I ui2_I j_I i3_I iu3_E
+掀 掀 x_B ian1_E
+掀开 掀开 x_B ian1_I k_I ai1_E
+授信 授信 sh_B ou4_I x_I in4_E
+授权 授权 sh_B ou4_I q_I van2_E
+掉 掉 d_B iao4_E
+排名 排名 p_B ai2_I m_I ing2_E
+探 探 t_B an4_E
+探索 探索 t_B an4_I s_I uo3_E
+接 接 j_B ie1_E
+接下来 接下来 j_B ie1_I x_I ia3_I l_I ai3_E
+接下来 接下来 j_B ie1_I x_I ia4_I l_I ai2_E
+接下来 接下来 j_B ie1_I x_I ia4_I l_I ai3_E
+接受 接受 j_B ie1_I sh_I ou4_E
+接盘 接盘 j_B ie1_I p_I an2_E
+接近 接近 j_B ie1_I j_I in4_E
+控制 控制 k_B ong4_I zh_I ix4_E
+控制器 控制器 k_B ong4_I zh_I ix4_I q_I i4_E
+控股 控股 k_B ong4_I g_I u3_E
+推 推 t_B ui1_E
+推出 推出 t_B ui1_I ch_I u1_E
+推动 推动 t_B ui1_I d_I ong4_E
+推广 推广 t_B ui1_I g_I uang3_E
+推进 推进 t_B ui1_I j_I in4_E
+措施 措施 c_B uo4_I sh_I ix1_E
+提供 提供 t_B i2_I g_I ong1_E
+提供 提供 t_B i2_I g_I ong4_E
+提出 提出 t_B i2_I ch_I u1_E
+提到 提到 t_B i2_I d_I ao4_E
+提高 提高 t_B i2_I g_I ao1_E
+揭晓 揭晓 j_B ie1_I x_I iao3_E
+搜狐 搜狐 s_B ou1_I h_I u2_E
+搜索 搜索 s_B ou1_I s_I uo3_E
+搞 搞 g_B ao3_E
+搞清楚 搞清楚 g_B ao3_I q_I ing1_I ch_I u3_E
+摄 摄 sh_B e4_E
+摄氏度 摄氏度 sh_B e4_I sh_I ix4_I d_I u4_E
+摆放 摆放 b_B ai3_I f_I ang4_E
+撞 撞 zh_B uang4_E
+撤回 撤回 ch_B e4_I h_I ui2_E
+撤离 撤离 ch_B e4_I l_I i2_E
+撤走 撤走 ch_B e4_I z_I ou3_E
+攒 攒 c_B uan2_E
+攒 攒 z_B an3_E
+攒够 攒够 z_B an3_I g_I ou4_E
+支付 支付 zh_B ix1_I f_I u4_E
+支持 支持 zh_B ix1_I ch_I ix2_E
+支撑 支撑 zh_B ix1_I ch_I eng1_E
+支票 支票 zh_B ix1_I p_I iao4_E
+收入 收入 sh_B ou1_I r_I u4_E
+收取 收取 sh_B ou1_I q_I v3_E
+收益 收益 sh_B ou1_I i4_E
+收获 收获 sh_B ou1_I h_I uo4_E
+收费 收费 sh_B ou1_I f_I ei4_E
+收集 收集 sh_B ou1_I j_I i2_E
+改为 改为 g_B ai3_I ui2_E
+改变 改变 g_B ai3_I b_I ian4_E
+改革 改革 g_B ai3_I g_I e2_E
+放学 放学 f_B ang4_I x_I ve2_E
+放宽 放宽 f_B ang4_I k_I uan1_E
+放缓 放缓 f_B ang4_I h_I uan3_E
+政府 政府 zh_B eng4_I f_I u3_E
+政策 政策 zh_B eng4_I c_I e4_E
+故事 故事 g_B u4_I sh_I ix4_E
+故事 故事 g_B u4_I sh_I ix5_E
+故居 故居 g_B u4_I j_I v1_E
+效率 效率 x_B iao4_I l_I v4_E
+敏感 敏感 m_B in2_I g_I an3_E
+敏感 敏感 m_B in3_I g_I an3_E
+救世主 救世主 j_B iu4_I sh_I ix4_I zh_I u3_E
+救助 救助 j_B iu4_I zh_I u4_E
+救治 救治 j_B iu4_I zh_I ix4_E
+教育 教育 j_B iao4_I v4_E
+数据 数据 sh_B u4_I j_I v4_E
+数月 数月 sh_B u4_I ve4_E
+数百 数百 sh_B u4_I b_I ai3_E
+数量 数量 sh_B u4_I l_I iang4_E
+数量 数量 sh_B u4_I l_I iang5_E
+整个 整个 zh_B eng3_I g_I e4_E
+整个 整个 zh_B eng3_I g_I e5_E
+整体 整体 zh_B eng2_I t_I i3_E
+整体 整体 zh_B eng3_I t_I i3_E
+整改 整改 zh_B eng2_I g_I ai3_E
+整改 整改 zh_B eng3_I g_I ai3_E
+文 文 un2_S
+文化 文化 un2_B h_I ua4_E
+文轩 文轩 un2_B x_I van1_E
+斗转星移 斗转星移 d_B ou2_I zh_I uan3_I x_I ing1_I i2_E
+斗转星移 斗转星移 d_B ou3_I zh_I uan3_I x_I ing1_I i2_E
+斥责 斥责 ch_B ix4_I z_I e2_E
+断崖 断崖 d_B uan4_I ia2_E
+新 新 x_B in1_E
+新一轮 新一轮 x_B in1_I i1_I l_I un2_E
+新世纪 新世纪 x_B in1_I sh_I ix4_I j_I i4_E
+新低 新低 x_B in1_I d_I i1_E
+新华书店 新华书店 x_B in1_I h_I ua2_I sh_I u1_I d_I ian4_E
+新增 新增 x_B in1_I z_I eng1_E
+新婚夫妇 新婚夫妇 x_B in1_I h_I un1_I f_I u1_I f_I u4_E
+新房 新房 x_B in1_I f_I ang2_E
+新手 新手 x_B in1_I sh_I ou3_E
+新政 新政 x_B in1_I zh_I eng4_E
+新梅 新梅 x_B in1_I m_I ei2_E
+新款 新款 x_B in1_I k_I uan3_E
+新篇章 新篇章 x_B in1_I p_I ian1_I zh_I ang1_E
+新股 新股 x_B in1_I g_I u3_E
+新货 新货 x_B in1_I h_I uo4_E
+新闻 新闻 x_B in1_I un2_E
+新闻网 新闻网 x_B in1_I un2_I uang3_E
+新鲜 新鲜 x_B in1_I x_I ian1_E
+新鲜 新鲜 x_B in1_I x_I ian3_E
+方便 方便 f_B ang1_I b_I ian4_E
+方式 方式 f_B ang1_I sh_I ix4_E
+方案 方案 f_B ang1_I an4_E
+方面 方面 f_B ang1_I m_I ian4_E
+施压 施压 sh_B ix1_I ia1_E
+旅游 旅游 l_B v3_I iu2_E
+旅行社 旅行社 l_B v3_I x_I ing2_I sh_I e4_E
+无 无 u2_S
+无所谓 无所谓 u2_B s_I uo3_I ui4_E
+无故 无故 u2_B g_I u4_E
+无效 无效 u2_B x_I iao4_E
+无比 无比 u2_B b_I i3_E
+无法 无法 u2_B f_I a3_E
+日 日 r_B iz4_E
+日产 日产 r_B iz4_I ch_I an3_E
+日光 日光 r_B iz4_I g_I uang1_E
+日前 日前 r_B iz4_I q_I ian2_E
+日常 日常 r_B iz4_I ch_I ang2_E
+日本 日本 r_B iz4_I b_I en3_E
+早前 早前 z_B ao3_I q_I ian2_E
+时 时 sh_B ix2_E
+时代 时代 sh_B ix2_I d_I ai4_E
+时候 时候 sh_B ix2_I h_I ou4_E
+时候 时候 sh_B ix2_I h_I ou5_E
+时光 时光 sh_B ix2_I g_I uang1_E
+时尚 时尚 sh_B ix2_I sh_I ang4_E
+时间 时间 sh_B ix2_I j_I ian1_E
+昆凌 昆凌 k_B un1_I l_I ing2_E
+明年 明年 m_B ing2_I n_I ian2_E
+明星 明星 m_B ing2_I x_I ing1_E
+明显 明显 m_B ing2_I x_I ian3_E
+明确 明确 m_B ing2_I q_I ve4_E
+星 星 x_B ing1_E
+星巴克 星巴克 x_B ing1_I b_I a1_I k_I e4_E
+星座 星座 x_B ing1_I z_I uo4_E
+星系 星系 x_B ing1_I x_I i4_E
+昨天 昨天 z_B uo2_I t_I ian1_E
+是 是 sh_B ix4_E
+是从 是从 sh_B ix4_I c_I ong2_E
+是否 是否 sh_B ix4_I f_I ou3_E
+显得 显得 x_B ian3_I d_I e3_E
+显得 显得 x_B ian3_I d_I e5_E
+显效 显效 x_B ian3_I x_I iao4_E
+显现出 显现出 x_B ian3_I x_I ian4_I ch_I u1_E
+显示 显示 x_B ian3_I sh_I ix4_E
+显而易见 显而易见 x_B ian3_I er2_I i4_I j_I ian4_E
+晋升 晋升 j_B in4_I sh_I eng1_E
+晒 晒 sh_B ai4_E
+晚 晚 uan3_S
+普及 普及 p_B u3_I j_I i2_E
+普遍 普遍 p_B u3_I b_I ian4_E
+普里 普里 p_B u2_I l_I i3_E
+普里 普里 p_B u3_I l_I i3_E
+景区 景区 j_B ing3_I q_I v1_E
+智能 智能 zh_B ix4_I n_I eng2_E
+智能机 智能机 zh_B ix4_I n_I eng2_I j_I i1_E
+暂时 暂时 z_B an4_I sh_I ix2_E
+暂行办法 暂行办法 z_B an4_I x_I ing2_I b_I an4_I f_I a3_E
+曝光 曝光 b_B ao4_I g_I uang1_E
+曝光 曝光 p_B u4_I g_I uang1_E
+曲线 曲线 q_B v1_I x_I ian4_E
+曲线 曲线 q_B v3_I x_I ian4_E
+更 更 g_B eng1_E
+更 更 g_B eng4_E
+更为 更为 g_B eng4_I ui2_E
+更加 更加 g_B eng4_I j_I ia1_E
+更大 更大 g_B eng4_I d_I a4_E
+更好 更好 g_B eng4_I h_I ao3_E
+更长 更长 g_B eng4_I ch_I ang2_E
+最 最 z_B ui4_E
+最初 最初 z_B ui4_I ch_I u1_E
+最后 最后 z_B ui4_I h_I ou4_E
+最多 最多 z_B ui4_I d_I uo1_E
+最大 最大 z_B ui4_I d_I a4_E
+最大化 最大化 z_B ui4_I d_I a4_I h_I ua4_E
+最早 最早 z_B ui4_I z_I ao3_E
+最晚 最晚 z_B ui4_I uan3_E
+最终 最终 z_B ui4_I zh_I ong1_E
+最近 最近 z_B ui4_I j_I in4_E
+最高 最高 z_B ui4_I g_I ao1_E
+月 月 ve4_S
+有 有 iu3_S
+有个 有个 iu3_B g_I e3_E
+有个 有个 iu3_B g_I e4_E
+有些 有些 iu3_B x_I ie1_E
+有人 有人 iu3_B r_I en2_E
+有关 有关 iu3_B g_I uan1_E
+有利于 有利于 iu3_B l_I i4_I v2_E
+有助于 有助于 iu3_B zh_I u4_I v2_E
+有效 有效 iu3_B x_I iao4_E
+有效性 有效性 iu3_B x_I iao4_I x_I ing4_E
+朋友 朋友 p_B eng2_I iu5_E
+服务 服务 f_B u2_I u4_E
+服务员 服务员 f_B u2_I u4_I van2_E
+朝阳区 朝阳区 ch_B ao2_I iang2_I q_I v1_E
+期 期 q_B i1_E
+期限 期限 q_B i1_I x_I ian4_E
+未 未 ui4_S
+未来 未来 ui4_B l_I ai2_E
+未能 未能 ui4_B n_I eng2_E
+本人 本人 b_B en3_I r_I en2_E
+本报讯 本报讯 b_B en3_I b_I ao4_I x_I vn4_E
+本月 本月 b_B en3_I ve4_E
+本次 本次 b_B en3_I c_I iy4_E
+本质 本质 b_B en3_I zh_I ix4_E
+本身 本身 b_B en3_I sh_I en1_E
+本项 本项 b_B en3_I x_I iang4_E
+机制 机制 j_B i1_I zh_I ix4_E
+机构 机构 j_B i1_I g_I ou4_E
+材料 材料 c_B ai2_I l_I iao4_E
+条件 条件 t_B iao2_I j_I ian4_E
+条款 条款 t_B iao2_I k_I uan3_E
+来 来 l_B ai2_E
+来源 来源 l_B ai2_I van2_E
+来看 来看 l_B ai2_I k_I an4_E
+来自 来自 l_B ai2_I z_I iy4_E
+来说 来说 l_B ai2_I sh_I uo1_E
+杭州 杭州 h_B ang2_I zh_I ou1_E
+极地 极地 j_B i2_I d_I i4_E
+某 某 m_B ou3_E
+某一 某一 m_B ou3_I i1_E
+某某 某某 m_B ou2_I m_I ou3_E
+某某 某某 m_B ou3_I m_I ou3_E
+查实 查实 ch_B a2_I sh_I ix2_E
+查明 查明 ch_B a2_I m_I ing2_E
+标准版 标准版 b_B iao1_I zh_I un2_I b_I an3_E
+标准版 标准版 b_B iao1_I zh_I un3_I b_I an3_E
+标志 标志 b_B iao1_I zh_I ix4_E
+标配 标配 b_B iao1_I p_I ei4_E
+栏目 栏目 l_B an2_I m_I u4_E
+校园 校园 x_B iao4_I van2_E
+校际 校际 x_B iao4_I j_I i4_E
+根据 根据 g_B en1_I j_I v4_E
+根本 根本 g_B en1_I b_I en3_E
+桂湖 桂湖 g_B ui4_I h_I u2_E
+档 档 d_B ang4_E
+档案 档案 d_B ang4_I an4_E
+桥 桥 q_B iao2_E
+桥桥 桥桥 q_B iao2_I q_I iao2_E
+桥段 桥段 q_B iao2_I d_I uan4_E
+梳理 梳理 sh_B u1_I l_I i3_E
+检查 检查 j_B ian3_I ch_I a2_E
+楼 楼 l_B ou2_E
+楼市 楼市 l_B ou2_I sh_I ix4_E
+楼盘 楼盘 l_B ou2_I p_I an2_E
+概念 概念 g_B ai4_I n_I ian4_E
+概念股 概念股 g_B ai4_I n_I ian4_I g_I u3_E
+概念车 概念车 g_B ai4_I n_I ian4_I ch_I e1_E
+模仿 模仿 m_B o2_I f_I ang3_E
+模式 模式 m_B o2_I sh_I ix4_E
+欢迎 欢迎 h_B uan1_I ing2_E
+欧洲 欧洲 ou1_B zh_I ou1_E
+歌声 歌声 g_B e1_I sh_I eng1_E
+歌曲 歌曲 g_B e1_I q_I v3_E
+正在 正在 zh_B eng4_I z_I ai4_E
+正式 正式 zh_B eng4_I sh_I ix4_E
+正是 正是 zh_B eng4_I sh_I ix4_E
+此事 此事 c_B iy3_I sh_I ix4_E
+此前 此前 c_B iy3_I q_I ian2_E
+此次 此次 c_B iy3_I c_I iy4_E
+步 步 b_B u4_E
+武侯 武侯 u3_B h_I ou2_E
+武侯祠 武侯祠 u3_B h_I ou2_I c_I iy2_E
+武汉 武汉 u3_B h_I an4_E
+武隆 武隆 u3_B l_I ong2_E
+死亡 死亡 s_B iy3_I uang2_E
+死者 死者 s_B iy2_I zh_I e3_E
+死者 死者 s_B iy3_I zh_I e3_E
+残疾人 残疾人 c_B an2_I j_I i2_I r_I en2_E
+殴打 殴打 ou1_B d_I a3_E
+段 段 d_B uan4_E
+母女俩 母女俩 m_B u2_I n_I v2_I l_I ia3_E
+母女俩 母女俩 m_B u3_I n_I v3_I l_I ia3_E
+每 每 m_B ei3_E
+每个 每个 m_B ei3_I g_I e4_E
+每日 每日 m_B ei3_I r_I iz4_E
+比 比 b_B i3_E
+比例 比例 b_B i3_I l_I i4_E
+比利时 比利时 b_B i3_I l_I i4_I sh_I ix2_E
+比如 比如 b_B i3_I r_I u2_E
+比赛 比赛 b_B i3_I s_I ai4_E
+比较 比较 b_B i2_I j_I iao3_E
+比较 比较 b_B i3_I j_I iao4_E
+民众 民众 m_B in2_I zh_I ong4_E
+民警 民警 m_B in2_I j_I ing3_E
+民间 民间 m_B in2_I j_I ian1_E
+水平 水平 sh_B ui3_I p_I ing2_E
+水族馆 水族馆 sh_B ui3_I z_I u2_I g_I uan3_E
+水泥 水泥 sh_B ui3_I n_I i2_E
+水谷 水谷 sh_B ui2_I g_I u3_E
+水谷 水谷 sh_B ui3_I g_I u3_E
+永远 永远 iong2_B van3_E
+永远 永远 iong3_B van3_E
+求婚 求婚 q_B iu2_I h_I un1_E
+汉斯 汉斯 h_B an4_I s_I iy1_E
+汽车 汽车 q_B i4_I ch_I e1_E
+汽车业 汽车业 q_B i4_I ch_I e1_I ie4_E
+沃尔玛 沃尔玛 uo4_B er2_I m_I a3_E
+沃尔玛 沃尔玛 uo4_B er3_I m_I a3_E
+沉着 沉着 ch_B en2_I zh_I uo2_E
+沙子 沙子 sh_B a1_I z_I iy5_E
+没 没 m_B ao3_E
+没 没 m_B ei2_E
+没 没 m_B o4_E
+没带 没带 m_B ei2_I d_I ai4_E
+没有 没有 m_B ei2_I iu3_E
+治疗 治疗 zh_B ix4_I l_I iao2_E
+法国 法国 f_B a3_I g_I uo2_E
+法庭 法庭 f_B a3_I t_I ing2_E
+法律 法律 f_B a3_I l_I v4_E
+法规 法规 f_B a3_I g_I ui1_E
+泡沫 泡沫 p_B ao4_I m_I o4_E
+注入 注入 zh_B u4_I r_I u4_E
+注意力 注意力 zh_B u4_I i4_I l_I i4_E
+注重 注重 zh_B u4_I zh_I ong4_E
+泰斗 泰斗 t_B ai4_I d_I ou3_E
+洛夫 洛夫 l_B uo4_I f_I u1_E
+活动 活动 h_B uo2_I d_I ong4_E
+活泼 活泼 h_B uo2_I p_I o1_E
+派出 派出 p_B ai4_I ch_I u1_E
+派出所 派出所 p_B ai4_I ch_I u1_I s_I uo3_E
+派发 派发 p_B ai4_I f_I a1_E
+派对 派对 p_B ai4_I d_I ui4_E
+派生 派生 p_B ai4_I sh_I eng1_E
+流入 流入 l_B iu2_I r_I u4_E
+流出 流出 l_B iu2_I ch_I u1_E
+流动性 流动性 l_B iu2_I d_I ong4_I x_I ing4_E
+流失 流失 l_B iu2_I sh_I ix1_E
+流着泪 流着泪 l_B iu2_I zh_I e5_I l_I ei4_E
+浑水 浑水 h_B un2_I sh_I ui3_E
+浓烈 浓烈 n_B ong2_I l_I ie4_E
+海宁 海宁 h_B ai3_I n_I ing2_E
+海昌 海昌 h_B ai3_I ch_I ang1_E
+海洋 海洋 h_B ai3_I iang2_E
+海阔天空 海阔天空 h_B ai3_I k_I uo4_I t_I ian1_I k_I ong1_E
+海鲜 海鲜 h_B ai3_I x_I ian1_E
+消息 消息 x_B iao1_I x_I i5_E
+消耗 消耗 x_B iao1_I h_I ao4_E
+消防车 消防车 x_B iao1_I f_I ang2_I ch_I e1_E
+涉事 涉事 sh_B e4_I sh_I ix4_E
+涉嫌 涉嫌 sh_B e4_I x_I ian2_E
+涨价 涨价 zh_B ang3_I j_I ia4_E
+涨幅 涨幅 zh_B ang3_I f_I u2_E
+淘汰赛 淘汰赛 t_B ao2_I t_I ai4_I s_I ai4_E
+淮海店 淮海店 h_B uai2_I h_I ai3_I d_I ian4_E
+深入 深入 sh_B en1_I r_I u4_E
+深圳 深圳 sh_B en1_I zh_I en4_E
+混合 混合 h_B un3_I h_I e2_E
+混合 混合 h_B un4_I h_I e2_E
+添堵 添堵 t_B ian1_I d_I u3_E
+清明 清明 q_B ing1_I m_I ing2_E
+清明节 清明节 q_B ing1_I m_I ing2_I j_I ie2_E
+清水 清水 q_B ing1_I sh_I ui3_E
+清洁 清洁 q_B ing1_I j_I ie2_E
+清点 清点 q_B ing1_I d_I ian3_E
+清障车 清障车 q_B ing1_I zh_I ang4_I ch_I e1_E
+清香 清香 q_B ing1_I x_I iang1_E
+渔具 渔具 v2_B j_I v4_E
+渠道 渠道 q_B v2_I d_I ao4_E
+温度 温度 un1_B d_I u4_E
+游客 游客 iu2_B k_I e4_E
+源 源 van2_S
+溺水 溺水 n_B i4_I sh_I ui3_E
+滑板鞋 滑板鞋 h_B ua2_I b_I an3_I x_I ie2_E
+满意 满意 m_B an3_I i4_E
+满足 满足 m_B an3_I z_I u2_E
+滨江 滨江 b_B in1_I j_I iang1_E
+漕运 漕运 c_B ao2_I vn4_E
+潍坊 潍坊 ui2_B f_I ang1_E
+澄清 澄清 ch_B eng2_I q_I ing1_E
+激光 激光 j_B i1_I g_I uang1_E
+激励 激励 j_B i1_I l_I i4_E
+激情 激情 j_B i1_I q_I ing2_E
+激烈 激烈 j_B i1_I l_I ie4_E
+火 火 h_B uo3_E
+火热 火热 h_B uo3_I r_I e4_E
+火锅 火锅 h_B uo3_I g_I uo1_E
+火鸟 火鸟 h_B uo2_I n_I iao3_E
+火鸟 火鸟 h_B uo3_I n_I iao3_E
+灵 灵 l_B ing2_E
+灵堂 灵堂 l_B ing2_I t_I ang2_E
+灵山 灵山 l_B ing2_I sh_I an1_E
+灵异 灵异 l_B ing2_I i4_E
+灵感 灵感 l_B ing2_I g_I an3_E
+炒作 炒作 ch_B ao3_I z_I uo4_E
+炒股 炒股 ch_B ao2_I g_I u3_E
+炒股 炒股 ch_B ao3_I g_I u3_E
+炮轰 炮轰 p_B ao4_I h_I ong1_E
+炷 炷 zh_B u4_E
+点 点 d_B ian3_E
+点燃 点燃 d_B ian3_I r_I an2_E
+热潮 热潮 r_B e4_I ch_I ao2_E
+热门 热门 r_B e4_I m_I en2_E
+然而 然而 r_B an2_I er2_E
+照片 照片 zh_B ao4_I p_I ian1_E
+照片 照片 zh_B ao4_I p_I ian4_E
+照顾 照顾 zh_B ao4_I g_I u4_E
+照顾 照顾 zh_B ao4_I g_I u5_E
+煮 煮 zh_B u3_E
+熟知 熟知 sh_B ou2_I zh_I ix1_E
+熟知 熟知 sh_B u2_I zh_I ix1_E
+爆炸 爆炸 b_B ao4_I zh_I a4_E
+爱 爱 ai4_S
+爱情 爱情 ai4_B q_I ing2_E
+爱情路 爱情路 ai4_B q_I ing2_I l_I u4_E
+父亲 父亲 f_B u4_I q_I in1_E
+父亲 父亲 f_B u4_I q_I in5_E
+父母 父母 f_B u4_I m_I u3_E
+爸爸 爸爸 b_B a4_I b_I a5_E
+版 版 b_B an3_E
+牌照 牌照 p_B ai2_I zh_I ao4_E
+牛排 牛排 n_B iu2_I p_I ai2_E
+物 物 u4_S
+物业 物业 u4_B ie4_E
+物业公司 物业公司 u4_B ie4_I g_I ong1_I s_I iy1_E
+物体 物体 u4_B t_I i3_E
+特 特 t_B e4_E
+特别 特别 t_B e4_I b_I ie2_E
+特定 特定 t_B e4_I d_I ing4_E
+独家 独家 d_B u2_I j_I ia1_E
+猜疑 猜疑 c_B ai1_I i2_E
+猝死 猝死 c_B u4_I s_I iy3_E
+猴子 猴子 h_B ou2_I z_I iy5_E
+率先 率先 sh_B uai4_I x_I ian1_E
+王 王 uang2_S
+玩水 玩水 uan2_B sh_I ui3_E
+环境 环境 h_B uan2_I j_I ing4_E
+环比 环比 h_B uan2_I b_I i3_E
+现在 现在 x_B ian4_I z_I ai4_E
+现场 现场 x_B ian4_I ch_I ang3_E
+现已 现已 x_B ian4_I i3_E
+现象 现象 x_B ian4_I x_I iang4_E
+现金 现金 x_B ian4_I j_I in1_E
+珠宝店 珠宝店 zh_B u1_I b_I ao3_I d_I ian4_E
+珠帘 珠帘 zh_B u1_I l_I ian2_E
+球台 球台 q_B iu2_I t_I ai2_E
+球员 球员 q_B iu2_I van2_E
+球类 球类 q_B iu2_I l_I ei4_E
+球路 球路 q_B iu2_I l_I u4_E
+球迷 球迷 q_B iu2_I m_I i2_E
+理念 理念 l_B i3_I n_I ian4_E
+理想 理想 l_B i2_I x_I iang3_E
+理想 理想 l_B i3_I x_I iang3_E
+理由 理由 l_B i3_I iu2_E
+琴台 琴台 q_B in2_I t_I ai2_E
+甚至 甚至 sh_B en4_I zh_I ix4_E
+甚至 甚至 sh_B en4_I zh_I ix5_E
+生产 生产 sh_B eng1_I ch_I an3_E
+生产线 生产线 sh_B eng1_I ch_I an3_I x_I ian4_E
+生活 生活 sh_B eng1_I h_I uo2_E
+用 用 iong4_S
+用于 用于 iong4_B v2_E
+用地 用地 iong4_B d_I i4_E
+用户 用户 iong4_B h_I u4_E
+用途 用途 iong4_B t_I u2_E
+由 由 iu2_S
+由于 由于 iu2_B v2_E
+申请 申请 sh_B en1_I q_I ing3_E
+电动 电动 d_B ian4_I d_I ong4_E
+电动车 电动车 d_B ian4_I d_I ong4_I ch_I e1_E
+电子 电子 d_B ian4_I z_I iy3_E
+电池 电池 d_B ian4_I ch_I ix2_E
+电脑 电脑 d_B ian4_I n_I ao3_E
+电脑城 电脑城 d_B ian4_I n_I ao3_I ch_I eng2_E
+电视台 电视台 d_B ian4_I sh_I ix4_I t_I ai2_E
+电话 电话 d_B ian4_I h_I ua4_E
+电量 电量 d_B ian4_I l_I iang4_E
+男主角 男主角 n_B an2_I zh_I u3_I j_I ve2_E
+男子 男子 n_B an2_I z_I iy3_E
+男孩 男孩 n_B an2_I h_I ai2_E
+畅所欲言 畅所欲言 ch_B ang4_I s_I uo3_I v4_I ian2_E
+界定 界定 j_B ie4_I d_I ing4_E
+番禺 番禺 p_B an1_I v2_E
+疑因 疑因 i2_B in1_E
+痴迷 痴迷 ch_B ix1_I m_I i2_E
+登陆 登陆 d_B eng1_I l_I u4_E
+白衣 白衣 b_B ai2_I i1_E
+百分之一 百分之一 b_B ai3_I f_I en1_I zh_I ix1_I i1_E
+百分之五十 百分之五十 b_B ai3_I f_I en1_I zh_I ix1_I u3_I sh_I ix2_E
+百分之八十 百分之八十 b_B ai3_I f_I en1_I zh_I ix1_I b_I a1_I sh_I ix2_E
+百分之六十 百分之六十 b_B ai3_I f_I en1_I zh_I ix1_I l_I iu4_I sh_I ix2_E
+百盛 百盛 b_B ai3_I sh_I eng4_E
+百货 百货 b_B ai3_I h_I uo4_E
+的 的 d_B e5_E
+的 的 d_B i2_E
+的 的 d_B i3_E
+的 的 d_B i4_E
+皇城 皇城 h_B uang2_I ch_I eng2_E
+皮肤 皮肤 p_B i2_I f_I u1_E
+皮革 皮革 p_B i2_I g_I e2_E
+益州 益州 i4_B zh_I ou1_E
+监事 监事 j_B ian1_I sh_I ix4_E
+监管 监管 j_B ian1_I g_I uan3_E
+盗用 盗用 d_B ao4_I iong4_E
+盛宴 盛宴 sh_B eng4_I ian4_E
+盛源 盛源 sh_B eng4_I van2_E
+目前 目前 m_B u4_I q_I ian2_E
+目的 目的 m_B u4_I d_I i4_E
+目的 目的 m_B u4_I d_I i5_E
+直接 直接 zh_B ix2_I j_I ie1_E
+直言 直言 zh_B ix2_I ian2_E
+相互 相互 x_B iang1_I h_I u4_E
+相似 相似 x_B iang1_I s_I iy4_E
+相信 相信 x_B iang1_I x_I in4_E
+相关 相关 x_B iang1_I g_I uan1_E
+相关性 相关性 x_B iang1_I g_I uan1_I x_I ing4_E
+相对 相对 x_B iang1_I d_I ui4_E
+相应 相应 x_B iang1_I ing4_E
+相当于 相当于 x_B iang1_I d_I ang1_I v2_E
+相比 相比 x_B iang1_I b_I i3_E
+相隔 相隔 x_B iang1_I g_I e2_E
+看 看 k_B an1_E
+看 看 k_B an4_E
+看上去 看上去 k_B an4_I sh_I ang4_I q_I v3_E
+看上去 看上去 k_B an4_I sh_I ang4_I q_I v4_E
+看上去 看上去 k_B an4_I sh_I ang5_I q_I v5_E
+看到 看到 k_B an4_I d_I ao4_E
+看到 看到 k_B an4_I d_I ao5_E
+看待 看待 k_B an4_I d_I ai4_E
+看房 看房 k_B an4_I f_I ang2_E
+看来 看来 k_B an4_I l_I ai2_E
+看楼 看楼 k_B an4_I l_I ou2_E
+看起来 看起来 k_B an4_I q_I i3_I l_I ai2_E
+看起来 看起来 k_B an4_I q_I i5_I l_I ai5_E
+真 真 zh_B en1_E
+真的 真的 zh_B en1_I d_I e5_E
+眼 眼 ian3_S
+眼下 眼下 ian3_B x_I ia4_E
+眼帘 眼帘 ian3_B l_I ian2_E
+眼镜 眼镜 ian3_B j_I ing4_E
+着 着 zh_B ao1_E
+着 着 zh_B ao2_E
+着 着 zh_B e5_E
+着 着 zh_B uo2_E
+督促 督促 d_B u1_I c_I u4_E
+督察 督察 d_B u1_I ch_I a2_E
+督察组 督察组 d_B u1_I ch_I a2_I z_I u3_E
+督查 督查 d_B u1_I ch_I a2_E
+知名度 知名度 zh_B ix1_I m_I ing2_I d_I u4_E
+码头 码头 m_B a3_I t_I ou2_E
+码头 码头 m_B a3_I t_I ou3_E
+砍 砍 k_B an3_E
+砍伤 砍伤 k_B an3_I sh_I ang1_E
+砍倒 砍倒 k_B an2_I d_I ao3_E
+研 研 ian2_S
+研究 研究 ian2_B j_I iu1_E
+研究者 研究者 ian2_B j_I iu1_I zh_I e3_E
+破 破 p_B o4_E
+破灭 破灭 p_B o4_I m_I ie4_E
+硅谷 硅谷 g_B ui1_I g_I u3_E
+硅谷 硅谷 x_B i1_I g_I u3_E
+硕士学位 硕士学位 sh_B uo4_I sh_I ix4_I x_I ve2_I ui4_E
+硬塞 硬塞 ing4_B s_I ai1_E
+硬币 硬币 ing4_B b_I i4_E
+确 确 q_B ve4_E
+确保 确保 q_B ve4_I b_I ao3_E
+确定 确定 q_B ve4_I d_I ing4_E
+社会 社会 sh_B e4_I h_I ui4_E
+社会各界 社会各界 sh_B e4_I h_I ui4_I g_I e4_I j_I ie4_E
+神奇 神奇 sh_B en2_I q_I i2_E
+神秘 神秘 sh_B en2_I m_I i4_E
+神箭 神箭 sh_B en2_I j_I ian4_E
+祥和 祥和 x_B iang2_I h_I e2_E
+福建 福建 f_B u2_I j_I ian4_E
+私家车 私家车 s_B iy1_I j_I ia1_I ch_I e1_E
+种子 种子 zh_B ong3_I z_I iy5_E
+科幻 科幻 k_B e1_I h_I uan4_E
+科幻小说 科幻小说 k_B e1_I h_I uan4_I x_I iao3_I sh_I uo1_E
+科技 科技 k_B e1_I j_I i4_E
+科技人才 科技人才 k_B e1_I j_I i4_I r_I en2_I c_I ai2_E
+科技界 科技界 k_B e1_I j_I i4_I j_I ie4_E
+租凭 租凭 z_B u1_I p_I ing2_E
+积极 积极 j_B i1_I j_I i2_E
+称 称 ch_B en4_E
+称 称 ch_B eng1_E
+称 称 ch_B eng4_E
+移动 移动 i2_B d_I ong4_E
+移开 移开 i2_B k_I ai1_E
+程度 程度 ch_B eng2_I d_I u4_E
+税收 税收 sh_B ui4_I sh_I ou1_E
+税收政策 税收政策 sh_B ui4_I sh_I ou1_I zh_I eng4_I c_I e4_E
+稳稳 稳稳 un2_B un3_E
+稳稳 稳稳 un3_B un3_E
+究竟 究竟 j_B iu1_I j_I ing4_E
+穿戴 穿戴 ch_B uan1_I d_I ai4_E
+突然 突然 t_B u1_I r_I an2_E
+立案 立案 l_B i4_I an4_E
+立马 立马 l_B i4_I m_I a3_E
+站 站 zh_B an4_E
+竞技 竞技 j_B ing4_I j_I i4_E
+竞赛 竞赛 j_B ing4_I s_I ai4_E
+笑 笑 x_B iao4_E
+符号 符号 f_B u2_I h_I ao4_E
+第一 第一 d_B i4_I i1_E
+第五 第五 d_B i4_I u3_E
+等 等 d_B eng3_E
+等到 等到 d_B eng3_I d_I ao4_E
+等到 等到 d_B eng3_I d_I ao5_E
+筹备 筹备 ch_B ou2_I b_I ei4_E
+筹款 筹款 ch_B ou2_I k_I uan3_E
+签名 签名 q_B ian1_I m_I ing2_E
+签约 签约 q_B ian1_I ve1_E
+简化 简化 j_B ian3_I h_I ua4_E
+简单 简单 j_B ian3_I d_I an1_E
+管理 管理 g_B uan2_I l_I i3_E
+管理 管理 g_B uan3_I l_I i3_E
+篮球 篮球 l_B an2_I q_I iu2_E
+籍 籍 j_B i2_E
+米 米 m_B i3_E
+类似 类似 l_B ei4_I s_I iy4_E
+精卫填海 精卫填海 j_B ing1_I ui4_I t_I ian2_I h_I ai3_E
+精武 精武 j_B ing1_I u3_E
+精武门 精武门 j_B ing1_I u3_I m_I en2_E
+精灵 精灵 j_B ing1_I l_I ing2_E
+精神 精神 j_B ing1_I sh_I en2_E
+精神 精神 j_B ing1_I sh_I en5_E
+精神病 精神病 j_B ing1_I sh_I en2_I b_I ing4_E
+系列 系列 x_B i4_I l_I ie4_E
+系统 系统 x_B i4_I t_I ong3_E
+素有 素有 s_B u4_I iu3_E
+索尼 索尼 s_B uo3_I n_I i2_E
+紫光 紫光 z_B iy3_I g_I uang1_E
+紫竹 紫竹 z_B iy3_I zh_I u2_E
+累计 累计 l_B ei3_I j_I i4_E
+繁华 繁华 f_B an2_I h_I ua2_E
+纠纷 纠纷 j_B iu1_I f_I en1_E
+纠结 纠结 j_B iu1_I j_I ie2_E
+红 红 h_B ong2_E
+红利 红利 h_B ong2_I l_I i4_E
+红星路 红星路 h_B ong2_I x_I ing1_I l_I u4_E
+红豆 红豆 h_B ong2_I d_I ou4_E
+约 约 ve1_S
+约束 约束 ve1_B sh_I u4_E
+级 级 j_B i2_E
+纪念馆 纪念馆 j_B i4_I n_I ian4_I g_I uan3_E
+纷纷 纷纷 f_B en1_I f_I en1_E
+组委会 组委会 z_B u2_I ui3_I h_I ui4_E
+组委会 组委会 z_B u3_I ui3_I h_I ui4_E
+组成 组成 z_B u3_I ch_I eng2_E
+组织 组织 z_B u3_I zh_I ix1_E
+细化 细化 x_B i4_I h_I ua4_E
+终于 终于 zh_B ong1_I u1_E
+终于 终于 zh_B ong1_I v1_E
+终于 终于 zh_B ong1_I v2_E
+终结 终结 zh_B ong1_I j_I ie2_E
+绍兴 绍兴 sh_B ao4_I x_I ing1_E
+绍兴 绍兴 sh_B ao4_I x_I ing5_E
+经常性 经常性 j_B ing1_I ch_I ang2_I x_I ing4_E
+经济 经济 j_B ing1_I j_I i4_E
+经济体 经济体 j_B ing1_I j_I i4_I t_I i3_E
+经纬 经纬 j_B ing1_I ui3_E
+经过 经过 j_B ing1_I g_I uo4_E
+经验 经验 j_B ing1_I ian4_E
+结合 结合 j_B ie2_I h_I e2_E
+结束 结束 j_B ie2_I sh_I u4_E
+结构 结构 j_B ie2_I g_I ou4_E
+结果 结果 j_B ie2_I g_I uo3_E
+给 给 g_B ei3_E
+给 给 j_B i3_E
+绝大多数 绝大多数 j_B ve2_I d_I a4_I d_I uo1_I sh_I u4_E
+绝对 绝对 j_B ve2_I d_I ui4_E
+统一 统一 t_B ong3_I i1_E
+统计 统计 t_B ong3_I j_I i4_E
+继续 继续 j_B i4_I x_I v4_E
+继续 继续 j_B i4_I x_I v5_E
+续航 续航 x_B v4_I h_I ang2_E
+维修 维修 ui2_B x_I iu1_E
+维护 维护 ui2_B h_I u4_E
+维持 维持 ui2_B ch_I ix2_E
+缓解 缓解 h_B uan2_I j_I ie3_E
+缓解 缓解 h_B uan3_I j_I ie3_E
+缩减 缩减 s_B uo1_I j_I ian3_E
+缺少 缺少 q_B ve1_I sh_I ao3_E
+网 网 uang3_S
+网友 网友 uang2_B iu3_E
+网友 网友 uang3_B iu3_E
+网友会 网友会 uang2_B iu3_I h_I ui4_E
+网络 网络 uang3_B l_I uo4_E
+罚款 罚款 f_B a2_I k_I uan3_E
+美国 美国 m_B ei3_I g_I uo2_E
+群体 群体 q_B vn2_I t_I i3_E
+老 老 l_B ao3_E
+老三 老三 l_B ao3_I s_I an1_E
+老妈 老妈 l_B ao3_I m_I a1_E
+老婆 老婆 l_B ao3_I p_I o2_E
+老婆 老婆 l_B ao3_I p_I o5_E
+老洋房 老洋房 l_B ao3_I iang2_I f_I ang2_E
+考虑 考虑 k_B ao3_I l_I v4_E
+考试 考试 k_B ao3_I sh_I ix4_E
+者 者 zh_B e3_E
+而 而 er2_S
+而且 而且 er2_B q_I ie3_E
+而是 而是 er2_B sh_I ix4_E
+耗电 耗电 h_B ao4_I d_I ian4_E
+耗电量 耗电量 h_B ao4_I d_I ian4_I l_I iang4_E
+耗费 耗费 h_B ao4_I f_I ei4_E
+耳朵 耳朵 er3_B d_I uo3_E
+耳朵 耳朵 er3_B d_I uo5_E
+职业道德 职业道德 zh_B ix2_I ie4_I d_I ao4_I d_I e2_E
+职务 职务 zh_B ix2_I u4_E
+职能 职能 zh_B ix2_I n_I eng2_E
+联合 联合 l_B ian2_I h_I e2_E
+联盟 联盟 l_B ian2_I m_I eng2_E
+联系 联系 l_B ian2_I x_I i4_E
+联系 联系 l_B ian2_I x_I i5_E
+联络 联络 l_B ian2_I l_I uo4_E
+聚焦 聚焦 j_B v4_I j_I iao1_E
+肌肉 肌肉 j_B i1_I r_I ou4_E
+肚子 肚子 d_B u3_I z_I iy5_E
+肚子 肚子 d_B u4_I z_I iy5_E
+肚皮 肚皮 d_B u4_I p_I i2_E
+股东 股东 g_B u3_I d_I ong1_E
+股票 股票 g_B u3_I p_I iao4_E
+肺部 肺部 f_B ei4_I b_I u4_E
+胜利 胜利 sh_B eng4_I l_I i4_E
+胸部 胸部 x_B iong1_I b_I u4_E
+能 能 n_B eng2_E
+能力 能力 n_B eng2_I l_I i4_E
+能够 能够 n_B eng2_I g_I ou4_E
+能源 能源 n_B eng2_I van2_E
+脚步 脚步 j_B iao3_I b_I u4_E
+自 自 z_B iy4_E
+自主 自主 z_B iy4_I zh_I u3_E
+自住 自住 z_B iy4_I zh_I u4_E
+自动 自动 z_B iy4_I d_I ong4_E
+自家 自家 z_B iy4_I j_I ia1_E
+自己 自己 z_B iy4_I j_I i3_E
+自律 自律 z_B iy4_I l_I v4_E
+自我 自我 z_B iy4_I uo3_E
+自断 自断 z_B iy4_I d_I uan4_E
+自此 自此 z_B iy4_I c_I iy3_E
+自然 自然 z_B iy4_I r_I an2_E
+自燃 自燃 z_B iy4_I r_I an2_E
+自由自在 自由自在 z_B iy4_I iu2_I z_I iy4_I z_I ai4_E
+自行 自行 z_B iy4_I x_I ing2_E
+自贡 自贡 z_B iy4_I g_I ong4_E
+自身 自身 z_B iy4_I sh_I en1_E
+自驾车 自驾车 z_B iy4_I j_I ia4_I ch_I e1_E
+臭名远扬 臭名远扬 ch_B ou4_I m_I ing2_I van3_I iang2_E
+至 至 zh_B ix4_E
+至今 至今 zh_B ix4_I j_I in1_E
+至少 至少 zh_B ix4_I sh_I ao3_E
+致 致 zh_B ix4_E
+致电 致电 zh_B ix4_I d_I ian4_E
+舆论 舆论 v2_B l_I un4_E
+芯片 芯片 x_B in1_I p_I ian4_E
+花上 花上 h_B ua1_I sh_I ang3_E
+花上 花上 h_B ua1_I sh_I ang4_E
+花园 花园 h_B ua1_I van2_E
+苛刻 苛刻 k_B e1_I k_I e4_E
+英国 英国 ing1_B g_I uo2_E
+苹果 苹果 p_B ing2_I g_I uo3_E
+茂名 茂名 m_B ao4_I m_I ing2_E
+范围 范围 f_B an4_I ui2_E
+范晓萱 范晓萱 f_B an4_I x_I iao3_I x_I van1_E
+茶 茶 ch_B a2_E
+草案 草案 c_B ao3_I an4_E
+荣昌 荣昌 r_B ong2_I ch_I ang1_E
+荷塘月色 荷塘月色 h_B e2_I t_I ang2_I ve4_I s_I e4_E
+获刑 获刑 h_B uo4_I x_I ing2_E
+获得 获得 h_B uo4_I d_I e2_E
+获得成功 获得成功 h_B uo4_I d_I e2_I ch_I eng2_I g_I ong1_E
+获悉 获悉 h_B uo4_I x_I i1_E
+菜 菜 c_B ai4_E
+萎缩 萎缩 ui3_B s_I uo1_E
+营业 营业 ing2_B ie4_E
+营业税 营业税 ing2_B ie4_I sh_I ui4_E
+萨尔 萨尔 s_B a4_I er3_E
+落地 落地 l_B uo4_I d_I i4_E
+落实 落实 l_B uo4_I sh_I ix2_E
+落户 落户 l_B uo4_I h_I u4_E
+董事 董事 d_B ong3_I sh_I ix4_E
+蔡康永 蔡康永 c_B ai4_I k_I ang1_I iong3_E
+藏品 藏品 c_B ang2_I p_I in3_E
+藏獒 藏獒 z_B ang4_I ao2_E
+虹桥 虹桥 h_B ong2_I q_I iao2_E
+虽 虽 s_B ui1_E
+虽然 虽然 s_B ui1_I r_I an2_E
+蜀 蜀 sh_B u3_E
+蜀九香 蜀九香 sh_B u3_I j_I iu3_I x_I iang1_E
+蜀山 蜀山 sh_B u3_I sh_I an1_E
+血案 血案 x_B ve4_I an4_E
+行业 行业 h_B ang2_I ie4_E
+行为 行为 x_B ing2_I ui2_E
+行列 行列 h_B ang2_I l_I ie4_E
+行政 行政 x_B ing2_I zh_I eng4_E
+行程 行程 x_B ing2_I ch_I eng2_E
+衣袖 衣袖 i1_B x_I iu4_E
+补上 补上 b_B u3_I sh_I ang4_E
+补上 补上 b_B u3_I sh_I ang5_E
+补助 补助 b_B u3_I zh_I u4_E
+表态 表态 b_B iao3_I t_I ai4_E
+表示 表示 b_B iao3_I sh_I ix4_E
+表示感谢 表示感谢 b_B iao3_I sh_I ix4_I g_I an3_I x_I ie4_E
+被 被 b_B ei4_E
+袭击 袭击 x_B i2_I j_I i1_E
+装入 装入 zh_B uang1_I r_I u4_E
+装饰 装饰 zh_B uang1_I sh_I ix4_E
+西南 西南 x_B i1_I n_I an2_E
+西堤 西堤 x_B i1_I d_I i1_E
+西航 西航 x_B i1_I h_I ang2_E
+西路 西路 x_B i1_I l_I u4_E
+西门 西门 x_B i1_I m_I en2_E
+要 要 iao1_S
+要 要 iao4_S
+要求 要求 iao1_B q_I iu2_E
+要素 要素 iao4_B s_I u4_E
+覆盖 覆盖 f_B u4_I g_I ai4_E
+见 见 j_B ian4_E
+见 见 x_B ian4_E
+见习 见习 j_B ian4_I x_I i2_E
+观众 观众 g_B uan1_I zh_I ong4_E
+观察 观察 g_B uan1_I ch_I a2_E
+规划 规划 g_B ui1_I h_I ua4_E
+规则 规则 g_B ui1_I z_I e2_E
+规定 规定 g_B ui1_I d_I ing4_E
+规范 规范 g_B ui1_I f_I an4_E
+视觉 视觉 sh_B ix4_I j_I ve2_E
+视频 视频 sh_B ix4_I p_I in2_E
+觉得 觉得 j_B ve2_I d_I e5_E
+角度 角度 j_B iao3_I d_I u4_E
+角色 角色 j_B ve2_I s_I e4_E
+解决 解决 j_B ie3_I j_I ve2_E
+解决方案 解决方案 j_B ie3_I j_I ve2_I f_I ang1_I an4_E
+解决问题 解决问题 j_B ie3_I j_I ve2_I un4_I t_I i2_E
+解决问题 解决问题 j_B ie3_I j_I ve2_I un4_I t_I i3_E
+解套 解套 j_B ie3_I t_I ao4_E
+解散 解散 j_B ie3_I s_I an4_E
+解析 解析 j_B ie3_I x_I i1_E
+言语 言语 ian2_B v3_E
+警察 警察 j_B ing3_I ch_I a2_E
+警方 警方 j_B ing3_I f_I ang1_E
+计划 计划 j_B i4_I h_I ua4_E
+计划 计划 j_B i4_I h_I ua5_E
+计提 计提 j_B i4_I t_I i2_E
+计生 计生 j_B i4_I sh_I eng1_E
+认为 认为 r_B en4_I ui2_E
+认真 认真 r_B en4_I zh_I en1_E
+让 让 r_B ang4_E
+讯 讯 x_B vn4_E
+记录 记录 j_B i4_I l_I u4_E
+记者 记者 j_B i4_I zh_I e3_E
+记者会 记者会 j_B i4_I zh_I e3_I h_I ui4_E
+讲 讲 j_B iang3_E
+讲究 讲究 j_B iang3_I j_I iu1_E
+讲述 讲述 j_B iang3_I sh_I u4_E
+许 许 x_B v3_E
+许多 许多 x_B v3_I d_I uo1_E
+设 设 sh_B e4_E
+设为 设为 sh_B e4_I ui2_E
+设备 设备 sh_B e4_I b_I ei4_E
+设备 设备 sh_B e4_I b_I ei5_E
+设定 设定 sh_B e4_I d_I ing4_E
+设想 设想 sh_B e4_I x_I iang3_E
+设立 设立 sh_B e4_I l_I i4_E
+设计 设计 sh_B e4_I j_I i4_E
+设计 设计 sh_B e4_I j_I i5_E
+设计师 设计师 sh_B e4_I j_I i4_I sh_I ix1_E
+设计师 设计师 sh_B e4_I j_I i5_I sh_I ix1_E
+设计界 设计界 sh_B e4_I j_I i4_I j_I ie4_E
+证 证 zh_B eng4_E
+证券 证券 zh_B eng4_I q_I van4_E
+证券化 证券化 zh_B eng4_I q_I van4_I h_I ua4_E
+证监会 证监会 zh_B eng4_I j_I ian1_I h_I ui4_E
+试探 试探 sh_B ix4_I t_I an4_E
+试探 试探 sh_B ix4_I t_I an5_E
+试点 试点 sh_B ix4_I d_I ian3_E
+话题 话题 h_B ua4_I t_I i2_E
+诡异 诡异 g_B ui3_I i4_E
+该 该 g_B ai1_E
+该校 该校 g_B ai1_I x_I iao4_E
+该法 该法 g_B ai1_I f_I a3_E
+详细 详细 x_B iang2_I x_I i4_E
+说 说 sh_B ui4_E
+说 说 sh_B uo1_E
+说 说 ve4_S
+说明 说明 sh_B uo1_I m_I ing2_E
+读卖新闻 读卖新闻 d_B u2_I m_I ai4_I x_I in1_I un2_E
+诽谤 诽谤 f_B ei3_I b_I ang4_E
+谁 谁 sh_B ei2_E
+谁 谁 sh_B ui2_E
+调 调 d_B iao4_E
+调 调 t_B iao2_E
+调动 调动 d_B iao4_I d_I ong4_E
+调控 调控 t_B iao2_I k_I ong4_E
+调整 调整 t_B iao2_I zh_I eng3_E
+调查 调查 d_B iao4_I ch_I a2_E
+调查组 调查组 d_B iao4_I ch_I a2_I z_I u3_E
+调节 调节 t_B iao2_I j_I ie2_E
+谎言 谎言 h_B uang3_I ian2_E
+谢罪 谢罪 x_B ie4_I z_I ui4_E
+负责 负责 f_B u4_I z_I e2_E
+负责人 负责人 f_B u4_I z_I e2_I r_I en2_E
+贡献 贡献 g_B ong4_I x_I ian4_E
+财产 财产 c_B ai2_I ch_I an3_E
+财政 财政 c_B ai2_I zh_I eng4_E
+账户 账户 zh_B ang4_I h_I u4_E
+货车 货车 h_B uo4_I ch_I e1_E
+质疑 质疑 zh_B ix4_I i2_E
+购买 购买 g_B ou4_I m_I ai3_E
+购买力 购买力 g_B ou4_I m_I ai3_I l_I i4_E
+购房 购房 g_B ou4_I f_I ang2_E
+购房者 购房者 g_B ou4_I f_I ang2_I zh_I e3_E
+购物 购物 g_B ou4_I u4_E
+贯彻 贯彻 g_B uan4_I ch_I e4_E
+贵妃醉酒 贵妃醉酒 g_B ui4_I f_I ei1_I z_I ui4_I j_I iu3_E
+贷款 贷款 d_B ai4_I k_I uan3_E
+费 费 f_B ei4_E
+费用 费用 f_B ei4_I iong4_E
+费用 费用 f_B ei4_I iong5_E
+资产 资产 z_B iy1_I ch_I an3_E
+资本 资本 z_B iy1_I b_I en3_E
+资本论 资本论 z_B iy1_I b_I en3_I l_I un4_E
+资源 资源 z_B iy1_I van2_E
+赔 赔 p_B ei2_E
+赚钱 赚钱 zh_B uan4_I q_I ian2_E
+赛事 赛事 s_B ai4_I sh_I ix4_E
+赛场 赛场 s_B ai4_I ch_I ang3_E
+赢得 赢得 ing2_B d_I e2_E
+走 走 z_B ou3_E
+走失 走失 z_B ou3_I sh_I ix1_E
+走访 走访 z_B ou2_I f_I ang3_E
+走访 走访 z_B ou3_I f_I ang3_E
+走进 走进 z_B ou3_I j_I in4_E
+赶到 赶到 g_B an3_I d_I ao4_E
+赶往 赶往 g_B an2_I uang3_E
+赶往 赶往 g_B an3_I uang3_E
+赶来 赶来 g_B an3_I l_I ai2_E
+起 起 q_B i3_E
+起来 起来 q_B i3_I l_I ai2_E
+起来 起来 q_B i3_I l_I ai3_E
+起来 起来 q_B i3_I l_I ai5_E
+起火 起火 q_B i2_I h_I uo3_E
+起火 起火 q_B i3_I h_I uo3_E
+起点 起点 q_B i2_I d_I ian3_E
+起点 起点 q_B i3_I d_I ian3_E
+起草 起草 q_B i2_I c_I ao3_E
+起草 起草 q_B i3_I c_I ao3_E
+起诉 起诉 q_B i3_I s_I u4_E
+超 超 ch_B ao1_E
+超市 超市 ch_B ao1_I sh_I ix4_E
+超生 超生 ch_B ao1_I sh_I eng1_E
+超过 超过 ch_B ao1_I g_I uo4_E
+越来越 越来越 ve4_B l_I ai2_I ve4_E
+趋势 趋势 q_B v1_I sh_I ix4_E
+趣味 趣味 q_B v4_I ui4_E
+足以 足以 z_B u2_I i3_E
+足够 足够 z_B u2_I g_I ou4_E
+足额 足额 z_B u2_I e2_E
+趴 趴 p_B a1_E
+跃入 跃入 ve4_B r_I u4_E
+距离 距离 j_B v4_I l_I i2_E
+跟 跟 g_B en1_E
+跨国 跨国 k_B ua4_I g_I uo2_E
+跨界 跨界 k_B ua4_I j_I ie4_E
+路 路 l_B u4_E
+路口 路口 l_B u4_I k_I ou3_E
+路店 路店 l_B u4_I d_I ian4_E
+身上 身上 sh_B en1_I sh_I ang3_E
+身上 身上 sh_B en1_I sh_I ang4_E
+身穿 身穿 sh_B en1_I ch_I uan1_E
+身躯 身躯 sh_B en1_I q_I v1_E
+躲雨 躲雨 d_B uo2_I v3_E
+躲雨 躲雨 d_B uo3_I v3_E
+车 车 ch_B e1_E
+车 车 j_B v1_E
+车库 车库 ch_B e1_I k_I u4_E
+车辆 车辆 ch_B e1_I l_I iang4_E
+车道 车道 ch_B e1_I d_I ao4_E
+转向 转向 zh_B uan3_I x_I iang4_E
+转换 转换 zh_B uan3_I h_I uan4_E
+转移 转移 zh_B uan3_I i2_E
+轮廓 轮廓 l_B un2_I k_I uo4_E
+轰 轰 h_B ong1_E
+轿车 轿车 j_B iao4_I ch_I e1_E
+较 较 j_B iao4_E
+较大 较大 j_B iao4_I d_I a4_E
+较量 较量 j_B iao4_I l_I iang4_E
+较量 较量 j_B iao4_I l_I iang5_E
+辅助 辅助 f_B u3_I zh_I u4_E
+边际 边际 b_B ian1_I j_I i4_E
+达 达 d_B a2_E
+达到 达到 d_B a2_I d_I ao4_E
+达成 达成 d_B a2_I ch_I eng2_E
+达成协议 达成协议 d_B a2_I ch_I eng2_I x_I ie2_I i4_E
+迁至 迁至 q_B ian1_I zh_I ix4_E
+迄今 迄今 q_B i4_I j_I in1_E
+迅速 迅速 x_B vn4_I s_I u4_E
+过 过 g_B uo4_E
+过半 过半 g_B uo4_I b_I an4_E
+过去 过去 g_B uo4_I q_I v4_E
+过去 过去 g_B uo4_I q_I v5_E
+过生日 过生日 g_B uo4_I sh_I eng1_I r_I iz4_E
+过程 过程 g_B uo4_I ch_I eng2_E
+过程 过程 g_B uo4_I ch_I eng3_E
+迎来 迎来 ing2_B l_I ai2_E
+运作 运作 vn4_B z_I uo4_E
+运动 运动 vn4_B d_I ong3_E
+运动 运动 vn4_B d_I ong4_E
+运动员 运动员 vn4_B d_I ong4_I van2_E
+运用 运用 vn4_B iong4_E
+运算 运算 vn4_B s_I uan4_E
+运营 运营 vn4_B ing2_E
+运行 运行 vn4_B x_I ing2_E
+近 近 j_B in4_E
+近年来 近年来 j_B in4_I n_I ian2_I l_I ai2_E
+近日 近日 j_B in4_I r_I iz4_E
+近期 近期 j_B in4_I q_I i1_E
+近来 近来 j_B in4_I l_I ai2_E
+近照 近照 j_B in4_I zh_I ao4_E
+返还 返还 f_B an3_I h_I uan2_E
+还 还 h_B ai2_E
+还 还 h_B uan2_E
+还是 还是 h_B ai2_I sh_I ix3_E
+还是 还是 h_B ai2_I sh_I ix4_E
+还有 还有 h_B ai2_I iu3_E
+还要 还要 h_B ai2_I iao4_E
+这 这 zh_B e4_E
+这 这 zh_B ei4_E
+这一 这一 zh_B e4_I i1_E
+这一 这一 zh_B ei4_I i1_E
+这个 这个 zh_B e4_I g_I e4_E
+这个 这个 zh_B e4_I g_I e5_E
+这个 这个 zh_B ei4_I g_I e5_E
+这些 这些 zh_B e4_I x_I ie1_E
+这些 这些 zh_B ei4_I x_I ie1_E
+这位 这位 zh_B e4_I ui4_E
+这位 这位 zh_B ei4_I ui4_E
+这场 这场 zh_B e4_I ch_I ang3_E
+这场 这场 zh_B ei4_I ch_I ang3_E
+这家 这家 zh_B e4_I j_I ia1_E
+这家 这家 zh_B ei4_I j_I ia1_E
+这座 这座 zh_B e4_I z_I uo4_E
+这座 这座 zh_B ei4_I z_I uo4_E
+这才 这才 zh_B e4_I c_I ai2_E
+这才 这才 zh_B ei4_I c_I ai2_E
+这方面 这方面 zh_B e4_I f_I ang1_I m_I ian4_E
+这方面 这方面 zh_B ei4_I f_I ang1_I m_I ian4_E
+这样 这样 zh_B e4_I iang4_E
+这样 这样 zh_B e4_I iang5_E
+这样 这样 zh_B ei4_I iang4_E
+这次 这次 zh_B e4_I c_I iy4_E
+这次 这次 zh_B ei4_I c_I iy4_E
+这种 这种 zh_B e4_I zh_I ong3_E
+这种 这种 zh_B ei4_I zh_I ong3_E
+这类 这类 zh_B e4_I l_I ei4_E
+这类 这类 zh_B ei4_I l_I ei4_E
+这项 这项 zh_B e4_I x_I iang4_E
+这项 这项 zh_B ei4_I x_I iang4_E
+进一步 进一步 j_B in4_I i1_I b_I u4_E
+进一步 进一步 j_B in4_I i2_I b_I u4_E
+进入 进入 j_B in4_I r_I u4_E
+进行 进行 j_B in4_I x_I ing2_E
+远东 远东 van3_B d_I ong1_E
+远远 远远 van2_B van3_E
+远远 远远 van3_B van3_E
+违法 违法 ui2_B f_I a3_E
+违规行为 违规行为 ui2_B g_I ui1_I x_I ing2_I ui2_E
+连 连 l_B ian2_E
+迟到 迟到 ch_B ix2_I d_I ao4_E
+迹象 迹象 j_B i4_I x_I iang4_E
+迹象 迹象 j_B i4_I x_I iang5_E
+追尾 追尾 zh_B ui1_I ui3_E
+追踪 追踪 zh_B ui1_I z_I ong1_E
+追逃 追逃 zh_B ui1_I t_I ao2_E
+追随 追随 zh_B ui1_I s_I ui2_E
+退出 退出 t_B ui4_I ch_I u1_E
+退市 退市 t_B ui4_I sh_I ix4_E
+送 送 s_B ong4_E
+送医 送医 s_B ong4_I i1_E
+送往 送往 s_B ong4_I uang3_E
+适应性 适应性 sh_B ix4_I ing4_I x_I ing4_E
+适当 适当 sh_B ix4_I d_I ang1_E
+适当 适当 sh_B ix4_I d_I ang4_E
+适当 适当 sh_B ix4_I d_I ang5_E
+适时 适时 sh_B ix4_I sh_I ix2_E
+适用 适用 sh_B ix4_I iong4_E
+逃走 逃走 t_B ao2_I z_I ou3_E
+逃跑 逃跑 t_B ao2_I p_I ao3_E
+逆差 逆差 n_B i4_I ch_I a1_E
+逆战 逆战 n_B i4_I zh_I an4_E
+逆行 逆行 n_B i4_I x_I ing2_E
+选定 选定 x_B van3_I d_I ing4_E
+选手 选手 x_B van2_I sh_I ou3_E
+选手 选手 x_B van3_I sh_I ou3_E
+选拔 选拔 x_B van3_I b_I a2_E
+选择 选择 x_B van3_I z_I e2_E
+透明 透明 t_B ou4_I m_I ing2_E
+透明性 透明性 t_B ou4_I m_I ing2_I x_I ing4_E
+透露 透露 t_B ou4_I l_I u4_E
+逐渐 逐渐 zh_B u2_I j_I ian4_E
+递交 递交 d_B i4_I j_I iao1_E
+途中 途中 t_B u2_I zh_I ong1_E
+通信 通信 t_B ong1_I x_I in4_E
+通气会 通气会 t_B ong1_I q_I i4_I h_I ui4_E
+通过 通过 t_B ong1_I g_I uo4_E
+造成 造成 z_B ao4_I ch_I eng2_E
+造星 造星 z_B ao4_I x_I ing1_E
+遇到 遇到 v4_B d_I ao4_E
+遇到 遇到 v4_B d_I ao5_E
+道 道 d_B ao4_E
+道路 道路 d_B ao4_I l_I u4_E
+遭 遭 z_B ao1_E
+遴选 遴选 l_B in2_I x_I van3_E
+避免 避免 b_B i4_I m_I ian3_E
+那 那 n_B a1_E
+那 那 n_B a4_E
+那 那 n_B e4_E
+那 那 n_B ei4_E
+那么 那么 n_B a4_I m_I e5_E
+那么 那么 n_B a4_I m_I o2_E
+那么 那么 n_B e4_I m_I o2_E
+那么 那么 n_B ei4_I m_I o2_E
+那时 那时 n_B a4_I sh_I ix2_E
+那时 那时 n_B ei4_I sh_I ix2_E
+那样 那样 n_B a4_I iang3_E
+那样 那样 n_B a4_I iang4_E
+那样 那样 n_B ei4_I iang3_E
+部分 部分 b_B u4_I f_I en4_E
+部分 部分 b_B u4_I f_I en5_E
+部门 部门 b_B u4_I m_I en2_E
+都 都 d_B ou1_E
+都 都 d_B u1_E
+都江堰 都江堰 d_B u1_I j_I iang1_I ian4_E
+配备 配备 p_B ei4_I b_I ei4_E
+配套 配套 p_B ei4_I t_I ao4_E
+酒吧 酒吧 j_B iu3_I b_I a1_E
+酒吧街 酒吧街 j_B iu3_I b_I a1_I j_I ie1_E
+酒家 酒家 j_B iu3_I j_I ia1_E
+酒托 酒托 j_B iu3_I t_I uo1_E
+酒楼 酒楼 j_B iu3_I l_I ou2_E
+酷似 酷似 k_B u4_I s_I iy4_E
+采取 采取 c_B ai2_I q_I v3_E
+采取 采取 c_B ai3_I q_I v3_E
+采访 采访 c_B ai2_I f_I ang3_E
+采访 采访 c_B ai3_I f_I ang3_E
+释放 释放 sh_B ix4_I f_I ang4_E
+里 里 l_B i3_E
+重塑 重塑 ch_B ong2_I s_I u4_E
+重大 重大 zh_B ong4_I d_I a4_E
+重庆 重庆 ch_B ong2_I q_I ing4_E
+重整 重整 ch_B ong2_I zh_I eng3_E
+重新 重新 ch_B ong2_I x_I in1_E
+重点 重点 zh_B ong4_I d_I ian3_E
+重要 重要 zh_B ong4_I iao4_E
+重要性 重要性 zh_B ong4_I iao4_I x_I ing4_E
+重视 重视 zh_B ong4_I sh_I ix3_E
+重视 重视 zh_B ong4_I sh_I ix4_E
+量 量 l_B iang2_E
+量 量 l_B iang4_E
+量身 量身 l_B iang2_I sh_I en1_E
+金 金 j_B in1_E
+金融 金融 j_B in1_I r_I ong2_E
+针对 针对 zh_B en1_I d_I ui4_E
+针对性 针对性 zh_B en1_I d_I ui4_I x_I ing4_E
+针对性 针对性 zh_B en1_I d_I ui4_I x_I ing5_E
+钱 钱 q_B ian2_E
+钻戒 钻戒 z_B uan4_I j_I ie4_E
+铆劲 铆劲 m_B ao3_I j_I in4_E
+铆劲 铆劲 m_B ao3_I j_I ing4_E
+银行 银行 in2_B h_I ang2_E
+铺开 铺开 p_B u1_I k_I ai1_E
+铺开 铺开 p_B u4_I k_I ai1_E
+链子 链子 l_B ian4_I z_I iy5_E
+销售 销售 x_B iao1_I sh_I ou4_E
+销货 销货 x_B iao1_I h_I uo4_E
+锁死 锁死 s_B uo3_I s_I iy3_E
+锐减 锐减 r_B ui4_I j_I ian3_E
+长 长 ch_B ang2_E
+长 长 zh_B ang3_E
+长假 长假 ch_B ang2_I j_I ia4_E
+长效 长效 ch_B ang2_I x_I iao4_E
+长时间 长时间 ch_B ang2_I sh_I ix2_I j_I ian1_E
+门 门 m_B en2_E
+门口 门口 m_B en2_I k_I ou3_E
+问到 问到 un4_B d_I ao4_E
+问到 问到 un4_B d_I ao5_E
+问题 问题 un4_B t_I i2_E
+问题 问题 un4_B t_I i3_E
+闯 闯 ch_B uang3_E
+间隙 间隙 j_B ian4_I x_I i4_E
+阴阳 阴阳 in1_B iang2_E
+阻 阻 z_B u3_E
+阻止 阻止 z_B u2_I zh_I ix3_E
+阻止 阻止 z_B u3_I zh_I ix3_E
+阿 阿 a1_S
+阿 阿 e1_S
+附近 附近 f_B u4_I j_I in4_E
+陆续 陆续 l_B u4_I x_I v4_E
+陆续 陆续 l_B u4_I x_I v5_E
+陈子 陈子 ch_B en2_I z_I iy3_E
+陈小春 陈小春 ch_B en2_I x_I iao3_I ch_I un1_E
+陈真 陈真 ch_B en2_I zh_I en1_E
+降 降 j_B iang4_E
+降 降 x_B iang2_E
+降低 降低 j_B iang4_I d_I i1_E
+降息 降息 j_B iang4_I x_I i1_E
+限制 限制 x_B ian4_I zh_I ix4_E
+限度 限度 x_B ian4_I d_I u4_E
+限购 限购 x_B ian4_I g_I ou4_E
+院 院 van4_S
+除 除 ch_B u2_E
+除了 除了 ch_B u2_I l_I e5_E
+陪 陪 p_B ei2_E
+随后 随后 s_B ui2_I h_I ou4_E
+随着 随着 s_B ui2_I zh_I e5_E
+障碍 障碍 zh_B ang4_I ai4_E
+障碍 障碍 zh_B ang4_I ai5_E
+隼 隼 s_B un3_E
+难 难 n_B an2_E
+难 难 n_B an4_E
+难以 难以 n_B an2_I i3_E
+难易 难易 n_B an2_I i4_E
+难题 难题 n_B an2_I t_I i2_E
+集 集 j_B i2_E
+集中 集中 j_B i2_I zh_I ong1_E
+集团 集团 j_B i2_I t_I uan2_E
+雨 雨 v3_S
+雨具 雨具 v3_B j_I v4_E
+雪崩 雪崩 x_B ve3_I b_I eng1_E
+零 零 l_B ing2_E
+零零 零零 l_B ing2_I l_I ing2_E
+雷诺 雷诺 l_B ei2_I n_I uo4_E
+需 需 x_B v1_E
+需求 需求 x_B v1_I q_I iu2_E
+需要 需要 x_B v1_I iao4_E
+青少年 青少年 q_B ing1_I sh_I ao4_I n_I ian2_E
+青春 青春 q_B ing1_I ch_I un1_E
+青梅竹马 青梅竹马 q_B ing1_I m_I ei2_I zh_I u2_I m_I a3_E
+静安 静安 j_B ing4_I an1_E
+非 非 f_B ei1_E
+非常 非常 f_B ei1_I ch_I ang2_E
+靠 靠 k_B ao4_E
+面前 面前 m_B ian4_I q_I ian2_E
+韩国 韩国 h_B an2_I g_I uo2_E
+音乐 音乐 in1_B ve4_E
+顶住 顶住 d_B ing3_I zh_I u4_E
+顶层 顶层 d_B ing3_I c_I eng2_E
+项目 项目 x_B iang4_I m_I u4_E
+项链 项链 x_B iang4_I l_I ian4_E
+顺 顺 sh_B un4_E
+顾问 顾问 g_B u4_I un4_E
+预产期 预产期 v4_B ch_I an3_I q_I i1_E
+预料到 预料到 v4_B l_I iao4_I d_I ao4_E
+预料到 预料到 v4_B l_I iao4_I d_I ao5_E
+预期 预期 v4_B q_I i1_E
+预测 预测 v4_B c_I e4_E
+预计 预计 v4_B j_I i4_E
+领先 领先 l_B ing3_I x_I ian1_E
+领域 领域 l_B ing3_I v4_E
+领导小组 领导小组 l_B ing2_I d_I ao3_I x_I iao2_I z_I u3_E
+频繁 频繁 p_B in2_I f_I an2_E
+频道 频道 p_B in2_I d_I ao4_E
+频频 频频 p_B in2_I p_I in2_E
+颠覆 颠覆 d_B ian1_I f_I u4_E
+风向 风向 f_B eng1_I x_I iang4_E
+风月 风月 f_B eng1_I ve4_E
+风波 风波 f_B eng1_I b_I o1_E
+风险 风险 f_B eng1_I x_I ian3_E
+飞鸿 飞鸿 f_B ei1_I h_I ong2_E
+食品 食品 sh_B ix2_I p_I in3_E
+饕餮 饕餮 t_B ao1_I t_I ie4_E
+饭店 饭店 f_B an4_I d_I ian4_E
+饺子 饺子 j_B iao3_I z_I iy5_E
+馆 馆 g_B uan3_E
+首 首 sh_B ou3_E
+首付 首付 sh_B ou3_I f_I u4_E
+首先 首先 sh_B ou3_I x_I ian1_E
+首尔 首尔 sh_B ou2_I er3_E
+首尔 首尔 sh_B ou3_I er3_E
+首席 首席 sh_B ou3_I x_I i2_E
+首次 首次 sh_B ou3_I c_I iy4_E
+首要 首要 sh_B ou3_I iao4_E
+马上 马上 m_B a3_I sh_I ang4_E
+马上 马上 m_B a3_I sh_I ang5_E
+马市 马市 m_B a3_I sh_I ix4_E
+马龙 马龙 m_B a3_I l_I ong2_E
+驴 驴 l_B v2_E
+驾驶 驾驶 j_B ia4_I sh_I ix3_E
+骷髅 骷髅 k_B u1_I l_I ou2_E
+高 高 g_B ao1_E
+高原 高原 g_B ao1_I van2_E
+高峰 高峰 g_B ao1_I f_I eng1_E
+高峰期 高峰期 g_B ao1_I f_I eng1_I q_I i1_E
+高度 高度 g_B ao1_I d_I u4_E
+高性能 高性能 g_B ao1_I x_I ing4_I n_I eng2_E
+高管 高管 g_B ao1_I g_I uan3_E
+高级 高级 g_B ao1_I j_I i2_E
+高谈阔论 高谈阔论 g_B ao1_I t_I an2_I k_I uo4_I l_I un4_E
+高质量 高质量 g_B ao1_I zh_I ix4_I l_I iang4_E
+高质量 高质量 g_B ao1_I zh_I ix4_I l_I iang5_E
+高超 高超 g_B ao1_I ch_I ao1_E
+高速 高速 g_B ao1_I s_I u4_E
+魂 魂 h_B un2_E
+魔法 魔法 m_B o2_I f_I a3_E
+鲁莽 鲁莽 l_B u2_I m_I ang3_E
+鲁莽 鲁莽 l_B u3_I m_I ang3_E
+鳝鱼 鳝鱼 sh_B an4_I v2_E
+黄浦 黄浦 h_B uang2_I p_I u3_E
+黑色 黑色 h_B ei1_I s_I e4_E
+鼓励 鼓励 g_B u3_I l_I i4_E
+龙 龙 l_B ong2_E
+龙耀 龙耀 l_B ong2_I iao4_E

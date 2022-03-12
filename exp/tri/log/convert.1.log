@@ -1,0 +1,7 @@
+# convert-ali /root/data/mys/data/exp/mono/final.mdl /root/data/mys/data/exp/tri/1.mdl /root/data/mys/data/exp/tri/tree "ark:gunzip -c /root/data/mys/data/exp/mono/ali.1.gz|" "ark:|gzip -c >/root/data/mys/data/exp/tri/ali.1.gz" 
+# Started at Fri Mar  4 16:37:42 CST 2022
+#
+convert-ali /root/data/mys/data/exp/mono/final.mdl /root/data/mys/data/exp/tri/1.mdl /root/data/mys/data/exp/tri/tree 'ark:gunzip -c /root/data/mys/data/exp/mono/ali.1.gz|' 'ark:|gzip -c >/root/data/mys/data/exp/tri/ali.1.gz' 
+LOG (convert-ali[5.5.1008~1-0be61]:main():convert-ali.cc:120) Succeeded converting alignments for 1000 files, failed for 0
+# Accounting: time=0 threads=1
+# Ended (code 0) at Fri Mar  4 16:37:42 CST 2022, elapsed time 0 seconds

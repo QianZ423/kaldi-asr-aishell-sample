@@ -1,0 +1,2913 @@
+<SIL>	SIL
+A	EY1
+BABY	B EY1 B IY0
+BABY	B IY1 EY1 B IY1 W AY1
+CALLMEMAYBE	K AE1 L M EY0 M EY1 B IY0
+CPU	S IY1 P IY1 Y UW1
+D	D IY1
+DJ	D IY1 JH EY1
+DRAM	D IY1 AA1 R EY1 EH1 M
+DRAM	D IY1 R AE2 M
+DRAM	D R AE1 M
+EYN	EH1 AH0 N
+F	EH1 F
+GPS	G IY1 P IY0 EH1 S
+GPS	JH IY1 P IY1 EH1 S
+HANNAH	EY1 CH EY1 EH1 N EH1 N EY1 EY1 CH
+HANNAH	HH AE1 N AH0
+HOLD	EY1 CH OW1 EH1 L D IY1
+HOLD	HH OW1 L D
+IC	AY1 S IY1
+IC	IH0 K
+II	AY1 AY1
+II	IY1 IY0
+IT	AY1 T IY1
+IT	IH0 T
+IT	IH1 T
+IT	IH1 T AH0
+LOFT	EH1 L OW1 EH1 F T IY1
+LOFT	L AO1 F T
+LOGO	EH1 L OW1 JH IY1 OW1
+LOGO	L OW1 G OW0
+MAPS	EH1 M EY1 P IY1 EH1 S
+MAPS	M AE1 P S
+MP	EH1 M P IY1
+N	EH1 N
+T恤	T IY1 x v4
+V	V IY1
+X	AE1 K S
+X	EH1 K S
+X	ch a1
+一	i1
+一	iao1
+一下	i1 x ia4
+一下	i2 x ia4
+一个	i1 g e4
+一个	i2 g e4
+一个	i2 g e5
+一个月	i1 g e4 ve4
+一个月	i2 g e3 ve4
+一个月	i2 g e4 ve4
+一九九零年	i1 j iu3 j iu3 l ing2 n ian2
+一事	i1 sh ix4
+一事	i2 sh ix4
+一二年	i1 er4 n ian2
+一些	i1 x ie1
+一些	i4 x ie1
+一件	i1 j ian4
+一件	i2 j ian4
+一份	i1 f en4
+一份	i2 f en4
+一位	i1 ui4
+一位	i2 ui4
+一千	i1 q ian1
+一千	i4 q ian1
+一千亿	i1 q ian1 i4
+一千亿	i4 q ian1 i4
+一只	i1 zh ix1
+一只	i4 zh ix1
+一名	i1 m ing2
+一名	i4 m ing2
+一向	i1 x iang4
+一向	i2 x iang4
+一周	i1 zh ou1
+一周	i4 zh ou1
+一圈	i1 q van1
+一圈	i4 q van1
+一场	i1 ch ang3
+一场	i4 ch ang3
+一天	i1 t ian1
+一天	i4 t ian1
+一季度	i1 j i4 d u4
+一季度	i2 j i4 d u4
+一定	i2 d ing4
+一家	i1 j ia1
+一家	i4 j ia1
+一对	i1 d ui4
+一对	i2 d ui4
+一年	i1 n ian2
+一年	i4 n ian2
+一度	i1 d u4
+一度	i2 d u4
+一张	i1 zh ang1
+一张	i4 zh ang1
+一日	i1 r iz4
+一日	i2 r iz4
+一枪	i1 q iang1
+一枪	i4 q iang1
+一样	i1 iang4
+一样	i2 iang4
+一概而论	i1 g ai4 er2 l un4
+一概而论	i2 g ai4 er2 l un4
+一步	i1 b u4
+一步	i2 b u4
+一段	i1 d uan4
+一段	i2 d uan4
+一点	i1 d ian3
+一点	i4 d ian3
+一生	i4 sh eng1
+一男一女	i1 n an2 i1 n v3
+一男一女	i4 n an2 i4 n v3
+一百一十	i1 b ai3 i1 sh ix2
+一百一十	i4 b ai3 i1 sh ix2
+一直	i1 zh ix2
+一直	i4 zh ix2
+一种	i1 zh ong3
+一种	i4 zh ong3
+一米	i1 m i3
+一米	i4 m i3
+一类	i1 l ei4
+一类	i2 l ei4
+一线	i1 x ian4
+一线	i2 x ian4
+一致	i1 zh ix4
+一致	i2 zh ix4
+一致性	i1 zh ix4 x ing4
+一致性	i2 zh ix4 x ing4
+一般	i1 b an1
+一般	i4 b an1
+一般而言	i1 b an1 er2 ian2
+一般而言	i4 b an1 er2 ian2
+一起	i1 q i3
+一起	i4 q i3
+一身	i1 sh en1
+一身	i4 sh en1
+一辆	i1 l iang4
+一辆	i2 l iang4
+一辈子	i1 b ei4 z iy5
+一辈子	i2 b ei4 z iy5
+一首	i1 sh ou3
+一首	i4 sh ou3
+丁香	d ing1 x iang1
+七	q i1
+七十万	q i1 sh ix2 uan4
+七月	q i1 ve4
+万余	uan4 v2
+万科	uan4 k e1
+万达	uan4 d a2
+丈夫	zh ang4 f u1
+丈夫	zh ang4 f u5
+三	s an1
+三个	s an1 g e3
+三个	s an1 g e4
+三井	s an1 j ing3
+三位	s an1 ui4
+三分之一	s an1 f en1 zh ix1 i1
+三分之二	s an1 f en1 zh ix1 er4
+三十	s an1 sh ix2
+三十五岁	s an1 sh ix2 u3 s ui4
+三十四	s an1 sh ix2 s iy4
+三十日	s an1 sh ix2 r iz4
+三千	s an1 q ian1
+三叶	s an1 ie4
+三号	s an1 h ao4
+三天	s an1 t ian1
+三年	s an1 n ian2
+三成	s an1 ch eng2
+三明	s an1 m ing2
+三星	s an1 x ing1
+三星公司	s an1 x ing1 g ong1 s iy1
+三星电子	s an1 x ing1 d ian4 z iy3
+三是	s an1 sh ix4
+三月	s an1 ve4
+三月份	s an1 ve4 f en4
+三栋	s an1 d ong4
+三次	s an1 c iy4
+三点	s an1 d ian3
+三百	s an1 b ai3
+三维	s an1 ui2
+三里屯	s an1 l i3 t un2
+上	sh ang4
+上一年	sh ang4 i3 n ian2
+上一年	sh ang4 i4 n ian2
+上去	sh ang4 q v4
+上去	sh ang4 q v5
+上周	sh ang4 zh ou1
+上市	sh ang4 sh ix4
+上映	sh ang4 ing4
+上来	sh ang4 l ai2
+上来	sh ang4 l ai5
+上海	sh ang4 h ai3
+上海市	sh ang4 h ai3 sh ix4
+上涨	sh ang4 zh ang3
+上空	sh ang4 k ong1
+上述	sh ang4 sh u4
+下	x ia4
+下一代	x ia4 i1 d ai4
+下一代	x ia4 i2 d ai4
+下半年	x ia4 b an4 n ian2
+下周	x ia4 zh ou1
+下滑	x ia4 h ua2
+下课	x ia4 k e4
+下调	x ia4 d iao4
+下调	x ia4 t iao2
+下跌	x ia4 d ie1
+下降	x ia4 j iang4
+不	b u2
+不	b u4
+不仅	b u4 j in3
+不会	b u2 h ui4
+不住	b u2 zh u4
+不再	b u2 z ai4
+不到	b u2 d ao4
+不动产	b u2 d ong4 ch an3
+不及	b u4 j i2
+不可	b u4 k e3
+不同	b u4 t ong2
+不在意	b u2 z ai4 i4
+不够	b u2 g ou4
+不好	b u4 h ao3
+不少	b u4 sh ao3
+不得不	b u4 d e2 b u4
+不必	b u2 b i4
+不断	b u2 d uan4
+不是	b u2 sh ix4
+不满	b u4 m an3
+不用	b u2 iong4
+不能	b u4 n eng2
+不过	b u2 g uo4
+不远处	b u4 van3 ch u4
+与	v3
+与	v4
+与其	v3 q i2
+丑闻	ch ou3 un2
+专业	zh uan1 ie4
+专业人士	zh uan1 ie4 r en2 sh ix4
+专家	zh uan1 j ia1
+专心	zh uan1 x in1
+专车	zh uan1 ch e1
+世界	sh ix4 j ie4
+世界冠军	sh ix4 j ie4 g uan4 j vn1
+世界杯	sh ix4 j ie4 b ei1
+世纪	sh ix4 j i4
+世锦赛	sh ix4 j in3 s ai4
+业主	ie4 zh u3
+业内人士	ie4 n ei4 r en2 sh ix4
+业务	ie4 u4
+业务	ie4 u5
+业绩	ie4 j i4
+东三环	d ong1 s an1 h uan2
+东京	d ong1 j ing1
+东便门	d ong1 b ian4 m en2
+东北	d ong1 b ei3
+东南	d ong1 n an2
+东四环	d ong1 s iy4 h uan2
+东方	d ong1 f ang1
+东西	d ong1 x i1
+东西	d ong1 x i5
+东部	d ong1 b u4
+两	l iang3
+两个	l iang3 g e3
+两个	l iang3 g e4
+两人	l iang3 r en2
+两名	l iang3 m ing2
+两块钱	l iang3 k uai4 q ian2
+两大类	l iang3 d a4 l ei4
+两家	l iang3 j ia1
+两年	l iang3 n ian2
+两度	l iang3 d u4
+两张	l iang3 zh ang1
+两点	l iang2 d ian3
+两点	l iang3 d ian3
+两者	l iang2 zh e3
+两者	l iang3 zh e3
+两辆	l iang3 l iang4
+严厉	ian2 l i4
+严格	ian2 g e2
+严重	ian2 zh ong4
+个	g e4
+个人	g e4 r en2
+中	zh ong1
+中	zh ong4
+中伤	zh ong1 sh ang1
+中伤	zh ong4 sh ang1
+中原	zh ong1 van2
+中国	zh ong1 g uo2
+中国证监会	zh ong1 g uo2 zh eng4 j ian1 h ui4
+中小企业	zh ong1 x iao2 q i3 ie4
+中小企业	zh ong1 x iao3 q i3 ie4
+中年	zh ong1 n ian2
+中心	zh ong1 x in1
+中指	zh ong1 zh ix3
+中新网	zh ong1 x in1 uang3
+中止	zh ong1 zh ix3
+中法	zh ong1 f a3
+中老年	zh ong1 l ao3 n ian2
+中行	zh ong1 h ang2
+中长期	zh ong1 ch ang2 q i1
+丰富	f eng1 f u4
+临时	l in2 sh ix2
+临界值	l in2 j ie4 zh ix2
+临界点	l in2 j ie4 d ian3
+为	ui2
+为	ui4
+为主	ui2 zh u3
+为了	ui4 l e5
+为何	ui4 h e2
+为例	ui2 l i4
+为此	ui4 c iy3
+主人	zh u3 r en2
+主力	zh u3 l i4
+主办方	zh u3 b an4 f ang1
+主持	zh u3 ch ix2
+主流	zh u3 l iu2
+主管	zh u2 g uan3
+主管	zh u3 g uan3
+主要	zh u3 iao4
+主路	zh u3 l u4
+主题	zh u3 t i2
+主题曲	zh u3 t i2 q v3
+丽江	l i4 j iang1
+丽江市	l i4 j iang1 sh ix4
+举	j v3
+举办	j v3 b an4
+举行	j v3 x ing2
+乃至	n ai3 zh ix4
+久	j iu3
+之一	zh ix1 i1
+之中	zh ix1 zh ong1
+之前	zh ix1 q ian2
+之后	zh ix1 h ou4
+之外	zh ix1 uai4
+之日起	zh ix1 r iz4 q i3
+之间	zh ix1 j ian1
+乐园	l e4 van2
+乒乓	p ing1 p ang1
+乒乓球	p ing1 p ang1 q iu2
+乒乓球拍	p ing1 p ang1 q iu2 p ai1
+乘势	ch eng2 sh ix4
+乘坐	ch eng2 z uo4
+乘客	ch eng2 k e4
+九	j iu3
+九月	j iu3 ve4
+九零	j iu3 l ing2
+也	ie3
+书城	sh u1 ch eng2
+买	m ai3
+买家	m ai3 j ia1
+买房	m ai3 f ang2
+了	l e5
+了	l iao3
+了	l iao4
+了解	l iao2 j ie3
+了解	l iao3 j ie3
+予以	v2 i3
+予以	v3 i3
+争夺	zh eng1 d uo2
+事	sh ix4
+事件	sh ix4 j ian4
+事件簿	sh ix4 j ian4 b u4
+事前	sh ix4 q ian2
+事发	sh ix4 f a1
+事后	sh ix4 h ou4
+事实上	sh ix4 sh ix2 sh ang4
+事情	sh ix4 q ing5
+事故	sh ix4 g u4
+事故	sh ix4 g u5
+事项	sh ix4 x iang4
+二	er4
+二三	er4 s an1
+二十九	er4 sh ix2 j iu3
+二十五	er4 sh ix2 u3
+二十八日	er4 sh ix2 b a1 r iz4
+二店	er4 d ian4
+二手房	er4 sh ou3 f ang2
+二是	er4 sh ix4
+二级	er4 j i2
+二线	er4 x ian4
+二郎	er4 l ang2
+二零一	er4 l ing2 i1
+二零一	er4 l ing2 iao1
+二零零三年	er4 l ing2 l ing2 s an1 n ian2
+二零零六年	er4 l ing2 l ing2 l iu4 n ian2
+于	u1
+于	v1
+于	v2
+于是	v2 sh ix4
+亏空	k ui1 k ong1
+互动	h u4 d ong4
+五	u3
+五万	u3 uan4
+五倍	u3 b ei4
+五年	u3 n ian2
+五日	u3 r iz4
+五点	u2 d ian3
+五点	u3 d ian3
+亚洲	ia4 zh ou1
+亡妻	uang2 q i1
+交易	j iao1 i4
+交易额	j iao1 i4 e2
+交汇	j iao1 h ui4
+交流	j iao1 l iu2
+交通	j iao1 t ong1
+交通委	j iao1 t ong1 ui3
+亦	i4
+产业	ch an3 ie4
+产品	ch an2 p in3
+产品	ch an3 p in3
+产能	ch an3 n eng2
+享受	x iang3 sh ou4
+亭	t ing2
+亲子	q in1 z iy3
+亲爱	q in1 ai4
+人	r en2
+人们	r en2 m en5
+人口	r en2 k ou3
+人员	r en2 van2
+人士	r en2 sh ix4
+人家	r en2 j ia1
+人家	r en2 j ia5
+人才	r en2 c ai2
+人数	r en2 sh u4
+人民网	r en2 m in2 uang3
+人气	r en2 q i4
+人群	r en2 q vn2
+亿	i4
+亿美元	i4 m ei3 van2
+什么	sh en2 m a2
+什么	sh en2 m e5
+什么	sh en2 m o2
+仅	j in3
+今后	j in1 h ou4
+今天下午	j in1 t ian1 x ia4 u3
+今年	j in1 n ian2
+今年初	j in1 n ian2 ch u1
+今生	j in1 sh eng1
+仍	r eng2
+仍会	r eng2 h ui4
+从	c ong2
+从未见过	c ong2 ui4 j ian4 g uo3
+从未见过	c ong2 ui4 j ian4 g uo4
+从来	c ong2 l ai2
+他	t a1
+他人	t a1 r en2
+他们	t a1 m en5
+付	f u4
+仙桃市	x ian1 t ao2 sh ix4
+代行	d ai4 x ing2
+代表	d ai4 b iao3
+以	i3
+以上	i3 sh ang4
+以下	i3 x ia4
+以及	i3 j i2
+以外	i3 uai4
+以往	i2 uang3
+以往	i3 uang3
+以来	i3 l ai2
+以点带面	i2 d ian3 d ai4 m ian4
+以点带面	i3 d ian3 d ai4 m ian4
+们	m en2
+们	m en5
+价格	j ia4 g e2
+任	r en2
+任	r en4
+任何	r en4 h e2
+任务	r en4 u3
+任务	r en4 u4
+任职	r en4 zh ix2
+份额	f en4 e2
+企业	q i3 ie4
+优势	iu1 sh ix4
+优惠	iu1 h ui4
+优衣库	iu1 i1 k u4
+会	h ui4
+会	k uai4
+会上	h ui4 sh ang3
+会上	h ui4 sh ang4
+会徽	h ui4 h ui1
+传感器	ch uan2 g an3 q i4
+传统	ch uan2 t ong3
+传言	ch uan2 ian2
+传达	ch uan2 d a2
+伤	sh ang1
+伤人	sh ang1 r en2
+伤者	sh ang1 zh e3
+伪造	ui3 z ao4
+伴随	b an4 s ui2
+似乎	s iy4 h u1
+但	d an4
+但是	d an4 sh ix4
+位于	ui4 v1
+位于	ui4 v2
+位置	ui4 zh ix4
+位置	ui4 zh ix5
+低价	d i1 j ia4
+低收入	d i1 sh ou1 r u4
+低迷	d i1 m i2
+住	zh u4
+住宅	zh u4 zh ai2
+住房	zh u4 f ang2
+体制改革	t i3 zh ix4 g ai3 g e2
+体系	t i3 x i4
+体育	t i3 v4
+体验	t i3 ian4
+何时	h e2 sh ix2
+何曾	h e2 c eng2
+何种	h e2 zh ong3
+作为	z uo4 ui2
+作为	z uo4 ui3
+作出	z uo4 ch u1
+作品	z uo4 p in3
+作用	z uo4 iong3
+作用	z uo4 iong4
+你	n i3
+使得	sh ix3 d e2
+使用	sh ix3 iong4
+使用费	sh ix3 iong4 f ei4
+供应	g ong1 ing4
+供应	g ong4 ing3
+供应	g ong4 ing4
+依旧	i1 j iu4
+依然	i1 r an2
+依照	i1 zh ao4
+依赖	i1 l ai4
+依靠	i1 k ao4
+侠	x ia2
+侠侣	x ia2 l v3
+促	c u4
+促进	c u4 j in4
+俏皮	q iao4 p i2
+保利	b ao3 l i4
+保安	b ao3 an1
+保证	b ao3 zh eng4
+保障	b ao3 zh ang4
+信号	x in4 h ao4
+信号	x in4 h ao5
+信心	x in4 x in1
+信息	x in4 x i1
+信托	x in4 t uo1
+信贷	x in4 d ai4
+信赖	x in4 l ai4
+信赖	x in4 l ai5
+修改	x iu1 g ai3
+修订	x iu1 d ing4
+倍数	b ei4 sh u4
+倍数	b ei4 sh u5
+倒地	d ao3 d i4
+借鉴	j ie4 j ian4
+假期	j ia4 q i1
+偏差	p ian1 ch a1
+偏差	p ian1 ch a4
+做	z uo4
+做出	z uo4 ch u1
+做好	z uo4 h ao3
+停下	t ing2 x ia4
+停下	t ing2 x ia5
+停业	t ing2 ie4
+停用	t ing2 iong4
+停留	t ing2 l iu2
+停车	t ing2 ch e1
+停车费	t ing2 ch e1 f ei4
+健康	j ian4 k ang1
+健身	j ian4 sh en1
+健身房	j ian4 sh en1 f ang2
+偶	ou3
+偶尔	ou2 er3
+偶尔	ou3 er3
+傍晚	b ang4 uan3
+储蓄	ch u3 x v4
+儿子	er2 z iy5
+元素	van2 s u4
+兄弟	x iong1 d i4
+兄弟	x iong1 d i5
+充分	ch ong1 f en4
+充分发挥	ch ong1 f en4 f a1 h ui1
+先	x ian1
+先后	x ian1 h ou4
+先机	x ian1 j i1
+光晕	g uang1 vn1
+光晕	g uang1 vn4
+免征	m ian3 zh eng1
+全	q van2
+全体	q van2 t i3
+全国	q van2 g uo2
+全民	q van2 m in2
+全职	q van2 zh ix2
+全自动	q van2 z iy4 d ong4
+全部	q van2 b u4
+全面	q van2 m ian4
+八	b a1
+八月	b a1 ve4
+公交	g ong1 j iao1
+公募	g ong1 m u4
+公司	g ong1 s iy1
+公园	g ong1 van2
+公安机关	g ong1 an1 j i1 g uan1
+公布	g ong1 b u4
+公布于众	g ong1 b u4 v2 zh ong4
+公开	g ong1 k ai1
+公款	g ong1 k uan3
+公积金	g ong1 j i1 j in1
+六	l iu4
+六号	l iu4 h ao4
+六年	l iu4 n ian2
+共	g ong4
+共享	g ong4 x iang3
+共有	g ong4 iu3
+共识	g ong4 sh ix2
+关于	g uan1 v2
+关于	g uan1 v3
+关注	g uan1 zh u4
+关注点	g uan1 zh u4 d ian3
+关键	g uan1 j ian4
+兴奋	x ing1 f en4
+其	q i2
+其中	q i2 zh ong1
+其他	q i2 t a1
+其余	q i2 v2
+其实	q i2 sh ix2
+具体	j v4 t i3
+具备	j v4 b ei4
+具有	j v4 iu3
+兼职	j ian1 zh ix2
+内	n ei4
+内侧	n ei4 c e4
+内因	n ei4 in1
+内外	n ei4 uai4
+内存	n ei4 c un2
+内容	n ei4 r ong2
+内战	n ei4 zh an4
+内环	n ei4 h uan2
+内设	n ei4 sh e4
+内部	n ei4 b u3
+内部	n ei4 b u4
+再	z ai4
+再度	z ai4 d u4
+再次	z ai4 c iy4
+冠军	g uan4 j vn1
+冰晶	b ing1 j ing1
+冲击	ch ong1 j i1
+冲突	ch ong1 t u1
+冲突	ch ong1 t u5
+决定	j ve2 d ing4
+决赛	j ve2 s ai4
+冷静	l eng3 j ing4
+净	j ing4
+净利润	j ing4 l i4 r un4
+净利润	j ing4 l i4 r un5
+准备	zh un3 b ei4
+准备金	zh un3 b ei4 j in1
+减少	j ian2 sh ao3
+减少	j ian3 sh ao3
+减弱	j ian3 r uo4
+几个	j i3 g e3
+几个	j i3 g e4
+几乎	j i1 h u1
+凤凰	f eng4 h uang2
+凤凰	f eng4 h uang5
+凤凰网	f eng4 h uang2 uang3
+出	ch u1
+出发	ch u1 f a1
+出发点	ch u1 f a1 d ian3
+出台	ch u1 t ai2
+出库	ch u1 k u4
+出来	ch u1 l ai2
+出来	ch u1 l ai5
+出现	ch u1 x ian4
+出生	ch u1 sh eng1
+出生证	ch u1 sh eng1 zh eng4
+出租屋	ch u1 z u1 u1
+出纳	ch u1 n a4
+出纳员	ch u1 n a4 van2
+击毙	j i1 b i4
+击败	j i1 b ai4
+分为	f en1 ui2
+分别	f en1 b ie2
+分店	f en1 d ian4
+分支	f en1 zh ix1
+分给	f en1 g ei3
+分配	f en1 p ei4
+刑事拘留	x ing2 sh ix4 j v1 l iu2
+列日	l ie4 r iz4
+则	z e2
+刚	g ang1
+刚刚	g ang1 g ang1
+刚才	g ang1 c ai2
+创	ch uang1
+创	ch uang4
+创业	ch uang4 ie4
+创业板	ch uang4 ie4 b an3
+创建	ch uang4 j ian4
+创新	ch uang4 x in1
+创造	ch uang4 z ao4
+判断	p an4 d uan4
+利好	l i4 h ao3
+利息	l i4 x i1
+利息	l i4 x i5
+利润	l i4 r un4
+利润	l i4 r un5
+利用	l i4 iong4
+利用	l i4 iong5
+利益	l i4 i4
+利益	l i4 i5
+别	b ie2
+别	b ie4
+到	d ao4
+到位	d ao4 ui4
+到场	d ao4 ch ang3
+到底	d ao4 d i3
+到达	d ao4 d a2
+制作	zh ix4 z uo4
+制度	zh ix4 d u4
+制度	zh ix4 d u5
+制服	zh ix4 f u2
+制造	zh ix4 z ao4
+刺伤	c iy4 sh ang1
+剁	d uo4
+削弱	x ve1 r uo4
+前	q ian2
+前不久	q ian2 b u4 j iu3
+前后	q ian2 h ou4
+前所未有	q ian2 s uo3 ui4 iu3
+前期	q ian2 q i1
+前来	q ian2 l ai2
+剑	j ian4
+剥离	b ao1 l i2
+剥离	b o1 l i2
+剧场	j v4 ch ang3
+剽窃	p iao1 q ie4
+剽窃	p iao2 q ie4
+力度	l i4 d u4
+力度	l i4 d u5
+劝解	q van4 j ie3
+劝说	q van4 sh uo1
+办事处	b an4 sh ix4 ch u4
+办成	b an4 ch eng2
+办法	b an4 f a3
+办法	b an4 f a5
+功能	g ong1 n eng2
+加上	j ia1 sh ang4
+加上	j ia1 sh ang5
+加入	j ia1 r u4
+加大	j ia1 d a4
+动	d ong4
+动作	d ong4 z uo4
+动作	d ong4 z uo5
+动力	d ong4 l i4
+动手	d ong4 sh ou3
+动植物园	d ong4 zh ix2 u4 van2
+勇气	iong3 q i4
+募	m u4
+化	h ua4
+化名	h ua4 m ing2
+北京	b ei3 j ing1
+北京市	b ei3 j ing1 sh ix4
+北段	b ei3 d uan4
+北湖	b ei3 h u2
+北部	b ei3 b u4
+医师	i1 sh ix1
+医生	i1 sh eng1
+医药费	i1 iao4 f ei4
+医院	i1 van4
+十一	sh ix2 i1
+十一日	sh ix2 i1 r iz4
+十七年	sh ix2 q i1 n ian2
+十二月	sh ix2 er4 ve4
+十二月份	sh ix2 er4 ve4 f en4
+十五	sh ix2 u3
+十五万	sh ix2 u3 uan4
+十元	sh ix2 van2
+十六	sh ix2 l iu4
+十六日	sh ix2 l iu4 r iz4
+十分	sh ix2 f en1
+十分钟	sh ix2 f en1 zh ong1
+十年	sh ix2 n ian2
+十月	sh ix2 ve4
+千元	q ian1 van2
+升温	sh eng1 un1
+半决赛	b an4 j ve2 s ai4
+半小时	b an4 x iao3 sh ix2
+半数	b an4 sh u4
+华威	h ua2 ui1
+华山	h ua4 sh an1
+协商	x ie2 sh ang1
+卓阳	zh uo1 iang2
+单一	d an1 i1
+单位	d an1 ui4
+单打	d an1 d a3
+单纯	d an1 ch un2
+卖萌	m ai4 m eng2
+南一街	n an2 i1 j ie1
+南口	n an2 k ou3
+南桥	n an2 q iao2
+南沙	n an2 sh a1
+南翔	n an2 x iang2
+南部	n an2 b u4
+博客	b o2 k e4
+博物馆	b o2 u4 g uan3
+卜卦	b u3 g ua4
+占地	zh an4 d i4
+占款	zh an4 k uan3
+占用	zh an4 iong4
+印制	in4 zh ix4
+印度	in4 d u4
+危机感	ui1 j i1 g an3
+危险	ui1 x ian3
+即	j i2
+即使	j i2 sh ix3
+即将	j i2 j iang1
+却	q ve4
+却是	q ve4 sh ix4
+卷	j van3
+卷	j van4
+压力	ia1 l i4
+原则	van2 z e2
+原则性	van2 z e2 x ing4
+原味	van2 ui4
+原因	van2 in1
+原由	van2 iu2
+厦门	x ia4 m en2
+去	q v4
+去年	q v4 n ian2
+去年底	q v4 n ian2 d i3
+参与	c an1 v3
+参与	c an1 v4
+参加	c an1 j ia1
+又	iu4
+及	j i2
+及其	j i2 q i2
+及时	j i2 sh ix2
+双双	sh uang1 sh uang1
+双方	sh uang1 f ang1
+反	f an3
+反射	f an3 sh e4
+反应	f an3 ing3
+反应	f an3 ing4
+反映	f an3 ing4
+发声	f a1 sh eng1
+发展	f a1 zh an3
+发布	f a1 b u4
+发布会	f a1 b u4 h ui4
+发挥	f a1 h ui1
+发放	f a1 f ang4
+发来	f a1 l ai2
+发现	f a1 x ian4
+发生	f a1 sh eng1
+发生变化	f a1 sh eng1 b ian4 h ua4
+发福	f a1 f u2
+发行	f a1 x ing2
+发行价	f a1 x ing2 j ia4
+发言人	f a1 ian2 r en2
+发达	f a1 d a2
+取代	q v3 d ai4
+取消	q v3 x iao1
+取胜	q v3 sh eng1
+取胜	q v3 sh eng4
+受伤	sh ou4 sh ang1
+受到	sh ou4 d ao4
+受到	sh ou4 d ao5
+受益权	sh ou4 i4 q van2
+变温	b ian4 un1
+变相	b ian4 x iang4
+古城	g u3 ch eng2
+另	l ing4
+另外	l ing4 uai4
+只	zh ix1
+只	zh ix3
+只会	zh ix3 h ui4
+只是	zh ix3 sh ix4
+只有	zh ix2 iu3
+只有	zh ix3 iu3
+只能	zh ix3 n eng2
+只要	zh ix3 iao4
+叫	j iao4
+叫做	j iao4 z uo4
+叫做	j iao4 z uo5
+召开	zh ao1 k ai1
+召开	zh ao4 k ai1
+可	k e3
+可以	k e2 i3
+可以	k e3 i3
+可能	k e3 n eng2
+可能性	k e3 n eng2 x ing4
+台	t ai1
+台	t ai2
+台湾	t ai2 uan1
+史上	sh ix3 sh ang3
+史上	sh ix3 sh ang4
+号召力	h ao4 zh ao4 l i4
+司机	s iy1 j i1
+各	g e4
+各个	g e4 g e4
+各个	g e4 g e5
+各大	g e4 d a4
+各方	g e4 f ang1
+各种	g e4 zh ong3
+合作	h e2 z uo4
+合影	h e2 ing3
+合法权益	h e2 f a3 q van2 i4
+合理	h e2 l i3
+合规	h e2 g ui1
+吉利	j i2 l i4
+吊销	d iao4 x iao1
+同	t ong2
+同时	t ong2 sh ix2
+同步	t ong2 b u4
+名	m ing2
+名为	m ing2 ui2
+名义	m ing2 i4
+名将	m ing2 j iang4
+名店	m ing2 d ian4
+后	h ou4
+后期	h ou4 q i1
+后者	h ou4 zh e3
+后面	h ou4 m ian4
+后面	h ou4 m ian5
+向	x iang4
+向下	x iang4 x ia4
+向来	x iang4 l ai2
+吗	m a2
+吗	m a3
+吗	m a5
+听取	t ing1 q v3
+启动	q i3 d ong4
+吵架	ch ao3 j ia4
+吸引	x i1 in3
+呃	e4
+呈现	ch eng2 x ian4
+呈现出	ch eng2 x ian4 ch u1
+员	van2
+员工	van2 g ong1
+呢	n e5
+呢	n i2
+周围	zh ou1 ui2
+周杰伦	zh ou1 j ie2 l un2
+周董	zh ou1 d ong3
+味道	ui4 d ao4
+味道	ui4 d ao5
+和	h e2
+和	h e4
+和	h u2
+和	h uo2
+和	h uo4
+咖啡	k a1 f ei1
+咬伤	iao3 sh ang1
+品牌	p in3 p ai2
+哈根达斯	h a1 g en1 d a2 s iy1
+哪	n a3
+哪	n a5
+哪	n e2
+哪	n ei3
+哪些	n a3 x ie1
+哪些	n ei3 x ie1
+哪儿	n a3 er1
+哪儿	n a3 er2
+售价	sh ou4 j ia4
+售后	sh ou4 h ou4
+唱	ch ang4
+商厦	sh ang1 sh a4
+商品房	sh ang1 p in3 f ang2
+商城	sh ang1 ch eng2
+商店	sh ang1 d ian4
+商标	sh ang1 b iao1
+喊	h an3
+喜欢	x i3 h uan1
+喜爱	x i3 ai4
+嗣后	s iy4 h ou4
+嗯	en1
+嗯	en2
+嗯	en4
+嗯	en5
+嗯	eng1
+嗯	eng2
+嗯	eng3
+嗯	eng4
+嘉定	j ia1 d ing4
+器官	q i4 g uan1
+噱头	x ve2 t ou2
+噱头	x ve2 t ou5
+四	s iy4
+四个	s iy4 g e3
+四个	s iy4 g e4
+四千	s iy4 q ian1
+四千万	s iy4 q ian1 uan4
+四家	s iy4 j ia1
+四川	s iy4 ch uan1
+四年	s iy4 n ian2
+四成	s iy4 ch eng2
+四月	s iy4 ve4
+四段	s iy4 d uan4
+四环	s iy4 h uan2
+四百	s iy4 b ai3
+四线	s iy4 x ian4
+回到	h ui2 d ao4
+回到	h ui2 d ao5
+回暖	h ui2 n uan3
+回球	h ui2 q iu2
+回答	h ui2 d a2
+因	in1
+因为	in1 ui2
+因为	in1 ui4
+因此	in1 c iy3
+因素	in1 s u4
+团队	t uan2 d ui4
+囧	j iong3
+园	van2
+园区	van2 q v1
+困扰	k un4 r ao3
+围绕	ui2 r ao4
+国企	g uo2 q i3
+国内	g uo2 n ei4
+国务院	g uo2 u4 van4
+国家	g uo2 j ia1
+国民	g uo2 m in2
+国球	g uo2 q iu2
+国立	g uo2 l i4
+国色	g uo2 s e4
+国防	g uo2 f ang2
+国际	g uo2 j i4
+国际乒联	g uo2 j i4 p ing1 l ian2
+国际奥委会	g uo2 j i4 ao4 ui3 h ui4
+图	t u2
+图纸	t u2 zh ix3
+土地	t u3 d i4
+在	z ai4
+在于	z ai4 v2
+在家	z ai4 j ia1
+在意	z ai4 i4
+地	d e5
+地	d i4
+地产	d i4 ch an3
+地区	d i4 q v1
+地方	d i4 f ang1
+地方	d i4 f ang5
+地球	d i4 q iu2
+地盘	d i4 p an2
+场外	ch ang3 uai4
+均	j vn1
+坐月子	z uo4 ve4 z iy5
+垃圾箱	l a1 j i1 x iang1
+城	ch eng2
+城区	ch eng2 q v1
+城堡	ch eng2 b ao3
+城市	ch eng2 sh ix4
+城市化	ch eng2 sh ix4 h ua4
+城市道路	ch eng2 sh ix4 d ao4 l u4
+城隍庙	ch eng2 h uang2 m iao4
+培养	p ei2 iang3
+基于	j i1 v2
+基本	j i1 b en3
+基本上	j i1 b en3 sh ang3
+基本上	j i1 b en3 sh ang4
+基本上	j i1 b en3 sh ang5
+基础	j i1 ch u3
+基础设施	j i1 ch u3 sh e4 sh ix1
+基金	j i1 j in1
+基金法	j i1 j in1 f a3
+堆积	d ui1 j i1
+堵	d u3
+塔斯	t a3 s iy1
+增加	z eng1 j ia1
+增多	z eng1 d uo1
+增量	z eng1 l iang4
+增长	z eng1 zh ang3
+墨西哥	m o4 x i1 g e1
+墨镜	m o4 j ing4
+声	sh eng1
+声称	sh eng1 ch eng1
+处于	ch u3 v2
+处于	ch u4 v2
+处理	ch u2 l i3
+处理	ch u3 l i3
+处理	ch u4 l i3
+处理器	ch u2 l i3 q i4
+处理器	ch u3 l i3 q i4
+复杂	f u4 z a2
+复苏	f u4 s u1
+夏朵	x ia4 d uo3
+外出	uai4 ch u1
+外国人	uai4 g uo2 r en2
+外地	uai4 d i4
+外地人	uai4 d i4 r en2
+外形	uai4 x ing2
+外汇	uai4 h ui4
+外滩	uai4 t an1
+外界	uai4 j ie4
+外部	uai4 b u4
+外面	uai4 m ian4
+外面	uai4 m ian5
+多	d uo1
+多个	d uo1 g e4
+多位	d uo1 ui4
+多变	d uo1 b ian4
+多名	d uo1 m ing2
+多家	d uo1 j ia1
+多年	d uo1 n ian2
+多渠道	d uo1 q v2 d ao4
+多种	d uo1 zh ong3
+多项	d uo1 x iang4
+夜市	ie4 sh ix4
+夜空	ie4 k ong1
+够不上	g ou4 b u2 sh ang4
+大	d a4
+大	d ai4
+大于	d a4 v2
+大力	d a4 l i4
+大厦	d a4 sh a4
+大名鼎鼎	d a4 m ing2 d ing2 d ing3
+大名鼎鼎	d a4 m ing2 d ing3 d ing3
+大型	d a4 x ing2
+大城市	d a4 ch eng2 sh ix4
+大家	d a4 j ia1
+大容量	d a4 r ong2 l iang4
+大小	d a4 x iao3
+大成	d a4 ch eng2
+大户	d a4 h u4
+大楼	d a4 l ou2
+大片	d a4 p ian4
+大理	d a4 l i3
+大篷车	d a4 p eng2 ch e1
+大约	d a4 ve1
+大街	d a4 j ie1
+大道	d a4 d ao4
+大酒楼	d a4 j iu3 l ou2
+大量	d a4 l iang4
+天山	t ian1 sh an1
+天津	t ian1 j in1
+天王	t ian1 uang2
+天空	t ian1 k ong1
+太	t ai4
+太田	t ai4 t ian2
+太阳	t ai4 iang2
+太阳	t ai4 iang5
+失去	sh ix1 q v4
+失态	sh ix1 t ai4
+失踪	sh ix1 z ong1
+奔驰	b en1 ch ix2
+奖杯	j iang3 b ei1
+套	t ao4
+套房	t ao4 f ang2
+套数	t ao4 sh u4
+套数	t ao4 sh u5
+奥	ao4
+奥斯卡	ao4 s iy1 k a3
+奥组委	ao4 z u2 ui3
+奥组委	ao4 z u3 ui3
+奥运	ao4 vn4
+女儿	n v3 er1
+女儿	n v3 er2
+女子	n v2 z iy3
+女子	n v3 z iy3
+女孩	n v3 h ai2
+女童	n v3 t ong2
+奶奶	n ai3 n ai5
+她	t a1
+好	h ao3
+好	h ao4
+好像	h ao3 x iang4
+好友	h ao2 iu3
+好友	h ao3 iu3
+好吃	h ao3 ch ix1
+好吃	h ao4 ch ix1
+好莱坞	h ao3 l ai2 u4
+如今	r u2 j in1
+如何	r u2 h e2
+如同	r u2 t ong2
+如愿	r u2 van4
+如果	r u2 g uo3
+如此	r u2 c iy3
+妈妈	m a1 m a5
+妻子	q i1 z iy3
+妻子	q i1 z iy5
+姐妹	j ie3 m ei4
+威慑	ui1 sh e4
+威胁	ui1 x ie2
+娇小	j iao1 x iao3
+娱乐	v2 l e4
+媒体	m ei2 t i3
+媒体报道	m ei2 t i3 b ao4 d ao4
+嫌疑	x ian2 i2
+嫌疑人	x ian2 i2 r en2
+子公司	z iy3 g ong1 s iy1
+孔乙己	k ong3 i2 j i3
+孔乙己	k ong3 i3 j i3
+孔亮	k ong3 l iang4
+孔家	k ong3 j ia1
+存储器	c un2 ch u3 q i4
+存在	c un2 z ai4
+存量	c un2 l iang4
+孙中山	s un1 zh ong1 sh an1
+学校	x ve2 x iao4
+孩子	h ai2 z iy5
+孵化期	f u1 h ua4 q i1
+它	t a1
+它们	t a1 m en5
+守护人	sh ou3 h u4 r en2
+守护者	sh ou3 h u4 zh e3
+安全	an1 q van2
+安宁	an1 n ing2
+完全	uan2 q van2
+完善	uan2 sh an4
+完备	uan2 b ei4
+完美	uan2 m ei3
+完胜	uan2 sh eng4
+宏观调控	h ong2 g uan1 t iao2 k ong4
+官方	g uan1 f ang1
+定	d ing4
+定位仪	d ing4 ui4 i2
+定制	d ing4 zh ix4
+实力	sh ix2 l i4
+实施	sh ix2 sh ix1
+实现	sh ix2 x ian4
+实行	sh ix2 x ing2
+实际	sh ix2 j i4
+审批	sh en3 p i1
+客	k e4
+客户	k e4 h u4
+宣布	x van1 b u4
+宣称	x van1 ch eng1
+害怕	h ai4 p a4
+家乐福	j ia1 l e4 f u2
+家人	j ia1 r en2
+家居	j ia1 j v1
+家属	j ia1 sh u3
+家庭	j ia1 t ing2
+容易	r ong2 i3
+容易	r ong2 i4
+宽	k uan1
+宽松	k uan1 s ong1
+密不可分	m i4 b u2 k e3 f en1
+密不可分	m i4 b u4 k e3 f en1
+密切	m i4 q ie4
+寒暑假	h an2 sh u3 j ia4
+寮	l iao2
+对	d ui4
+对于	d ui4 v2
+对冲	d ui4 ch ong1
+对待	d ui4 d ai4
+对手	d ui4 sh ou3
+对抗	d ui4 k ang4
+对此	d ui4 c iy3
+对称	d ui4 ch en4
+对象	d ui4 x iang4
+寺	s iy4
+导游	d ao3 iu2
+导游证	d ao3 iu2 zh eng4
+导致	d ao3 zh ix4
+封杀	f eng1 sh a1
+将	j iang1
+将	j iang4
+将	q iang1
+将会	j iang1 h ui4
+小	x iao3
+小伙	x iao2 h uo3
+小伙	x iao3 h uo3
+小勇	x iao2 iong3
+小勇	x iao3 iong3
+小区	x iao3 q v1
+小型	x iao3 x ing2
+小孩	x iao3 h ai2
+小拇指	x iao3 m u2 zh ix3
+小拇指	x iao3 m u3 zh ix3
+小时	x iao3 sh ix2
+小贩	x iao3 f an4
+小轿车	x iao3 j iao4 ch e1
+小鸡	x iao3 j i1
+少有	sh ao2 iu3
+少有	sh ao3 iu3
+尖刀	j ian1 d ao1
+尤其	iu2 q i2
+就	j iu4
+就是	j iu4 sh ix3
+就是	j iu4 sh ix4
+就要	j iu4 iao4
+尸体	sh ix1 t i3
+尽快	j in3 k uai4
+尽快	j in4 k uai4
+局部地区	j v2 b u4 d i4 q v1
+局面	j v2 m ian4
+居民	j v1 m in2
+屏幕	p ing2 m u4
+展示	zh an3 sh ix4
+屡	l v3
+履职	l v3 zh ix2
+山里红	sh an1 l i5 h ong2
+崇明岛	ch ong2 m ing2 d ao3
+巡航	x vn2 h ang2
+工业	g ong1 ie4
+工人	g ong1 r en2
+工作	g ong1 z uo4
+工作日	g ong1 z uo4 r iz4
+工作站	g ong1 z uo4 zh an4
+工作者	g ong1 z uo4 zh e3
+工厂	g ong1 ch ang3
+工艺	g ong1 i4
+左	z uo3
+左右	z uo3 iu4
+左小蕾	z uo3 x iao2 l ei3
+左小蕾	z uo3 x iao3 l ei3
+巨大	j v4 d a4
+巩固	g ong3 g u4
+差别化	ch a1 b ie2 h ua4
+差异	ch a1 i4
+已	i3
+已有	i2 iu3
+已经	i3 j ing1
+已获	i3 h uo4
+巴士	b a1 sh ix4
+市	sh ix4
+市值	sh ix4 zh ix2
+市场	sh ix4 ch ang3
+市场份额	sh ix4 ch ang3 f en4 e2
+市场部	sh ix4 ch ang3 b u4
+市场需求	sh ix4 ch ang3 x v1 q iu2
+市政府	sh ix4 zh eng4 f u3
+市民	sh ix4 m in2
+市盈率	sh ix4 ing2 l v4
+市长	sh ix4 zh ang3
+布局	b u4 j v2
+希望	x i1 uang4
+带	d ai4
+带动	d ai4 d ong4
+带来	d ai4 l ai2
+带来	d ai4 l ai3
+席卷	x i2 j van3
+席卷	x i2 j van4
+帮	b ang1
+帽子	m ao4 z iy5
+干	g an1
+干	g an4
+干	q ian2
+平台	p ing2 t ai2
+平时	p ing2 sh ix2
+平米	p ing2 m i3
+年内	n ian2 n ei4
+年头	n ian2 t ou2
+年报	n ian2 b ao4
+年轻	n ian2 q ing1
+年龄段	n ian2 l ing2 d uan4
+并	b ing1
+并	b ing4
+并且	b ing4 q ie3
+并未	b ing4 ui4
+并非	b ing4 f ei1
+幸福	x ing4 f u2
+幸运	x ing4 vn4
+幸运	x ing4 vn5
+幺	iao1
+广场	g uang2 ch ang3
+广场	g uang3 ch ang3
+广州	g uang3 zh ou1
+应	ing1
+应	ing4
+应从	ing1 c ong2
+应对	ing4 d ui4
+应用	ing4 iong4
+应该	ing1 g ai1
+底线	d i3 x ian4
+店	d ian4
+店子	d ian4 z iy5
+度	d u4
+度	d uo2
+康斯坦丁	k ang1 s iy1 t an3 d ing1
+康熙	k ang1 x i1
+延长	ian2 ch ang2
+建成	j ian4 ch eng2
+建立	j ian4 l i4
+建议	j ian4 i4
+建设	j ian4 sh e4
+开发	k ai1 f a1
+开发商	k ai1 f a1 sh ang1
+开园	k ai1 van2
+开始	k ai1 sh ix3
+开展	k ai1 zh an3
+开幕	k ai1 m u4
+开盘	k ai1 p an2
+弊端	b i4 d uan1
+式	sh ix4
+引来	in3 l ai2
+引爆	in3 b ao4
+弗雷	f u2 l ei2
+张伟	zh ang1 ui3
+张女士	zh ang1 n v3 sh ix4
+弥补	m i2 b u3
+强烈	q iang2 l ie4
+强行	q iang2 x ing2
+强调	q iang2 d iao4
+当	d ang1
+当	d ang4
+当中	d ang1 zh ong1
+当事人	d ang1 sh ix4 r en2
+当做	d ang4 z uo4
+当前	d ang1 q ian2
+当地	d ang1 d i4
+当场	d ang1 ch ang3
+当天	d ang1 t ian1
+当天	d ang4 t ian1
+当时	d ang1 sh ix2
+形式	x ing2 sh ix4
+形成	x ing2 ch eng2
+形象	x ing2 x iang4
+影响	ing2 x iang3
+影响	ing3 x iang3
+影响力	ing2 x iang3 l i4
+影响力	ing3 x iang3 l i4
+影帝	ing3 d i4
+影片	ing3 p ian1
+影片	ing3 p ian4
+彻底	ch e4 d i3
+征信	zh eng1 x in4
+征管	zh eng1 g uan3
+征选	zh eng1 x van3
+很	h en3
+很多	h en3 d uo1
+很强	h en3 q iang2
+很快	h en3 k uai4
+得	d e2
+得	d e5
+得	d ei3
+得不偿失	d e2 b u4 ch ang2 sh ix1
+得到	d e2 d ao4
+得到	d e2 d ao5
+微博	ui1 b o2
+微小	ui1 x iao3
+德国	d e2 g uo2
+心	x in1
+心情	x in1 q ing2
+心脏	x in1 z ang4
+必将	b i4 j iang1
+必要	b i4 iao4
+必要性	b i4 iao4 x ing4
+必须	b i4 x v1
+忘记	uang4 j i4
+忠心耿耿	zh ong1 x in1 g eng2 g eng3
+忠心耿耿	zh ong1 x in1 g eng3 g eng3
+快乐	k uai4 l e4
+快乐	k uai4 l e5
+快讯	k uai4 x vn4
+快速	k uai4 s u4
+怀	h uai2
+怀中	h uai2 zh ong1
+态势	t ai4 sh ix4
+态度	t ai4 d u5
+怎么	z en3 m e5
+怎么	z en3 m o2
+怕	p a4
+思考	s iy1 k ao3
+思路	s iy1 l u4
+急剧	j i2 j v4
+性能	x ing4 n eng2
+总体	z ong2 t i3
+总体	z ong3 t i3
+总共	z ong3 g ong4
+总裁	z ong3 c ai2
+恋人	l ian4 r en2
+恋人	l ian4 r en5
+恒大	h eng2 d a4
+恢复	h ui1 f u4
+恢复	h ui1 f u5
+您	n in2
+悼念	d ao4 n ian4
+情侣	q ing2 l v3
+情况	q ing2 k uang4
+情感	q ing2 g an3
+情歌	q ing2 g e1
+惨死	c an2 s iy3
+惨死	c an3 s iy3
+想	x iang3
+想要	x iang3 iao4
+惹	r e3
+意在	i4 z ai4
+意见	i4 j ian3
+意见	i4 j ian4
+感叹	g an3 t an4
+成为	ch eng2 ui2
+成交	ch eng2 j iao1
+成功	ch eng2 g ong1
+成果	ch eng2 g uo3
+成立	ch eng2 l i4
+成都	ch eng2 d u1
+我	uo3
+我们	uo3 m en5
+我国	uo3 g uo2
+或	h uo4
+或者	h uo4 zh e3
+或许	h uo4 x v3
+战胜	zh an4 sh eng4
+截至	j ie2 zh ix4
+戴	d ai4
+房产	f ang2 ch an3
+房价	f ang2 j ia4
+房企	f ang2 q i3
+房地产	f ang2 d i4 ch an3
+房源	f ang2 van2
+房租	f ang2 z u1
+房管	f ang2 g uan3
+房贷	f ang2 d ai4
+所	s uo3
+所以	s uo2 i3
+所以	s uo3 i3
+所幸	s uo3 x ing4
+所有	s uo2 iu3
+所有	s uo3 iu3
+所有权	s uo2 iu3 q van2
+所有权	s uo3 iu3 q van2
+所有者	s uo2 iu2 zh e3
+所有者	s uo3 iu3 zh e3
+所致	s uo3 zh ix4
+所谓	s uo3 ui4
+手指	sh ou2 zh ix3
+手指	sh ou3 zh ix3
+手机	sh ou3 j i1
+手环	sh ou3 h uan2
+手臂	sh ou3 b i4
+才	c ai2
+扑灭	p u1 m ie4
+打	d a2
+打	d a3
+打击	d a3 j i1
+打印	d a3 in4
+打印机	d a3 in4 j i1
+打开	d a3 k ai1
+打电话	d a3 d ian4 h ua4
+打造	d a3 z ao4
+托	t uo1
+托管	t uo1 g uan3
+托管人	t uo1 g uan3 r en2
+执行	zh ix2 x ing2
+扫清	s ao3 q ing1
+扬言	iang2 ian2
+扮演	b an4 ian3
+扶持	f u2 ch ix2
+扶植	f u2 zh ix2
+批判	p i1 p an4
+承认	ch eng2 r en4
+承诺	ch eng2 n uo4
+技术	j i4 sh u4
+技术	j i4 sh u5
+抄袭	ch ao1 x i2
+把	b a3
+把	b a4
+抑制	i4 zh ix4
+投入	t ou2 r u4
+投机	t ou2 j i1
+投资	t ou2 z iy1
+投资性	t ou2 z iy1 x ing4
+折	sh e2
+折	zh e1
+折	zh e2
+折射	zh e2 sh e4
+折扣	zh e2 k ou4
+抢	q iang1
+抢	q iang3
+抢占	q iang3 zh an4
+抢攻	q iang3 g ong1
+报告	b ao4 g ao4
+报摊	b ao4 t an1
+报警	b ao4 j ing3
+报送	b ao4 s ong4
+报道	b ao4 d ao4
+抱	b ao4
+抽烟	ch ou1 ian1
+抽象	ch ou1 x iang4
+拉着	l a1 zh e5
+拍	p ai1
+拍照	p ai1 zh ao4
+拘	j v1
+拥堵	iong1 d u3
+拥有	iong1 iu3
+拿下	n a2 x ia4
+持	ch ix2
+持刀	ch ix2 d ao1
+持有	ch ix2 iu3
+持有人	ch ix2 iu3 r en2
+持续	ch ix2 x v4
+持续时间	ch ix2 x v4 sh ix2 j ian1
+持股	ch ix2 g u3
+挂钩	g ua4 g ou1
+指出	zh ix3 ch u1
+指导	zh ix2 d ao3
+指导	zh ix3 d ao3
+指控	zh ix3 k ong4
+指数	zh ix3 sh u4
+指明	zh ix3 m ing2
+指标	zh ix3 b iao1
+按照	an4 zh ao4
+挑	t iao1
+挑	t iao3
+挑剔	t iao1 t i1
+挑剔	t iao1 t i5
+挑战赛	t iao3 zh an4 s ai4
+挣钱	zh eng4 q ian2
+挥刀	h ui1 d ao1
+挪用	n uo2 iong4
+挪用公款	n uo2 iong4 g ong1 k uan3
+挽回	uan3 h ui2
+挽救	uan3 j iu4
+损失	s un3 sh ix1
+据	j v1
+据	j v4
+据为己有	j v4 ui2 j i2 iu3
+据为己有	j v4 ui2 j i3 iu3
+掀	x ian1
+掀开	x ian1 k ai1
+授信	sh ou4 x in4
+授权	sh ou4 q van2
+掉	d iao4
+排名	p ai2 m ing2
+探	t an4
+探索	t an4 s uo3
+接	j ie1
+接下来	j ie1 x ia3 l ai3
+接下来	j ie1 x ia4 l ai2
+接下来	j ie1 x ia4 l ai3
+接受	j ie1 sh ou4
+接盘	j ie1 p an2
+接近	j ie1 j in4
+控制	k ong4 zh ix4
+控制器	k ong4 zh ix4 q i4
+控股	k ong4 g u3
+推	t ui1
+推出	t ui1 ch u1
+推动	t ui1 d ong4
+推广	t ui1 g uang3
+推进	t ui1 j in4
+措施	c uo4 sh ix1
+提供	t i2 g ong1
+提供	t i2 g ong4
+提出	t i2 ch u1
+提到	t i2 d ao4
+提高	t i2 g ao1
+揭晓	j ie1 x iao3
+搜狐	s ou1 h u2
+搜索	s ou1 s uo3
+搞	g ao3
+搞清楚	g ao3 q ing1 ch u3
+摄	sh e4
+摄氏度	sh e4 sh ix4 d u4
+摆放	b ai3 f ang4
+撞	zh uang4
+撤回	ch e4 h ui2
+撤离	ch e4 l i2
+撤走	ch e4 z ou3
+攒	c uan2
+攒	z an3
+攒够	z an3 g ou4
+支付	zh ix1 f u4
+支持	zh ix1 ch ix2
+支撑	zh ix1 ch eng1
+支票	zh ix1 p iao4
+收入	sh ou1 r u4
+收取	sh ou1 q v3
+收益	sh ou1 i4
+收获	sh ou1 h uo4
+收费	sh ou1 f ei4
+收集	sh ou1 j i2
+改为	g ai3 ui2
+改变	g ai3 b ian4
+改革	g ai3 g e2
+放学	f ang4 x ve2
+放宽	f ang4 k uan1
+放缓	f ang4 h uan3
+政府	zh eng4 f u3
+政策	zh eng4 c e4
+故事	g u4 sh ix4
+故事	g u4 sh ix5
+故居	g u4 j v1
+效率	x iao4 l v4
+敏感	m in2 g an3
+敏感	m in3 g an3
+救世主	j iu4 sh ix4 zh u3
+救助	j iu4 zh u4
+救治	j iu4 zh ix4
+教育	j iao4 v4
+数据	sh u4 j v4
+数月	sh u4 ve4
+数百	sh u4 b ai3
+数量	sh u4 l iang4
+数量	sh u4 l iang5
+整个	zh eng3 g e4
+整个	zh eng3 g e5
+整体	zh eng2 t i3
+整体	zh eng3 t i3
+整改	zh eng2 g ai3
+整改	zh eng3 g ai3
+文	un2
+文化	un2 h ua4
+文轩	un2 x van1
+斗转星移	d ou2 zh uan3 x ing1 i2
+斗转星移	d ou3 zh uan3 x ing1 i2
+斥责	ch ix4 z e2
+断崖	d uan4 ia2
+新	x in1
+新一轮	x in1 i1 l un2
+新世纪	x in1 sh ix4 j i4
+新低	x in1 d i1
+新华书店	x in1 h ua2 sh u1 d ian4
+新增	x in1 z eng1
+新婚夫妇	x in1 h un1 f u1 f u4
+新房	x in1 f ang2
+新手	x in1 sh ou3
+新政	x in1 zh eng4
+新梅	x in1 m ei2
+新款	x in1 k uan3
+新篇章	x in1 p ian1 zh ang1
+新股	x in1 g u3
+新货	x in1 h uo4
+新闻	x in1 un2
+新闻网	x in1 un2 uang3
+新鲜	x in1 x ian1
+新鲜	x in1 x ian3
+方便	f ang1 b ian4
+方式	f ang1 sh ix4
+方案	f ang1 an4
+方面	f ang1 m ian4
+施压	sh ix1 ia1
+旅游	l v3 iu2
+旅行社	l v3 x ing2 sh e4
+无	u2
+无所谓	u2 s uo3 ui4
+无故	u2 g u4
+无效	u2 x iao4
+无比	u2 b i3
+无法	u2 f a3
+日	r iz4
+日产	r iz4 ch an3
+日光	r iz4 g uang1
+日前	r iz4 q ian2
+日常	r iz4 ch ang2
+日本	r iz4 b en3
+早前	z ao3 q ian2
+时	sh ix2
+时代	sh ix2 d ai4
+时候	sh ix2 h ou4
+时候	sh ix2 h ou5
+时光	sh ix2 g uang1
+时尚	sh ix2 sh ang4
+时间	sh ix2 j ian1
+昆凌	k un1 l ing2
+明年	m ing2 n ian2
+明星	m ing2 x ing1
+明显	m ing2 x ian3
+明确	m ing2 q ve4
+星	x ing1
+星巴克	x ing1 b a1 k e4
+星座	x ing1 z uo4
+星系	x ing1 x i4
+昨天	z uo2 t ian1
+是	sh ix4
+是从	sh ix4 c ong2
+是否	sh ix4 f ou3
+显得	x ian3 d e3
+显得	x ian3 d e5
+显效	x ian3 x iao4
+显现出	x ian3 x ian4 ch u1
+显示	x ian3 sh ix4
+显而易见	x ian3 er2 i4 j ian4
+晋升	j in4 sh eng1
+晒	sh ai4
+晚	uan3
+普及	p u3 j i2
+普遍	p u3 b ian4
+普里	p u2 l i3
+普里	p u3 l i3
+景区	j ing3 q v1
+智能	zh ix4 n eng2
+智能机	zh ix4 n eng2 j i1
+暂时	z an4 sh ix2
+暂行办法	z an4 x ing2 b an4 f a3
+曝光	b ao4 g uang1
+曝光	p u4 g uang1
+曲线	q v1 x ian4
+曲线	q v3 x ian4
+更	g eng1
+更	g eng4
+更为	g eng4 ui2
+更加	g eng4 j ia1
+更大	g eng4 d a4
+更好	g eng4 h ao3
+更长	g eng4 ch ang2
+最	z ui4
+最初	z ui4 ch u1
+最后	z ui4 h ou4
+最多	z ui4 d uo1
+最大	z ui4 d a4
+最大化	z ui4 d a4 h ua4
+最早	z ui4 z ao3
+最晚	z ui4 uan3
+最终	z ui4 zh ong1
+最近	z ui4 j in4
+最高	z ui4 g ao1
+月	ve4
+有	iu3
+有个	iu3 g e3
+有个	iu3 g e4
+有些	iu3 x ie1
+有人	iu3 r en2
+有关	iu3 g uan1
+有利于	iu3 l i4 v2
+有助于	iu3 zh u4 v2
+有效	iu3 x iao4
+有效性	iu3 x iao4 x ing4
+朋友	p eng2 iu5
+服务	f u2 u4
+服务员	f u2 u4 van2
+朝阳区	ch ao2 iang2 q v1
+期	q i1
+期限	q i1 x ian4
+未	ui4
+未来	ui4 l ai2
+未能	ui4 n eng2
+本人	b en3 r en2
+本报讯	b en3 b ao4 x vn4
+本月	b en3 ve4
+本次	b en3 c iy4
+本质	b en3 zh ix4
+本身	b en3 sh en1
+本项	b en3 x iang4
+机制	j i1 zh ix4
+机构	j i1 g ou4
+材料	c ai2 l iao4
+条件	t iao2 j ian4
+条款	t iao2 k uan3
+来	l ai2
+来源	l ai2 van2
+来看	l ai2 k an4
+来自	l ai2 z iy4
+来说	l ai2 sh uo1
+杭州	h ang2 zh ou1
+极地	j i2 d i4
+某	m ou3
+某一	m ou3 i1
+某某	m ou2 m ou3
+某某	m ou3 m ou3
+查实	ch a2 sh ix2
+查明	ch a2 m ing2
+标准版	b iao1 zh un2 b an3
+标准版	b iao1 zh un3 b an3
+标志	b iao1 zh ix4
+标配	b iao1 p ei4
+栏目	l an2 m u4
+校园	x iao4 van2
+校际	x iao4 j i4
+根据	g en1 j v4
+根本	g en1 b en3
+桂湖	g ui4 h u2
+档	d ang4
+档案	d ang4 an4
+桥	q iao2
+桥桥	q iao2 q iao2
+桥段	q iao2 d uan4
+梳理	sh u1 l i3
+检查	j ian3 ch a2
+楼	l ou2
+楼市	l ou2 sh ix4
+楼盘	l ou2 p an2
+概念	g ai4 n ian4
+概念股	g ai4 n ian4 g u3
+概念车	g ai4 n ian4 ch e1
+模仿	m o2 f ang3
+模式	m o2 sh ix4
+欢迎	h uan1 ing2
+欧洲	ou1 zh ou1
+歌声	g e1 sh eng1
+歌曲	g e1 q v3
+正在	zh eng4 z ai4
+正式	zh eng4 sh ix4
+正是	zh eng4 sh ix4
+此事	c iy3 sh ix4
+此前	c iy3 q ian2
+此次	c iy3 c iy4
+步	b u4
+武侯	u3 h ou2
+武侯祠	u3 h ou2 c iy2
+武汉	u3 h an4
+武隆	u3 l ong2
+死亡	s iy3 uang2
+死者	s iy2 zh e3
+死者	s iy3 zh e3
+残疾人	c an2 j i2 r en2
+殴打	ou1 d a3
+段	d uan4
+母女俩	m u2 n v2 l ia3
+母女俩	m u3 n v3 l ia3
+每	m ei3
+每个	m ei3 g e4
+每日	m ei3 r iz4
+比	b i3
+比例	b i3 l i4
+比利时	b i3 l i4 sh ix2
+比如	b i3 r u2
+比赛	b i3 s ai4
+比较	b i2 j iao3
+比较	b i3 j iao4
+民众	m in2 zh ong4
+民警	m in2 j ing3
+民间	m in2 j ian1
+水平	sh ui3 p ing2
+水族馆	sh ui3 z u2 g uan3
+水泥	sh ui3 n i2
+水谷	sh ui2 g u3
+水谷	sh ui3 g u3
+永远	iong2 van3
+永远	iong3 van3
+求婚	q iu2 h un1
+汉斯	h an4 s iy1
+汽车	q i4 ch e1
+汽车业	q i4 ch e1 ie4
+沃尔玛	uo4 er2 m a3
+沃尔玛	uo4 er3 m a3
+沉着	ch en2 zh uo2
+沙子	sh a1 z iy5
+没	m ao3
+没	m ei2
+没	m o4
+没带	m ei2 d ai4
+没有	m ei2 iu3
+治疗	zh ix4 l iao2
+法国	f a3 g uo2
+法庭	f a3 t ing2
+法律	f a3 l v4
+法规	f a3 g ui1
+泡沫	p ao4 m o4
+注入	zh u4 r u4
+注意力	zh u4 i4 l i4
+注重	zh u4 zh ong4
+泰斗	t ai4 d ou3
+洛夫	l uo4 f u1
+活动	h uo2 d ong4
+活泼	h uo2 p o1
+派出	p ai4 ch u1
+派出所	p ai4 ch u1 s uo3
+派发	p ai4 f a1
+派对	p ai4 d ui4
+派生	p ai4 sh eng1
+流入	l iu2 r u4
+流出	l iu2 ch u1
+流动性	l iu2 d ong4 x ing4
+流失	l iu2 sh ix1
+流着泪	l iu2 zh e5 l ei4
+浑水	h un2 sh ui3
+浓烈	n ong2 l ie4
+海宁	h ai3 n ing2
+海昌	h ai3 ch ang1
+海洋	h ai3 iang2
+海阔天空	h ai3 k uo4 t ian1 k ong1
+海鲜	h ai3 x ian1
+消息	x iao1 x i5
+消耗	x iao1 h ao4
+消防车	x iao1 f ang2 ch e1
+涉事	sh e4 sh ix4
+涉嫌	sh e4 x ian2
+涨价	zh ang3 j ia4
+涨幅	zh ang3 f u2
+淘汰赛	t ao2 t ai4 s ai4
+淮海店	h uai2 h ai3 d ian4
+深入	sh en1 r u4
+深圳	sh en1 zh en4
+混合	h un3 h e2
+混合	h un4 h e2
+添堵	t ian1 d u3
+清明	q ing1 m ing2
+清明节	q ing1 m ing2 j ie2
+清水	q ing1 sh ui3
+清洁	q ing1 j ie2
+清点	q ing1 d ian3
+清障车	q ing1 zh ang4 ch e1
+清香	q ing1 x iang1
+渔具	v2 j v4
+渠道	q v2 d ao4
+温度	un1 d u4
+游客	iu2 k e4
+源	van2
+溺水	n i4 sh ui3
+滑板鞋	h ua2 b an3 x ie2
+满意	m an3 i4
+满足	m an3 z u2
+滨江	b in1 j iang1
+漕运	c ao2 vn4
+潍坊	ui2 f ang1
+澄清	ch eng2 q ing1
+激光	j i1 g uang1
+激励	j i1 l i4
+激情	j i1 q ing2
+激烈	j i1 l ie4
+火	h uo3
+火热	h uo3 r e4
+火锅	h uo3 g uo1
+火鸟	h uo2 n iao3
+火鸟	h uo3 n iao3
+灵	l ing2
+灵堂	l ing2 t ang2
+灵山	l ing2 sh an1
+灵异	l ing2 i4
+灵感	l ing2 g an3
+炒作	ch ao3 z uo4
+炒股	ch ao2 g u3
+炒股	ch ao3 g u3
+炮轰	p ao4 h ong1
+炷	zh u4
+点	d ian3
+点燃	d ian3 r an2
+热潮	r e4 ch ao2
+热门	r e4 m en2
+然而	r an2 er2
+照片	zh ao4 p ian1
+照片	zh ao4 p ian4
+照顾	zh ao4 g u4
+照顾	zh ao4 g u5
+煮	zh u3
+熟知	sh ou2 zh ix1
+熟知	sh u2 zh ix1
+爆炸	b ao4 zh a4
+爱	ai4
+爱情	ai4 q ing2
+爱情路	ai4 q ing2 l u4
+父亲	f u4 q in1
+父亲	f u4 q in5
+父母	f u4 m u3
+爸爸	b a4 b a5
+版	b an3
+牌照	p ai2 zh ao4
+牛排	n iu2 p ai2
+物	u4
+物业	u4 ie4
+物业公司	u4 ie4 g ong1 s iy1
+物体	u4 t i3
+特	t e4
+特别	t e4 b ie2
+特定	t e4 d ing4
+独家	d u2 j ia1
+猜疑	c ai1 i2
+猝死	c u4 s iy3
+猴子	h ou2 z iy5
+率先	sh uai4 x ian1
+王	uang2
+玩水	uan2 sh ui3
+环境	h uan2 j ing4
+环比	h uan2 b i3
+现在	x ian4 z ai4
+现场	x ian4 ch ang3
+现已	x ian4 i3
+现象	x ian4 x iang4
+现金	x ian4 j in1
+珠宝店	zh u1 b ao3 d ian4
+珠帘	zh u1 l ian2
+球台	q iu2 t ai2
+球员	q iu2 van2
+球类	q iu2 l ei4
+球路	q iu2 l u4
+球迷	q iu2 m i2
+理念	l i3 n ian4
+理想	l i2 x iang3
+理想	l i3 x iang3
+理由	l i3 iu2
+琴台	q in2 t ai2
+甚至	sh en4 zh ix4
+甚至	sh en4 zh ix5
+生产	sh eng1 ch an3
+生产线	sh eng1 ch an3 x ian4
+生活	sh eng1 h uo2
+用	iong4
+用于	iong4 v2
+用地	iong4 d i4
+用户	iong4 h u4
+用途	iong4 t u2
+由	iu2
+由于	iu2 v2
+申请	sh en1 q ing3
+电动	d ian4 d ong4
+电动车	d ian4 d ong4 ch e1
+电子	d ian4 z iy3
+电池	d ian4 ch ix2
+电脑	d ian4 n ao3
+电脑城	d ian4 n ao3 ch eng2
+电视台	d ian4 sh ix4 t ai2
+电话	d ian4 h ua4
+电量	d ian4 l iang4
+男主角	n an2 zh u3 j ve2
+男子	n an2 z iy3
+男孩	n an2 h ai2
+畅所欲言	ch ang4 s uo3 v4 ian2
+界定	j ie4 d ing4
+番禺	p an1 v2
+疑因	i2 in1
+痴迷	ch ix1 m i2
+登陆	d eng1 l u4
+白衣	b ai2 i1
+百分之一	b ai3 f en1 zh ix1 i1
+百分之五十	b ai3 f en1 zh ix1 u3 sh ix2
+百分之八十	b ai3 f en1 zh ix1 b a1 sh ix2
+百分之六十	b ai3 f en1 zh ix1 l iu4 sh ix2
+百盛	b ai3 sh eng4
+百货	b ai3 h uo4
+的	d e5
+的	d i2
+的	d i3
+的	d i4
+皇城	h uang2 ch eng2
+皮肤	p i2 f u1
+皮革	p i2 g e2
+益州	i4 zh ou1
+监事	j ian1 sh ix4
+监管	j ian1 g uan3
+盗用	d ao4 iong4
+盛宴	sh eng4 ian4
+盛源	sh eng4 van2
+目前	m u4 q ian2
+目的	m u4 d i4
+目的	m u4 d i5
+直接	zh ix2 j ie1
+直言	zh ix2 ian2
+相互	x iang1 h u4
+相似	x iang1 s iy4
+相信	x iang1 x in4
+相关	x iang1 g uan1
+相关性	x iang1 g uan1 x ing4
+相对	x iang1 d ui4
+相应	x iang1 ing4
+相当于	x iang1 d ang1 v2
+相比	x iang1 b i3
+相隔	x iang1 g e2
+看	k an1
+看	k an4
+看上去	k an4 sh ang4 q v3
+看上去	k an4 sh ang4 q v4
+看上去	k an4 sh ang5 q v5
+看到	k an4 d ao4
+看到	k an4 d ao5
+看待	k an4 d ai4
+看房	k an4 f ang2
+看来	k an4 l ai2
+看楼	k an4 l ou2
+看起来	k an4 q i3 l ai2
+看起来	k an4 q i5 l ai5
+真	zh en1
+真的	zh en1 d e5
+眼	ian3
+眼下	ian3 x ia4
+眼帘	ian3 l ian2
+眼镜	ian3 j ing4
+着	zh ao1
+着	zh ao2
+着	zh e5
+着	zh uo2
+督促	d u1 c u4
+督察	d u1 ch a2
+督察组	d u1 ch a2 z u3
+督查	d u1 ch a2
+知名度	zh ix1 m ing2 d u4
+码头	m a3 t ou2
+码头	m a3 t ou3
+砍	k an3
+砍伤	k an3 sh ang1
+砍倒	k an2 d ao3
+研	ian2
+研究	ian2 j iu1
+研究者	ian2 j iu1 zh e3
+破	p o4
+破灭	p o4 m ie4
+硅谷	g ui1 g u3
+硅谷	x i1 g u3
+硕士学位	sh uo4 sh ix4 x ve2 ui4
+硬塞	ing4 s ai1
+硬币	ing4 b i4
+确	q ve4
+确保	q ve4 b ao3
+确定	q ve4 d ing4
+社会	sh e4 h ui4
+社会各界	sh e4 h ui4 g e4 j ie4
+神奇	sh en2 q i2
+神秘	sh en2 m i4
+神箭	sh en2 j ian4
+祥和	x iang2 h e2
+福建	f u2 j ian4
+私家车	s iy1 j ia1 ch e1
+种子	zh ong3 z iy5
+科幻	k e1 h uan4
+科幻小说	k e1 h uan4 x iao3 sh uo1
+科技	k e1 j i4
+科技人才	k e1 j i4 r en2 c ai2
+科技界	k e1 j i4 j ie4
+租凭	z u1 p ing2
+积极	j i1 j i2
+称	ch en4
+称	ch eng1
+称	ch eng4
+移动	i2 d ong4
+移开	i2 k ai1
+程度	ch eng2 d u4
+税收	sh ui4 sh ou1
+税收政策	sh ui4 sh ou1 zh eng4 c e4
+稳稳	un2 un3
+稳稳	un3 un3
+究竟	j iu1 j ing4
+穿戴	ch uan1 d ai4
+突然	t u1 r an2
+立案	l i4 an4
+立马	l i4 m a3
+站	zh an4
+竞技	j ing4 j i4
+竞赛	j ing4 s ai4
+笑	x iao4
+符号	f u2 h ao4
+第一	d i4 i1
+第五	d i4 u3
+等	d eng3
+等到	d eng3 d ao4
+等到	d eng3 d ao5
+筹备	ch ou2 b ei4
+筹款	ch ou2 k uan3
+签名	q ian1 m ing2
+签约	q ian1 ve1
+简化	j ian3 h ua4
+简单	j ian3 d an1
+管理	g uan2 l i3
+管理	g uan3 l i3
+篮球	l an2 q iu2
+籍	j i2
+米	m i3
+类似	l ei4 s iy4
+精卫填海	j ing1 ui4 t ian2 h ai3
+精武	j ing1 u3
+精武门	j ing1 u3 m en2
+精灵	j ing1 l ing2
+精神	j ing1 sh en2
+精神	j ing1 sh en5
+精神病	j ing1 sh en2 b ing4
+系列	x i4 l ie4
+系统	x i4 t ong3
+素有	s u4 iu3
+索尼	s uo3 n i2
+紫光	z iy3 g uang1
+紫竹	z iy3 zh u2
+累计	l ei3 j i4
+繁华	f an2 h ua2
+纠纷	j iu1 f en1
+纠结	j iu1 j ie2
+红	h ong2
+红利	h ong2 l i4
+红星路	h ong2 x ing1 l u4
+红豆	h ong2 d ou4
+约	ve1
+约束	ve1 sh u4
+级	j i2
+纪念馆	j i4 n ian4 g uan3
+纷纷	f en1 f en1
+组委会	z u2 ui3 h ui4
+组委会	z u3 ui3 h ui4
+组成	z u3 ch eng2
+组织	z u3 zh ix1
+细化	x i4 h ua4
+终于	zh ong1 u1
+终于	zh ong1 v1
+终于	zh ong1 v2
+终结	zh ong1 j ie2
+绍兴	sh ao4 x ing1
+绍兴	sh ao4 x ing5
+经常性	j ing1 ch ang2 x ing4
+经济	j ing1 j i4
+经济体	j ing1 j i4 t i3
+经纬	j ing1 ui3
+经过	j ing1 g uo4
+经验	j ing1 ian4
+结合	j ie2 h e2
+结束	j ie2 sh u4
+结构	j ie2 g ou4
+结果	j ie2 g uo3
+给	g ei3
+给	j i3
+绝大多数	j ve2 d a4 d uo1 sh u4
+绝对	j ve2 d ui4
+统一	t ong3 i1
+统计	t ong3 j i4
+继续	j i4 x v4
+继续	j i4 x v5
+续航	x v4 h ang2
+维修	ui2 x iu1
+维护	ui2 h u4
+维持	ui2 ch ix2
+缓解	h uan2 j ie3
+缓解	h uan3 j ie3
+缩减	s uo1 j ian3
+缺少	q ve1 sh ao3
+网	uang3
+网友	uang2 iu3
+网友	uang3 iu3
+网友会	uang2 iu3 h ui4
+网络	uang3 l uo4
+罚款	f a2 k uan3
+美国	m ei3 g uo2
+群体	q vn2 t i3
+老	l ao3
+老三	l ao3 s an1
+老妈	l ao3 m a1
+老婆	l ao3 p o2
+老婆	l ao3 p o5
+老洋房	l ao3 iang2 f ang2
+考虑	k ao3 l v4
+考试	k ao3 sh ix4
+者	zh e3
+而	er2
+而且	er2 q ie3
+而是	er2 sh ix4
+耗电	h ao4 d ian4
+耗电量	h ao4 d ian4 l iang4
+耗费	h ao4 f ei4
+耳朵	er3 d uo3
+耳朵	er3 d uo5
+职业道德	zh ix2 ie4 d ao4 d e2
+职务	zh ix2 u4
+职能	zh ix2 n eng2
+联合	l ian2 h e2
+联盟	l ian2 m eng2
+联系	l ian2 x i4
+联系	l ian2 x i5
+联络	l ian2 l uo4
+聚焦	j v4 j iao1
+肌肉	j i1 r ou4
+肚子	d u3 z iy5
+肚子	d u4 z iy5
+肚皮	d u4 p i2
+股东	g u3 d ong1
+股票	g u3 p iao4
+肺部	f ei4 b u4
+胜利	sh eng4 l i4
+胸部	x iong1 b u4
+能	n eng2
+能力	n eng2 l i4
+能够	n eng2 g ou4
+能源	n eng2 van2
+脚步	j iao3 b u4
+自	z iy4
+自主	z iy4 zh u3
+自住	z iy4 zh u4
+自动	z iy4 d ong4
+自家	z iy4 j ia1
+自己	z iy4 j i3
+自律	z iy4 l v4
+自我	z iy4 uo3
+自断	z iy4 d uan4
+自此	z iy4 c iy3
+自然	z iy4 r an2
+自燃	z iy4 r an2
+自由自在	z iy4 iu2 z iy4 z ai4
+自行	z iy4 x ing2
+自贡	z iy4 g ong4
+自身	z iy4 sh en1
+自驾车	z iy4 j ia4 ch e1
+臭名远扬	ch ou4 m ing2 van3 iang2
+至	zh ix4
+至今	zh ix4 j in1
+至少	zh ix4 sh ao3
+致	zh ix4
+致电	zh ix4 d ian4
+舆论	v2 l un4
+芯片	x in1 p ian4
+花上	h ua1 sh ang3
+花上	h ua1 sh ang4
+花园	h ua1 van2
+苛刻	k e1 k e4
+英国	ing1 g uo2
+苹果	p ing2 g uo3
+茂名	m ao4 m ing2
+范围	f an4 ui2
+范晓萱	f an4 x iao3 x van1
+茶	ch a2
+草案	c ao3 an4
+荣昌	r ong2 ch ang1
+荷塘月色	h e2 t ang2 ve4 s e4
+获刑	h uo4 x ing2
+获得	h uo4 d e2
+获得成功	h uo4 d e2 ch eng2 g ong1
+获悉	h uo4 x i1
+菜	c ai4
+萎缩	ui3 s uo1
+营业	ing2 ie4
+营业税	ing2 ie4 sh ui4
+萨尔	s a4 er3
+落地	l uo4 d i4
+落实	l uo4 sh ix2
+落户	l uo4 h u4
+董事	d ong3 sh ix4
+蔡康永	c ai4 k ang1 iong3
+藏品	c ang2 p in3
+藏獒	z ang4 ao2
+虹桥	h ong2 q iao2
+虽	s ui1
+虽然	s ui1 r an2
+蜀	sh u3
+蜀九香	sh u3 j iu3 x iang1
+蜀山	sh u3 sh an1
+血案	x ve4 an4
+行业	h ang2 ie4
+行为	x ing2 ui2
+行列	h ang2 l ie4
+行政	x ing2 zh eng4
+行程	x ing2 ch eng2
+衣袖	i1 x iu4
+补上	b u3 sh ang4
+补上	b u3 sh ang5
+补助	b u3 zh u4
+表态	b iao3 t ai4
+表示	b iao3 sh ix4
+表示感谢	b iao3 sh ix4 g an3 x ie4
+被	b ei4
+袭击	x i2 j i1
+装入	zh uang1 r u4
+装饰	zh uang1 sh ix4
+西南	x i1 n an2
+西堤	x i1 d i1
+西航	x i1 h ang2
+西路	x i1 l u4
+西门	x i1 m en2
+要	iao1
+要	iao4
+要求	iao1 q iu2
+要素	iao4 s u4
+覆盖	f u4 g ai4
+见	j ian4
+见	x ian4
+见习	j ian4 x i2
+观众	g uan1 zh ong4
+观察	g uan1 ch a2
+规划	g ui1 h ua4
+规则	g ui1 z e2
+规定	g ui1 d ing4
+规范	g ui1 f an4
+视觉	sh ix4 j ve2
+视频	sh ix4 p in2
+觉得	j ve2 d e5
+角度	j iao3 d u4
+角色	j ve2 s e4
+解决	j ie3 j ve2
+解决方案	j ie3 j ve2 f ang1 an4
+解决问题	j ie3 j ve2 un4 t i2
+解决问题	j ie3 j ve2 un4 t i3
+解套	j ie3 t ao4
+解散	j ie3 s an4
+解析	j ie3 x i1
+言语	ian2 v3
+警察	j ing3 ch a2
+警方	j ing3 f ang1
+计划	j i4 h ua4
+计划	j i4 h ua5
+计提	j i4 t i2
+计生	j i4 sh eng1
+认为	r en4 ui2
+认真	r en4 zh en1
+让	r ang4
+讯	x vn4
+记录	j i4 l u4
+记者	j i4 zh e3
+记者会	j i4 zh e3 h ui4
+讲	j iang3
+讲究	j iang3 j iu1
+讲述	j iang3 sh u4
+许	x v3
+许多	x v3 d uo1
+设	sh e4
+设为	sh e4 ui2
+设备	sh e4 b ei4
+设备	sh e4 b ei5
+设定	sh e4 d ing4
+设想	sh e4 x iang3
+设立	sh e4 l i4
+设计	sh e4 j i4
+设计	sh e4 j i5
+设计师	sh e4 j i4 sh ix1
+设计师	sh e4 j i5 sh ix1
+设计界	sh e4 j i4 j ie4
+证	zh eng4
+证券	zh eng4 q van4
+证券化	zh eng4 q van4 h ua4
+证监会	zh eng4 j ian1 h ui4
+试探	sh ix4 t an4
+试探	sh ix4 t an5
+试点	sh ix4 d ian3
+话题	h ua4 t i2
+诡异	g ui3 i4
+该	g ai1
+该校	g ai1 x iao4
+该法	g ai1 f a3
+详细	x iang2 x i4
+说	sh ui4
+说	sh uo1
+说	ve4
+说明	sh uo1 m ing2
+读卖新闻	d u2 m ai4 x in1 un2
+诽谤	f ei3 b ang4
+谁	sh ei2
+谁	sh ui2
+调	d iao4
+调	t iao2
+调动	d iao4 d ong4
+调控	t iao2 k ong4
+调整	t iao2 zh eng3
+调查	d iao4 ch a2
+调查组	d iao4 ch a2 z u3
+调节	t iao2 j ie2
+谎言	h uang3 ian2
+谢罪	x ie4 z ui4
+负责	f u4 z e2
+负责人	f u4 z e2 r en2
+贡献	g ong4 x ian4
+财产	c ai2 ch an3
+财政	c ai2 zh eng4
+账户	zh ang4 h u4
+货车	h uo4 ch e1
+质疑	zh ix4 i2
+购买	g ou4 m ai3
+购买力	g ou4 m ai3 l i4
+购房	g ou4 f ang2
+购房者	g ou4 f ang2 zh e3
+购物	g ou4 u4
+贯彻	g uan4 ch e4
+贵妃醉酒	g ui4 f ei1 z ui4 j iu3
+贷款	d ai4 k uan3
+费	f ei4
+费用	f ei4 iong4
+费用	f ei4 iong5
+资产	z iy1 ch an3
+资本	z iy1 b en3
+资本论	z iy1 b en3 l un4
+资源	z iy1 van2
+赔	p ei2
+赚钱	zh uan4 q ian2
+赛事	s ai4 sh ix4
+赛场	s ai4 ch ang3
+赢得	ing2 d e2
+走	z ou3
+走失	z ou3 sh ix1
+走访	z ou2 f ang3
+走访	z ou3 f ang3
+走进	z ou3 j in4
+赶到	g an3 d ao4
+赶往	g an2 uang3
+赶往	g an3 uang3
+赶来	g an3 l ai2
+起	q i3
+起来	q i3 l ai2
+起来	q i3 l ai3
+起来	q i3 l ai5
+起火	q i2 h uo3
+起火	q i3 h uo3
+起点	q i2 d ian3
+起点	q i3 d ian3
+起草	q i2 c ao3
+起草	q i3 c ao3
+起诉	q i3 s u4
+超	ch ao1
+超市	ch ao1 sh ix4
+超生	ch ao1 sh eng1
+超过	ch ao1 g uo4
+越来越	ve4 l ai2 ve4
+趋势	q v1 sh ix4
+趣味	q v4 ui4
+足以	z u2 i3
+足够	z u2 g ou4
+足额	z u2 e2
+趴	p a1
+跃入	ve4 r u4
+距离	j v4 l i2
+跟	g en1
+跨国	k ua4 g uo2
+跨界	k ua4 j ie4
+路	l u4
+路口	l u4 k ou3
+路店	l u4 d ian4
+身上	sh en1 sh ang3
+身上	sh en1 sh ang4
+身穿	sh en1 ch uan1
+身躯	sh en1 q v1
+躲雨	d uo2 v3
+躲雨	d uo3 v3
+车	ch e1
+车	j v1
+车库	ch e1 k u4
+车辆	ch e1 l iang4
+车道	ch e1 d ao4
+转向	zh uan3 x iang4
+转换	zh uan3 h uan4
+转移	zh uan3 i2
+轮廓	l un2 k uo4
+轰	h ong1
+轿车	j iao4 ch e1
+较	j iao4
+较大	j iao4 d a4
+较量	j iao4 l iang4
+较量	j iao4 l iang5
+辅助	f u3 zh u4
+边际	b ian1 j i4
+达	d a2
+达到	d a2 d ao4
+达成	d a2 ch eng2
+达成协议	d a2 ch eng2 x ie2 i4
+迁至	q ian1 zh ix4
+迄今	q i4 j in1
+迅速	x vn4 s u4
+过	g uo4
+过半	g uo4 b an4
+过去	g uo4 q v4
+过去	g uo4 q v5
+过生日	g uo4 sh eng1 r iz4
+过程	g uo4 ch eng2
+过程	g uo4 ch eng3
+迎来	ing2 l ai2
+运作	vn4 z uo4
+运动	vn4 d ong3
+运动	vn4 d ong4
+运动员	vn4 d ong4 van2
+运用	vn4 iong4
+运算	vn4 s uan4
+运营	vn4 ing2
+运行	vn4 x ing2
+近	j in4
+近年来	j in4 n ian2 l ai2
+近日	j in4 r iz4
+近期	j in4 q i1
+近来	j in4 l ai2
+近照	j in4 zh ao4
+返还	f an3 h uan2
+还	h ai2
+还	h uan2
+还是	h ai2 sh ix3
+还是	h ai2 sh ix4
+还有	h ai2 iu3
+还要	h ai2 iao4
+这	zh e4
+这	zh ei4
+这一	zh e4 i1
+这一	zh ei4 i1
+这个	zh e4 g e4
+这个	zh e4 g e5
+这个	zh ei4 g e5
+这些	zh e4 x ie1
+这些	zh ei4 x ie1
+这位	zh e4 ui4
+这位	zh ei4 ui4
+这场	zh e4 ch ang3
+这场	zh ei4 ch ang3
+这家	zh e4 j ia1
+这家	zh ei4 j ia1
+这座	zh e4 z uo4
+这座	zh ei4 z uo4
+这才	zh e4 c ai2
+这才	zh ei4 c ai2
+这方面	zh e4 f ang1 m ian4
+这方面	zh ei4 f ang1 m ian4
+这样	zh e4 iang4
+这样	zh e4 iang5
+这样	zh ei4 iang4
+这次	zh e4 c iy4
+这次	zh ei4 c iy4
+这种	zh e4 zh ong3
+这种	zh ei4 zh ong3
+这类	zh e4 l ei4
+这类	zh ei4 l ei4
+这项	zh e4 x iang4
+这项	zh ei4 x iang4
+进一步	j in4 i1 b u4
+进一步	j in4 i2 b u4
+进入	j in4 r u4
+进行	j in4 x ing2
+远东	van3 d ong1
+远远	van2 van3
+远远	van3 van3
+违法	ui2 f a3
+违规行为	ui2 g ui1 x ing2 ui2
+连	l ian2
+迟到	ch ix2 d ao4
+迹象	j i4 x iang4
+迹象	j i4 x iang5
+追尾	zh ui1 ui3
+追踪	zh ui1 z ong1
+追逃	zh ui1 t ao2
+追随	zh ui1 s ui2
+退出	t ui4 ch u1
+退市	t ui4 sh ix4
+送	s ong4
+送医	s ong4 i1
+送往	s ong4 uang3
+适应性	sh ix4 ing4 x ing4
+适当	sh ix4 d ang1
+适当	sh ix4 d ang4
+适当	sh ix4 d ang5
+适时	sh ix4 sh ix2
+适用	sh ix4 iong4
+逃走	t ao2 z ou3
+逃跑	t ao2 p ao3
+逆差	n i4 ch a1
+逆战	n i4 zh an4
+逆行	n i4 x ing2
+选定	x van3 d ing4
+选手	x van2 sh ou3
+选手	x van3 sh ou3
+选拔	x van3 b a2
+选择	x van3 z e2
+透明	t ou4 m ing2
+透明性	t ou4 m ing2 x ing4
+透露	t ou4 l u4
+逐渐	zh u2 j ian4
+递交	d i4 j iao1
+途中	t u2 zh ong1
+通信	t ong1 x in4
+通气会	t ong1 q i4 h ui4
+通过	t ong1 g uo4
+造成	z ao4 ch eng2
+造星	z ao4 x ing1
+遇到	v4 d ao4
+遇到	v4 d ao5
+道	d ao4
+道路	d ao4 l u4
+遭	z ao1
+遴选	l in2 x van3
+避免	b i4 m ian3
+那	n a1
+那	n a4
+那	n e4
+那	n ei4
+那么	n a4 m e5
+那么	n a4 m o2
+那么	n e4 m o2
+那么	n ei4 m o2
+那时	n a4 sh ix2
+那时	n ei4 sh ix2
+那样	n a4 iang3
+那样	n a4 iang4
+那样	n ei4 iang3
+部分	b u4 f en4
+部分	b u4 f en5
+部门	b u4 m en2
+都	d ou1
+都	d u1
+都江堰	d u1 j iang1 ian4
+配备	p ei4 b ei4
+配套	p ei4 t ao4
+酒吧	j iu3 b a1
+酒吧街	j iu3 b a1 j ie1
+酒家	j iu3 j ia1
+酒托	j iu3 t uo1
+酒楼	j iu3 l ou2
+酷似	k u4 s iy4
+采取	c ai2 q v3
+采取	c ai3 q v3
+采访	c ai2 f ang3
+采访	c ai3 f ang3
+释放	sh ix4 f ang4
+里	l i3
+重塑	ch ong2 s u4
+重大	zh ong4 d a4
+重庆	ch ong2 q ing4
+重整	ch ong2 zh eng3
+重新	ch ong2 x in1
+重点	zh ong4 d ian3
+重要	zh ong4 iao4
+重要性	zh ong4 iao4 x ing4
+重视	zh ong4 sh ix3
+重视	zh ong4 sh ix4
+量	l iang2
+量	l iang4
+量身	l iang2 sh en1
+金	j in1
+金融	j in1 r ong2
+针对	zh en1 d ui4
+针对性	zh en1 d ui4 x ing4
+针对性	zh en1 d ui4 x ing5
+钱	q ian2
+钻戒	z uan4 j ie4
+铆劲	m ao3 j in4
+铆劲	m ao3 j ing4
+银行	in2 h ang2
+铺开	p u1 k ai1
+铺开	p u4 k ai1
+链子	l ian4 z iy5
+销售	x iao1 sh ou4
+销货	x iao1 h uo4
+锁死	s uo3 s iy3
+锐减	r ui4 j ian3
+长	ch ang2
+长	zh ang3
+长假	ch ang2 j ia4
+长效	ch ang2 x iao4
+长时间	ch ang2 sh ix2 j ian1
+门	m en2
+门口	m en2 k ou3
+问到	un4 d ao4
+问到	un4 d ao5
+问题	un4 t i2
+问题	un4 t i3
+闯	ch uang3
+间隙	j ian4 x i4
+阴阳	in1 iang2
+阻	z u3
+阻止	z u2 zh ix3
+阻止	z u3 zh ix3
+阿	a1
+阿	e1
+附近	f u4 j in4
+陆续	l u4 x v4
+陆续	l u4 x v5
+陈子	ch en2 z iy3
+陈小春	ch en2 x iao3 ch un1
+陈真	ch en2 zh en1
+降	j iang4
+降	x iang2
+降低	j iang4 d i1
+降息	j iang4 x i1
+限制	x ian4 zh ix4
+限度	x ian4 d u4
+限购	x ian4 g ou4
+院	van4
+除	ch u2
+除了	ch u2 l e5
+陪	p ei2
+随后	s ui2 h ou4
+随着	s ui2 zh e5
+障碍	zh ang4 ai4
+障碍	zh ang4 ai5
+隼	s un3
+难	n an2
+难	n an4
+难以	n an2 i3
+难易	n an2 i4
+难题	n an2 t i2
+集	j i2
+集中	j i2 zh ong1
+集团	j i2 t uan2
+雨	v3
+雨具	v3 j v4
+雪崩	x ve3 b eng1
+零	l ing2
+零零	l ing2 l ing2
+雷诺	l ei2 n uo4
+需	x v1
+需求	x v1 q iu2
+需要	x v1 iao4
+青少年	q ing1 sh ao4 n ian2
+青春	q ing1 ch un1
+青梅竹马	q ing1 m ei2 zh u2 m a3
+静安	j ing4 an1
+非	f ei1
+非常	f ei1 ch ang2
+靠	k ao4
+面前	m ian4 q ian2
+韩国	h an2 g uo2
+音乐	in1 ve4
+顶住	d ing3 zh u4
+顶层	d ing3 c eng2
+项目	x iang4 m u4
+项链	x iang4 l ian4
+顺	sh un4
+顾问	g u4 un4
+预产期	v4 ch an3 q i1
+预料到	v4 l iao4 d ao4
+预料到	v4 l iao4 d ao5
+预期	v4 q i1
+预测	v4 c e4
+预计	v4 j i4
+领先	l ing3 x ian1
+领域	l ing3 v4
+领导小组	l ing2 d ao3 x iao2 z u3
+频繁	p in2 f an2
+频道	p in2 d ao4
+频频	p in2 p in2
+颠覆	d ian1 f u4
+风向	f eng1 x iang4
+风月	f eng1 ve4
+风波	f eng1 b o1
+风险	f eng1 x ian3
+飞鸿	f ei1 h ong2
+食品	sh ix2 p in3
+饕餮	t ao1 t ie4
+饭店	f an4 d ian4
+饺子	j iao3 z iy5
+馆	g uan3
+首	sh ou3
+首付	sh ou3 f u4
+首先	sh ou3 x ian1
+首尔	sh ou2 er3
+首尔	sh ou3 er3
+首席	sh ou3 x i2
+首次	sh ou3 c iy4
+首要	sh ou3 iao4
+马上	m a3 sh ang4
+马上	m a3 sh ang5
+马市	m a3 sh ix4
+马龙	m a3 l ong2
+驴	l v2
+驾驶	j ia4 sh ix3
+骷髅	k u1 l ou2
+高	g ao1
+高原	g ao1 van2
+高峰	g ao1 f eng1
+高峰期	g ao1 f eng1 q i1
+高度	g ao1 d u4
+高性能	g ao1 x ing4 n eng2
+高管	g ao1 g uan3
+高级	g ao1 j i2
+高谈阔论	g ao1 t an2 k uo4 l un4
+高质量	g ao1 zh ix4 l iang4
+高质量	g ao1 zh ix4 l iang5
+高超	g ao1 ch ao1
+高速	g ao1 s u4
+魂	h un2
+魔法	m o2 f a3
+鲁莽	l u2 m ang3
+鲁莽	l u3 m ang3
+鳝鱼	sh an4 v2
+黄浦	h uang2 p u3
+黑色	h ei1 s e4
+鼓励	g u3 l i4
+龙	l ong2
+龙耀	l ong2 iao4

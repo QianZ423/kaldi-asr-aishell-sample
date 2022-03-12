@@ -1,0 +1,1000 @@
+BAC009S0150W0001 SIL sh_B e4_I d_I ing4_E er4_B sh_I ix2_I j_I iu3_E d_B u4_E SIL 
+BAC009S0150W0002 SIL sh_B e4_I d_I ing4_E SIL_S SIL 
+BAC009S0150W0003 SIL sh_B e4_I d_I ing4_E s_B an1_I sh_I ix2_E i1_B d_I u4_E SIL 
+BAC009S0150W0004 SIL sh_B e4_I d_I ing4_E SIL_S SIL 
+BAC009S0150W0005 SIL t_B iao2_E g_B ao1_E un1_B d_I u4_E SIL 
+BAC009S0150W0006 SIL h_B a1_I g_I en1_I d_I a2_I s_I iy1_E SIL 
+BAC009S0150W0007 SIL SIL_S SIL_S SIL 
+BAC009S0150W0008 SIL l_B ao3_I iang2_I f_I ang2_E h_B ua1_I van2_E f_B an4_I d_I ian4_E SIL 
+BAC009S0150W0009 SIL sh_B ang4_I h_I ai3_E s_B un1_I zh_I ong1_I sh_I an1_E g_B u4_I j_I v1_E j_B i4_I n_I ian4_I g_I uan3_E SIL 
+BAC009S0150W0010 SIL k_B ong3_I j_I ia1_E h_B ua1_I van2_E SIL 
+BAC009S0150W0011 SIL SIL_S SIL_S SIL_S van2_B q_I v1_E SIL 
+BAC009S0150W0012 SIL ui2_B f_I ang1_E l_B u4_E SIL_S SIL 
+BAC009S0150W0013 SIL x_B ing1_I b_I a1_I k_I e4_E k_B a1_I f_I ei1_E h_B ong2_I q_I iao2_E x_B i1_I h_I ang2_E er4_B d_I ian4_E SIL 
+BAC009S0150W0014 SIL b_B ai3_I sh_I eng4_E t_B ian1_I sh_I an1_E d_B ian4_E EY1_S l_B ou2_E SIL 
+BAC009S0150W0015 SIL sh_B ang4_I h_I ai3_I sh_I ix4_E d_B i4_I i1_E sh_B ix2_I p_I in3_E sh_B ang1_I d_I ian4_E SIL 
+BAC009S0150W0016 SIL sh_B eng4_I van2_E sh_B eng1_I h_I uo2_E g_B uang3_I ch_I ang3_E SIL 
+BAC009S0150W0017 SIL ch_B ong2_I m_I ing2_I d_I ao3_E SIL 
+BAC009S0150W0018 SIL k_B ong3_I i3_I j_I i3_E j_B iu3_I j_I ia1_E SIL 
+BAC009S0150W0019 SIL d_B ong1_I b_I ei3_E j_B iao3_I z_I iy5_E uang2_S SIL 
+BAC009S0150W0020 SIL x_B i1_I d_I i1_E n_B iu2_I p_I ai2_E SIL x_B in1_I m_I ei2_E g_B uang3_I ch_I ang3_E d_B ian4_E SIL 
+BAC009S0150W0021 SIL s_B an1_I ie4_E SIL ian3_B j_I ing4_E ch_B eng2_E SIL 
+BAC009S0150W0022 SIL v2_B j_I v4_E sh_B ui3_I z_I u2_I g_I uan3_E SIL 
+BAC009S0150W0023 SIL sh_B ang4_I h_I ai3_E r_B en2_I j_I ia1_E h_B uang2_I p_I u3_E d_B ian4_E SIL 
+BAC009S0150W0024 SIL SIL_S m_B ao4_I m_I ing2_E d_B ian4_E SIL 
+BAC009S0150W0025 SIL uai4_B t_I an1_E m_B ing2_I d_I ian4_E SIL 
+BAC009S0150W0026 SIL sh_B ao4_I x_I ing1_E f_B an4_I d_I ian4_E SIL 
+BAC009S0150W0027 SIL sh_B ix4_I j_I i4_E g_B ong1_I van2_E s_B an1_I h_I ao4_E m_B en2_E SIL 
+BAC009S0150W0028 SIL sh_B ang4_I h_I ai3_E j_B ia1_I d_I ing4_E n_B an2_I x_I iang2_E s_B iy4_E SIL 
+BAC009S0150W0029 SIL l_B ong2_I iao4_E SIL b_B in1_I j_I iang1_E g_B uang2_I ch_I ang3_E SIL 
+BAC009S0150W0030 SIL h_B ang2_I zh_I ou1_E d_B a4_I sh_I a4_E g_B ou4_I u4_E ch_B eng2_E ch_B ao1_I sh_I ix4_E SIL 
+BAC009S0150W0031 SIL SIL_S SIL_S SIL_S SIL_S SIL 
+BAC009S0150W0032 SIL d_B ong1_I f_I ang1_E sh_B ang1_I sh_I a4_E SIL j_B ia1_I d_I ing4_E d_B ian4_E SIL 
+BAC009S0150W0033 SIL SIL_S SIL_S EY1_S h_B uai2_I h_I ai3_I d_I ian4_E SIL 
+BAC009S0150W0034 SIL d_B ing1_I x_I iang1_E x_B ia4_I d_I uo3_E h_B ua1_I van2_E SIL 
+BAC009S0150W0035 SIL SIL_S h_B ai3_I x_I ian1_E d_B a4_I j_I iu3_I l_I ou2_E SIL sh_B ang4_I h_I ai3_E j_B ing4_I an1_E d_B ian4_E SIL 
+BAC009S0150W0036 SIL l_B ai2_E i1_B sh_I ou3_E g_B e1_I q_I v3_E x_B ing4_I vn4_E f_B u2_I h_I ao4_E SIL 
+BAC009S0150W0037 SIL l_B ai2_E i4_B sh_I ou3_E g_B e1_I q_I v3_E x_B ing1_I z_I uo4_E l_B ian4_I r_I en2_E SIL 
+BAC009S0150W0038 SIL x_B iang3_E SIL_S uo3_S d_B e5_E h_B ua2_I b_I an3_I x_I ie2_E SIL 
+BAC009S0150W0039 SIL x_B iang3_E SIL_S d_B eng3_E n_B i3_E SIL d_B eng3_E l_B e5_E n_B a4_I m_I e5_E j_B iu3_E SIL 
+BAC009S0150W0040 SIL x_B iang3_E SIL_S iu4_S j_B ian4_E g_B ao1_I van2_E h_B ong2_E SIL 
+BAC009S0150W0041 SIL x_B iang3_E SIL_S j_B ian4_E x_B in1_E SIL 
+BAC009S0150W0042 SIL x_B iang3_E SIL_S ai4_S b_B u4_I k_I e3_E j_B i2_E SIL 
+BAC009S0150W0043 SIL x_B iang3_E SIL_S b_B a4_I b_I a5_E q_B v4_E n_B a3_I er2_E SIL 
+BAC009S0150W0044 SIL x_B iang3_E SIL_S f_B u4_I q_I in1_E SIL 
+BAC009S0150W0045 SIL x_B iang3_E SIL_S z_B iy4_I iu2_I z_I iy4_I z_I ai4_E SIL 
+BAC009S0150W0046 SIL x_B iang3_E SIL_S q_B v4_E SIL d_B a4_I l_I i3_E SIL 
+BAC009S0150W0047 SIL x_B iang3_E SIL_S zh_B ix4_E q_B ing1_I ch_I un1_E SIL 
+BAC009S0150W0048 SIL x_B iang3_E SIL_S SIL_S SIL_S SIL_S SIL 
+BAC009S0150W0049 SIL x_B iang3_E SIL_S l_B ao3_E n_B an2_I h_I ai2_E SIL 
+BAC009S0150W0050 SIL x_B iang3_E SIL_S SIL_S SIL SIL_S SIL SIL_S SIL 
+BAC009S0150W0051 SIL x_B iang3_E SIL_S iu4_S j_B ian4_E sh_B an1_I l_I i5_I h_I ong2_E SIL 
+BAC009S0150W0052 SIL x_B iang3_E SIL_S n_B i3_E sh_B ix4_E uo3_S j_B in1_I sh_I eng1_E d_B i3_E i1_B k_I ao4_E SIL 
+BAC009S0150W0053 SIL x_B iang3_E SIL_S h_B ong2_I d_I ou4_E SIL 
+BAC009S0150W0054 SIL x_B iang3_E SIL_S f_B eng1_I ve4_E SIL 
+BAC009S0150W0055 SIL x_B iang3_E SIL_S SIL ch_B uang3_E m_B a3_I t_I ou2_E D_B IY1_E SIL_S b_B an3_E SIL 
+BAC009S0150W0056 SIL x_B iang3_E SIL_S j_B i3_E uo3_S i2_B g_I e4_E l_B i3_I iu2_E uang4_B j_I i4_E SIL 
+BAC009S0150W0057 SIL x_B iang3_E SIL_S x_B iao3_I j_I i1_E x_B iao3_I j_I i1_E SIL 
+BAC009S0150W0058 SIL x_B iang3_E SIL_S uo3_S d_B e5_E g_B e1_I sh_I eng1_E l_B i3_E SIL 
+BAC009S0150W0059 SIL x_B iang3_E SIL_S n_B i3_E b_B a4_E ai4_B q_I ing2_E g_B ei3_E l_B e5_E sh_B ui2_E SIL 
+BAC009S0150W0060 SIL x_B iang3_E SIL_S uo3_B m_I en5_E h_B ao3_I x_I iang4_E z_B ai4_E SIL_S g_B uo4_E SIL 
+BAC009S0150W0061 SIL x_B iang3_E SIL_S j_B van3_E zh_B u1_I l_I ian2_E SIL 
+BAC009S0150W0062 SIL x_B iang3_E SIL_S b_B u2_I z_I ai4_E l_B ian2_I x_I i4_E SIL 
+BAC009S0150W0063 SIL x_B iang3_E SIL_S i2_B b_I ei4_I z_I iy5_E d_B e5_E ai4_S SIL 
+BAC009S0150W0064 SIL x_B iang3_E SIL_S iu3_S i2_B g_I e5_E d_B i4_I f_I ang1_E SIL 
+BAC009S0150W0065 SIL x_B iang3_E SIL_S sh_B ix2_I j_I ian1_E zh_B u3_E v3_S SIL 
+BAC009S0150W0066 SIL x_B iang3_E SIL_S h_B ai3_I k_I uo4_I t_I ian1_I k_I ong1_E SIL 
+BAC009S0150W0067 SIL x_B iang3_E SIL_S m_B o2_I f_I a3_E ch_B eng2_I b_I ao3_E SIL 
+BAC009S0150W0068 SIL x_B iang3_E SIL_S SIL_S b_B u2_I zh_I u4_E d_B e5_E ai4_S SIL 
+BAC009S0150W0069 SIL x_B iang3_E SIL_S r_B u2_I g_I uo3_E m_B ei2_I iu3_E n_B i3_E SIL 
+BAC009S0150W0070 SIL x_B iang3_E SIL_S SIL_S SIL 
+BAC009S0150W0071 SIL x_B iang3_E SIL_S SIL_S SIL_S SIL_S SIL 
+BAC009S0150W0072 SIL x_B iang3_E SIL_S n_B i4_I zh_I an4_E SIL 
+BAC009S0150W0073 SIL x_B iang3_E SIL_S ai4_S n_B i3_E i4_B sh_I eng1_E SIL 
+BAC009S0150W0074 SIL x_B iang3_E SIL_S x_B in1_E g_B ui4_I f_I ei1_I z_I ui4_I j_I iu3_E SIL 
+BAC009S0150W0075 SIL x_B iang3_E SIL_S SIL_S EY1_S SIL_S SIL_S SIL 
+BAC009S0150W0076 SIL x_B iang3_E SIL_S un2_B un3_E d_B e5_E x_B ing4_I f_I u2_E SIL 
+BAC009S0150W0077 SIL x_B iang3_E SIL_S ch_B ang4_E zh_B e5_E q_B ing2_I g_I e1_E l_B iu2_I zh_I e5_I l_I ei4_E SIL 
+BAC009S0150W0078 SIL x_B iang3_E SIL_S sh_B ix2_I j_I ian1_E d_B ou1_E q_B v4_E n_B a3_I er1_E l_B iao3_E SIL 
+BAC009S0150W0079 SIL x_B iang3_E SIL_S h_B e2_I t_I ang2_I ve4_I s_I e4_E SIL 
+BAC009S0150W0080 SIL x_B iang3_E SIL_S x_B iong1_I d_I i4_E b_B ao4_E i2_B x_I ia4_E SIL 
+BAC009S0150W0081 SIL x_B iang3_E SIL_S ai4_B q_I ing2_I l_I u4_E SIL 
+BAC009S0150W0082 SIL i1_S s_B an1_E s_B iy4_E q_B i1_E s_B an1_E b_B a1_E er4_S iao1_S s_B an1_E l_B iu4_E b_B a1_E SIL 
+BAC009S0150W0083 SIL i1_S s_B an1_E b_B a1_E l_B ing2_E b_B a1_E u3_S u3_S s_B an1_E s_B an1_E iao1_S l_B iu4_E SIL 
+BAC009S0150W0084 SIL i1_S s_B an1_E i1_S l_B ing2_E b_B a1_E s_B an1_E q_B i1_E s_B an1_E SIL iao1_S s_B iy4_E b_B a1_E SIL 
+BAC009S0150W0085 SIL i1_S s_B an1_E u3_S i1_S SIL u3_S l_B ing2_E b_B a1_E er4_S i1_S j_B iu3_E SIL er4_S SIL 
+BAC009S0150W0086 SIL i1_S s_B an1_E b_B a1_E u3_S b_B a1_E er4_S s_B an1_E i1_S q_B i1_E s_B iy4_E s_B an1_E SIL 
+BAC009S0150W0087 SIL i1_S s_B an1_E l_B ing2_E l_B iu4_E s_B iy4_E s_B an1_E l_B iu4_E u3_S SIL b_B a1_E s_B iy4_E u3_S SIL 
+BAC009S0150W0088 SIL i1_S s_B an1_E b_B a1_E b_B a1_E j_B iu3_E l_B ing2_E q_B i1_E j_B iu3_E q_B i1_E l_B ing2_E er4_S SIL 
+BAC009S0150W0089 SIL i1_S s_B an1_E s_B iy4_E q_B i1_E u3_S er4_S q_B i1_E s_B iy4_E s_B an1_E l_B ing2_E j_B iu3_E SIL 
+BAC009S0150W0090 SIL i1_S s_B an1_E s_B an1_E l_B iu4_E j_B iu3_E s_B iy4_E u3_S SIL er4_S s_B iy4_E s_B iy4_E q_B i1_E SIL 
+BAC009S0150W0091 SIL i1_S s_B an1_E er4_S u3_S s_B an1_E er4_S l_B iu4_E s_B an1_E l_B iu4_E s_B iy4_E q_B i1_E SIL 
+BAC009S0150W0092 SIL i1_S s_B an1_E s_B an1_E SIL l_B ing2_E q_B i1_E b_B a1_E l_B ing2_E q_B i1_E l_B ing2_E u3_S l_B ing2_E SIL 
+BAC009S0150W0093 SIL i1_S s_B an1_E l_B iu4_E er4_S SIL b_B a1_E l_B ing2_E l_B iu4_E l_B iu4_E SIL j_B iu3_E s_B an1_E l_B ing2_E SIL 
+BAC009S0150W0094 SIL i1_S s_B an1_E i1_S SIL u3_S l_B ing2_E b_B a1_E b_B a1_E i1_S b_B a1_E l_B ing2_E q_B i1_E SIL 
+BAC009S0150W0095 SIL i1_S s_B an1_E j_B iu3_E er4_S u3_S b_B a1_E l_B ing2_E l_B ing2_E s_B iy4_E u3_S q_B i1_E SIL 
+BAC009S0150W0096 SIL i1_S s_B an1_E i1_S SIL er4_S l_B ing2_E b_B a1_E SIL er4_S l_B ing2_E er4_S j_B iu3_E q_B i1_E SIL 
+BAC009S0150W0097 SIL i1_S s_B an1_E u3_S l_B iu4_E b_B a1_E j_B iu3_E s_B iy4_E s_B iy4_E er4_S u3_S q_B i1_E SIL 
+BAC009S0150W0098 SIL i1_S s_B an1_E q_B i1_E SIL b_B a1_E b_B a1_E j_B iu3_E j_B iu3_E SIL s_B iy4_E l_B ing2_E s_B iy4_E j_B iu3_E SIL 
+BAC009S0150W0099 SIL i1_S s_B an1_E j_B iu3_E u3_S SIL i1_S u3_S SIL b_B a1_E s_B an1_E SIL u3_S j_B iu3_E SIL s_B an1_E SIL 
+BAC009S0150W0100 SIL i1_S s_B an1_E l_B ing2_E l_B ing2_E er4_S u3_S j_B iu3_E b_B a1_E s_B iy4_E b_B a1_E er4_S SIL 
+BAC009S0150W0101 SIL i1_S s_B an1_E q_B i1_E s_B iy4_E l_B ing2_E l_B ing2_E u3_S er4_S er4_S s_B iy4_E l_B iu4_E SIL 
+BAC009S0150W0102 SIL i1_S s_B an1_E l_B ing2_E q_B i1_E s_B an1_E q_B i1_E l_B ing2_E u3_S s_B an1_E er4_S i1_S SIL 
+BAC009S0150W0103 SIL i1_S s_B an1_E b_B a1_E u3_S s_B iy4_E j_B iu3_E SIL l_B iu4_E s_B iy4_E l_B ing2_E l_B iu4_E j_B iu3_E SIL 
+BAC009S0150W0104 SIL i1_S s_B an1_E s_B iy4_E s_B iy4_E l_B ing2_E b_B a1_E SIL u3_S j_B iu3_E s_B iy4_E q_B i1_E j_B iu3_E SIL 
+BAC009S0150W0105 SIL i1_S s_B an1_E er4_S s_B an1_E s_B iy4_E u3_S s_B an1_E l_B ing2_E s_B iy4_E q_B i1_E j_B iu3_E SIL 
+BAC009S0150W0106 SIL i1_S s_B an1_E s_B an1_E s_B an1_E SIL s_B iy4_E er4_S j_B iu3_E s_B an1_E q_B i1_E s_B an1_E u3_S SIL 
+BAC009S0150W0107 SIL i1_S s_B an1_E u3_S l_B iu4_E l_B iu4_E q_B i1_E s_B an1_E l_B ing2_E q_B i1_E i1_S q_B i1_E SIL 
+BAC009S0150W0108 SIL i1_S s_B an1_E q_B i1_E l_B ing2_E l_B ing2_E j_B iu3_E q_B i1_E er4_S q_B i1_E i1_S s_B iy4_E SIL 
+BAC009S0150W0109 SIL i1_S s_B an1_E j_B iu3_E j_B iu3_E l_B iu4_E s_B an1_E l_B iu4_E u3_S SIL er4_S s_B an1_E j_B iu3_E SIL 
+BAC009S0150W0110 SIL i1_S s_B an1_E q_B i1_E l_B ing2_E er4_S l_B iu4_E l_B iu4_E SIL er4_S l_B ing2_E j_B iu3_E q_B i1_E SIL 
+BAC009S0150W0111 SIL j_B ing1_I l_I ing2_E sh_B ou3_I h_I u4_I r_I en2_E SIL 
+BAC009S0150W0112 SIL j_B ing1_I l_I ing2_E sh_B ou3_I h_I u4_I zh_I e3_E SIL 
+BAC009S0150W0113 SIL j_B ing1_I sh_I en2_I b_I ing4_E i1_B sh_I ix1_E SIL_S SIL 
+BAC009S0150W0114 SIL j_B ing1_I ui4_I t_I ian2_I h_I ai3_E SIL 
+BAC009S0150W0115 SIL j_B ing1_I u3_E ch_B en2_I zh_I en1_E SIL 
+BAC009S0150W0116 SIL j_B ing1_I u3_E ch_B en2_I zh_I en1_E ch_B en2_I x_I iao3_I ch_I un1_E b_B an3_E SIL 
+BAC009S0150W0117 SIL j_B ing1_I u3_E f_B ei1_I h_I ong2_E SIL 
+BAC009S0150W0118 SIL j_B ing1_I u3_E h_B un2_E SIL 
+BAC009S0150W0119 SIL j_B ing1_I u3_E j_B ia1_I t_I ing2_E SIL 
+BAC009S0150W0120 SIL j_B ing1_I u3_I m_I en2_E SIL 
+BAC009S0150W0121 SIL q_B i2_I zh_I ong1_E iu3_S l_B iang3_I g_I e3_E sh_B ix4_E n_B ei4_I in1_E d_B e5_E zh_B ix3_I b_I iao1_E SIL 
+BAC009S0150W0122 SIL j_B iu4_I sh_I ix4_E g_B en1_I j_I v4_E j_B ing1_I j_I i4_I t_I i3_E z_B iy4_I sh_I en1_E q_B ing2_I k_I uang4_E j_B ve2_I d_I ing4_E f_B ang2_I j_I ia4_E SIL sh_B ang4_I zh_I ang3_E h_B uo4_I zh_I e3_E x_B ia4_I d_I ie1_E SIL 
+BAC009S0150W0123 SIL zh_B e4_E l_B iang3_I g_I e4_E n_B ei4_I in1_E zh_B ix3_I b_I iao1_E SIL i1_B g_I e4_E j_B iao4_I z_I uo4_E j_B v1_I m_I in2_E b_B u4_I m_I en2_E l_B i4_I x_I i1_E b_B ao3_I zh_I ang4_E b_B ei4_I sh_I u4_E SIL 
+BAC009S0150W0124 SIL iong4_S j_B v1_I m_I in2_E b_B u4_I m_I en2_E ch_B u3_I x_I v4_E SIL sh_B ang4_I i3_I n_I ian2_E SIL_S SIL 
+BAC009S0150W0125 SIL iu3_B g_I e4_E b_B ei4_I sh_I u4_E iu3_S i2_B g_I e4_E l_B in2_I j_I ie4_I zh_I ix2_E SIL 
+BAC009S0150W0126 SIL i1_B d_I ian3_E u3_B b_I ei4_E i3_B sh_I ang4_E sh_B ix4_E an1_B q_I van2_E d_B e5_E SIL 
+BAC009S0150W0127 SIL SIL_S an1_B q_I van2_E SIL SIL_S zh_B ix3_I b_I iao1_E SIL 
+BAC009S0150W0128 SIL x_B in1_I f_I ang2_E m_B ing2_I i4_E sh_B ix4_I zh_I ix2_E d_B ui4_E j_B v1_I m_I in2_E z_B ui4_I d_I a4_E g_B ou4_I m_I ai3_I l_I i4_E zh_B an4_I iong4_E b_B i3_I l_I i4_E SIL 
+BAC009S0150W0129 SIL b_B ai3_I f_I en1_I zh_I ix1_I b_I a1_I sh_I ix2_E sh_B ix4_E ui1_B x_I ian3_E l_B in2_I j_I ie4_I d_I ian3_E SIL 
+BAC009S0150W0130 SIL b_B ai3_I f_I en1_I zh_I ix1_I l_I iu4_I sh_I ix2_E sh_B ix4_E SIL an1_B q_I van2_E l_B in2_I j_I ie4_I d_I ian3_E SIL 
+BAC009S0150W0131 SIL iu3_S i4_B x_I ie1_E j_B ing1_I j_I i4_I t_I i3_E b_B ing4_E b_B u2_I sh_I ix4_E in1_B ui2_E b_B en3_I sh_I en1_E d_B e5_E van2_B in1_E d_B ao3_I zh_I ix4_E d_B e5_E x_B ia4_I d_I ie1_E SIL 
+BAC009S0150W0132 SIL er2_B sh_I ix4_E in1_B ui2_E q_B i2_I t_I a1_E g_B uo2_I j_I ia1_E SIL iu2_B q_I i2_E sh_B ix4_E SIL_S f_B ang2_I j_I ia4_E x_B ia4_I d_I ie1_E SIL er2_S SIL_S SIL 
+BAC009S0150W0133 SIL iu3_S i2_B g_I e4_E zh_B ong4_I iao4_E zh_B ix3_I b_I iao1_E j_B iu4_I sh_I ix4_E t_B a1_E d_B e5_E SIL j_B ing1_I ch_I ang2_I x_I ing4_E zh_B ang4_I h_I u4_E SIL sh_B un4_E n_B i4_I ch_I a1_E SIL 
+BAC009S0150W0134 SIL s_B uo3_I iu3_E in1_S uai4_B b_I u4_E ch_B ong1_I j_I i1_E d_B ao3_I zh_I ix4_E f_B ang2_I j_I ia4_E p_B ao4_I m_I o4_E p_B o4_I m_I ie4_E d_B e5_E SIL j_B ing1_I j_I i4_I t_I i3_E SIL 
+BAC009S0150W0135 SIL j_B ie2_I h_I e2_E zh_B e4_I g_I e4_E zh_B ix3_I b_I iao1_E k_B an4_E zh_B ong1_I g_I uo2_E m_B u4_I q_I ian2_E d_B e5_E SIL q_B ing2_I k_I uang4_E SIL 
+BAC009S0150W0136 SIL sh_B ou3_I x_I ian1_E c_B ong2_E j_B v1_I m_I in2_E b_B u4_I m_I en2_E l_B i4_I x_I i1_E b_B ao3_I zh_I ang4_E b_B ei4_I sh_I u4_E l_B ai2_I k_I an4_E SIL 
+BAC009S0150W0137 SIL zh_B ong1_I g_I uo2_E x_B ian4_I z_I ai4_E ch_B u4_I v2_E j_B ve2_I d_I ui4_E SIL an1_B q_I van2_E ui4_B zh_I ix5_E SIL 
+BAC009S0150W0138 SIL er2_S zh_B ong1_I g_I uo2_E m_B u4_I q_I ian2_E sh_B ix2_I j_I i4_E sh_B ix4_E SIL_S SIL 
+BAC009S0150W0139 SIL van2_B van3_E ch_B ao1_I g_I uo4_E i1_B d_I ian3_E u3_B b_I ei4_E SIL an1_B q_I van2_E b_B ian1_I j_I i4_E SIL 
+BAC009S0150W0140 SIL ui4_B l_I ai2_E sh_B ix2_I n_I ian2_E j_B i2_I sh_I ix3_E zh_B e4_I g_I e4_E zh_B ix3_I b_I iao1_E SIL_S SIL 
+BAC009S0150W0141 SIL iao1_S z_B ou3_E d_B ao4_E i1_B d_I ian3_E u3_B b_I ei4_E d_B e5_E k_B e3_I n_I eng2_I x_I ing4_E j_B i1_I h_I u1_E b_B u4_E c_B un2_I z_I ai4_E SIL 
+BAC009S0150W0142 SIL x_B in1_I f_I ang2_E m_B ing2_I i4_E sh_B ix4_I zh_I ix2_E d_B ui4_E j_B v1_I m_I in2_E z_B ui4_I d_I a4_E g_B ou4_I m_I ai3_I l_I i4_E SIL 
+BAC009S0150W0143 SIL zh_B e4_I g_I e4_E zh_B ix3_I b_I iao1_E m_B ei2_I iu3_E sh_B ang4_E i2_B g_I e4_E zh_B ix3_I b_I iao1_E n_B e4_I m_I o2_E h_B ao4_E SIL 
+BAC009S0150W0144 SIL d_B an4_I sh_I ix4_E x_B iang1_I d_I ui4_E ch_B u4_I v2_E h_B ao3_E SIL d_B i3_E ui4_B zh_I ix5_E 
+BAC009S0150W0145 SIL z_B ui4_I j_I in4_E s_B an1_I n_I ian2_E zh_B e4_I g_I e4_E zh_B ix3_I b_I iao1_E ch_B eng2_I x_I ian4_E x_B iang4_I x_I ia4_E q_B v1_I sh_I ix4_E SIL 
+BAC009S0150W0146 SIL uan4_B k_I e1_E SIL_S SIL zh_B u4_I zh_I ai2_E h_B ang2_I ie4_E SIL ui4_B l_I ai2_E sh_B ix2_I n_I ian2_E z_B ong2_I t_I i3_E l_B ai2_I k_I an4_E sh_B ix4_E an1_B q_I van2_E d_B e5_E SIL 
+BAC009S0150W0147 SIL j_B i1_I b_I en3_E b_B u2_I h_I ui4_E f_B a1_I sh_I eng1_E f_B ang2_I j_I ia4_E d_B uan4_I ia2_E SIL sh_B ix4_E x_B ia4_I d_I ie1_E SIL p_B ao4_I m_I o4_E p_B o4_I m_I ie4_E SIL d_B an4_E sh_B ix2_I n_I ian2_E h_B ou4_E SIL 
+BAC009S0150W0148 SIL x_B v1_I q_I iu2_E j_B iang1_E k_B e3_I n_I eng2_E SIL n_B an2_I i3_E SIL zh_B ix1_I ch_I eng1_E f_B ang2_I j_I ia4_E SIL 
+BAC009S0150W0149 SIL v4_S zh_B ong1_I van2_E j_B i2_I t_I uan2_E c_B ong2_E r_B en2_I k_I ou3_E j_B ie2_I g_I ou4_E j_B iao3_I d_I u4_E ch_B u1_I f_I a1_E d_B e5_E ian2_B j_I iu1_E j_B ie2_I g_I uo3_E x_B iang1_I s_I iy4_E SIL 
+BAC009S0150W0150 SIL l_B ing2_I l_I ing2_E h_B ou4_E h_B ui4_E ch_B eng2_I ui2_E SIL g_B ou4_I f_I ang2_E zh_B u3_I l_I i4_E SIL 
+BAC009S0150W0151 SIL d_B an4_E t_B a1_I m_I en5_E d_B e5_E sh_B u4_I l_I iang4_E h_B ai2_E SIL z_B u2_I i3_E zh_B ix1_I ch_I eng1_E n_B a4_I sh_I ix2_E d_B e5_E f_B ang2_I j_I ia4_E m_B a5_E SIL 
+BAC009S0150W0152 SIL zh_B ong1_I g_I uo2_E f_B ang2_I d_I i4_I ch_I an3_E sh_B ix4_I ch_I ang3_E d_B e5_E p_B ao4_I m_I o4_E h_B ui4_E p_B o4_I m_I ie4_E m_B a5_E SIL 
+BAC009S0150W0153 SIL uan4_B k_I e1_E d_B eng3_E d_B a4_I x_I ing2_E SIL_S SIL z_B ai4_E b_B u4_I j_I v2_E ing4_B d_I ui4_E SIL 
+BAC009S0150W0154 SIL c_B ong2_E j_B in1_I n_I ian2_E k_B ai1_I sh_I ix3_E SIL uan4_B d_I a2_E j_B iu4_I iao4_E SIL q_B van2_I m_I ian4_E t_B ui4_I ch_I u1_E zh_B u4_I zh_I ai2_E SIL_S SIL 
+BAC009S0150W0155 SIL uan4_B d_I a2_E j_B ing4_I l_I i4_I r_I un4_E d_B e5_E s_B an1_I f_I en1_I zh_I ix1_I er4_E iao1_S l_B ai2_I z_I iy4_E SIL z_B u1_I p_I ing2_E sh_B ou1_I r_I u4_E SIL 
+BAC009S0150W0156 SIL t_B u3_I d_I i4_E h_B ong2_I l_I i4_E v3_S r_B en2_I k_I ou3_E SIL h_B ong2_I l_I i4_E x_B iang4_I l_I ai2_E m_B i4_I b_I u4_I k_I e3_I f_I en1_E SIL 
+BAC009S0150W0157 SIL g_B uo4_I q_I v4_E SIL_S zh_B ong1_I g_I uo2_E j_B ing1_I j_I i4_E d_B e5_E g_B ao1_I s_I u4_E f_B a1_I zh_I an3_E SIL 
+BAC009S0150W0158 SIL g_B uan1_I ch_I a2_E SIL_S l_B ai2_E d_B e5_E x_B in1_I z_I eng1_E r_B en2_I k_I ou3_E q_B v1_I x_I ian4_E SIL 
+BAC009S0150W0159 SIL z_B iy4_E zh_B u4_E x_B v1_I q_I iu2_E ch_B eng2_I ui2_E zh_B ix1_I ch_I eng1_E SIL l_B ou2_I sh_I ix4_E d_B e5_E zh_B u3_I iao4_E d_B ong4_I l_I i4_E SIL 
+BAC009S0150W0160 SIL i3_B j_I ing1_E ch_B eng2_I ui2_E d_B ang1_I q_I ian2_E SIL f_B ang2_I d_I i4_I ch_I an3_E sh_B ix4_I ch_I ang3_E d_B e5_E SIL j_B ie1_I p_I an2_E SIL x_B ia2_E 
+BAC009S0150W0161 SIL g_B uan1_I ch_I a2_E zh_B ong1_I g_I uo2_E x_B in1_I z_I eng1_E r_B en2_I k_I ou3_E SIL q_B v1_I x_I ian4_E h_B ui4_E f_B a1_I x_I ian4_E SIL 
+BAC009S0150W0162 SIL i1_B j_I iu3_I j_I iu3_I l_I ing2_I n_I ian2_E h_B ou4_E ch_B u1_I sh_I eng1_E d_B e5_E r_B en2_I k_I ou3_E SIL j_B i2_I j_I v4_E j_B ian3_I sh_I ao3_E SIL 
+BAC009S0150W0163 SIL zh_B e4_E zh_B eng4_I sh_I ix4_E s_B an1_I d_I ian3_E SIL_S SIL x_B in1_I zh_I eng4_E h_B ou4_E SIL 
+BAC009S0150W0164 SIL h_B en3_I d_I uo1_E er4_B s_I an1_E s_B iy4_I x_I ian4_E ch_B eng2_I sh_I ix4_E SIL r_B eng2_E ui4_B n_I eng2_E h_B ui2_I n_I uan3_E SIL 
+BAC009S0150W0165 SIL er2_S sh_B en1_I zh_I en4_E SIL x_B ia4_I m_I en2_E f_B ang2_I j_I ia4_E k_B uai4_I s_I u4_E sh_B ang4_I zh_I ang3_E d_B i3_E van2_B in1_E SIL 
+BAC009S0150W0166 SIL h_B ou4_E l_B iang2_I zh_I e3_E sh_B ix4_E r_B en2_I k_I ou3_E SIL iu2_B q_I i2_E sh_B ix4_E n_B ian2_I q_I ing1_E r_B en2_I k_I ou3_E SIL_S d_B e5_E ch_B eng2_I sh_I ix4_E SIL 
+BAC009S0150W0167 SIL uo3_B m_I en5_E i3_B uang3_E ch_B eng2_I g_I ong1_E s_B uo3_E i1_B l_I ai4_E d_B e5_E t_B ian1_I k_I ong1_E SIL h_B uo4_E i3_S d_B ou3_I zh_I uan3_I x_I ing1_I i2_E SIL 
+BAC009S0150W0168 SIL uan4_B k_I e1_E z_B ai4_E er4_B l_I ing2_I i1_E s_B iy4_I n_I ian2_E n_B ian2_I b_I ao4_E zh_B ong1_E r_B u2_I c_I iy3_E g_B an3_I t_I an4_E SIL 
+BAC009S0150W0169 SIL sh_B ix2_I n_I ian2_E h_B ou4_E d_B e5_E x_B v1_I q_I iu2_E h_B ai2_E n_B eng2_E j_B i4_I x_I v4_E zh_B ix1_I ch_I eng1_E f_B ang2_I j_I ia4_E m_B a5_E SIL 
+BAC009S0150W0170 SIL z_B iy4_E zh_B u4_E x_B v1_I q_I iu2_E ch_B eng2_I ui2_E zh_B ix1_I ch_I eng1_E SIL l_B ou2_I sh_I ix4_E d_B e5_E zh_B u3_I iao4_E d_B ong4_I l_I i4_E SIL 
+BAC009S0150W0171 SIL i3_B j_I ing1_E ch_B eng2_I ui2_E d_B ang1_I q_I ian2_E f_B ang2_I d_I i4_I ch_I an3_E sh_B ix4_I ch_I ang3_E d_B e5_E j_B ie1_I p_I an2_E SIL x_B ia2_E SIL 
+BAC009S0150W0172 SIL g_B uan1_I ch_I a2_E zh_B ong1_I g_I uo2_E x_B in1_I z_I eng1_E r_B en2_I k_I ou3_E q_B v1_I x_I ian4_E h_B ui4_E f_B a1_I x_I ian4_E SIL 
+BAC009S0150W0173 SIL t_B u3_I d_I i4_E h_B ong2_I l_I i4_E v3_S r_B en2_I k_I ou3_E h_B ong2_I l_I i4_E x_B iang4_I l_I ai2_E m_B i4_I b_I u4_I k_I e3_I f_I en1_E SIL 
+BAC009S0150W0174 SIL g_B uo4_I q_I v4_E SIL_S zh_B ong1_I g_I uo2_E j_B ing1_I j_I i4_E d_B e5_E g_B ao1_I s_I u4_E f_B a1_I zh_I an3_E SIL 
+BAC009S0150W0175 SIL g_B uan1_I ch_I a2_E SIL_S l_B ai2_E d_B e5_E x_B in1_I z_I eng1_E r_B en2_I k_I ou3_E q_B v3_I x_I ian4_E SIL 
+BAC009S0150W0176 SIL h_B ui4_E f_B a1_I x_I ian4_E i1_B j_I iu3_I j_I iu3_I l_I ing2_I n_I ian2_E h_B ou4_E SIL ch_B u1_I sh_I eng1_E d_B e5_E r_B en2_I k_I ou3_E j_B i2_I j_I v4_E j_B ian3_I sh_I ao3_E SIL 
+BAC009S0150W0177 SIL zh_B eng4_I sh_I ix4_E d_B ang1_I q_I ian2_E f_B ang2_I d_I i4_I ch_I an3_E sh_B ix4_I ch_I ang3_E d_B e5_E g_B ou4_I f_I ang2_E zh_B u3_I l_I i4_E zh_B ix1_I i1_E SIL 
+BAC009S0150W0178 SIL r_B en2_I k_I ou3_E j_B i1_I b_I en3_I sh_I ang4_E sh_B ix4_E j_B ing4_E l_B iu2_I ch_I u1_E d_B e5_E SIL 
+BAC009S0150W0179 SIL r_B en2_I k_I ou3_E j_B ing4_E l_B iu2_I ch_I u1_E d_B e5_E ch_B eng2_I sh_I ix4_E van2_B van3_E d_B a4_I v2_E r_B en2_I k_I ou3_E SIL_S d_B e5_E ch_B eng2_I sh_I ix4_E SIL 
+BAC009S0150W0180 SIL zh_B ix1_I ch_I eng1_E f_B ang2_I d_I i4_I ch_I an3_E d_B e5_E SIL g_B ang1_E x_B v1_E z_B ai4_E SIL ch_B ix2_I x_I v4_E ui3_B s_I uo1_E SIL 
+BAC009S0150W0181 SIL j_B iu3_I l_I ing2_E h_B ou4_E g_B ou4_I f_I ang2_E SIL_S r_B ui4_I j_I ian3_E SIL 
+BAC009S0150W0182 SIL t_B ou2_I z_I iy1_E x_B v1_I q_I iu2_E i3_B j_I ing1_E zh_B u2_I j_I ian4_E j_B ian3_I r_I uo4_E SIL 
+BAC009S0150W0183 SIL z_B iy4_E zh_B u4_E x_B v1_I q_I iu2_E ch_B eng2_I ui2_E zh_B ix1_I ch_I eng1_E l_B ou2_I sh_I ix4_E d_B e5_E zh_B u3_I iao4_E d_B ong4_I l_I i4_E SIL 
+BAC009S0150W0184 SIL er2_S z_B iy4_I zh_I u4_E x_B v1_I q_I iu2_E v3_S r_B en2_I m_I en5_E d_B e5_E n_B ian2_I l_I ing2_I d_I uan4_E SIL iu3_S m_B i4_I q_I ie4_E d_B e5_E x_B iang1_I g_I uan1_I x_I ing4_E SIL 
+BAC009S0150W0185 SIL zh_B ong1_I van2_E d_B i4_I ch_I an3_E j_B i2_I t_I uan2_E sh_B ix2_I j_I i4_E ch_B eng2_I j_I iao1_E sh_B u4_I j_I v4_E x_B ian3_I sh_I ix4_E SIL 
+BAC009S0150W0186 SIL g_B ou4_I f_I ang2_I zh_I e3_E zh_B u3_I iao4_E j_B i2_I zh_I ong1_E z_B ai4_E er4_B sh_I ix2_I u3_E d_B ao4_E s_B an1_I sh_I ix2_I u3_I s_I ui4_E zh_B ix1_I j_I ian1_E SIL 
+BAC009S0150W0187 SIL zh_B ix1_I q_I ian2_E g_B ang1_I g_I ang1_E d_B ui4_E j_B v1_I m_I in2_E p_B ai4_I f_I a1_E l_B e5_E x_B ian4_I j_I in1_E SIL f_B an3_I h_I uan2_E SIL 
+BAC009S0150W0188 SIL uo3_B m_I en5_E sh_B ix4_I f_I ou3_E ie3_S n_B eng2_E c_B ai2_I q_I v3_E zh_B e4_I zh_I ong3_E f_B ang1_I sh_I ix4_E SIL 
+BAC009S0150W0189 SIL z_B ai4_E zh_B uan3_I i2_E zh_B ix1_I f_I u4_E d_B e5_E j_B v4_I t_I i3_E f_B ang1_I sh_I ix4_E sh_B ang4_E h_B ai2_I iu3_E n_B a3_I x_I ie1_E q_B i2_I t_I a1_E x_B van3_I z_I e2_E SIL 
+BAC009S0150W0190 SIL SIL_S zh_B uan3_I i2_E zh_B ix1_I f_I u4_E d_B e5_E f_B ang1_I sh_I ix4_E iu3_S h_B en3_E d_B uo1_I zh_I ong3_E SIL 
+BAC009S0150W0191 SIL c_B ong2_E zh_B eng4_I c_I e4_E sh_B ix2_I sh_I ix1_E d_B e5_E n_B an2_I i4_E ch_B eng2_I d_I u4_E sh_B ang4_E l_B ai2_I sh_I uo1_E SIL 
+BAC009S0150W0192 SIL r_B u2_I g_I uo3_E x_B in4_I x_I i1_E z_B u2_I g_I ou4_E g_B ong1_I k_I ai1_E uan2_B b_I ei4_E SIL 
+BAC009S0150W0193 SIL n_B a4_I m_I o2_E zh_B ix2_I j_I ie1_E f_B a1_I f_I ang4_E x_B ian4_I j_I in1_E h_B ui4_E sh_B ix4_E z_B ui4_E iu3_B x_I iao4_E d_B e5_E f_B ang1_I sh_I ix4_E SIL 
+BAC009S0150W0194 SIL SIL_S k_B e2_I i3_E g_B en1_I j_I v4_E SIL z_B iy4_I sh_I en1_E x_B v1_I iao4_E SIL z_B iy4_I zh_I u3_E j_B ve2_I d_I ing4_E r_B u2_I h_I e2_E SIL_S sh_B ui3_I p_I ing2_E SIL 
+BAC009S0150W0195 SIL d_B an4_E zh_B ix2_I j_I ie1_E p_B ai4_I f_I a1_E d_B e5_E SIL d_B ui4_I x_I iang4_E SIL r_B u2_I h_I e2_E q_B ve4_I d_I ing4_E SIL 
+BAC009S0150W0196 SIL iu4_S h_B ui2_I d_I ao5_E l_B iao3_E g_B ang1_I c_I ai2_E r_B u2_I h_I e2_E SIL j_B ie4_I d_I ing4_E SIL d_B i1_I sh_I ou1_I r_I u4_E r_B en2_I q_I vn2_E d_B e5_E un4_B t_I i2_E sh_B ang4_I l_I ai2_E SIL 
+BAC009S0150W0197 SIL uo3_B m_I en5_E x_B ian4_I z_I ai4_E h_B ai2_E m_B ei2_I iu3_E j_B ian4_I l_I i4_E SIL f_B u4_I g_I ai4_E q_B van2_I m_I in2_E d_B e5_E zh_B eng1_I x_I in4_E x_B i4_I t_I ong3_E SIL 
+BAC009S0150W0198 SIL x_B ian4_I z_I ai4_E d_B e5_E sh_B ou1_I r_I u4_E j_B i2_E sh_B ui4_I sh_I ou1_E j_B i4_I l_I u4_E SIL h_B e2_E SIL_S ie3_S b_B u4_E uan2_B q_I van2_E g_B ua4_I g_I ou1_E SIL 
+BAC009S0150W0199 SIL z_B ai4_E f_B a1_I f_I ang4_E q_B v2_I d_I ao4_E zh_B ong4_E ie3_S r_B ong2_I i4_E ch_B u1_I x_I ian4_E l_B iu2_I sh_I ix1_E SIL 
+BAC009S0150W0200 SIL in1_B c_I iy3_E zh_B ix2_I j_I ie1_E p_B ai4_I f_I a1_E m_B u4_I q_I ian2_E zh_B ix3_I n_I eng2_E z_B uo4_I ui3_E i4_B zh_I ong3_E SIL zh_B uan3_I i2_E zh_B ix1_I f_I u4_E d_B e5_E f_B u3_I zh_I u4_E x_B ing2_I sh_I ix4_E SIL 
+BAC009S0150W0201 SIL z_B ai4_E j_B v2_I b_I u4_I d_I i4_I q_I v1_E x_B iao3_E f_B an4_I ui2_E sh_B ix4_I d_I ian3_E sh_B ix2_I sh_I ix1_E SIL 
+BAC009S0150W0202 SIL h_B ai2_I iu3_E i4_B zh_I ong3_E f_B ang1_I sh_I ix4_E j_B iu4_I sh_I ix4_E SIL zh_B en1_I d_I ui4_E m_B ou3_I i1_E q_B vn2_I t_I i3_E h_B uo4_E h_B ang2_I ie4_E j_B in4_I x_I ing2_E SIL b_B u3_I zh_I u4_E SIL 
+BAC009S0150W0203 SIL ch_B uang4_I z_I ao4_E g_B eng1_E d_B uo1_E d_B e5_E c_B an2_I j_I i2_I r_I en2_E SIL_S d_B eng3_E SIL 
+BAC009S0150W0204 SIL g_B eng4_I d_I a4_E f_B an4_I ui2_E n_B ei4_E d_B e5_E h_B ang2_I ie4_E b_B u3_I zh_I u4_E SIL ie3_S sh_B ix4_E zh_B uan3_I i2_E zh_B ix1_I f_I u4_E d_B e5_E zh_B u3_I iao4_E x_B ing2_I sh_I ix4_E SIL 
+BAC009S0150W0205 SIL zh_B e4_E b_B u4_I j_I in3_E sh_B ix4_E d_B ui4_E d_B i1_I sh_I ou1_I r_I u4_E q_B vn2_I t_I i3_E d_B e5_E j_B iu4_I zh_I u4_E h_B e2_E SIL d_B ui4_E sh_B ou1_I r_I u4_E f_B en1_I p_I ei4_E d_B e5_E t_B iao2_I j_I ie2_E SIL 
+BAC009S0150W0206 SIL t_B ong2_I sh_I ix2_E ie3_S sh_B ix4_E d_B ui4_E SIL t_B e4_I d_I ing4_E h_B ang2_I ie4_E d_B e5_E SIL zh_B ix1_I ch_I ix2_E h_B e2_E SIL g_B uo2_I j_I ia1_E ch_B an3_I ie4_E SIL an1_B q_I van2_E d_B e5_E SIL b_B ao3_I zh_I ang4_E SIL 
+BAC009S0150W0207 SIL ui4_B l_I ai2_E k_B e2_I i3_E k_B ao3_I l_I v4_E SIL_S sh_B ix2_I x_I ing2_E l_B ei4_I s_I iy4_E d_B e5_E c_B uo4_I sh_I ix1_E SIL 
+BAC009S0150W0208 SIL g_B uo2_I j_I ia1_E zh_B ong4_I d_I ian3_E f_B u2_I zh_I ix2_E h_B ang2_I ie4_E SIL 
+BAC009S0150W0209 SIL j_B ia1_I d_I a4_E d_B ui4_E SIL zh_B ong1_I x_I iao3_I q_I i3_I ie4_E d_B e5_E f_B u2_I ch_I ix2_E l_B i4_I d_I u4_E SIL 
+BAC009S0150W0210 SIL g_B uo2_I j_I ia1_E zh_B ong4_I d_I ian3_E f_B u2_I ch_I ix2_E h_B e2_E g_B u3_I l_I i4_E d_B e5_E ch_B uang4_I ie4_E SIL 
+BAC009S0150W0211 SIL sh_B en2_I m_I e5_E sh_B ix4_E c_B ai2_I zh_I eng4_E zh_B uan3_I i2_E zh_B ix1_I f_I u4_E SIL 
+BAC009S0150W0212 SIL g_B uo2_I j_I ia1_E f_B u2_I ch_I ix2_E d_B e5_E h_B ang2_I ie4_E SIL 
+BAC009S0150W0213 SIL SIL_S d_B a4_E SIL j_B iao4_I v4_E t_B ou2_I r_I u4_E l_B ing2_I d_I ao3_I x_I iao2_I z_I u3_E SIL 
+BAC009S0150W0214 SIL x_B in1_I i1_I l_I un2_E x_B in1_I g_I u3_E f_B a1_I x_I ing2_E t_B i3_I zh_I ix4_I g_I ai3_I g_I e2_E q_B i3_I d_I ong4_E i3_B l_I ai2_E SIL 
+BAC009S0150W0215 SIL sh_B ix4_I ch_I ang3_E n_B ei4_I uai4_E d_B ui4_I c_I iy3_E g_B ao1_I d_I u4_E g_B uan1_I zh_I u4_E SIL 
+BAC009S0150W0216 SIL f_B eng4_I h_I uang2_I uang3_E t_B ui1_I ch_I u1_E f_B eng4_I h_I uang5_E SIL z_B iy1_I b_I en3_I l_I un4_E SIL 
+BAC009S0150W0217 SIL z_B ai4_I d_I u4_E SIL j_B v4_I j_I iao1_E x_B in1_I g_I u3_E f_B a1_I x_I ing2_E SIL g_B ai3_I g_I e2_E SIL 
+BAC009S0150W0218 SIL d_B uo1_I ui4_E zh_B uan1_I j_I ia1_E j_B iu4_E c_B un2_I l_I iang4_E f_B a1_I x_I ing2_E SIL ch_B uang4_I ie4_I b_I an3_E SIL t_B ui4_I sh_I ix4_E d_B eng3_E h_B ua4_I t_I i2_E ch_B ang4_I s_I uo3_I v4_I ian2_E SIL 
+BAC009S0150W0219 SIL c_B un2_I l_I iang4_E f_B a1_I x_I ing2_E iu3_S SIL SIL_S g_B u3_I d_I ong1_E SIL j_B ie3_I t_I ao4_E d_B e5_E x_B ian2_I i2_E SIL 
+BAC009S0150W0220 SIL j_B i2_E g_B ao1_E f_B a1_I x_I ing2_I j_I ia4_E SIL g_B ao1_E sh_B ix4_I ing2_I l_I v4_E SIL g_B ao1_I ch_I ao1_E SIL m_B u4_E SIL 
+BAC009S0150W0221 SIL zh_B e4_I iang4_E d_B e5_E x_B in1_I g_I u3_E f_B a1_I x_I ing2_E g_B ai3_I g_I e2_E SIL g_B ou4_I b_I u2_I sh_I ang4_E t_B i3_I zh_I ix4_I g_I ai3_I g_I e2_E SIL 
+BAC009S0150W0222 SIL z_B ai4_E zh_B ong1_I g_I uo2_E SIL_S SIL sh_B ou3_I x_I i2_E z_B ong3_I c_I ai2_E g_B u4_I un4_E SIL z_B uo3_I x_I iao3_I l_I ei3_E k_B an4_I l_I ai2_E SIL 
+BAC009S0150W0223 SIL x_B in1_I g_I u3_E f_B a1_I x_I ing2_E q_B i2_I sh_I ix2_E b_B u2_I iong4_E SIL iu3_S sh_B en2_I m_I o2_E z_B eng1_I l_I iang4_E d_B e5_E d_B ong1_I x_I i5_E SIL 
+BAC009S0150W0224 SIL zh_B ix1_E x_B v1_I iao4_E b_B a4_E SIL c_B un2_I l_I iang4_E d_B e5_E x_B ian1_E j_B ie3_I j_I ve2_E h_B ao3_E SIL 
+BAC009S0150W0225 SIL z_B uo3_I x_I iao3_I l_I ei3_E j_B in4_I i2_I b_I u4_E b_B iao3_I sh_I ix4_E SIL j_B iu4_I sh_I ix4_E iao1_S b_B a4_E ve1_B sh_I u4_E j_B i1_I zh_I ix4_E d_B ui4_I ch_I en4_E h_B ua4_E SIL 
+BAC009S0150W0226 SIL er2_B q_I ie3_E zh_B e4_I zh_I ong3_E ve1_B sh_I u4_E i2_B d_I ing4_E iao4_S f_B ei1_I ch_I ang2_E ian2_B l_I i4_E SIL 
+BAC009S0150W0227 SIL b_B i3_I r_I u2_E ch_B uang4_I ie4_I b_I an3_E t_B ui4_I sh_I ix4_E zh_B ix4_I d_I u4_E SIL 
+BAC009S0150W0228 SIL z_B uo3_I x_I iao3_I l_I ei3_E h_B ai2_E zh_B ix2_I ian2_E uo3_B m_I en5_E d_B e5_E z_B iy1_I b_I en3_E sh_B ix4_I ch_I ang3_E SIL SIL_S h_B un2_I sh_I ui3_E g_B ong1_I s_I iy1_E SIL 
+BAC009S0150W0229 SIL ian3_B x_I ia4_E zh_B e4_I zh_I ong3_E ch_B ang4_E h_B ao3_E j_B iu4_E d_B ou1_E ch_B ang4_E h_B ao3_E SIL 
+BAC009S0150W0230 SIL zh_B e4_I iang4_E d_B e5_E sh_B ix4_I ch_I ang3_E zh_B ix4_I d_I u4_E f_B ei1_I ch_I ang2_E b_B u4_I h_I ao3_E SIL 
+BAC009S0150W0231 SIL z_B ui4_I h_I ou4_E z_B ai4_E q_B v4_E g_B ao3_E ch_B ang3_I uai4_E sh_B ix4_I ch_I ang3_E SIL 
+BAC009S0150W0232 SIL zh_B uan1_I j_I ia1_E zh_B ix3_I ch_I u1_E SIL SIL_S SIL_S f_B ang2_I d_I i4_I ch_I an3_E SIL t_B iao2_I k_I ong4_E zh_B ong1_I ch_I ang2_I q_I i1_E j_B i1_I zh_I ix4_E SIL 
+BAC009S0150W0233 SIL g_B uo2_I u4_I van4_E p_B ai4_I ch_I u1_E SIL_S d_B u1_I ch_I a2_I z_I u3_E SIL 
+BAC009S0150W0234 SIL j_B in4_I i1_I b_I u4_E t_B ui1_I d_I ong4_E SIL_S l_B uo4_I sh_I ix2_E SIL 
+BAC009S0150W0235 SIL i4_B zh_I ix4_E t_B ou2_I j_I i1_E t_B ou2_I z_I iy1_I x_I ing4_E x_B v1_I q_I iu2_E SIL 
+BAC009S0150W0236 SIL g_B ong3_I g_I u4_E f_B ang2_I d_I i4_I ch_I an3_E sh_B ix4_I ch_I ang3_E t_B iao2_I k_I ong4_E ch_B eng2_I g_I uo3_E SIL 
+BAC009S0150W0237 SIL j_B ie1_I j_I in4_E zh_B u4_E SIL_S d_B e5_E r_B en2_I sh_I ix4_E t_B ou4_I l_I u4_E SIL 
+BAC009S0150W0238 SIL c_B iy3_I c_I iy4_E d_B u1_I ch_I a2_E zh_B ong4_I d_I ian3_E j_B ian3_I ch_I a2_E zh_B u4_I f_I ang2_E x_B ian4_I g_I ou4_E c_B uo4_I sh_I ix1_E SIL zh_B ix2_I x_I ing2_E q_B ing2_I k_I uang4_E SIL 
+BAC009S0150W0239 SIL ch_B a1_I b_I ie2_I h_I ua4_E zh_B u4_I f_I ang2_E SIL_S zh_B ix2_I x_I ing2_E q_B ing2_I k_I uang4_E SIL 
+BAC009S0150W0240 SIL zh_B u4_I f_I ang2_E iong4_B d_I i4_E SIL g_B ong1_I ing4_E h_B e2_E g_B uan3_I l_I i3_E q_B ing2_I k_I uang4_E SIL i3_B j_I i2_E sh_B ui4_I sh_I ou1_I zh_I eng4_I c_I e4_E zh_B ix2_I x_I ing2_E h_B e2_E SIL zh_B eng1_I g_I uan3_E q_B ing2_I k_I uang4_E SIL 
+BAC009S0150W0241 SIL d_B ui4_E l_B uo4_I sh_I ix2_E f_B ang2_I d_I i4_I ch_I an3_E sh_B ix4_I ch_I ang3_E t_B iao2_I k_I ong4_E SIL_S SIL iu3_S p_B ian1_I ch_I a1_E b_B u2_E d_B ao4_I ui4_E d_B e5_E SIL 
+BAC009S0150W0242 SIL g_B uo2_I u4_I van4_E d_B u1_I ch_I a2_I z_I u3_E j_B iang1_E SIL d_B u1_I c_I u4_E j_B in4_I x_I ing2_E zh_B eng3_I g_I ai3_E SIL 
+BAC009S0150W0243 SIL d_B ui4_I v2_E sh_B ix4_I f_I ou3_E h_B ui4_E ch_B u1_I t_I ai2_E x_B in1_I zh_I eng4_E SIL 
+BAC009S0150W0244 SIL h_B ai2_I sh_I ix4_E iao1_S k_B an4_E zh_B eng3_I g_I e4_E d_B u1_I ch_I a2_E j_B ie2_I sh_I u4_E h_B ou4_E d_B e5_E b_B ao4_I g_I ao4_E q_B ing2_I k_I uang4_E SIL 
+BAC009S0150W0245 SIL z_B ai4_I c_I iy4_E sh_B ix4_I f_I ang4_E SIL_S f_B ang2_I d_I i4_I ch_I an3_E t_B iao2_I k_I ong4_E x_B in4_I h_I ao4_E SIL 
+BAC009S0150W0246 SIL s_B ui1_I r_I an2_E d_B u1_I ch_I a2_E d_B uo1_E sh_B ix4_E j_B in4_I x_I ing2_E zh_B ix3_I d_I ao3_E v3_S d_B u1_I c_I u4_E SIL 
+BAC009S0150W0247 SIL d_B an4_I sh_I ix4_E r_B eng2_I h_I ui4_E d_B ui4_E d_B i4_I f_I ang1_E x_B ing2_I ch_I eng2_E g_B eng4_I d_I a4_E d_B e5_E SIL ui1_B sh_I e4_E z_B uo4_I iong3_E 
+BAC009S0150W0248 SIL v4_B j_I i4_E h_B ou4_I q_I i1_E d_B i4_I f_I ang1_E sh_B ix4_I t_I an4_E SIL t_B iao2_I k_I ong4_E d_B i3_I x_I ian4_E d_B e5_E d_B ong4_I z_I uo4_E h_B ui4_E j_B ian3_I sh_I ao3_E SIL 
+BAC009S0150W0249 SIL s_B ui1_I r_I an2_E c_B iy3_I c_I iy4_E d_B u1_I ch_I a2_E x_B ing2_I ch_I eng2_E g_B ang1_I g_I ang1_E g_B uo4_I b_I an4_E SIL 
+BAC009S0150W0250 SIL d_B an4_E i2_B iu3_E d_B uo1_I g_I e4_E d_B i4_I f_I ang1_E m_B ing2_I q_I ve4_E b_B iao3_I t_I ai4_E SIL 
+BAC009S0150W0251 SIL j_B iang1_E ian2_B g_I e2_E l_B uo4_I sh_I ix2_E l_B ou2_I sh_I ix4_E t_B iao2_I k_I ong4_E zh_B eng4_I c_I e4_E SIL 
+BAC009S0150W0252 SIL z_B ai4_E d_B u1_I ch_I a2_E x_B iao1_I x_I i5_E f_B a1_I b_I u4_E d_B e5_E d_B ang1_I t_I ian1_E SIL 
+BAC009S0150W0253 SIL n_B a4_E j_B iu4_I sh_I ix4_E in4_B d_I u4_E r_B en2_I c_I ai2_E SIL x_B i2_I j_I van4_E k_B e1_I j_I i4_I j_I ie4_E d_B e5_E r_B e4_I ch_I ao2_E SIL 
+BAC009S0150W0254 SIL in4_B d_I u4_E k_B e1_I j_I i4_I r_I en2_I c_I ai2_E d_B ui4_E k_B e1_I j_I i4_E g_B ong1_I s_I iy1_E d_B e5_E x_B van3_I z_I e2_E SIL ie3_S sh_B ix4_E sh_B ix2_I f_I en1_E t_B iao1_I t_I i5_E SIL 
+BAC009S0150W0255 SIL m_B i3_E SIL_S j_B iu4_I sh_I ix4_E z_B ai4_E g_B ai1_I x_I iao4_E h_B uo4_I d_I e2_E l_B iao3_E SIL sh_B e4_I j_I i4_E sh_B uo4_I sh_I ix4_I x_I ve2_I ui4_E SIL 
+BAC009S0150W0256 SIL SIL_S SIL_S SIL_S SIL_S SIL SIL_S SIL_S SIL_S SIL b_B ao4_I d_I ao4_E sh_B ix2_I er4_I ve4_E u3_B r_I iz4_E x_B iao1_I x_I i5_E SIL 
+BAC009S0150W0257 SIL ch_B uang4_E l_B iu4_I n_I ian2_E SIL l_B ai2_E j_B in4_I sh_I eng1_E r_B en2_I sh_I u4_E x_B in1_I d_I i1_E SIL 
+BAC009S0150W0258 SIL SIL_S SIL_S SIL_S SIL_S SIL_S SIL d_B a4_I sh_I a4_E ui4_B v2_E d_B ong1_I j_I ing1_E f_B an2_I h_I ua2_E d_B e5_E SIL SIL_S d_B i4_I q_I v1_E SIL 
+BAC009S0150W0259 SIL SIL_S SIL_S SIL_S SIL SIL_S SIL_S SIL_S SIL_S b_B ao4_I d_I ao4_E SIL s_B an1_I ve4_E s_B an1_I sh_I ix2_I r_I iz4_E x_B iao1_I x_I i5_E SIL 
+BAC009S0150W0260 SIL j_B iao1_I i4_I e2_E v4_B j_I i4_E d_B a2_I d_I ao4_E sh_B u4_I b_I ai3_E SIL_S SIL 
+BAC009S0150W0261 SIL s_B an1_I x_I ing1_E b_B an4_I sh_I ix4_I ch_I u4_E i3_S q_B ian1_I zh_I ix4_E t_B a1_E d_B i4_E SIL 
+BAC009S0150W0262 SIL l_B iang3_I j_I ia1_E g_B ong1_I s_I iy1_E i3_S z_B ai4_E sh_B ix4_I sh_I ix2_I sh_I ang4_E j_B iu4_E j_B iao1_I i4_E d_B a2_I ch_I eng2_I x_I ie2_I i4_E SIL 
+BAC009S0150W0263 SIL SIL_S d_B a4_I l_I ou2_E d_B e5_E s_B uo3_I iu3_I q_I van2_E i3_S b_B ei4_E zh_B eng4_I q_I van4_I h_I ua4_E SIL 
+BAC009S0150W0264 SIL x_B in4_I t_I uo1_E sh_B ou4_I i4_I q_I van2_E d_B e5_E b_B ai3_I f_I en1_I zh_I ix1_I u3_I sh_I ix2_E SIL_S SIL s_B an1_I x_I ing1_E s_B uo3_I iu3_E SIL 
+BAC009S0150W0265 SIL q_B i2_I v2_E iu2_S s_B an1_I j_I ing3_E b_B u2_I d_I ong4_I ch_I an3_E SIL d_B eng3_E ch_B ix2_I iu3_E SIL 
+BAC009S0150W0266 SIL er4_B l_I ing2_I l_I ing2_I s_I an1_I n_I ian2_E SIL SIL_S SIL_S SIL_S SIL SIL_S SIL_S SIL_S d_B a4_I l_I ou2_E j_B ian4_I ch_I eng2_E sh_B ix2_E SIL 
+BAC009S0150W0267 SIL s_B an1_I x_I ing1_E z_B ai4_E r_B iz4_I b_I en3_E d_B e5_E zh_B ix1_I m_I ing2_I d_I u4_E SIL b_B ing4_E b_B u4_I j_I i2_E x_B ian4_I z_I ai4_E SIL 
+BAC009S0150W0268 SIL d_B ang1_I sh_I ix2_E SIL_S d_B a4_I l_I ou2_E t_B ong2_E s_B an1_I x_I ing1_I g_I ong1_I s_I iy1_E SIL t_B ui1_I ch_I u1_E d_B e5_E r_B e4_I m_I en2_E sh_B ou3_I j_I i1_E ch_B an3_I p_I in3_E SIL 
+BAC009S0150W0269 SIL d_B ui4_E t_B i2_I g_I ao1_E s_B an1_I x_I ing1_E z_B ai4_E r_B iz4_I b_I en3_E d_B e5_E zh_B ix1_I m_I ing2_I d_I u4_E h_B e2_E p_B in3_I p_I ai2_E h_B ao4_I zh_I ao4_I l_I i4_E SIL z_B uo4_I ch_I u1_E l_B e5_E g_B ong4_I x_I ian4_E SIL 
+BAC009S0150W0270 SIL s_B an1_I x_I ing1_E r_B en4_I ui2_E SIL m_B ei2_E b_B i4_I iao4_E j_B i4_I x_I v4_E ch_B ix2_I iu3_E z_B iy4_I sh_I en1_E b_B u4_E sh_B ix3_I iong4_E d_B e5_E z_B iy1_I ch_I an3_E SIL 
+BAC009S0150W0271 SIL q_B i2_E sh_B ou3_I j_I i1_E sh_B ix4_I ch_I ang3_I f_I en4_I e2_E r_B ui4_I j_I ian3_E SIL 
+BAC009S0150W0272 SIL sh_B ix4_I ch_I ang3_E d_B i1_I m_I i2_E q_B ing2_I k_I uang4_E x_B ian3_I er2_I i4_I j_I ian4_E SIL 
+BAC009S0150W0273 SIL r_B iz4_I b_I en3_E SIL_S D_B IY1_E SIL_S t_B ong3_I j_I i4_E x_B ian3_I sh_I ix4_E SIL 
+BAC009S0150W0274 SIL ui4_B l_I e5_E ch_B ong2_I zh_I eng3_E SIL_S ie4_B u4_E SIL 
+BAC009S0150W0275 SIL h_B ai2_E x_B iang4_E t_B ong1_I x_I in4_E g_B ong1_I s_I iy1_E x_B iao1_I sh_I ou4_E SIL_S SIL h_B e2_E t_B i2_I g_I ong4_E ui2_B h_I u4_E d_B eng3_E f_B u2_I u4_E SIL 
+BAC009S0150W0276 SIL SIL_S j_B i4_I h_I ua4_E SIL z_B ui4_I z_I ao3_E SIL SIL_S u3_B n_I ian2_E SIL z_B ui4_I uan3_E er4_B l_I ing2_I i1_E l_B iu4_I n_I ian2_E SIL 
+BAC009S0150W0277 SIL p_B ing2_I g_I uo3_E SIL_S SIL SIL_S SIL_S SIL 
+BAC009S0150W0278 SIL s_B an1_I x_I ing1_E iu4_S z_B en3_I m_I o2_E n_B eng2_E t_B ing2_I x_I ia5_E zh_B ui1_I s_I ui2_E d_B e5_E j_B iao3_I b_I u4_E SIL 
+BAC009S0150W0279 SIL x_B in1_I k_I uan3_E d_B e5_E s_B an1_I x_I ing1_E SIL_S b_B iao1_I p_I ei4_E SIL_S EY1_S SIL_S SIL SIL_S SIL_S EH1_B N_E SIL_S SIL_S EY1_S SIL_S 
+BAC009S0150W0280 SIL h_B e2_E p_B ing2_I g_I uo3_E d_B e5_E SIL_S SIL_S x_B iang1_I s_I iy4_E SIL 
+BAC009S0150W0281 SIL j_B in1_I n_I ian2_E s_B an1_I ve4_E s_B an1_I x_I ing1_E g_B ong1_I b_I u4_E l_B iao3_E SIL SIL_S EY1_S SIL_S SIL_S SIL_S EH1_B N_E SIL_S SIL SIL_S EY1_S SIL_S f_B ang1_I an4_E SIL 
+BAC009S0150W0282 SIL j_B i4_I h_I ua4_E v2_S j_B iu3_I ve4_E sh_B uai4_I x_I ian1_E d_B eng1_I l_I u4_E h_B an2_I g_I uo2_E h_B e2_E SIL_S SIL 
+BAC009S0150W0283 SIL zh_B e4_E v3_B q_I i2_E x_B ia4_I i2_I d_I ai4_E SIL SIL_S sh_B ou3_I j_I i1_E d_B e5_E f_B a1_I b_I u4_E sh_B ix2_I j_I ian1_E i2_B zh_I ix4_E SIL 
+BAC009S0150W0284 SIL k_B an4_I l_I ai2_E s_B an1_I x_I ing1_E d_B e5_E SIL_S EY1_S SIL_S SIL_S SIL_S EH1_B N_E SIL_S SIL_S EY1_S SIL_S SIL s_B ui1_E ui4_B n_I eng2_E q_B iang3_I zh_I an4_E x_B ian1_I j_I i1_E SIL 
+BAC009S0150W0285 SIL q_B ve4_I sh_I ix4_E SIL_S iao1_S g_B an4_E SIL_S d_B a4_E d_B e5_E SIL 
+BAC009S0150W0286 SIL l_B v3_E b_B ei4_E zh_B ix3_I k_I ong4_E ch_B ao1_I x_I i2_E p_B ing2_I g_I uo3_E sh_B e4_I b_I ei4_E d_B e5_E s_B an1_I x_I ing1_E SIL 
+BAC009S0150W0287 SIL i1_B j_I iu4_E sh_B ix4_E g_B en1_I b_I en3_E SIL_S SIL 
+BAC009S0150W0288 SIL q_B i2_I t_I a1_E sh_B ix1_I q_I v4_E z_B iy4_I uo3_E d_B e5_E m_B o2_I f_I ang3_E SIL iu4_S h_B e2_I c_I eng2_E h_B uo4_I d_I e2_I ch_I eng2_I g_I ong1_E SIL 
+BAC009S0150W0289 SIL p_B ing2_I g_I uo3_E SIL_S EY1_S SIL_S SIL SIL_S SIL_S SIL_S SIL_S EY1_S SIL_S SIL 
+BAC009S0150W0290 SIL s_B an1_I x_I ing1_E iu4_S z_B en3_I m_I o2_E n_B eng2_E t_B ing2_I x_I ia4_E zh_B ui1_I s_I ui2_E d_B e5_E j_B iao3_I b_I u4_E SIL 
+BAC009S0150W0291 SIL x_B in1_I k_I uan3_E d_B e5_E s_B an1_I x_I ing1_E SIL_S b_B iao1_I p_I ei4_E SIL_S SIL EY1_S SIL_S SIL_S SIL_S EH1_B N_E SIL_S SIL_S EY1_S SIL_S 
+BAC009S0150W0292 SIL s_B an1_I x_I ing1_I d_I ian4_I z_I iy3_E j_B i4_I h_I ua4_E z_B ai4_E j_B in1_I n_I ian2_E x_B ia4_I b_I an4_I n_I ian2_E SIL 
+BAC009S0150W0293 SIL zh_B e4_I z_I uo4_E g_B ong1_I ch_I ang3_E h_B ao4_I f_I ei4_E SIL_S i4_B m_I ei3_I van2_E j_B ian4_I sh_I e4_E SIL 
+BAC009S0150W0294 SIL iu3_B zh_I u4_I v2_E s_B an1_I x_I ing1_E z_B ai4_E zh_B ix4_I n_I eng2_I j_I i1_E l_B i4_I r_I un4_E ui3_B s_I uo1_E d_B e5_E q_B ing2_I k_I uang4_E x_B ia4_E SIL 
+BAC009S0150W0295 SIL t_B ui1_I d_I ong4_E g_B ai1_E g_B ong1_I s_I iy1_E l_B i4_I r_I un4_E z_B eng1_I zh_I ang3_E SIL 
+BAC009S0150W0296 SIL s_B an1_I x_I ing1_E d_B e5_E x_B in1_E g_B ong1_I ch_I ang3_E ui4_B v2_E sh_B ou3_I er3_E SIL n_B an2_I b_I u4_E SIL d_B e5_E SIL_S SIL 
+BAC009S0150W0297 SIL q_B i2_E b_B ing4_I ui4_E j_B v4_I t_I i3_E zh_B ix3_I m_I ing2_E x_B in1_E sh_B eng1_I ch_I an3_I x_I ian4_E SIL j_B iang1_I h_I ui4_E sh_B eng1_I ch_I an3_E h_B e2_I zh_I ong3_E ch_B an3_I p_I in3_E SIL 
+BAC009S0150W0298 SIL h_B an2_I g_I uo2_E d_B ang1_I d_I i4_E m_B ei2_I t_I i3_I b_I ao4_I d_I ao4_E ch_B eng1_E SIL 
+BAC009S0150W0299 SIL s_B an1_I x_I ing1_E j_B i4_I h_I ua4_E z_B ai4_E x_B in1_E g_B ong1_I ch_I ang3_E sh_B eng1_I ch_I an3_E SIL D_B IY1_E SIL_S EY1_S SIL_S n_B ei4_I c_I un2_E x_B in1_I p_I ian4_E SIL 
+BAC009S0150W0300 SIL d_B an4_E ie3_S h_B ui4_E g_B en1_I j_I v4_E sh_B ix4_I ch_I ang3_I x_I v1_I q_I iu2_E SIL j_B iang1_E b_B u4_I f_I en4_E ch_B an3_I n_I eng2_E iong4_B v2_E SIL sh_B eng1_I ch_I an3_E i2_B d_I ong4_E ch_B u3_I l_I i3_I q_I i4_E SIL 
+BAC009S0150W0301 SIL x_B in1_E g_B ong1_I ch_I ang3_E j_B iang1_E t_B i2_I g_I ong1_E zh_B ix4_I sh_I ao3_E sh_B ix2_I u3_I uan4_E g_B e4_E SIL_S SIL 
+BAC009S0150W0302 SIL x_B iang1_I d_I ang1_I v2_E SIL SIL_S SIL_S d_B e5_E s_B an1_I f_I en1_I zh_I ix1_I i1_E SIL 
+BAC009S0150W0303 SIL iu3_S SIL_S ou1_B zh_I ou1_E g_B uo2_I j_I ia1_E d_B e5_E j_B iao1_I t_I ong1_E b_B i3_E m_B ei3_I g_I uo2_E g_B eng4_I j_I ia1_E iong1_B d_I u3_E SIL 
+BAC009S0150W0304 SIL t_B ong2_I sh_I ix2_E q_B ve4_E ie3_S zh_B ix4_I z_I ao4_E ch_B u1_E g_B eng1_E d_B uo1_E iong1_B d_I u3_E SIL 
+BAC009S0150W0305 SIL q_B i4_I ch_I e1_E g_B ong1_I s_I iy1_E b_B u4_I d_I e2_I b_I u4_E SIL_S SIL d_B a4_I ch_I eng2_I sh_I ix4_E SIL ui4_B l_I ai2_E d_B e5_E j_B iao1_I t_I ong1_E un4_B t_I i2_E SIL 
+BAC009S0150W0306 SIL SIL_S j_B i4_I h_I ua4_E z_B ai4_E SIL ui4_B l_I ai2_E sh_B ix2_I x_I ian4_E SIL q_B i4_I ch_I e1_E v4_S q_B i4_I ch_I e1_E zh_B ix1_I j_I ian1_E SIL V_B IY1_E er4_S V_B IY1_E SIL 
+BAC009S0150W0307 SIL q_B i4_I ch_I e1_E v4_S d_B ao4_I l_I u4_E j_B i1_I ch_I u3_I sh_I e4_I sh_I ix1_E SIL V_B IY1_E er4_S EH1_B K_I S_E SIL zh_B ix1_I j_I ian1_E d_B e5_E x_B in4_I x_I i1_E g_B ong4_I x_I iang3_E SIL 
+BAC009S0150W0308 SIL ve4_B l_I ai2_I ve4_E d_B uo1_E d_B e5_E q_B i4_I ch_I e1_E g_B ong1_I s_I iy1_E SIL k_B ai1_I sh_I ix3_E s_B iy1_I k_I ao3_E d_B a4_I ch_I eng2_I sh_I ix4_E d_B e5_E ui4_B l_I ai2_E SIL g_B ai1_E r_B u2_I h_I e2_E g_B ui1_I h_I ua4_E SIL 
+BAC009S0150W0309 SIL q_B i4_I ch_I e1_E g_B ong1_I s_I iy1_E j_B iang1_E z_B ai4_E q_B i2_I zh_I ong1_E b_B an4_I ian3_E h_B e2_I zh_I ong3_E j_B ve2_I s_I e4_E SIL 
+BAC009S0150W0310 SIL ie3_S m_B ei2_E b_B an4_I f_I a3_E x_B vn4_I s_I u4_E h_B uan2_I j_I ie3_E ch_B eng2_I sh_I ix4_I h_I ua4_E d_B e5_E n_B an2_I t_I i2_E SIL 
+BAC009S0150W0311 SIL q_B i4_I ch_I e1_E g_B ong1_I s_I iy1_E r_B eng2_E iong1_B iu3_E f_B eng1_I f_I u4_E d_B e5_E zh_B ix4_I z_I ao4_E j_B ing1_I ian4_E SIL 
+BAC009S0150W0312 SIL d_B an4_E z_B ai4_E q_B i4_I ch_I e1_I ie4_E h_B e2_E SIL j_B i4_I sh_I u4_E h_B ang2_I ie4_E j_B iao1_I h_I ui4_E d_B e5_E l_B u4_I k_I ou3_E SIL 
+BAC009S0150W0313 SIL g_B ui1_I g_I u3_E d_B e5_E j_B i4_I sh_I u4_E g_B ong1_I s_I iy1_E b_B ing4_I ui4_E ch_B ong2_I s_I u4_E SIL q_B i4_I ch_I e1_E zh_B ix4_I z_I ao4_E f_B ang1_I sh_I ix4_E SIL 
+BAC009S0150W0314 SIL er2_B sh_I ix4_E c_B ong2_E b_B en3_I zh_I ix4_E sh_B ang4_E g_B ai3_I b_I ian4_E ch_B eng2_I z_I uo4_E h_B e4_E j_B ia4_I sh_I ix3_E d_B e5_E SIL t_B i3_I ian4_E SIL 
+BAC009S0150W0315 SIL j_B iu1_I j_I ie2_E v2_S q_B i4_I ch_I e1_E g_B ai1_E sh_B ix3_I iong4_E n_B a3_E i4_B zh_I ong3_E q_B ing1_I j_I ie2_E n_B eng2_I van2_E SIL 
+BAC009S0150W0316 SIL j_B iu1_I j_I ing4_E c_B ai2_I q_I v3_E d_B ian4_I d_I ong4_E h_B ai2_I sh_I ix4_E h_B un4_I h_I e2_E d_B ong4_I l_I i4_E SIL 
+BAC009S0150W0317 SIL h_B ai2_I iu3_E t_B a1_I m_I en5_E d_B ui4_E q_B i4_I ch_I e1_E g_B ong1_I ie4_E d_B e5_E ch_B ix1_I m_I i2_E h_B e4_E q_B ing2_I g_I an3_E SIL 
+BAC009S0150W0318 SIL g_B eng1_E x_B ve1_I r_I uo4_E SIL l_B e5_E t_B a1_I m_I en5_E SIL d_B ui4_E q_B i4_I ch_I e1_E d_B e5_E x_B v1_I q_I iu2_E SIL 
+BAC009S0150W0319 SIL uo3_B m_I en5_E j_B ve2_I d_I e5_E zh_B ix3_E g_B uan1_I zh_I u4_E q_B i4_I ch_I e1_E z_B iy4_I sh_I en1_E d_B e5_E un4_B t_I i2_E SIL 
+BAC009S0150W0320 SIL g_B ou4_I m_I ai3_E q_B i4_I ch_I e1_E SIL_S sh_B ix4_E g_B eng4_I h_I ao3_E d_B e5_E j_B ie3_I j_I ve2_I un4_I t_I i3_E d_B e5_E b_B an4_I f_I a5_E SIL 
+BAC009S0150W0321 SIL d_B ian4_I d_I ong4_I ch_I e1_E zh_B ix3_I sh_I ix4_E j_B ie3_I j_I ve2_I f_I ang1_I an4_E zh_B ong4_E d_B i3_E i4_B zh_I ong3_E SIL 
+BAC009S0150W0322 SIL b_B en1_I ch_I ix2_E EH1_B F_E SIL l_B ing2_E sh_B ix2_I u3_E d_B e5_E sh_B e4_I j_I i4_E l_B ing2_I g_I an3_E SIL 
+BAC009S0150W0323 SIL j_B iu4_E l_B ai2_I z_I iy4_E m_B ei3_I g_I uo2_E g_B uo2_I f_I ang2_E g_B ao1_I j_I i2_E x_B iang4_I m_I u4_E d_B e5_E SIL_S q_B i4_I ch_I e1_E ch_B eng2_I sh_I ix4_E t_B iao3_I zh_I an4_I s_I ai4_E SIL 
+BAC009S0150W0324 SIL zh_B ei4_E SIL_S ui4_B l_I e5_E j_B ie3_I j_I ve2_E ch_B eng2_I sh_I ix4_I h_I ua4_E un4_B t_I i2_E SIL 
+BAC009S0150W0325 SIL er2_S f_B ei1_E zh_B ix4_I z_I ao4_E i2_B l_I iang4_E g_B eng4_I h_I ao3_E d_B e5_E q_B i4_I ch_I e1_E SIL 
+BAC009S0150W0326 SIL h_B uo2_I n_I iao3_E SIL_S SIL_S g_B ai4_I n_I ian4_I ch_I e1_E sh_B ix3_I iong4_E SIL q_B van2_I z_I iy4_I d_I ong4_E j_B ia4_I sh_I ix3_E j_B i2_E g_B ao1_I s_I u4_E x_B vn2_I h_I ang2_E m_B o2_I sh_I ix4_E SIL 
+BAC009S0150W0327 SIL b_B ei4_E d_B ang4_I z_I uo4_E k_B e1_I h_I uan4_I x_I iao3_I sh_I uo1_E d_B e5_E q_B iao2_I d_I uan4_E l_B ai2_E d_B ui4_I d_I ai4_E SIL 
+BAC009S0150W0328 SIL m_B ei2_I iu3_E SIL_S v4_B l_I iao4_I d_I ao4_E SIL d_B ang1_I sh_I ix2_E ch_B ix2_E zh_B ix4_I i2_E t_B ai4_I d_I u5_E d_B e5_E SIL q_B i4_I ch_I e1_E g_B ong1_I s_I iy1_E SIL 
+BAC009S0150W0329 SIL h_B ui4_E r_B u2_I c_I iy3_E x_B vn4_I s_I u4_E d_B e5_E j_B ia1_I r_I u4_E d_B ao4_E SIL zh_B ix4_I z_I ao4_E z_B iy4_I d_I ong4_E SIL j_B ia4_I sh_I ix3_E SIL q_B i4_I ch_I e1_E d_B e5_E h_B ang2_I l_I ie4_E zh_B ong4_E SIL 
+BAC009S0150W0330 SIL i3_S l_B ei2_I n_I uo4_E r_B iz4_I ch_I an3_E l_B ian2_I m_I eng2_E ui2_B l_I i4_E SIL 
+BAC009S0150W0331 SIL zh_B e4_I j_I ia1_E g_B ong1_I s_I iy1_E x_B van1_I b_I u4_E SIL_S SIL l_B iu4_I n_I ian2_E z_B uo4_I ui3_E SIL_S d_B i4_E q_B i2_I d_I ian3_E SIL 
+BAC009S0150W0332 SIL t_B a1_E x_B i1_I uang4_E g_B ong1_I s_I iy1_E d_B e5_E ch_B an3_I p_I in3_E SIL z_B ai4_E ch_B eng2_I sh_I ix4_I d_I ao4_I l_I u4_E sh_B ang4_E sh_B ix2_I x_I ian4_E SIL an1_B q_I van2_E d_B e5_E zh_B ix4_I n_I eng2_E j_B ia4_I sh_I ix3_E SIL 
+BAC009S0150W0333 SIL m_B ei3_E i1_B j_I ia1_E q_B i4_I ch_I e1_E g_B ong1_I s_I iy1_E z_B ai4_E SIL g_B ao1_I t_I an2_I k_I uo4_I l_I un4_E z_B iy4_I d_I ong4_E j_B ia4_I sh_I ix3_E d_B e5_E ui4_B l_I ai2_E sh_B ix2_E SIL 
+BAC009S0150W0334 SIL d_B ou1_E x_B van1_I ch_I eng1_E SIL z_B iy4_I j_I i3_E d_B e5_E q_B i3_I ie4_E SIL j_B iang1_E z_B ui4_I zh_I ong1_E ing2_B d_I e2_E zh_B e4_I ch_I ang3_E j_B ing4_I s_I ai4_E SIL 
+BAC009S0150W0335 SIL r_B en4_I ui2_E z_B iy4_I d_I ong4_E j_B ia4_I sh_I ix3_E m_B u4_I q_I ian2_E j_B ie1_I j_I in4_E v2_S j_B i4_I sh_I u4_E ch_B ao3_I z_I uo4_E d_B e5_E g_B ao1_I f_I eng1_I q_I i1_E SIL 
+BAC009S0150W0336 SIL t_B a1_E z_B ai4_E i2_B f_I en4_E g_B uan1_I v2_E q_B i4_I ch_I e1_E d_B ian4_I z_I iy3_E f_B a1_I zh_I an3_E d_B e5_E v4_B c_I e4_E b_B ao4_I g_I ao4_E zh_B ong4_E SIL h_B ai2_E t_B i2_I d_I ao4_E SIL 
+BAC009S0150W0337 SIL z_B iy4_I d_I ong4_E j_B ia4_I sh_I ix3_E q_B i4_I ch_I e1_E d_B e5_E sh_B ix2_I x_I ian4_E SIL 
+BAC009S0150W0338 SIL j_B in3_I k_I uai4_E j_B ve2_I d_I ing4_E x_B in1_E b_B iao1_I zh_I ix4_E h_B ui1_I f_I u4_E x_B in4_I l_I ai5_E SIL 
+BAC009S0150W0339 SIL m_B ei3_I r_I iz4_E x_B in1_I un2_E sh_B uo1_E SIL ao4_B vn4_E z_B u3_I ui3_I h_I ui4_E d_B ui4_E SIL b_B iao1_I zh_I ix4_E f_B eng1_I b_I o1_E SIL d_B e5_E SIL_S SIL 
+BAC009S0150W0340 SIL d_B u2_I m_I ai4_I x_I in1_I un2_E ie3_S sh_B uo1_E SIL x_B van3_I d_I ing4_E b_B iao1_I zh_I ix4_E d_B e5_E ao4_B vn4_E z_B u3_I ui3_I h_I ui4_E SIL_S SIL 
+BAC009S0150W0341 SIL b_B ing4_E zh_B ix3_I ch_I u1_E ui2_B r_I ao4_E d_B ong1_I j_I ing1_E ao4_B vn4_E SIL 
+BAC009S0150W0342 SIL i3_S f_B a1_I sh_I eng1_E x_B in1_E g_B uo2_I l_I i4_E s_B ai4_I ch_I ang3_E SIL j_B ian4_I sh_I e4_E t_B u2_I zh_I ix3_E x_B iu1_I d_I ing4_E d_B e5_E zh_B ong4_I d_I a4_E sh_B ix1_I t_I ai4_E SIL 
+BAC009S0150W0343 SIL zh_B e4_I c_I iy4_E z_B ai4_E f_B a1_I sh_I eng1_E sh_B e4_I x_I ian2_E b_B iao1_I zh_I ix4_E SIL p_B iao1_I q_I ie4_E ch_B ou3_I un2_E SIL 
+BAC009S0150W0344 SIL x_B i1_I uang4_E zh_B eng4_I f_I u3_E h_B e2_E z_B u3_I ui3_I h_I ui4_E SIL m_B ao3_I j_I in4_E SIL uan3_B h_I ui2_E ch_B ou2_I b_I ei4_E ch_B ix2_I d_I ao4_E d_B e5_E j_B v2_I m_I ian4_E SIL 
+BAC009S0150W0345 SIL d_B ong1_I j_I ing1_E x_B in1_I un2_E ie3_S sh_B ix4_E SIL zh_B ong4_I sh_I ix4_E d_B ong1_I j_I ing1_E ao4_B vn4_E ch_B ou3_I un2_E SIL h_B e2_I sh_I ix2_E zh_B ong1_I j_I ie2_E SIL 
+BAC009S0150W0346 SIL ui2_B ch_I ix2_E t_B ou4_I m_I ing2_E vn4_B x_I ing2_E b_B i3_E sh_B en2_I m_I o2_E d_B ou1_E SIL b_B i4_I x_I v1_E SIL 
+BAC009S0150W0347 SIL n_B eng2_E b_B u4_I n_I eng2_E h_B ui1_I f_I u4_E r_B iz4_I b_I en3_E x_B in4_I l_I ai4_E j_B iu4_E k_B an4_E x_B ian4_I z_I ai4_E SIL 
+BAC009S0150W0348 SIL sh_B e4_I j_I i4_I sh_I ix1_E SIL_S sh_B eng1_I ch_I eng1_E SIL k_B ao3_I l_I v4_E d_B ao4_E g_B ong1_I s_I iy1_E h_B e2_E j_B ia1_I r_I en2_E an1_B n_I ing2_E SIL 
+BAC009S0150W0349 SIL x_B iang4_E SIL ao4_B z_I u3_I ui3_E sh_B en1_I q_I ing3_E ch_B e4_I h_I ui2_E sh_B e4_I j_I i4_E d_B e5_E b_B iao1_I zh_I ix4_E SIL 
+BAC009S0150W0350 SIL b_B i3_I l_I i4_I sh_I ix2_E m_B ou3_E j_B v4_I ch_I ang3_E SIL SIL_S sh_B e4_I j_I i5_E SIL k_B u4_I s_I iy4_E q_B i2_E sh_B ang1_I b_I iao1_E SIL 
+BAC009S0150W0351 SIL iao1_B q_I iu2_E g_B uo2_I j_I i4_I ao4_I ui3_I h_I ui4_E t_B ing2_I iong4_E SIL 
+BAC009S0150W0352 SIL b_B a1_I ve4_E g_B ai1_E j_B v4_I ch_I ang3_E x_B iang4_E b_B i3_I l_I i4_I sh_I ix2_E f_B a3_I t_I ing2_E SIL q_B i3_I s_I u4_E g_B uo2_I j_I i4_I ao4_I ui3_I h_I ui4_E SIL 
+BAC009S0150W0353 SIL sh_B e4_I j_I i4_I sh_I ix1_E SIL_S sh_B eng1_I ch_I eng1_E SIL k_B ao3_I l_I v4_E d_B ao4_E g_B ong1_I s_I iy1_E h_B e2_E j_B ia1_I r_I en2_E an1_B n_I ing2_E SIL 
+BAC009S0150W0354 SIL x_B iang4_E ao4_B z_I u3_I ui3_E sh_B en1_I q_I ing3_E SIL ch_B e4_I h_I ui2_E sh_B e4_I j_I i4_E d_B e5_E b_B iao1_I zh_I ix4_E SIL 
+BAC009S0150W0355 SIL t_B a1_E sh_B uo1_I m_I ing2_E x_B ian4_I z_I ai4_E SIL uo3_B m_I en5_E h_B en3_E iu3_S ui1_B j_I i1_I g_I an3_E SIL 
+BAC009S0150W0356 SIL t_B ong2_I sh_I ix2_E q_B iang2_I d_I iao4_E t_B a1_I m_I en5_E sh_B ix4_E v3_S g_B uo2_I j_I i4_I ao4_I ui3_I h_I ui4_E SIL j_B i1_I v2_E f_B a3_I l_I v4_E x_B ie2_I sh_I ang1_E zh_B ix4_I j_I in1_E SIL 
+BAC009S0150W0357 SIL l_B ao3_E r_B en4_E l_B ai2_I van2_E r_B en2_I m_I in2_I uang3_E SIL g_B uo2_I j_I i4_E SIL_S x_B iang1_I g_I uan1_E SIL x_B in1_I un2_E SIL 
+BAC009S0150W0358 SIL d_B ong1_I j_I ing1_E SIL ao4_B vn4_E z_B u3_I ui3_I h_I ui4_E g_B ong1_I k_I ai1_E l_B iao3_E SIL iu2_S SIL_S ian2_S er4_B l_I ang2_E SIL sh_B e4_I j_I i4_E d_B e5_E h_B ui4_I h_I ui1_E SIL 
+BAC009S0150W0359 SIL h_B en3_I k_I uai4_E b_B ei4_E zh_B ix3_I ch_I u1_E v3_S b_B i3_I l_I i4_I sh_I ix2_E SIL l_B ie4_I r_I iz4_E j_B v4_I ch_I ang3_E d_B e5_E SIL SIL_S SIL_S SIL_S SIL_S SIL_S SIL 
+BAC009S0150W0360 SIL iao1_B q_I iu2_E z_B u3_I ui3_I h_I ui4_E ch_B e4_I h_I ui2_E zh_B e4_I g_I e4_E h_B ui4_I h_I ui1_E SIL 
+BAC009S0150W0361 SIL sh_B uo1_I m_I ing2_E l_B e5_E c_B iy3_I q_I ian2_E zh_B eng1_I x_I van3_E SIL h_B ui4_I h_I ui1_E d_B e5_E SIL_S h_B e2_E g_B uo4_I ch_I eng3_E SIL 
+BAC009S0150W0362 SIL ch_B eng2_I q_I ing1_E SIL_S ian2_S er4_B l_I ang2_E sh_B e4_I j_I i4_E d_B e5_E h_B ui4_I h_I ui1_E SIL m_B ei2_I iu3_E ch_B ao1_I x_I i2_E t_B a1_I r_I en2_E d_B e5_E z_B uo4_I p_I in3_E SIL 
+BAC009S0150W0363 SIL z_B ai4_E j_B i4_I zh_I e3_I h_I ui4_E j_B ie2_I sh_I u4_E h_B ou4_E d_B e5_E s_B iy4_I g_I e4_E x_B iao3_I sh_I ix2_E n_B ei4_E SIL 
+BAC009S0150W0364 SIL z_B u3_I ui3_I h_I ui4_E zh_B ong1_I v2_E u2_B f_I a3_E d_B ing3_I zh_I u4_E j_B v4_I d_I a4_E d_B e5_E SIL_S SIL 
+BAC009S0150W0365 SIL z_B ai4_E b_B en3_I ve4_E i2_B r_I iz4_E zh_B ao4_I k_I ai1_E j_B i4_I zh_I e3_I h_I ui4_E SIL zh_B eng4_I sh_I ix4_E x_B van1_I b_I u4_E SIL_S zh_B e4_I g_I e4_E h_B ui4_I h_I ui1_E SIL 
+BAC009S0150W0366 SIL h_B ui4_I h_I ui1_E zh_B an3_I sh_I ix4_E SIL_S iu2_S z_B u3_I ui3_I h_I ui4_E d_B e5_E sh_B ix4_I ch_I ang3_I b_I u4_E SIL f_B u4_I z_I e2_E t_B i2_I g_I ong1_E SIL 
+BAC009S0150W0367 SIL d_B ang1_I zh_I ong1_E d_B e5_E i1_B zh_I ang1_E SIL l_B un2_I k_I uo4_E SIL SIL_S zh_B an3_I sh_I ix4_E SIL_S zh_B ong4_E SIL 
+BAC009S0150W0368 SIL z_B u3_I ui3_I h_I ui4_E x_B iang1_I g_I uan1_E r_B en2_I sh_I ix4_E zh_B ix4_I d_I ian4_E zh_B e4_I ui4_E s_B uo3_I iu3_I zh_I e3_E SIL 
+BAC009S0150W0369 SIL b_B ing4_E m_B a3_I sh_I ang4_E zh_B ix1_I f_I u4_E l_B e5_E sh_B ix3_I iong4_I f_I ei4_E SIL 
+BAC009S0150W0370 SIL z_B u3_I ui3_I h_I ui4_E ie3_S ch_B a2_I sh_I ix2_E l_B ing4_I uai4_E d_B e5_E SIL h_B ui4_I h_I ui1_E zh_B an3_I sh_I ix4_E SIL_S SIL 
+BAC009S0150W0371 SIL ie3_S d_B ao4_I iong4_E l_B e5_E uai4_B g_I uo2_I r_I en2_E z_B ai4_E SIL g_B e4_I r_I en2_E b_B o2_I k_I e4_E zh_B ong4_E g_B ong1_I k_I ai1_E d_B e5_E l_B iang3_I zh_I ang1_E zh_B ao4_I p_I ian4_E SIL 
+BAC009S0150W0372 SIL d_B an4_E q_B i4_I j_I in1_E ui4_B n_I eng2_E l_B ian2_I l_I uo4_E d_B ao4_E SIL zh_B e4_E l_B iang3_I zh_I ang1_E zh_B ao4_I p_I ian4_E d_B e5_E s_B uo3_I iu3_I zh_I e3_E SIL 
+BAC009S0150W0373 SIL s_B uo3_I i3_E z_B an4_I sh_I ix2_E b_B u4_E g_B ong1_I k_I ai1_E j_B v4_I t_I i3_E d_B e5_E n_B ei4_I r_I ong2_E SIL 
+BAC009S0150W0374 SIL z_B u3_I ui3_I h_I ui4_E q_B iang2_I d_I iao4_E zh_B ao4_I p_I ian4_E sh_B ix4_E sh_B ix4_I ch_I ang3_I b_I u4_E d_B e5_E r_B en2_E z_B ai4_E SIL uang3_B l_I uo4_E sh_B ang4_E s_B ou1_I s_I uo3_E sh_B ix2_E f_B a1_I x_I ian4_E SIL 
+BAC009S0150W0375 SIL b_B ing4_I f_I ei1_E c_B iy3_I q_I ian2_E uai4_B j_I ie4_E s_B uo3_E SIL ch_B uan2_I ian2_E d_B e5_E n_B a4_I iang3_E SIL iu2_S SIL_S b_B en3_I r_I en2_E zh_B ix4_I z_I uo4_E SIL 
+BAC009S0150W0376 SIL uo3_B m_I en5_E h_B ai2_E z_B ai4_E d_B iao4_I ch_I a2_E x_B iang2_I x_I i4_E d_B e5_E j_B ing1_I ui3_E SIL 
+BAC009S0150W0377 SIL ch_B a2_I m_I ing2_E van2_B iu2_E h_B ou4_E h_B ui4_E SIL g_B ong1_I b_I u4_I v2_I zh_I ong4_E SIL 
+BAC009S0150W0378 SIL ui4_B c_I iy3_E g_B ei3_E h_B en3_I d_I uo1_E r_B en2_E d_B ai4_I l_I ai2_E l_B e5_E k_B un4_I r_I ao3_E SIL 
+BAC009S0150W0379 SIL ie3_S d_B ai4_I b_I iao3_E z_B u3_I ui3_I h_I ui4_E sh_B ou3_I c_I iy4_E ui4_S d_B ao4_I iong4_E zh_B ao4_I p_I ian4_E i2_B sh_I ix4_E g_B ong1_I k_I ai1_E x_B ie4_I z_I ui4_E SIL 
+BAC009S0150W0380 SIL d_B ong1_I j_I ing1_E ao4_B vn4_E z_B u3_I ui3_I h_I ui4_E zh_B eng4_I sh_I ix4_E ch_B eng2_I r_I en4_E SIL d_B ao4_I iong4_E t_B a1_I r_I en2_E zh_B ao4_I p_I ian4_E h_B ou4_E SIL 
+BAC009S0150W0381 SIL j_B in4_I i2_I b_I u4_E in3_B b_I ao4_E l_B e5_E r_B iz4_I b_I en3_E uang3_B l_I uo4_E d_B e5_E h_B ong1_E SIL p_B ao4_I h_I ong1_E SIL 
+BAC009S0150W0382 SIL h_B en3_I d_I uo1_E r_B en2_E b_B u4_I m_I an3_E SIL d_B ao4_E SIL SIL_S z_B u3_I ui3_I h_I ui4_E j_B iu4_E SIL ing1_B g_I ai1_E ch_B e4_I d_I i3_E j_B ie3_I s_I an4_E SIL 
+BAC009S0150W0383 SIL SIL_S d_B ong1_I j_I ing1_E SIL ao4_B vn4_E h_B ai2_E ui4_S SIL k_B ai1_I m_I u4_E j_B iu4_E i3_B j_I ing1_E z_B ai4_E sh_B ix4_I j_I ie4_E SIL ch_B ou4_I m_I ing2_I van3_I iang2_E SIL 
+BAC009S0150W0384 SIL i1_B d_I ian3_E zh_B uan1_I ie4_E j_B ing1_I sh_I en2_E h_B e2_E zh_B ix2_I ie4_I d_I ao4_I d_I e2_E d_B ou1_E m_B ei2_I iu3_E SIL 
+BAC009S0150W0385 SIL b_B u4_E x_B iang1_I x_I in4_E SIL_S vn4_B ing2_E d_B e5_E d_B ong1_I j_I ing1_E SIL ao4_B vn4_E SIL k_B e2_I i3_E j_B v3_I b_I an4_E ch_B eng2_I g_I ong1_E SIL 
+BAC009S0150W0386 SIL f_B en1_I f_I en1_E h_B an3_E z_B u3_I ui3_I h_I ui4_E ing1_B g_I ai1_E q_B van2_I t_I i3_E x_B ia4_I k_I e4_E SIL 
+BAC009S0150W0387 SIL i1_B x_I ie1_E r_B en2_E i1_B j_I iu4_E ch_B ix4_I z_I e2_E SIL_S ing1_B g_I ai1_E SIL b_B ei4_E sh_B e4_I j_I i4_I j_I ie4_E iong2_B van3_E SIL f_B eng1_I sh_I a1_E SIL 
+BAC009S0150W0388 SIL er2_B q_I ie3_E h_B ui4_E SIL zh_B u4_I zh_I ong4_E t_B ing1_I q_I v3_E SIL r_B iz4_I b_I en3_E m_B in2_I zh_I ong4_E d_B e5_E SIL i4_B j_I ian3_E SIL 
+BAC009S0150W0389 SIL r_B iz4_I b_I en3_E d_B ian4_I sh_I ix4_I t_I ai2_E d_B e5_E SIL b_B ao4_I d_I ao4_E zh_B ix3_I ch_I u1_E SIL 
+BAC009S0150W0390 SIL z_B u3_I ui3_I h_I ui4_E SIL i4_B z_I ai4_E t_B i2_I g_I ao1_E x_B in1_E h_B ui4_I h_I ui1_E SIL x_B van3_I b_I a2_E d_B e5_E SIL t_B ou4_I m_I ing2_I x_I ing4_E SIL 
+BAC009S0150W0391 SIL z_B ui4_I d_I a4_E x_B ian4_I d_I u4_E d_B e5_E f_B an3_I ing4_E g_B uo2_I m_I in2_E d_B e5_E i4_B j_I ian4_E SIL 
+BAC009S0150W0392 SIL ie3_S b_B an4_I s_I ui2_E zh_B e5_E f_B ei4_I iong4_E h_B e2_E sh_B ix2_I j_I ian1_E j_B iang1_I h_I ui4_E z_B eng1_I d_I uo1_E d_B e5_E un4_B t_I i3_E SIL 
+BAC009S0150W0393 SIL h_B ou4_I zh_I e3_E j_B ie1_I sh_I ou4_E r_B iz4_I b_I en3_E m_B ei2_I t_I i3_E c_B ai2_I f_I ang3_E sh_B ix2_E b_B iao3_I sh_I ix4_E SIL 
+BAC009S0150W0394 SIL h_B en3_E k_B e3_I n_I eng2_E sh_B ix4_I c_I ong2_E uo3_S d_B e5_E z_B uo4_I p_I in3_E p_B ai4_I sh_I eng1_E ch_B u1_I l_I ai2_E d_B e5_E SIL 
+BAC009S0150W0395 SIL sh_B ix4_I zh_I eng4_I f_I u3_E j_B ie1_I sh_I ou4_E l_B e5_E h_B en3_I d_I uo1_E m_B in2_I zh_I ong4_E f_B a1_I l_I ai2_E d_B e5_E SIL SIL_S SIL 
+BAC009S0150W0396 SIL uang3_B l_I uo4_E sh_B ang4_E b_B u4_I j_I in3_E sh_B ix4_E d_B ui4_E SIL_S j_B in4_I x_I ing2_E j_B i1_I l_I ie4_E p_B i1_I p_I an4_E SIL 
+BAC009S0150W0397 SIL ie3_S k_B ai1_I sh_I ix3_E l_B e5_E d_B ui4_E q_B ing1_I sh_I ui3_E sh_B ix4_I zh_I ang3_E SIL d_B e5_E f_B ei3_I b_I ang4_E zh_B ong4_I sh_I ang1_E SIL 
+BAC009S0150W0398 SIL z_B ai4_E r_B u2_I c_I iy3_E j_B v4_I d_I a4_E d_B i2_E ia1_B l_I i4_E x_B ia4_E SIL 
+BAC009S0150W0399 SIL sh_B ix4_I zh_I eng4_I f_I u3_E j_B in4_I x_I ing2_E l_B e5_E v2_B l_I un4_E d_B iao4_I ch_I a2_E SIL 
+BAC009S0150W0400 SIL ch_B ao1_I g_I uo4_E b_B an4_I sh_I u4_E d_B e5_E sh_B ix4_I m_I in2_E SIL r_B en4_I ui2_E ing1_B g_I ai1_E q_B v3_I x_I iao1_E SIL_S d_B e5_E SIL SIL_S SIL_S SIL_S SIL_S SIL 
+BAC009S0150W0401 SIL v2_B sh_I ix4_E t_B ai4_I t_I ian2_E sh_B ix4_E b_B u4_I d_I e2_I b_I u4_E j_B ve2_I d_I ing4_E zh_B ong1_I zh_I ix3_E sh_B ix3_I iong4_E zh_B e4_I g_I e5_E SIL_S SIL 
+BAC009S0150W0402 SIL g_B ai1_E d_B ong4_I zh_I ix2_I u4_I van2_E m_B u4_I q_I ian2_E zh_B eng4_I z_I ai4_E SIL j_B iu4_E c_B iy3_I sh_I ix4_E j_B in4_I x_I ing2_E d_B iao4_I ch_I a2_E SIL 
+BAC009S0150W0403 SIL j_B in1_I h_I ou4_E k_B e3_I n_I eng2_E h_B ui4_E ch_B u1_I x_I ian4_E SIL SIL_S d_B e5_E z_B uo4_I p_I in3_E SIL b_B ei4_E SIL x_B ve3_I b_I eng1_E sh_B ix4_E ch_B e4_I h_I ui2_E d_B e5_E SIL j_B v2_I m_I ian4_E SIL 
+BAC009S0150W0404 SIL b_B u2_I g_I uo4_E d_B ui4_I v2_E d_B a4_I m_I ing2_I d_I ing2_I d_I ing3_E d_B e5_E n_B an2_I zh_I u3_I j_I ve2_E SIL c_B ai4_E SIL_S SIL_S p_B u3_I l_I i3_E SIL ao4_S l_B ai2_I sh_I uo1_E SIL 
+BAC009S0150W0405 SIL q_B i2_E ch_B ong1_I j_I i1_E ao4_B s_I iy1_I k_I a3_E ing3_B d_I i4_E d_B e5_E x_B in4_I x_I in1_E q_B ve4_E m_B ei2_I iu3_E f_B a1_I sh_I eng1_I b_I ian4_I h_I ua4_E SIL 
+BAC009S0150W0406 SIL l_B ai2_I van2_E sh_B ix2_I g_I uang1_E uang3_S j_B in4_I r_I iz4_E SIL 
+BAC009S0150W0407 SIL ing3_B p_I ian4_E v4_B j_I i4_E SIL_S SIL_S sh_B ang4_I ing4_E SIL 
+BAC009S0150W0408 SIL t_B ou4_I l_I u4_E j_B i2_I j_I iang1_E ui2_S SIL_S d_B e5_E x_B in1_I q_I ing2_E SIL 
+BAC009S0150W0409 SIL t_B a1_E x_B iao4_E sh_B uo1_E z_B iy4_I j_I i3_E uan2_B q_I van2_E m_B ei2_E zh_B un3_I b_I ei4_E h_B ao4_E SIL 
+BAC009S0150W0410 SIL k_B an4_I d_I ao5_E l_B ao3_I p_I o2_E d_B u4_I p_I i2_E z_B ai4_E d_B ong4_E SIL 
+BAC009S0150W0411 SIL j_B iu4_E h_B ao3_I x_I iang4_E k_B an4_I d_I ao5_E i2_B g_I e4_E SIL d_B i4_I q_I iu2_E z_B ai4_E d_B ong4_E i2_B iang4_E SIL 
+BAC009S0150W0412 SIL b_B ei4_E un4_B d_I ao5_E x_B ian4_I z_I ai4_E j_B iao4_I v4_E x_B iao3_I h_I ai2_E z_B ui4_E h_B ai4_I p_I a4_E d_B e5_E sh_B ix4_I q_I ing5_E SIL 
+BAC009S0150W0413 SIL q_B ve4_E r_B eng2_E iu3_S s_B an1_I c_I iy4_E n_B i4_I sh_I ui3_E j_B ing1_I ian4_E d_B e5_E t_B a1_E SIL 
+BAC009S0150W0414 SIL h_B en3_E r_B en4_I zh_I en1_E d_B e5_E h_B ui2_I d_I a2_E uo3_S SIL h_B en3_E p_B a4_E t_B a1_E x_B i3_I h_I uan1_E SIL uan2_B sh_I ui3_E SIL 
+BAC009S0150W0415 SIL zh_B ou1_I j_I ie2_I l_I un2_E v4_S h_B ao3_I iu3_E SIL j_B ian4_I sh_I en1_E SIL SIL_S SIL uang2_B iu3_I h_I ui4_E j_B v3_E f_B a1_I f_I u2_E l_B iao3_E SIL 
+BAC009S0150W0416 SIL v2_B l_I e4_E p_B in2_I d_I ao4_E SIL 
+BAC009S0150W0417 SIL s_B ou1_I h_I u2_E v2_B l_I e4_E x_B vn4_E SIL_S SIL 
+BAC009S0150W0418 SIL zh_B ou1_I j_I ie2_I l_I un2_E d_B e5_E g_B uan1_I f_I ang1_E SIL_S ch_B u1_E l_B e5_E i4_B zh_I ang1_E t_B a1_E d_B e5_E j_B in4_I zh_I ao4_E SIL 
+BAC009S0150W0419 SIL zh_B ou1_I j_I ie2_I l_I un2_E h_B e2_E SIL_S h_B ao3_I iu3_E SIL z_B ai4_E j_B ian4_I sh_I en1_I f_I ang2_E m_B ian4_I q_I ian2_E h_B e2_I ing3_E SIL 
+BAC009S0150W0420 SIL t_B a1_E sh_B en1_I ch_I uan1_E h_B ei1_I s_I e4_E SIL T_B IY1_I x_I v4_E SIL 
+BAC009S0150W0421 SIL d_B ai4_E zh_B e5_E j_B in1_E l_B ian4_I z_I iy5_E h_B e2_E m_B o4_I j_I ing4_E SIL 
+BAC009S0150W0422 SIL sh_B ou3_I b_I i4_E j_B i1_I r_I ou4_E sh_B ix2_I f_I en1_E f_B a1_I d_I a2_E SIL 
+BAC009S0150W0423 SIL ui1_B b_I o2_E h_B ai2_E t_B ou4_I l_I u4_E zh_B ou1_I j_I ie2_I l_I un2_E z_B ui4_I j_I in4_E SIL p_B ei2_E k_B un1_I l_I ing2_E z_B uo4_I ve4_I z_I iy5_E SIL 
+BAC009S0150W0424 SIL ou3_B er3_E SIL uai4_B ch_I u1_E sh_B ang4_E j_B ian4_I sh_I en1_I f_I ang2_E SIL 
+BAC009S0150W0425 SIL s_B ou1_I h_I u2_E v2_B l_I e4_E x_B vn4_E z_B ao3_I q_I ian2_E SIL 
+BAC009S0150W0426 SIL zh_B e4_I ui4_E t_B ian1_I uang2_E j_B i2_E in1_B ve4_E r_B en2_E j_B ie1_I x_I iao3_E SIL 
+BAC009S0150W0427 SIL s_B ou1_I h_I u2_E v2_B l_I e4_E x_B vn4_E j_B v4_E t_B ai2_I uan1_E m_B ei2_I t_I i3_I b_I ao4_I d_I ao4_E SIL 
+BAC009S0150W0428 SIL ia4_B zh_I ou1_E t_B ian1_I uang2_E zh_B ou1_I j_I ie2_I l_I un2_E zh_B ou1_I d_I ong3_E SIL s_B iy4_I ve4_E z_B ai4_E SIL_S SIL g_B ong1_I k_I ai1_E x_B van1_I b_I u4_E SIL 
+BAC009S0150W0429 SIL k_B un1_I l_I ing2_E SIL_S EY1_S SIL EH1_B N_E EH1_B N_E EY1_S SIL_S h_B uai2_E SIL l_B e5_E x_B iao3_E SIL_S SIL 
+BAC009S0150W0430 SIL s_B ui2_I zh_I e5_E l_B ao3_I p_I o2_E d_B u3_I z_I iy5_E ve4_B l_I ai2_I ve4_E d_B a4_E SIL uai4_B j_I ie4_E SIL_S v4_B ch_I an3_I q_I i1_E z_B ai4_E j_B iu3_I ve4_E SIL 
+BAC009S0150W0431 SIL u4_B ie4_I g_I ong1_I s_I iy1_E b_B a4_E x_B i1_I m_I en2_E g_B ei3_E s_B uo3_I s_I iy3_E l_B iao3_E SIL 
+BAC009S0150W0432 SIL d_B a4_I j_I ia1_E ch_B u1_E x_B iao3_I q_I v1_E h_B en3_E b_B u4_E f_B ang1_I b_I ian4_E SIL 
+BAC009S0150W0433 SIL zh_B e4_E s_B an1_I d_I ong4_E l_B ou2_E SIL_S SIL_S d_B ou1_E iu3_S SIL i2_B g_I e5_E l_B a1_I j_I i1_I x_I iang1_E SIL 
+BAC009S0150W0434 SIL u4_B ie4_E r_B en2_I van2_E b_B a4_E zh_B e4_E s_B an1_I g_I e4_E l_B a1_I j_I i1_I x_I iang1_E j_B i3_E ch_B e4_I z_I ou3_E l_B iao3_E SIL 
+BAC009S0150W0435 SIL ui2_S sh_B ix2_I x_I ian4_E SIL_S q_B ian2_E SIL ch_B eng2_I n_I uo4_E n_B an2_I z_I iy3_E SIL z_B an3_E SIL_S ing4_B b_I i4_E m_B ai3_E z_B uan4_I j_I ie4_E q_B iu2_I h_I un1_E SIL 
+BAC009S0150W0436 SIL z_B an3_I g_I ou4_E q_B ian2_E l_B iao3_E m_B ai3_E z_B uan4_I j_I ie4_E x_B iang4_E n_B i3_E q_B iu2_I h_I un1_E SIL 
+BAC009S0150W0437 SIL ui4_B l_I e5_E sh_B ix2_I x_I ian4_E SIL_S q_B ian2_E SIL d_B ui4_E q_B ing1_I m_I ei2_I zh_I u2_I m_I a3_E n_B v3_I h_I ai2_E d_B e5_E ch_B eng2_I n_I uo4_E SIL 
+BAC009S0150W0438 SIL zh_B uo1_I iang2_E i1_S n_B an2_I z_I iy3_E l_B a1_I zh_I e5_E SIL_S ing4_B b_I i4_E SIL d_B ao4_E i1_B j_I ia1_E SIL zh_B u1_I b_I ao3_I d_I ian4_E SIL_S z_B uan4_I j_I ie4_E SIL 
+BAC009S0150W0439 SIL zh_B u1_I b_I ao3_I d_I ian4_E f_B u2_I u4_I van2_E iong4_S i4_B t_I ian1_E sh_B ix2_I j_I ian1_E q_B ing1_I d_I ian3_E ing4_B b_I i4_E SIL 
+BAC009S0150W0440 SIL q_B ing1_I d_I ian3_E ch_B u1_E SIL_S ing4_B b_I i4_E SIL z_B ong3_I g_I ong4_E SIL i1_B d_I ian3_E er4_S SIL_S SIL 
+BAC009S0150W0441 SIL ui2_S g_B ong1_I r_I en2_E f_B u4_E f_B ang2_I z_I u1_E SIL r_B e3_E c_B ai1_I i2_E n_B v2_I z_I iy3_E c_B an3_I s_I iy3_E v2_S zh_B ang4_I f_I u1_E SIL_S SIL 
+BAC009S0150W0442 SIL x_B in4_I x_I i1_E SIL_S SIL j_B i4_I zh_I e3_E ch_B en2_I z_I iy3_E SIL zh_B ix4_E q_B ian2_E SIL SIL_S SIL 
+BAC009S0150W0443 SIL n_B an2_I sh_I a1_E SIL_S SIL SIL_S x_B iang2_I h_I e2_E l_B u4_E l_B iu4_I h_I ao4_E f_B a1_I sh_I eng1_E i1_B q_I i3_E x_B ve4_I an4_E SIL 
+BAC009S0150W0444 SIL i1_B m_I ing2_E ch_B ong2_I q_I ing4_E j_B i2_E n_B v2_I z_I iy3_E SIL z_B ai4_E ch_B u1_I z_I u1_I u1_E n_B ei4_E SIL b_B ei4_E zh_B ang4_I f_I u1_E k_B an3_I sh_I ang1_E SIL 
+BAC009S0150W0445 SIL s_B ong4_E q_B v4_E i1_B van4_E SIL_S s_B iy3_I uang2_E SIL 
+BAC009S0150W0446 SIL ui2_S SIL uan3_B j_I iu4_E f_B u4_I q_I in1_E ch_B eng1_E n_B v3_I t_I ong2_E sh_B ix1_I z_I ong1_E n_B ai3_I n_I ai5_E SIL_S SIL SIL_S SIL b_B ei4_E j_B v1_E SIL 
+BAC009S0150W0447 SIL ui2_S x_B in1_I sh_I ou3_E l_B iang2_I sh_I en1_E d_B ing4_I zh_I ix4_E SIL SIL_S t_B ui1_E j_B ing1_I l_I ing2_E SIL s_B an1_E b_B iao1_I zh_I un2_I b_I an3_E SIL b_B u2_I d_I ao4_E SIL_S SIL 
+BAC009S0150W0448 SIL ui4_S SIL_S ch_B ou2_I k_I uan3_E SIL_S n_B ai3_I n_I ai5_E SIL r_B iz4_E t_B iao1_E SIL_S sh_B ui3_I n_I i2_E zh_B uan4_I q_I ian2_E SIL 
+BAC009S0150W0449 SIL SIL_S SIL_S i1_B t_I ian1_E t_B iao3_E sh_B ui3_I n_I i2_E j_B iu3_E x_B iao3_I sh_I ix2_E SIL 
+BAC009S0150W0450 SIL SIL_S l_B iang3_I k_I uai4_I q_I ian2_E p_B ei2_E SIL_S n_B an2_I z_I iy3_E SIL SIL_S t_B ing2_I ch_I e1_I f_I ei4_E ou1_B d_I a3_E b_B ao3_I an1_E SIL 
+BAC009S0150W0451 SIL r_B ong2_I ch_I ang1_E i1_S n_B an2_I z_I iy3_E g_B an4_E l_B e5_E i2_B j_I ian4_E SIL d_B e2_I b_I u4_I ch_I ang2_I sh_I ix1_E d_B e5_E sh_B ix4_E SIL 
+BAC009S0150W0452 SIL t_B a1_E z_B ai4_E i1_S x_B iao3_I q_I v1_E ch_B e1_I k_I u4_E l_B in2_I sh_I ix2_E t_B ing2_I ch_I e1_E ch_B ao1_I g_I uo4_E b_B an4_I x_I iao3_I sh_I ix2_E SIL 
+BAC009S0150W0453 SIL ch_B u1_I k_I u4_E sh_B ix2_E b_B ei4_E sh_B ou1_I q_I v3_E l_B iang3_I k_I uai4_I q_I ian2_E t_B ing2_I ch_I e1_I f_I ei4_E SIL 
+BAC009S0150W0454 SIL ui2_S zh_B e4_E l_B iang3_I k_I uai4_I q_I ian2_E v4_S b_B ao3_I an1_E f_B a1_I sh_I eng1_E j_B iu1_I f_I en1_E SIL 
+BAC009S0150W0455 SIL p_B ei2_E l_B e5_E SIL_S i1_B iao4_I f_I ei4_E SIL 
+BAC009S0150W0456 SIL ui4_S g_B ei3_E n_B v3_I er1_E m_B ai3_I f_I ang2_E g_B uo2_I q_I i3_E SIL ch_B u1_I n_I a4_E n_B uo2_I iong4_E s_B iy4_I q_I ian1_I uan4_E ch_B ao3_I g_I u3_E h_B uo4_I x_I ing2_E sh_B ix2_I q_I i1_I n_I ian2_E SIL 
+BAC009S0150W0457 SIL SIL_S d_B e5_E g_B uo2_I q_I i3_E ch_B u1_I n_I a4_I van2_E zh_B ang1_I ui3_E SIL z_B ai4_E r_B en4_I zh_I ix2_E d_B e5_E s_B iy4_I n_I ian2_E sh_B ix2_I j_I ian1_E l_B i3_E SIL 
+BAC009S0150W0458 SIL j_B iang1_E s_B iy4_I q_I ian1_E SIL_S g_B ong1_I k_I uan3_E SIL n_B uo2_I iong4_E g_B ou4_I m_I ai3_E g_B u3_I p_I iao4_E SIL 
+BAC009S0150W0459 SIL d_B an4_E t_B a1_E b_B ing4_I ui4_E r_B u2_I van4_E h_B uo4_I d_I e2_E g_B ao1_E sh_B ou1_I i4_E SIL 
+BAC009S0150W0460 SIL ui2_S b_B u3_I sh_I ang4_E n_B uo2_I iong4_I g_I ong1_I k_I uan3_E z_B ao4_I ch_I eng2_E d_B e5_E k_B ui1_I k_I ong1_E SIL 
+BAC009S0150W0461 SIL zh_B ang1_I ui3_E iu4_S i3_S x_B iu1_I g_I ai3_E zh_B ix1_I p_I iao4_E d_B eng3_E f_B ang1_I sh_I ix4_E SIL 
+BAC009S0150W0462 SIL j_B iang1_E s_B an1_I b_I ai3_E q_B i1_I sh_I ix2_I uan4_E g_B ong1_I k_I uan3_E j_B v4_I ui2_I j_I i2_I iu3_E SIL 
+BAC009S0150W0463 SIL ui2_S ch_B ao1_I sh_I eng1_E SIL_S ch_B u1_I sh_I eng1_I zh_I eng4_E SIL d_B ang1_I sh_I ix4_I r_I en2_E q_B i3_I s_I u4_E h_B ou4_E SIL z_B ao1_E j_B i4_I sh_I eng1_E b_B u4_I m_I en2_E sh_B ix1_I ia1_E SIL 
+BAC009S0150W0464 SIL ui2_S z_B u3_I zh_I ix3_E f_B u4_I m_I u3_E ch_B ao3_I j_I ia4_E l_B u2_I m_I ang3_E x_B iao3_I h_I uo3_E z_B iy4_I d_I uan4_E sh_B ou3_I zh_I ix3_E SIL 
+BAC009S0150W0465 SIL x_B ian4_I z_I ai4_E h_B ai2_I z_I iy5_E SIL d_B e5_E SIL_S d_B uo1_E l_B iao3_E SIL 
+BAC009S0150W0466 SIL zh_B ang1_I n_I v3_I sh_I ix4_E g_B ei3_E u3_B l_I ong2_E SIL_S SIL p_B ai4_I ch_I u1_I s_I uo3_E m_B in2_I j_I ing3_E d_B a2_E q_B v4_E d_B ian4_I h_I ua4_E SIL 
+BAC009S0150W0467 SIL j_B iu4_E s_B an1_I t_I ian1_E q_B ian2_E er2_B z_I iy5_E x_B iao2_I iong3_E SIL h_B ua4_I m_I ing2_E h_B ui1_I d_I ao1_E d_B uo4_E d_B iao4_E z_B iy4_I j_I i3_E d_B e5_E x_B iao3_I m_I u3_I zh_I ix3_E SIL 
+BAC009S0150W0468 SIL m_B in2_I j_I ing3_E j_B i2_I sh_I ix2_E d_B ao4_I ch_I ang3_E SIL j_B in4_I x_I ing2_E q_B van4_I j_I ie3_E SIL i1_B sh_I ix4_E b_B iao3_I sh_I ix4_I g_I an3_I x_I ie4_E SIL 
+BAC009S0150W0469 SIL zh_B u3_I r_I en2_E SIL_S SIL_S z_B ou3_I sh_I ix1_E SIL h_B ua1_I sh_I ang4_E q_B ian1_I van2_E SIL ui2_S SIL_S SIL_S SIL_S SIL_S d_B ing4_I ui4_I i2_E SIL 
+BAC009S0150W0470 SIL l_B iang3_I l_I iang4_E s_B iy1_I j_I ia1_I ch_I e1_E iong4_S sh_B ou3_I j_I i1_E d_B ui4_E j_B iang3_E zh_B e5_E SIL 
+BAC009S0150W0471 SIL er2_B sh_I ix4_E z_B ai4_E zh_B ui1_I z_I ong1_E SIL z_B ou3_I sh_I ix1_E d_B e5_E SIL_S SIL 
+BAC009S0150W0472 SIL zh_B u3_I r_I en2_E b_B ao4_E zh_B ao2_E h_B ou2_I z_I iy5_E x_B i1_I in3_E iu2_B k_I e4_E SIL p_B ai1_I zh_I ao4_E SIL sh_B ix4_I h_I ou4_E l_B i4_I m_I a3_E sh_B ou1_I f_I ei4_E sh_B ix2_I van2_E SIL 
+BAC009S0150W0473 SIL ch_B eng2_I d_I u1_E SIL u3_B h_I ou2_I c_I iy2_E SIL d_B a4_I j_I ie1_E j_B i3_I g_I e4_E uai4_B d_I i4_I r_I en2_E SIL k_B ao4_E SIL_S m_B ai4_I m_I eng2_E zh_B eng4_I q_I ian2_E SIL 
+BAC009S0150W0474 SIL u3_B h_I ou2_I c_I iy2_E SIL f_B u4_I j_I in4_E iu3_B r_I en2_E b_B ao4_E zh_B e5_E h_B ou2_I z_I iy5_E x_B i1_I in3_E iu2_B k_I e4_E p_B ai1_I zh_I ao4_E SIL 
+BAC009S0150W0475 SIL p_B ai1_E l_B e5_E SIL_S c_B ai2_E sh_B uo1_E iao1_S SIL_S SIL 
+BAC009S0150W0476 SIL j_B iang3_I sh_I u4_E z_B iy4_I j_I i3_E z_B ai4_E l_B v3_I iu2_E g_B uo4_I ch_I eng2_E zh_B ong4_E SIL v4_B d_I ao4_E d_B e5_E j_B iong3_E SIL sh_B ix4_E SIL 
+BAC009S0150W0477 SIL zh_B u3_I r_I en2_E ing4_B s_I ai1_E h_B ou2_I z_I iy5_E j_B i3_E iu2_B k_I e4_E sh_B ou1_I f_I ei4_E p_B ai1_I zh_I ao4_E SIL 
+BAC009S0150W0478 SIL j_B i3_I g_I e4_E uai4_B d_I i4_I r_I en2_E k_B ao4_E SIL_S m_B ai4_I m_I eng2_E zh_B eng4_I q_I ian2_E SIL 
+BAC009S0150W0479 SIL zh_B u3_I r_I en2_E z_B ao1_E z_B iy4_I j_I ia1_E SIL z_B ang4_I ao2_E x_B i2_I j_I i1_E b_B ao4_I j_I ing3_E SIL j_B i1_I b_I i4_E ch_B eng1_E p_B ing2_I sh_I ix2_E zh_B ong1_I x_I in1_I g_I eng2_I g_I eng3_E SIL 
+BAC009S0150W0480 SIL x_B i2_I j_I i1_E b_B ing4_E SIL iao3_B sh_I ang1_E l_B e5_E q_B i2_E zh_B u3_I r_I en2_E SIL 
+BAC009S0150W0481 SIL x_B ian1_I t_I ao2_I sh_I ix4_E l_B ong2_E h_B ua4_I sh_I an1_E p_B ai4_I ch_I u1_I s_I uo3_E SIL m_B in2_I j_I ing3_E ch_B en2_I zh_I uo2_E l_B eng3_I j_I ing4_E d_B e5_E j_B iang1_E z_B ang4_I ao2_E SIL i1_B q_I iang1_E j_B i1_I b_I i4_E SIL 
+BAC009S0150W0482 SIL zh_B u3_I g_I uan3_E z_B u3_E van2_B g_I ong1_E SIL ch_B ou1_I ian1_E b_B ei4_E ui1_B x_I ie2_E SIL j_B iao4_E SIL p_B eng2_I iu5_E SIL_S f_B an3_E b_B ei4_E c_B iy4_I sh_I ang1_E SIL 
+BAC009S0150W0483 SIL sh_B e4_I sh_I ix4_E van2_B g_I ong1_E x_B ian4_I i3_E SIL t_B ao2_I p_I ao3_E SIL l_B iao2_E SIL b_B u4_E j_B ing3_I f_I ang1_E i3_S l_B i4_I an4_E SIL zh_B ui1_I t_I ao2_E SIL 
+BAC009S0150W0484 SIL l_B i4_I j_I iang1_E i1_S d_B ao3_I iu2_E SIL_S g_B ou4_I u4_E SIL v4_S iu2_B k_I e4_E SIL_S SIL b_B ei4_E SIL_S SIL 
+BAC009S0150W0485 SIL iu3_S uang3_B iu3_E b_B ao4_I g_I uang1_E i1_B d_I uan4_E sh_B ix4_I p_I in2_E x_B ian3_I sh_I ix4_E SIL 
+BAC009S0150W0486 SIL s_B iy1_I j_I i1_E h_B ai2_E d_B ong4_I sh_I ou3_E x_B ian1_E SIL iu2_B k_I e4_E m_B ao4_I z_I iy5_E SIL 
+BAC009S0150W0487 SIL j_B i4_I zh_I e3_E er4_B sh_I ix2_I b_I a1_I r_I iz4_E c_B ong2_E l_B i4_I j_I iang1_I sh_I ix4_E SIL SIL_S h_B uo4_I x_I i1_E SIL 
+BAC009S0150W0488 SIL sh_B e4_I sh_I ix4_E l_B v3_I x_I ing2_I sh_I e4_E SIL b_B ei4_E f_B a2_I k_I uan3_E SIL_S SIL b_B ing4_E SIL_S i2_B g_I e4_I ve4_E SIL 
+BAC009S0150W0489 SIL sh_B e4_I sh_I ix4_E d_B ao3_I iu2_E z_B uo3_E m_B ou3_I m_I ou3_E SIL i3_S b_B ei4_E d_B iao4_I x_I iao1_E d_B ao3_I iu2_I zh_I eng4_E SIL 
+BAC009S0150W0490 SIL l_B i4_I j_I iang1_E i1_S n_B an2_I z_I iy3_E c_B u4_I s_I iy3_E j_B iu3_I b_I a1_E SIL j_B ia1_I sh_I u3_E SIL q_B iang2_I x_I ing2_E z_B ai4_E j_B iu3_I b_I a1_E n_B ei4_I sh_I e4_E l_B ing2_I t_I ang2_E SIL 
+BAC009S0150W0491 SIL q_B iang2_I x_I ing2_E j_B iang1_E sh_B ix1_I t_I i3_E b_B ai3_I f_I ang4_E v2_S j_B iu3_I b_I a1_E n_B ei4_E SIL 
+BAC009S0150W0492 SIL iang2_B ian2_E z_B ai4_E j_B iu3_I b_I a1_E n_B ei4_I sh_I e4_E l_B ing2_I t_I ang2_E SIL 
+BAC009S0150W0493 SIL j_B ing3_I f_I ang1_E ch_B ang2_I sh_I ix2_I j_I ian1_E q_B van4_I sh_I uo1_E u2_B x_I iao4_E h_B ou4_E SIL 
+BAC009S0150W0494 SIL l_B i4_I j_I iang1_E l_B iang3_E j_B iu3_I b_I a1_E SIL_S t_B uo1_E b_B ei4_E SIL t_B ing2_I ie4_E SIL 
+BAC009S0150W0495 SIL zh_B en1_I d_I ui4_E SIL iu3_S m_B ei2_I t_I i3_I b_I ao4_I d_I ao4_E l_B i4_I j_I iang1_E g_B u3_I ch_I eng2_E b_B u4_I f_I en5_E j_B iu3_I b_I a1_E SIL c_B un2_I z_I ai4_E j_B iu3_I t_I uo1_E x_B ian4_I x_I iang4_E SIL 
+BAC009S0150W0496 SIL d_B ang1_I d_I i4_E s_B iy4_I j_I ia1_E x_B iang1_I g_I uan1_E zh_B ix2_I n_I eng2_E g_B uan3_I l_I i3_E b_B u4_I m_I en2_E SIL i3_S z_B u3_I ch_I eng2_E l_B ian2_I h_I e2_E d_B iao4_I ch_I a2_I z_I u3_E SIL 
+BAC009S0150W0497 SIL SIL_S SIL SIL_S EH1_B N_E SIL 
+BAC009S0150W0498 SIL SIL_S AE1_B K_I S_E SIL_S SIL 
+BAC009S0150W0499 SIL SIL_S SIL_S EH1_B F_E SIL 
+BAC009S0150W0500 SIL SIL_S SIL D_B IY1_E SIL_S SIL 
+BAC009S0252W0001 SIL eng3_S b_B ian4_I un1_E un1_B d_I u4_E SIL sh_B e4_E ui2_S l_B iang3_I d_I u4_E SIL 
+BAC009S0252W0002 SIL b_B ian4_I un1_E un1_B d_I u4_E sh_B e4_E ui2_S l_B iang3_I d_I u4_E d_B ang4_E SIL 
+BAC009S0252W0003 SIL b_B ian4_I un1_E un1_B d_I u4_E sh_B e4_I ui2_E SIL l_B iang3_E sh_B e4_I sh_I ix4_I d_I u4_E d_B ang4_E SIL 
+BAC009S0252W0004 SIL b_B ian4_I un1_E un1_B d_I u4_E sh_B e4_I ui2_E l_B iang3_E sh_B e4_I sh_I ix4_I d_I u4_E SIL 
+BAC009S0252W0005 SIL b_B ian4_I un1_E un1_B d_I u4_E sh_B e4_E ui2_S l_B iang3_I d_I u4_E SIL 
+BAC009S0252W0006 SIL van3_B d_I ong1_E b_B ai3_I h_I uo4_E SIL l_B v2_E m_B a3_I sh_I ix4_E d_B ian4_E SIL 
+BAC009S0252W0007 SIL sh_B u3_I j_I iu3_I x_I iang1_E h_B uo3_I g_I uo1_E j_B iu3_I l_I ou2_E z_B iy3_I zh_I u2_E n_B an2_I i1_I j_I ie1_E SIL 
+BAC009S0252W0008 SIL eng3_S uo4_B er3_I m_I a3_E sh_B u3_E x_B i1_I l_I u4_E f_B en1_I d_I ian4_E SIL 
+BAC009S0252W0009 SIL SIL_S j_B ia1_I j_I v1_E i4_B zh_I ou1_E d_B a4_I d_I ao4_E b_B ei3_I d_I uan4_E SIL 
+BAC009S0252W0010 SIL d_B u1_I j_I iang1_I ian4_E j_B ing3_I q_I v1_E d_B ong1_I n_I an2_E m_B en2_E SIL 
+BAC009S0252W0011 SIL eng1_S ch_B eng2_I h_I uang2_I m_I iao4_E d_B ian4_I n_I ao3_I ch_I eng2_E SIL 
+BAC009S0252W0012 SIL e4_S j_B ia1_I l_I e4_I f_I u2_E x_B in1_E d_B ou1_E d_B ian4_E SIL 
+BAC009S0252W0013 SIL h_B ai3_I n_I ing2_E p_B i2_I g_I e2_E ch_B eng2_E SIL 
+BAC009S0252W0014 SIL n_B an2_I q_I iao2_E SIL 
+BAC009S0252W0015 SIL eng3_S g_B uo2_I s_I e4_E SIL_S l_B e4_I van2_E SIL 
+BAC009S0252W0016 SIL h_B uang2_I ch_I eng2_E l_B ao3_I m_I a1_E h_B uo3_I g_I uo1_E q_B in2_I t_I ai2_E l_B u4_I d_I ian4_E SIL 
+BAC009S0252W0017 SIL x_B in1_I sh_I ix4_I j_I i4_E d_B ian4_I n_I ao3_E sh_B ang1_I ch_I eng2_E SIL 
+BAC009S0252W0018 SIL x_B in1_E d_B u1_E g_B ui4_I h_I u2_E SIL 
+BAC009S0252W0019 SIL SIL_S SIL SIL_S 
+BAC009S0252W0020 SIL h_B ai3_I ch_I ang1_E j_B i2_I d_I i4_E h_B ai3_I iang2_E sh_B ix4_I j_I ie4_E x_B i1_I m_I en2_E SIL 
+BAC009S0252W0021 SIL d_B i4_I u3_E d_B a4_I d_I ao4_E SIL 
+BAC009S0252W0022 SIL j_B in1_E h_B an4_I s_I iy1_E SIL_S l_B u4_I d_I ian4_E SIL 
+BAC009S0252W0023 SIL z_B iy4_I g_I ong4_E h_B ao4_I ch_I ix1_E k_B e4_E SIL 
+BAC009S0252W0024 SIL SIL_S van2_S SIL 
+BAC009S0252W0025 SIL sh_B u3_I sh_I an1_E h_B uo3_I g_I uo1_E SIL 
+BAC009S0252W0026 SIL eng3_S ch_B eng2_I d_I u1_E u3_B h_I ou2_E s_B iy4_E d_B ong1_I n_I an2_E m_B en2_E SIL 
+BAC009S0252W0027 SIL SIL_S s_B iy4_E SIL 
+BAC009S0252W0028 SIL d_B a4_I ch_I eng2_E sh_B ix4_I ch_I ang3_E SIL 
+BAC009S0252W0029 SIL ch_B a2_E d_B ian4_I z_I iy5_E SIL 
+BAC009S0252W0030 SIL ch_B ong2_I q_I ing4_E k_B ong3_I l_I iang4_E sh_B an4_I v2_E h_B uo3_I g_I uo1_E h_B ong2_I x_I ing1_I l_I u4_E s_B iy4_I d_I uan4_E SIL 
+BAC009S0252W0031 SIL s_B iy4_I ch_I uan1_E x_B in1_I h_I ua2_I sh_I u1_I d_I ian4_E j_B i2_I t_I uan2_E SIL un2_B x_I van1_E x_B i1_I n_I an2_E sh_B u1_I ch_I eng2_E SIL 
+BAC009S0252W0032 SIL b_B ei3_I h_I u2_E g_B ong1_I van2_E SIL 
+BAC009S0252W0033 SIL SIL_S ie4_B sh_I ix4_E SIL 
+BAC009S0252W0034 SIL ch_B ong2_I q_I ing4_E SIL_S l_B ao3_E h_B uo3_I g_I uo1_E sh_B a1_I z_I iy5_E SIL_S SIL 
+BAC009S0252W0035 SIL sh_B ix2_I d_I ai4_E SIL ao4_S SIL_S SIL_S SIL_S SIL 
+BAC009S0252W0036 SIL eng1_S SIL d_B a3_I k_I ai1_E q_B v4_E d_B a4_I l_I i3_E SIL 
+BAC009S0252W0037 SIL d_B a3_I k_I ai1_E zh_B ix4_E q_B ing1_I ch_I un1_E SIL 
+BAC009S0252W0038 SIL d_B a3_I k_I ai1_E SIL_S SIL_S SIL_S SIL 
+BAC009S0252W0039 SIL d_B a3_I k_I ai1_E l_B ao3_E n_B an2_I h_I ai2_E SIL 
+BAC009S0252W0040 d_B a3_I k_I ai1_E SIL_S SIL_S SIL SIL_S SIL 
+BAC009S0252W0041 SIL d_B a3_I k_I ai1_E iu4_S j_B ian4_E sh_B an1_I l_I i5_I h_I ong2_E SIL 
+BAC009S0252W0042 SIL d_B a3_I k_I ai1_E n_B i3_E sh_B ix4_E uo3_S j_B in1_I sh_I eng1_E d_B i3_E i1_B k_I ao4_E SIL 
+BAC009S0252W0043 SIL d_B a3_I k_I ai1_E h_B ong2_I d_I ou4_E SIL 
+BAC009S0252W0044 SIL d_B a3_I k_I ai1_E f_B eng1_I ve4_E SIL 
+BAC009S0252W0045 SIL d_B a3_I k_I ai1_E ch_B uang3_E m_B a3_I t_I ou3_E D_B IY1_E SIL_S b_B an3_E SIL 
+BAC009S0252W0046 SIL d_B a3_I k_I ai1_E j_B i3_E uo3_S i2_B g_I e4_E l_B i3_I iu2_E uang4_B j_I i4_E SIL 
+BAC009S0252W0047 SIL d_B a3_I k_I ai1_E x_B iao3_I j_I i1_E x_B iao3_I j_I i1_E SIL 
+BAC009S0252W0048 SIL d_B a3_I k_I ai1_E uo3_S d_B e5_E g_B e1_I sh_I eng1_E l_B i3_E SIL 
+BAC009S0252W0049 SIL d_B a3_I k_I ai1_E n_B i3_E b_B a4_E ai4_B q_I ing2_E g_B ei3_E l_B e5_E sh_B ui2_E SIL 
+BAC009S0252W0050 SIL d_B a3_I k_I ai1_E uo3_B m_I en5_E h_B ao3_I x_I iang4_E z_B ai4_E SIL_S SIL g_B uo4_E SIL 
+BAC009S0252W0051 SIL d_B a3_I k_I ai1_E j_B van3_E zh_B u1_I l_I ian2_E SIL 
+BAC009S0252W0052 SIL d_B a3_I k_I ai1_E b_B u2_I z_I ai4_E l_B ian2_I x_I i4_E SIL 
+BAC009S0252W0053 SIL d_B a3_I k_I ai1_E i2_B b_I ei4_I z_I iy5_E d_B e5_E ai4_S SIL 
+BAC009S0252W0054 SIL d_B a3_I k_I ai1_E iu3_S i2_B g_I e5_E d_B i4_I f_I ang1_E SIL 
+BAC009S0252W0055 SIL d_B a3_I k_I ai1_E sh_B ix2_I j_I ian1_E zh_B u3_E v3_S SIL 
+BAC009S0252W0056 SIL d_B a3_I k_I ai1_E h_B ai3_I k_I uo4_I t_I ian1_I k_I ong1_E SIL 
+BAC009S0252W0057 SIL d_B a3_I k_I ai1_E m_B o2_I f_I a3_E ch_B eng2_I b_I ao3_E SIL 
+BAC009S0252W0058 SIL d_B a3_I k_I ai1_E SIL_S b_B u2_I zh_I u4_E d_B e5_E SIL ai4_S SIL 
+BAC009S0252W0059 SIL d_B a3_I k_I ai1_E r_B u2_I g_I uo3_E m_B ei2_I iu3_E n_B i3_E SIL 
+BAC009S0252W0060 SIL d_B a3_I k_I ai1_E SIL_S SIL 
+BAC009S0252W0061 SIL d_B a3_I k_I ai1_E SIL_S SIL_S SIL SIL_S 
+BAC009S0252W0062 SIL d_B a3_I k_I ai1_E n_B i4_I zh_I an4_E SIL 
+BAC009S0252W0063 SIL d_B a3_I k_I ai1_E ai4_S n_B i3_E i4_B sh_I eng1_E SIL 
+BAC009S0252W0064 SIL d_B a3_I k_I ai1_E x_B in1_E g_B ui4_I f_I ei1_I z_I ui4_I j_I iu3_E SIL 
+BAC009S0252W0065 SIL d_B a3_I k_I ai1_E SIL_S SIL 
+BAC009S0252W0066 SIL d_B a3_I k_I ai1_E un2_B un3_E SIL d_B e5_E x_B ing4_I f_I u2_E SIL 
+BAC009S0252W0067 SIL d_B a3_I k_I ai1_E ch_B ang4_E zh_B e5_E q_B ing2_I g_I e1_E l_B iu2_I zh_I e5_I l_I ei4_E SIL 
+BAC009S0252W0068 SIL d_B a3_I k_I ai1_E sh_B ix2_I j_I ian1_E d_B ou1_E q_B v4_E n_B a3_I er1_E SIL l_B iao3_E SIL 
+BAC009S0252W0069 SIL d_B a3_I k_I ai1_E h_B e2_I t_I ang2_I ve4_I s_I e4_E SIL 
+BAC009S0252W0070 SIL d_B a3_I k_I ai1_E x_B iong1_I d_I i4_E b_B ao4_E i1_B x_I ia4_E SIL 
+BAC009S0252W0071 SIL d_B a3_I k_I ai1_E ai4_B q_I ing2_I l_I u4_E SIL 
+BAC009S0252W0072 SIL d_B a3_I k_I ai1_E b_B a4_I b_I a5_E q_B v4_E n_B a3_I er1_E SIL 
+BAC009S0252W0073 SIL d_B a3_I k_I ai1_E SIL b_B u3_I g_I ua4_E SIL 
+BAC009S0252W0074 SIL d_B a3_I k_I ai1_E uo3_S z_B ui4_E q_B in1_I ai4_E d_B e5_E SIL 
+BAC009S0252W0075 SIL d_B a3_I k_I ai1_E c_B un2_I z_I ai4_E SIL 
+BAC009S0252W0076 SIL d_B a3_I k_I ai1_E zh_B ong1_I v2_E d_B eng3_I d_I ao5_E n_B i3_E SIL 
+BAC009S0252W0077 SIL d_B a3_I k_I ai1_E ie4_B k_I ong1_E zh_B ong4_E SIL_S d_B e5_E x_B ing1_E SIL 
+BAC009S0252W0078 SIL d_B a3_I k_I ai1_E uan2_B m_I ei3_E sh_B ix4_I j_I ie4_E zh_B u3_I t_I i2_I q_I v3_E SIL 
+BAC009S0252W0079 SIL d_B a3_I k_I ai1_E z_B iy3_I g_I uang1_E SIL 
+BAC009S0252W0080 SIL d_B a3_I k_I ai1_E ai4_S d_B e5_E sh_B ix4_I j_I ie4_E zh_B ix2_I iu3_E n_B i3_E SIL 
+BAC009S0252W0081 SIL d_B a3_I k_I ai1_E zh_B ong1_I g_I uo2_E ui4_B d_I ao5_E SIL 
+BAC009S0252W0082 SIL l_B iu4_E j_B iu3_E b_B a1_E s_B an1_E er4_S u3_S s_B iy4_E b_B a1_E SIL 
+BAC009S0252W0083 SIL j_B iu3_E b_B a1_E q_B i1_E j_B iu3_E l_B ing2_E j_B iu3_E l_B ing2_E er4_S SIL 
+BAC009S0252W0084 SIL s_B an1_E s_B iy4_E j_B iu3_E j_B iu3_E s_B iy4_E s_B an1_E er4_S s_B an1_E SIL 
+BAC009S0252W0085 SIL l_B ing2_E q_B i1_E SIL iao1_S er4_S er4_S er4_S b_B a1_E u3_S SIL 
+BAC009S0252W0086 SIL u3_S er4_S s_B iy4_E s_B an1_E s_B an1_E b_B a1_E b_B a1_E SIL iao1_S SIL 
+BAC009S0252W0087 SIL l_B ing2_E j_B iu3_E q_B i1_E s_B an1_E j_B iu3_E l_B iu4_E j_B iu3_E u3_S SIL 
+BAC009S0252W0088 SIL q_B i1_E q_B i1_E iao1_S u3_S j_B iu3_E s_B an1_E b_B a1_E s_B iy4_E SIL 
+BAC009S0252W0089 SIL b_B a1_E b_B a1_E l_B iu4_E s_B iy4_E b_B a1_E u3_S q_B i1_E s_B an1_E SIL 
+BAC009S0252W0090 SIL j_B iu3_E s_B an1_E u3_S q_B i1_E u3_S l_B iu4_E u3_S s_B an1_E SIL 
+BAC009S0252W0091 SIL s_B an1_E b_B a1_E j_B iu3_E j_B iu3_E s_B iy4_E u3_S er4_S SIL iao1_S SIL 
+BAC009S0252W0092 SIL l_B iu4_E j_B iu3_E er4_S SIL iao1_S SIL b_B a1_E l_B iu4_E b_B a1_E b_B a1_E SIL 
+BAC009S0252W0093 SIL q_B i1_E u3_S l_B iu4_E u3_S l_B iu4_E SIL l_B ing2_E l_B ing2_E b_B a1_E SIL 
+BAC009S0252W0094 SIL l_B iu4_E er4_S er4_S er4_S s_B an1_E s_B iy4_E SIL iao1_S l_B ing2_E SIL 
+BAC009S0252W0095 SIL iao1_S iao1_S j_B iu3_E l_B iu4_E j_B iu3_E u3_S u3_S s_B an1_E SIL 
+BAC009S0252W0096 SIL q_B i1_E j_B iu3_E SIL iao1_S l_B ing2_E SIL er4_S l_B ing2_E j_B iu3_E j_B iu3_E SIL 
+BAC009S0252W0097 SIL l_B iu4_E er4_S SIL iao1_S j_B iu3_E l_B ing2_E s_B iy4_E SIL b_B a1_E l_B iu4_E SIL 
+BAC009S0252W0098 SIL s_B iy4_E q_B i1_E er4_S j_B iu3_E q_B i1_E l_B ing2_E iao1_S iao1_S SIL 
+BAC009S0252W0099 SIL s_B iy4_E er4_S u3_S SIL b_B a1_E j_B iu3_E j_B iu3_E s_B iy4_E u3_S SIL 
+BAC009S0252W0100 SIL l_B ing2_E l_B ing2_E u3_S s_B iy4_E s_B iy4_E SIL b_B a1_E q_B i1_E SIL j_B iu3_E SIL 
+BAC009S0252W0101 SIL er4_S er4_S er4_S s_B iy4_E l_B ing2_E s_B an1_E er4_S l_B ing2_E SIL 
+BAC009S0252W0102 SIL j_B iu3_E l_B iu4_E b_B a1_E q_B i1_E q_B i1_E b_B a1_E u3_S q_B i1_E SIL 
+BAC009S0252W0103 SIL l_B ing2_E er4_S l_B ing2_E l_B iu4_E l_B ing2_E s_B iy4_E u3_S j_B iu3_E SIL 
+BAC009S0252W0104 SIL s_B an1_E q_B i1_E s_B an1_E b_B a1_E SIL b_B a1_E l_B iu4_E j_B iu3_E j_B iu3_E SIL 
+BAC009S0252W0105 SIL j_B iu3_E s_B an1_E q_B i1_E s_B iy4_E l_B ing2_E s_B iy4_E j_B iu3_E er4_S SIL 
+BAC009S0252W0106 SIL s_B an1_E s_B an1_E u3_S u3_S SIL b_B a1_E l_B ing2_E l_B ing2_E j_B iu3_E SIL 
+BAC009S0252W0107 SIL l_B ing2_E l_B ing2_E SIL iao1_S er4_S l_B iu4_E SIL s_B iy4_E s_B iy4_E u3_S SIL 
+BAC009S0252W0108 SIL j_B iu3_E b_B a1_E iao1_S er4_S b_B a1_E l_B iu4_E s_B iy4_E er4_S SIL 
+BAC009S0252W0109 SIL s_B an1_E j_B iu3_E j_B iu3_E l_B iu4_E l_B ing2_E SIL iao1_S iao1_S l_B ing2_E SIL 
+BAC009S0252W0110 SIL iao1_S er4_S j_B iu3_E u3_S SIL b_B a1_E s_B iy4_E j_B iu3_E q_B i1_E SIL 
+BAC009S0252W0111 SIL l_B ing2_E n_B eng2_I l_I i4_E zh_B e3_E SIL_S SIL_S d_B e5_E h_B uang3_I ian2_E SIL 
+BAC009S0252W0112 SIL l_B ing2_I sh_I an1_E sh_B en2_I j_I ian4_E SIL 
+BAC009S0252W0113 SIL l_B ing2_I sh_I an1_E SIL x_B ia2_I l_I v3_E SIL 
+BAC009S0252W0114 SIL SIL_S b_B u4_I t_I ong2_E SIL 
+BAC009S0252W0115 SIL SIL_S t_B an4_E SIL 
+BAC009S0252W0116 SIL SIL_S SIL 
+BAC009S0252W0117 SIL SIL_S SIL 
+BAC009S0252W0118 SIL l_B ing2_I i4_E b_B a1_I sh_I ix4_E sh_B ix4_I j_I ian4_I b_I u4_E SIL 
+BAC009S0252W0119 SIL l_B ing2_I i4_E d_B ang4_I an4_E SIL 
+BAC009S0252W0120 SIL l_B ing2_I i4_E j_B iu4_I sh_I ix4_I zh_I u3_E SIL 
+BAC009S0252W0121 SIL zh_B uan3_I x_I iang4_E c_B u4_E sh_B ang1_I p_I in3_I f_I ang2_E SIL x_B iao1_I sh_I ou4_E c_B u4_E f_B ang2_I d_I i4_I ch_I an3_E k_B ai1_I f_I a1_E t_B ou2_I z_I iy1_E SIL 
+BAC009S0252W0122 SIL q_B i2_E p_B an4_I d_I uan4_E er4_B l_I ing2_I i1_E u3_B n_I ian2_E h_B ang2_I ie4_E zh_B eng4_I c_I e4_E h_B uan2_I j_I ing4_E j_B iang4_E ch_B ix2_I x_I v4_E z_B ou3_E h_B ao4_E SIL 
+BAC009S0252W0123 SIL l_B iu2_I d_I ong4_I x_I ing4_E j_B i2_E x_B in4_I d_I ai4_E ie3_S sh_B ix4_E ing2_B x_I iang3_E f_B ang2_I d_I i4_I ch_I an3_E d_B e5_E zh_B ong4_I iao4_E in1_B s_I u4_E SIL 
+BAC009S0252W0124 SIL ch_B u2_E i2_B j_I i4_I d_I u4_E d_B e5_E SIL_S j_B iang4_I x_I i1_E zh_B ix1_I uai4_E SIL 
+BAC009S0252W0125 SIL n_B ian2_I n_I ei4_E SIL_S r_B eng2_E j_B iang4_E ch_B ix2_I x_I v4_E z_B ou3_E k_B uan1_E SIL 
+BAC009S0252W0126 SIL i3_S d_B ui4_I ch_I ong1_E uai4_B h_I ui4_E zh_B an4_I k_I uan3_E SIL x_B ia4_I j_I iang4_E SIL 
+BAC009S0252W0127 SIL z_B ai4_I c_I iy4_E SIL SIL_S j_B iang4_I x_I i1_E d_B e5_E k_B e3_I n_I eng2_I x_I ing4_E j_B iao4_I d_I a4_E SIL 
+BAC009S0252W0128 SIL SIL_S d_B e5_E f_B ang4_I k_I uan1_E iu3_B l_I i4_I v2_E sh_B ix4_I f_I ang4_E g_B ou4_I m_I ai3_I l_I i4_E SIL 
+BAC009S0252W0129 SIL v4_B j_I i4_E z_B ai4_E s_B an1_I ve4_I f_I en4_E j_B iang1_I h_I ui4_E ch_B u1_I x_I ian4_E SIL sh_B ou3_E t_B ao4_I f_I ang2_E d_B ai4_I k_I uan3_E SIL_S zh_B e1_E z_B uo3_I iu4_E d_B e5_E zh_B e2_I k_I ou4_E SIL 
+BAC009S0252W0130 SIL x_B iang1_I d_I ang1_I v2_E f_B ang2_I j_I ia4_E b_B ian4_I x_I iang4_E ch_B u1_I x_I ian4_E l_B e5_E x_B ia4_I t_I iao2_E SIL 
+BAC009S0252W0131 SIL j_B in1_I r_I ong2_E x_B i4_I t_I ong3_E s_B iy4_I h_I u1_E ie3_S z_B ai4_E j_B ia1_I d_I a4_E d_B ui4_E f_B ang2_I d_I i4_I ch_I an3_E d_B e5_E t_B ou2_I z_I iy1_E l_B i4_I d_I u4_E SIL 
+BAC009S0252W0132 SIL h_B eng2_I d_I a4_E d_B i4_I ch_I an3_E i3_B h_I uo4_E zh_B ong1_I h_I ang2_E d_B eng3_E s_B iy4_I j_I ia1_E in2_B h_I ang2_E i1_B q_I ian1_I i4_E SIL_S SIL 
+BAC009S0252W0133 SIL q_B i2_I zh_I ong1_E zh_B ong1_I h_I ang2_E s_B an1_I b_I ai3_E i4_S sh_B ou4_I x_I in4_E ch_B uang4_I x_I in1_E SIL q_B i2_E d_B ui4_E f_B ang2_I d_I i4_I ch_I an3_E d_B e5_E sh_B ou4_I x_I in4_E j_B i4_I l_I u4_E SIL 
+BAC009S0252W0134 SIL zh_B eng4_I c_I e4_E h_B e2_E l_B iu2_I d_I ong4_I x_I ing4_E d_B e5_E k_B uan1_I s_I ong1_E v4_B q_I i1_E h_B en3_I k_I uai4_E f_B an3_I ing4_E d_B ao4_E sh_B ix4_I ch_I ang3_E zh_B ong4_E SIL 
+BAC009S0252W0135 SIL z_B ai4_E j_B ing1_I g_I uo4_E l_B e5_E sh_B ix2_I er4_I ve4_I f_I en4_E d_B e5_E d_B i1_I m_I i2_E zh_B ix1_I h_I ou4_E SIL 
+BAC009S0252W0136 SIL iao1_S er4_B x_I ian4_E l_B ou2_I sh_I ix4_E k_B ai1_I sh_I ix3_E ch_B u1_I x_I ian4_E f_B u4_I s_I u1_E j_B i4_I x_I iang4_E SIL 
+BAC009S0252W0137 SIL i1_B zh_I ou1_E q_B ian1_I ve1_E t_B ao4_I sh_I u4_E ui2_S u3_B uan4_E t_B ao4_E SIL 
+BAC009S0252W0138 SIL h_B uan2_I b_I i3_E sh_B ang4_E SIL sh_B ang4_I zh_I ou1_E sh_B ang4_I zh_I ang3_E l_B iao3_E SIL 
+BAC009S0252W0139 SIL g_B e4_I d_I a4_E k_B ai1_I f_I a1_I sh_I ang1_E z_B ai4_E zh_B u3_I l_I iu2_E ch_B eng2_I sh_I ix4_E k_B ai1_I sh_I ix3_E j_B in4_I r_I u4_E SIL_S g_B ao1_I f_I eng1_I q_I i1_E SIL 
+BAC009S0252W0140 SIL zh_B ong1_I zh_I ix3_E van4_S SIL_S x_B ian3_I sh_I ix4_E SIL 
+BAC009S0252W0141 SIL sh_B ang4_I zh_I ou1_E zh_B ong4_I d_I ian3_E ch_B eng2_I sh_I ix4_E g_B ong4_E k_B ai1_I p_I an2_E SIL_S x_B iang4_I m_I u4_E SIL 
+BAC009S0252W0142 SIL l_B ei3_I j_I i4_E t_B ui1_I ch_I u1_E ve1_S s_B iy4_I q_I ian1_E t_B ao4_I f_I ang2_E van2_S SIL 
+BAC009S0252W0143 SIL i1_B x_I ian4_E ch_B eng2_I sh_I ix4_E b_B ei3_I j_I ing1_E k_B ai1_I p_I an2_E i2_B g_I e4_E x_B iang4_I m_I u4_E SIL 
+BAC009S0252W0144 SIL l_B ei3_I j_I i4_E t_B ui1_I ch_I u1_E f_B ang2_I van2_E s_B an1_I q_I ian1_E t_B ao4_E SIL 
+BAC009S0252W0145 SIL u3_B h_I an4_E t_B ian1_I j_I in1_E h_B e2_E h_B ang2_I zh_I ou1_E SIL SIL_S x_B iang1_I d_I ui4_E j_B i1_I j_I i2_E SIL 
+BAC009S0252W0146 SIL q_B i2_I zh_I ong1_E t_B ian1_I j_I in1_E k_B ai1_I p_I an2_E s_B iy4_I g_I e4_E x_B iang4_I m_I u4_E SIL 
+BAC009S0252W0147 SIL g_B ong4_E t_B ui1_I ch_I u1_E f_B ang2_I van2_E i1_B q_I ian1_E t_B ao4_E SIL 
+BAC009S0252W0148 SIL r_B u2_I j_I in1_E d_B e5_E l_B ou2_I sh_I ix4_E r_B u2_I t_I ong2_E h_B ao3_I l_I ai2_I u4_E d_B a4_I p_I ian4_E SIL 
+BAC009S0252W0149 SIL in3_B l_I ai2_E q_B ian2_I s_I uo3_I ui4_I iu3_E d_B e5_E g_B uan1_I zh_I u4_E SIL 
+BAC009S0252W0150 SIL zh_B ong1_I x_I in1_I uang3_E SIL_S t_B e4_E t_B ui1_I ch_I u1_E i4_B zh_I ou1_E SIL_S x_B i4_I l_I ie4_E SIL l_B an2_I m_I u4_E SIL 
+BAC009S0252W0151 SIL sh_B u1_I l_I i3_E i4_B zh_I ou1_E f_B ang2_I d_I i4_I ch_I an3_E h_B ang2_I ie4_E SIL_S SIL 
+BAC009S0252W0152 SIL j_B ie3_I x_I i1_E l_B ou2_I sh_I ix4_E h_B ong2_I g_I uan1_I t_I iao2_I k_I ong4_E zh_B eng4_I c_I e4_E SIL 
+BAC009S0252W0153 SIL x_B iang1_I g_I uan1_E g_B ong1_I s_I iy1_E SIL_S uan4_B k_I e1_E SIL b_B ao3_I l_I i4_E d_B i4_I ch_I an3_E SIL 
+BAC009S0252W0154 SIL van2_B ui4_E d_B e5_E l_B ou2_I sh_I ix4_E t_B ao1_I t_I ie4_E sh_B eng4_I ian4_E SIL 
+BAC009S0252W0155 SIL z_B iy4_E s_B an1_I b_I ai3_E f_B ang2_I d_I ai4_E x_B in1_I zh_I eng4_E f_B a1_I b_I u4_E h_B ou4_E SIL 
+BAC009S0252W0156 SIL i2_B iu3_E d_B uo1_I g_I e4_E d_B i4_I q_I v1_E f_B a1_I b_I u4_E l_B e5_E g_B ong1_I j_I i1_I j_I in1_E x_B in1_I zh_I eng4_E SIL 
+BAC009S0252W0157 SIL sh_B ang4_I h_I ai3_E f_B a1_I b_I u4_E d_B e5_E x_B in1_I zh_I eng4_E g_B ui1_I d_I ing4_E SIL 
+BAC009S0252W0158 SIL p_B in2_I f_I an2_E ch_B u1_I t_I ai2_E d_B e5_E l_B ou2_I sh_I ix4_E l_B i4_I h_I ao3_E SIL zh_B eng4_I c_I e4_E ie3_S k_B ai1_I sh_I ix3_E x_B ian3_I x_I iao4_E SIL 
+BAC009S0252W0159 SIL i1_B x_I ie1_E ch_B eng2_I sh_I ix4_E d_B e5_E er4_B sh_I ou3_I f_I ang2_E sh_B ix4_I ch_I ang3_E m_B ing2_I x_I ian3_E h_B ui2_I n_I uan3_E SIL 
+BAC009S0252W0160 SIL ch_B u1_I x_I ian4_E l_B e5_E l_B iang4_E SIL_S t_B ai4_I sh_I ix4_E SIL 
+BAC009S0252W0161 SIL j_B in4_I l_I ai2_E d_B uo1_I j_I ia1_E f_B ang2_I q_I i3_E SIL f_B a1_I b_I u4_E l_B iao3_E er4_B l_I ing2_I i1_E s_B iy4_I n_I ian2_E n_B ian2_I b_I ao4_E SIL 
+BAC009S0252W0162 SIL q_B v4_I n_I ian2_E f_B ang2_I ch_I an3_E d_B e5_E zh_B uan4_I q_I ian2_E x_B iao4_I l_I v4_E p_B u3_I b_I ian4_E x_B ia4_I h_I ua2_E SIL 
+BAC009S0252W0163 SIL ing2_B ie4_E sh_B ou1_I r_I u4_E h_B e2_E j_B ing4_I l_I i4_I r_I un4_E ui2_S b_B ai3_I f_I en1_I zh_I ix1_I b_I a1_I sh_I ix2_E zh_B ang3_I f_I u2_E sh_B uang1_I sh_I uang1_E f_B ang4_I h_I uan3_E SIL 
+BAC009S0252W0164 SIL er2_S g_B uang3_I zh_I ou1_E m_B in2_I j_I ian1_E s_B u4_I iu3_E q_B ing1_I m_I ing2_E q_B ian2_I h_I ou4_E m_B ai3_I f_I ang2_E b_B u4_E j_B i2_I l_I i4_E d_B e5_E j_B iang3_I j_I iu1_E SIL 
+BAC009S0252W0165 SIL j_B i4_I zh_I e3_E z_B ou3_I f_I ang3_E g_B uang3_I zh_I ou1_E sh_B ix4_I ch_I ang3_E j_B iu4_E f_B a1_I x_I ian4_E SIL 
+BAC009S0252W0166 SIL g_B uang3_I zh_I ou1_E j_B in3_E iu3_S i2_B g_I e4_E zh_B u4_I zh_I ai2_E l_B ou2_I p_I an2_E t_B ui1_I ch_I u1_E x_B in1_I h_I uo4_E SIL 
+BAC009S0252W0167 SIL s_B ui1_I r_I an2_E d_B uo1_I g_I e4_E z_B ai4_E SIL_S d_B e5_E k_B an4_I l_I ou2_E m_B ai3_I j_I ia1_E d_B ou1_E SIL_S SIL 
+BAC009S0252W0168 SIL b_B u2_I g_I uo4_E SIL iu2_B v2_E SIL b_B u4_I f_I en5_E in2_B h_I ang2_E d_B e5_E x_B in1_I zh_I eng4_E ui4_S zh_B eng4_I sh_I ix4_E l_B uo4_I d_I i4_E SIL 
+BAC009S0252W0169 SIL s_B ui1_I r_I an2_E q_B ing1_I m_I ing2_I j_I ie2_E i4_B b_I an1_I er2_I ian2_E k_B ai1_I f_I a1_I sh_I ang1_E d_B ou1_E sh_B ao3_I iu3_E SIL_S SIL 
+BAC009S0252W0170 SIL d_B an4_I sh_I ix4_E zh_B e4_I g_I e5_E j_B ia4_I q_I i1_E ui4_B v2_E SIL p_B an1_I v2_E SIL ou3_S d_B e5_E m_B ou3_E d_B a4_I x_I ing2_E l_B ou2_I p_I an2_E h_B ai2_I sh_I ix4_E ch_B eng2_I sh_I ix4_E q_B iang3_I g_I ong1_E sh_B ix4_I ch_I ang3_E SIL 
+BAC009S0252W0171 SIL j_B i4_I zh_I e3_E z_B ai4_E l_B ou2_I p_I an2_E x_B ian4_I ch_I ang3_E j_B iu4_E k_B an4_I d_I ao5_E SIL 
+BAC009S0252W0172 SIL x_B iao1_I sh_I ou4_E zh_B ong1_I x_I in1_E n_B ei4_E i1_B r_I an2_E b_B u2_I d_I uan4_E iu3_S x_B iao1_I h_I uo4_E r_B en2_I van2_E d_B ai4_E zh_B e5_E k_B e4_I h_I u4_E q_B ian2_I l_I ai2_E SIL 
+BAC009S0252W0173 SIL uai4_B m_I ian4_E ie3_S iu3_S b_B u4_I sh_I ao3_E z_B iy4_I j_I ia4_I ch_I e1_E d_B e5_E m_B ai3_I j_I ia1_E l_B u4_I x_I v4_E SIL z_B iy4_I x_I ing2_E q_B ian2_I l_I ai2_E SIL 
+BAC009S0252W0174 SIL x_B iang1_I b_I i3_E q_B v4_I n_I ian2_I d_I i3_E h_B e2_E j_B in1_I n_I ian2_I ch_I u1_E sh_B ix2_E SIL 
+BAC009S0252W0175 SIL g_B ai1_E l_B ou2_I p_I an2_E d_B e5_E r_B en2_I q_I i4_E iu3_S l_B e5_E m_B ing2_I x_I ian3_E d_B e5_E z_B eng1_I j_I ia1_E SIL 
+BAC009S0252W0176 SIL er2_S k_B ai1_I f_I a1_I sh_I ang1_E b_B ing4_E m_B ei2_I iu3_E z_B ai4_E x_B in1_I zh_I eng4_E ch_B u1_I t_I ai2_E h_B ou4_E x_B van3_I z_I e2_E l_B e5_E zh_B ang3_I j_I ia4_E SIL 
+BAC009S0252W0177 SIL b_B u4_I f_I en4_E d_B an1_I ui4_E d_B i3_E iu1_B h_I ui4_E ch_B eng2_I d_I u4_E sh_B en4_I zh_I ix4_E SIL j_B iao4_E zh_B ix1_I q_I ian2_E SIL iao1_S g_B eng1_E d_B uo1_E SIL 
+BAC009S0252W0178 SIL b_B u4_I j_I in3_E er4_S t_B ao4_I f_I ang2_E sh_B ou3_I f_I u4_E x_B ia4_I t_I iao2_E ui2_S s_B iy4_I ch_I eng2_E SIL 
+BAC009S0252W0179 SIL g_B ong1_I j_I i1_I j_I in1_E sh_B ou3_E SIL t_B ao4_I f_I ang2_E er4_S t_B ao4_I f_I ang2_E sh_B ou3_I f_I u4_E f_B en1_I b_I ie2_E j_B iang4_E zh_B ix4_E SIL_S s_B an1_I ch_I eng2_E SIL 
+BAC009S0252W0180 SIL er4_B sh_I ou3_I f_I ang2_E ing2_B ie4_I sh_I ui4_E m_B ian3_I zh_I eng1_E q_B i1_I x_I ian4_E ie3_S iu2_S u3_B n_I ian2_E s_B uo1_I j_I ian3_E ui2_S l_B iang3_I n_I ian2_E SIL 
+BAC009S0252W0181 SIL f_B ang2_I d_I i4_I ch_I an3_E sh_B ix4_I ch_I ang3_E sh_B eng1_I un1_E v4_B q_I i1_E q_B iang2_I l_I ie4_E SIL 
+BAC009S0252W0182 SIL b_B ei3_I j_I ing1_E l_B ou2_I sh_I ix4_E f_B an3_I ing4_E j_B iu1_I j_I ing4_E r_B u2_I h_I e2_E SIL 
+BAC009S0252W0183 SIL q_B ing1_I m_I ing2_E x_B iao3_E ch_B ang2_I j_I ia4_E x_B in1_I f_I ang2_E sh_B ix4_I ch_I ang3_E k_B an4_I f_I ang2_E r_B en2_I sh_I u4_E m_B ing2_I x_I ian3_E z_B eng1_I d_I uo1_E SIL 
+BAC009S0252W0184 SIL d_B an4_E j_B ve2_I d_I a4_I d_I uo1_I sh_I u4_E l_B ou2_I p_I an2_E sh_B ou4_I j_I ia4_E SIL_S SIL 
+BAC009S0252W0185 SIL er2_S i1_B x_I iang4_E d_B ui4_E x_B in1_I zh_I eng4_E g_B eng4_I ui2_E m_B in2_I g_I an3_E d_B e5_E er4_B sh_I ou3_I f_I ang2_E sh_B ix4_I ch_I ang3_E SIL 
+BAC009S0252W0186 SIL z_B e2_E i3_S ch_B eng2_I x_I ian4_I ch_I u1_E SIL l_B iang4_E SIL_S t_B ai4_I sh_I ix4_E SIL 
+BAC009S0252W0187 SIL g_B ong1_I m_I u4_E j_B i1_I j_I in1_E g_B uan3_I l_I i3_E r_B en2_E k_B e2_I i3_E sh_B ix2_I x_I ing2_E zh_B uan1_I ie4_I r_I en2_I sh_I ix4_E ch_B ix2_I g_I u3_E j_B i4_I h_I ua4_E SIL 
+BAC009S0252W0188 SIL g_B uan3_I l_I i3_E r_B en2_E b_B an4_I f_I a3_E v2_B i3_E j_B in4_I i2_I b_I u4_E q_B ve4_E m_B ing2_I q_I ve4_E SIL 
+BAC009S0252W0189 SIL ch_B u2_I l_I e5_E van2_B z_I e2_E g_B ui1_I d_I ing4_E j_B i1_I j_I in1_E g_B ong1_I s_I iy1_E k_B e2_I i3_E j_B ie2_I h_I e2_E z_B iy4_I sh_I en1_E sh_B ix2_I j_I i4_E SIL 
+BAC009S0252W0190 SIL sh_B ix2_I x_I ing2_E SIL zh_B uan1_I ie4_I r_I en2_I sh_I ix4_E ch_B ix2_I g_I u3_E j_B i4_I h_I ua4_E SIL 
+BAC009S0252W0191 SIL j_B ian4_I l_I i4_E ch_B ang2_I x_I iao4_E j_B i1_I l_I i4_E ve1_B sh_I u4_E j_B i1_I zh_I ix4_E i3_B uai4_E SIL 
+BAC009S0252W0192 SIL SIL_S q_B i2_I t_I a1_E j_B i1_I g_I ou4_E k_B ai1_I zh_I an3_E g_B ong1_I m_I u4_E j_B i1_I j_I in1_E g_B uan3_I l_I i3_E ie4_B u4_E d_B e5_E j_B ian1_I g_I uan3_E iao1_B q_I iu2_E SIL 
+BAC009S0252W0193 SIL x_B iang1_I b_I i3_E ch_B uan2_I t_I ong3_E d_B e5_E j_B i1_I j_I in1_E g_B ong1_I s_I iy1_E SIL 
+BAC009S0252W0194 SIL t_B a1_I m_I en5_E d_B e5_E g_B ong1_I m_I u4_E p_B ai2_I zh_I ao4_E ie3_S sh_B ix4_E s_B iy4_I h_I ou4_E sh_B en1_I q_I ing3_E d_B e5_E SIL 
+BAC009S0252W0195 SIL in1_B c_I iy3_E d_B ui4_E zh_B e4_I l_I ei4_E j_B i1_I g_I ou4_E d_B e5_E j_B ian1_I g_I uan3_E v3_S SIL j_B i1_I j_I in1_E g_B ong1_I s_I iy1_E d_B e5_E j_B ian1_I g_I uan3_E c_B un2_I z_I ai4_E ch_B a1_I i4_E SIL 
+BAC009S0252W0196 SIL d_B an4_I sh_I ix4_E z_B ai4_E j_B v4_I t_I i3_E k_B ai1_I zh_I an3_E g_B ong1_I m_I u4_E ie4_B u4_E f_B ang1_I m_I ian4_E SIL 
+BAC009S0252W0197 SIL zh_B e4_I x_I ie1_E j_B i1_I g_I ou4_E v3_S j_B i1_I j_I in1_E g_B ong1_I s_I iy1_E j_B vn1_E ui2_S j_B i1_I j_I in1_E g_B uan3_I l_I i3_E r_B en2_E SIL 
+BAC009S0252W0198 SIL SIL_S d_B e5_E SIL_S ing4_S u2_S b_B u4_I t_I ong2_E SIL 
+BAC009S0252W0199 SIL g_B ong1_I m_I u4_E j_B i1_I j_I in1_E g_B uan3_I l_I i3_E ie4_B u4_E g_B ui1_I f_I an4_E SIL 
+BAC009S0252W0200 SIL i3_B j_I i2_E x_B ian4_I ch_I ang3_E j_B ian3_I ch_I a2_E f_B ei1_E x_B ian4_I ch_I ang3_E SIL j_B ian3_I ch_I a2_E zh_B ong4_I d_I a4_E sh_B ix4_I x_I iang4_E b_B ao4_I g_I ao4_E d_B eng3_E r_B iz4_I ch_I ang2_E j_B ian1_I g_I uan3_E SIL 
+BAC009S0252W0201 SIL g_B en1_I j_I v4_E x_B in1_E j_B i1_I j_I in1_I f_I a3_E d_B e5_E sh_B ou4_I q_I van2_E h_B e2_E iao1_B q_I iu2_E SIL 
+BAC009S0252W0202 SIL d_B ui4_E x_B iang1_I g_I uan1_E t_B iao2_I k_I uan3_E d_B e5_E sh_B ix4_I iong4_E v2_B i3_E j_B in4_I i2_I b_I u4_E x_B i4_I h_I ua4_E h_B e2_E m_B ing2_I q_I ve4_E SIL 
+BAC009S0252W0203 SIL zh_B eng4_I j_I ian1_I h_I ui4_E k_B e3_I i3_E i1_B zh_I ao4_E zh_B eng4_I q_I van4_E t_B ou2_I z_I iy1_E j_B i1_I j_I in1_I f_I a3_E SIL_S d_B i4_E SIL g_B ui1_I d_I ing4_E SIL 
+BAC009S0252W0204 SIL SIL_S d_B e5_E j_B ian1_I g_I uan3_E c_B uo4_I sh_I ix1_E SIL 
+BAC009S0252W0205 SIL SIL_S m_B ing2_I q_I ve4_E j_B i1_I j_I in1_E g_B ong1_I s_I iy1_E sh_B ang4_I sh_I ix4_E d_B e5_E h_B ang2_I ie4_E j_B ian1_I g_I uan3_E iao1_B q_I iu2_E SIL 
+BAC009S0252W0206 SIL j_B in4_I i2_I b_I u4_E q_B v3_I x_I iao1_E b_B u4_I f_I en4_E SIL_S x_B iang4_I m_I u4_E SIL 
+BAC009S0252W0207 SIL j_B ing1_I g_I uo4_E d_B uo1_I n_I ian2_E d_B e5_E ch_B ix2_I x_I v4_E g_B ui1_I f_I an4_E f_B a1_I zh_I an3_E SIL 
+BAC009S0252W0208 SIL j_B i1_I j_I in1_E g_B ong1_I s_I iy1_E j_B i1_I b_I en3_E j_B v4_I b_I ei4_E l_B e5_E sh_B ang4_I sh_I ix4_E d_B e5_E t_B iao2_I j_I ian4_E h_B e2_E j_B i1_I ch_I u3_E SIL 
+BAC009S0252W0209 SIL x_B in1_E j_B i1_I j_I in1_I f_I a3_E q_B v3_I x_I iao1_E l_B e5_E d_B ui4_E ch_B ix2_I g_I u3_E b_B ai3_I f_I en1_I zh_I ix1_I i1_E i3_B x_I ia4_E g_B u3_I d_I ong1_E d_B e5_E x_B ing2_I zh_I eng4_E sh_B en3_I p_I i1_E SIL 
+BAC009S0252W0210 SIL j_B in4_I i1_I b_I u4_E s_B ao3_I q_I ing1_E l_B e5_E j_B i1_I j_I in1_E g_B ong1_I s_I iy1_E sh_B ang4_I sh_I ix4_E d_B e5_E zh_B ang4_I ai4_E SIL 
+BAC009S0252W0211 SIL b_B en3_I c_I iy4_E x_B iu1_I d_I ing4_E ie3_S x_B iang1_I ing4_E z_B eng1_I j_I ia1_E l_B e5_E j_B i1_I j_I in1_E g_B ong1_I s_I iy1_E sh_B ang4_I sh_I ix4_E d_B e5_E van2_B z_I e2_E iao1_B q_I iu2_E SIL 
+BAC009S0252W0212 SIL z_B ai4_E q_B ian2_I q_I i1_E j_B ian3_I h_I ua4_E x_B ing2_I zh_I eng4_E sh_B en3_I p_I i1_E d_B i3_E j_B i1_I ch_I u3_E sh_B ang4_E SIL 
+BAC009S0252W0213 SIL j_B iang4_E x_B iang1_I g_I uan1_E sh_B ix4_I x_I iang4_E SIL iu2_S sh_B ix4_I q_I ian2_E sh_B en3_I p_I i1_E g_B ai3_I ui2_E sh_B ix4_I h_I ou4_E b_B ao4_I g_I ao4_E SIL 
+BAC009S0252W0214 SIL h_B uan1_I ing2_E sh_B e4_I h_I ui4_I g_I e4_I j_I ie4_E j_B iu4_E x_B iu1_I d_I ing4_E c_B ao3_I an4_E t_B i2_I ch_I u1_E i4_B j_I ian4_E h_B e4_E j_B ian4_I i4_E SIL 
+BAC009S0252W0215 SIL x_B ia4_E i2_B b_I u4_E j_B iang4_E g_B en1_I j_I v4_E sh_B e4_I h_I ui4_E g_B e4_E f_B ang1_I m_I ian4_E d_B i3_E i4_B j_I ian4_E SIL 
+BAC009S0252W0216 SIL j_B iang4_E g_B uan3_I l_I i3_E r_B en2_E b_B an4_I f_I a3_E x_B iu1_I g_I ai3_E uan2_B sh_I an4_E h_B ou4_E f_B a1_I b_I u4_E sh_B ix2_I sh_I ix1_E SIL 
+BAC009S0252W0217 SIL zh_B ong1_I g_I uo2_I zh_I eng4_I j_I ian1_I h_I ui4_E SIL zh_B ao4_I k_I ai1_E x_B in1_I un2_E f_B a1_I b_I u4_I h_I ui4_E SIL 
+BAC009S0252W0218 SIL zh_B eng4_I j_I ian1_I h_I ui4_E x_B in1_I un2_E f_B a1_I ian2_I r_I en2_E b_B iao3_I sh_I ix4_E SIL 
+BAC009S0252W0219 SIL er4_B sh_I ix4_E SIL_S j_B i1_I j_I in1_E g_B uan3_I l_I i3_E r_B en2_E b_B ao3_I zh_I ang4_E d_B ong3_I sh_I ix4_E j_B ian1_I sh_I ix4_E d_B e5_E l_B v3_I zh_I ix2_E SIL t_B iao2_I j_I ian4_E SIL 
+BAC009S0252W0220 SIL q_B iang2_I d_I iao4_E i3_S j_B i1_I j_I in1_E f_B en4_I e2_E ch_B ix2_I iu3_I r_I en2_E l_B i4_I i4_E z_B ui4_I d_I a4_I h_I ua4_E ui2_S ch_B u1_I f_I a1_I d_I ian3_E SIL 
+BAC009S0252W0221 SIL s_B an1_I sh_I ix4_E g_B uan4_I ch_I e4_E x_B ing2_I zh_I eng4_E sh_B en3_I p_I i1_E zh_B ix4_I d_I u4_E g_B ai3_I g_I e2_E j_B ing1_I sh_I en2_E SIL 
+BAC009S0252W0222 SIL ch_B ong1_I f_I en4_I f_I a1_I h_I ui1_E SIL_S SIL z_B iy4_I l_I v4_E SIL l_B in2_I x_I van3_E j_B i1_I zh_I ix4_E SIL 
+BAC009S0252W0223 SIL h_B e2_I l_I i3_E t_B iao2_I zh_I eng3_E d_B ui4_E g_B ao1_I g_I uan3_E r_B en2_I van2_E SIL d_B ai4_I x_I ing2_E zh_B ix2_I u4_E sh_B ix2_I j_I ian1_E h_B e2_E j_B ian1_I zh_I ix2_E x_B ing2_I ui2_E d_B e5_E g_B ui1_I d_I ing4_E SIL 
+BAC009S0252W0224 SIL sh_B ix4_I d_I ang4_E ian2_B ch_I ang2_E x_B in4_I x_I i1_E b_B ao4_I s_I ong4_E sh_B ix2_I j_I ian1_E SIL 
+BAC009S0252W0225 SIL i3_S b_B i4_I m_I ian3_E d_B an1_I ch_I un2_E k_B ao3_I sh_I ix4_E c_B un2_I z_I ai4_E d_B e5_E b_B i4_I d_I uan1_E SIL 
+BAC009S0252W0226 SIL t_B i2_I g_I ao1_E ch_B u4_I l_I i3_E c_B uo4_I sh_I ix1_E d_B e5_E zh_B en1_I d_I ui4_I x_I ing4_E h_B e2_E iu3_B x_I iao4_I x_I ing4_E SIL 
+BAC009S0252W0227 SIL j_B ia1_I d_I a4_E d_B ui4_E ui2_B f_I a3_E ui2_B g_I ui1_I x_I ing2_I ui2_E d_B e5_E d_B a3_I j_I i1_E l_B i4_I d_I u4_E SIL 
+BAC009S0252W0228 SIL zh_B eng4_I j_I ian1_I h_I ui4_E j_B iang4_E ian2_B j_I iu1_E g_B e4_E f_B ang1_I m_I ian4_E d_B i3_E i4_B j_I ian4_E h_B e2_E j_B ian4_I i4_E SIL 
+BAC009S0252W0229 SIL d_B ui4_E g_B ao1_I g_I uan3_E j_B ian1_I g_I uan3_E SIL b_B an4_I f_I a3_E j_B i2_I q_I i2_E p_B ei4_I t_I ao4_E g_B ui1_I z_I e2_E SIL v2_B i3_E uan2_B sh_I an4_E h_B ou4_E f_B a1_I b_I u4_E sh_B ix2_I sh_I ix1_E SIL 
+BAC009S0252W0230 SIL b_B ing4_E x_B iang4_E sh_B e4_I h_I ui4_E g_B ong1_I k_I ai1_E SIL_S SIL 
+BAC009S0252W0231 SIL zh_B eng4_I j_I ian1_I h_I ui4_E iu3_B g_I uan1_E b_B u4_I m_I en2_E SIL f_B u4_I z_I e2_I r_I en2_E b_B iao3_I sh_I ix4_E SIL 
+BAC009S0252W0232 SIL er4_B l_I ing2_I l_I ing2_I l_I iu4_I n_I ian2_E j_B i1_I j_I in1_E h_B ang2_I ie4_E zh_B eng4_I sh_I ix4_E j_B ian4_I l_I i4_E f_B eng1_I x_I ian3_E zh_B un3_I b_I ei4_I j_I in1_E zh_B ix4_I d_I u4_E SIL 
+BAC009S0252W0233 SIL g_B ai1_E zh_B ix4_I d_I u4_E sh_B ix2_I sh_I ix1_E l_B iu4_I n_I ian2_E SIL_S SIL 
+BAC009S0252W0234 SIL j_B i2_I sh_I ix2_E z_B u2_I e2_E m_B i2_I b_I u3_E l_B e5_E j_B i1_I j_I in1_E c_B ai2_I ch_I an3_E j_B i2_E f_B en4_I e2_E ch_B ix2_I iu3_I r_I en2_E d_B e5_E s_B un3_I sh_I ix1_E SIL 
+BAC009S0252W0235 SIL s_B ui2_I zh_I e5_E j_B in4_I n_I ian2_I l_I ai2_E j_B i1_I j_I in1_E h_B ang2_I ie4_E d_B e5_E b_B u2_I d_I uan4_E f_B a1_I zh_I an3_E SIL 
+BAC009S0252W0236 SIL d_B ui4_E f_B eng1_I x_I ian3_E zh_B un3_I b_I ei4_I j_I in1_E zh_B ix4_I d_I u4_E d_B e5_E zh_B ong4_I iao4_I x_I ing4_E h_B e2_E b_B i4_I iao4_I x_I ing4_E SIL i4_S SIL_S d_B a2_I d_I ao4_E d_B a2_I ch_I eng2_E g_B ong4_I sh_I ix2_E SIL 
+BAC009S0252W0237 SIL an4_B zh_I ao4_E g_B ai1_I f_I a3_E SIL_S h_B e4_E SIL_S SIL 
+BAC009S0252W0238 SIL er2_B q_I ie3_E j_B i1_I j_I in1_E t_B uo1_I g_I uan3_I r_I en2_E ie3_S ing1_B c_I ong2_E t_B uo1_I g_I uan3_E f_B ei4_E sh_B ou1_I r_I u4_E zh_B ong4_E j_B i4_I t_I i2_E f_B eng1_I x_I ian3_E zh_B un3_I b_I ei4_I j_I in1_E SIL 
+BAC009S0252W0239 SIL ui2_S l_B uo4_I sh_I ix2_E x_B in1_E j_B i1_I j_I in1_I f_I a3_E SIL 
+BAC009S0252W0240 SIL j_B i4_I x_I v4_E sh_B en1_I r_I u4_E t_B an4_I s_I uo3_E b_B ing4_E iu3_B x_I iao4_E f_B a1_I h_I ui1_E zh_B ei4_I i1_E h_B ang2_I ie4_E zh_B ix4_I d_I u4_E iu1_B sh_I ix4_E SIL 
+BAC009S0252W0241 SIL x_B v1_I iao4_E sh_B ix4_I sh_I ix2_E d_B ui4_E h_B ang2_I ie4_E f_B eng1_I x_I ian3_E zh_B un3_I b_I ei4_I j_I in1_E zh_B ix4_I d_I u4_E j_B in4_I x_I ing2_E SIL_S SIL 
+BAC009S0252W0242 SIL z_B uo4_I h_I ao3_E d_B ing3_I c_I eng2_E zh_B ix4_I d_I u4_E sh_B e4_I j_I i4_E b_B ing4_E SIL uan2_B sh_I an4_E x_B iang1_I g_I uan1_E f_B a3_I g_I ui1_E t_B i3_I x_I i4_E j_B ian4_I sh_I e4_E SIL 
+BAC009S0252W0243 SIL j_B i1_I v2_E sh_B ang4_I sh_I u4_E k_B ao3_I l_I v4_E b_B ing4_E j_B ie2_I h_I e2_E h_B ang2_I ie4_E g_B e4_I f_I ang1_E SIL i4_B j_I ian4_E SIL 
+BAC009S0252W0244 SIL zh_B ong1_I g_I uo2_I zh_I eng4_I j_I ian1_I h_I ui4_E SIL v2_S j_B in4_I q_I i1_E q_B i3_I c_I ao3_E l_B e5_E z_B an4_I x_I ing2_I b_I an4_I f_I a3_E SIL 
+BAC009S0252W0245 SIL SIL_S m_B u4_E j_B i1_I j_I in1_E f_B eng1_I x_I ian3_E zh_B un3_I b_I ei4_I j_I in1_E d_B e5_E g_B uan3_I l_I i3_E vn4_B iong4_E j_B in4_I x_I ing2_E t_B ong3_I i1_E g_B ui1_I d_I ing4_E SIL 
+BAC009S0252W0246 SIL q_B ve4_I b_I ao3_E j_B i1_I j_I in1_E g_B uan3_I l_I i3_E r_B en2_E v4_S t_B uo1_I g_I uan3_I r_I en2_E f_B eng1_I x_I ian3_E zh_B un3_I b_I ei4_I j_I in1_E d_B e5_E h_B e2_I g_I ui1_E SIL g_B uan3_I l_I i3_E SIL vn4_B z_I uo4_E SIL 
+BAC009S0252W0247 SIL ch_B ong1_I f_I en4_E b_B ao3_I zh_I ang4_E g_B ong1_I m_I u4_E j_B i1_I j_I in1_E ch_B ix2_I iu3_I r_I en2_E d_B e5_E h_B e2_I f_I a3_I q_I van2_I i4_E SIL 
+BAC009S0252W0248 SIL x_B ia4_E i2_B b_I u4_E j_B iang4_E g_B en1_I j_I v4_E sh_B e4_I h_I ui4_E g_B e4_E f_B ang1_I m_I ian4_E d_B i3_E i4_B j_I ian4_E SIL 
+BAC009S0252W0249 SIL j_B iang4_E SIL z_B an4_I x_I ing2_I b_I an4_I f_I a3_E x_B iu1_I g_I ai3_E uan2_B sh_I an4_E SIL_S v3_S x_B in1_E j_B i1_I j_I in1_I f_I a3_E SIL t_B ong2_I b_I u4_E sh_B ix2_I sh_I ix1_E SIL 
+BAC009S0252W0250 SIL zh_B ong1_I g_I uo2_E zh_B eng4_E SIL zh_B eng4_I j_I ian1_I h_I ui4_E zh_B ao1_I k_I ai1_E x_B in1_I un2_E t_B ong1_I q_I i4_I h_I ui4_E SIL 
+BAC009S0252W0251 SIL zh_B eng4_I j_I ian1_I h_I ui4_E iu3_B g_I uan1_E b_B u4_I m_I en2_E f_B u4_I z_I e2_I r_I en2_E b_B iao3_I sh_I ix4_E SIL 
+BAC009S0252W0252 SIL s_B ui2_I zh_I e5_E sh_B ix4_I ch_I ang3_E d_B e5_E SIL_S f_B a1_I zh_I an3_E SIL 
+BAC009S0252W0253 SIL ian2_B j_I iu1_I zh_I e3_E x_B ian4_I z_I ai4_E h_B ai2_E x_B iang3_I iao4_E ch_B uang4_I j_I ian4_E g_B eng4_I j_I ia1_E d_B a4_I x_I ing2_E d_B i3_E h_B e2_E x_B iao3_I x_I ing2_E d_B e5_E s_B iy4_E D_B IY1_E SIL in4_B zh_I ix4_E u4_S SIL 
+BAC009S0252W0254 SIL m_B u4_I q_I ian2_E t_B a1_I m_I en5_E i3_B j_I ing1_E ch_B eng2_I g_I ong1_E d_B a3_I in4_E ch_B u1_E SIL_S d_B a4_I x_I iao3_E d_B e5_E u4_B t_I i3_E SIL 
+BAC009S0252W0255 SIL s_B iy4_E D_B IY1_E d_B a3_I in4_E d_B e5_E ch_B u1_I x_I ian4_E b_B i4_I j_I iang1_E x_B ian1_I k_I ai1_E i2_B g_I e4_E g_B ong1_I ie4_E sh_B ix3_I sh_I ang3_E d_B e5_E q_B van2_E x_B in1_I p_I ian1_I zh_I ang1_E SIL 
+BAC009S0252W0256 SIL d_B a4_I x_I ing2_E d_B e5_E SIL_S k_B e3_I n_I eng2_E h_B ui4_E b_B ei4_E SIL s_B iy4_E D_B IY1_E d_B a3_I in4_I j_I i1_E s_B uo3_E q_B v3_I d_I ai4_E SIL 
+BAC009S0252W0257 SIL er2_S d_B e2_I d_I ao5_E d_B e5_E ch_B an3_I p_I in3_E SIL_S SIL 
+BAC009S0252W0258 SIL b_B ing4_I q_I ie3_E j_B v4_I iu3_E h_B en3_I q_I iang2_E d_B e5_E sh_B ix4_I ing4_I x_I ing4_E SIL 
+BAC009S0252W0259 SIL zh_B e4_I c_I ai2_E sh_B ix4_E r_B ang4_E s_B uo3_I iu3_E SIL ie4_B n_I ei4_I r_I en2_I sh_I ix4_E u2_B b_I i3_E x_B ing1_I f_I en4_E d_B i3_E van2_B in1_E SIL 
+BAC009S0252W0260 SIL k_B e1_I h_I uan4_E x_B ing1_I x_I i4_E k_B ang1_I s_I iy1_I t_I an3_I d_I ing1_E SIL un2_S SIL 
+BAC009S0252W0261 SIL SIL_S D_B IY1_E d_B a3_I in4_E j_B i4_I sh_I u4_E i3_B j_I ing1_E b_B u2_E n_B a4_I m_I e5_E sh_B en2_I m_I i4_E d_B e5_E sh_B ix2_I h_I ou4_E SIL 
+BAC009S0252W0262 SIL i1_B zh_I ong3_E m_B ing2_I ui2_E s_B iy4_E D_B IY1_E d_B a3_I in4_E d_B i3_E j_B i4_I sh_I u4_E iu4_S ve4_B r_I u4_E l_B e5_E uo3_B m_I en5_E d_B i3_E ian3_B l_I ian2_E SIL 
+BAC009S0252W0263 SIL t_B a1_E d_B ao4_I d_I i3_E iu3_S sh_B en2_I m_I e5_E sh_B en2_I q_I i2_E d_B i4_E d_B i4_I f_I ang1_E n_B e5_E SIL 
+BAC009S0252W0264 SIL sh_B ix4_E i2_B g_I e4_E l_B ei4_I s_I iy4_E SIL_S SIL_S SIL_S SIL_S s_B iy4_E h_B e2_E SIL_S SIL_S u3_S zh_B ei4_I iang4_E d_B e5_E x_B ve2_I t_I ou2_E SIL 
+BAC009S0252W0265 SIL n_B i3_E zh_B en1_E z_B ai4_I i4_E k_B e3_E ch_B uan1_I d_I ai4_E sh_B e4_I b_I ei5_E d_B e5_E x_B v4_I h_I ang2_E m_B a5_E SIL 
+BAC009S0252W0266 SIL SIL_S ch_B uan1_I d_I ai4_E sh_B e4_I b_I ei5_E f_B a1_I b_I u4_E zh_B ix1_I r_I iz4_I q_I i3_E SIL 
+BAC009S0252W0267 SIL b_B an4_I s_I ui2_E t_B a1_E d_B e5_E j_B iu4_I sh_I ix4_E b_B u2_I d_I uan4_E d_B e5_E zh_B ix4_I i2_E sh_B eng1_E SIL 
+BAC009S0252W0268 SIL c_B ong2_E uai4_B x_I ing2_E t_B i3_I ian4_E x_B ing4_I n_I eng2_E d_B ao4_E ing4_B iong4_E j_B ia4_I g_I e2_E SIL 
+BAC009S0252W0269 SIL j_B i1_I h_I u1_E d_B ou1_E iu3_S k_B e3_E t_B iao1_I t_I i1_E d_B e5_E d_B i4_I f_I ang1_E SIL 
+BAC009S0252W0270 SIL zh_B ix4_I i2_E z_B ui4_I d_I uo1_E d_B e5_E h_B ai2_I sh_I ix4_E q_B i2_E x_B v4_I h_I ang2_E SIL 
+BAC009S0252W0271 SIL SIL_S k_B e3_E ch_B uan1_I d_I ai4_E sh_B e4_I b_I ei4_E j_B iao1_I x_I iao3_E d_B e5_E sh_B en1_I q_I v1_E SIL 
+BAC009S0252W0272 SIL j_B i2_I sh_I ix3_E p_B ing2_I g_I uo3_E s_B uo3_I n_I i2_E zh_B ei4_I iang4_E d_B e5_E g_B ong1_I i4_E sh_B e4_I j_I i4_E t_B ai4_I d_I ou3_E SIL 
+BAC009S0252W0273 SIL ie3_S h_B en3_E n_B an2_E SIL ui2_S q_B i2_E zh_B uang1_I r_I u4_E d_B a4_I r_I ong2_I l_I iang4_E d_B ian4_I ch_I ix2_E SIL 
+BAC009S0252W0274 SIL z_B ui4_I zh_I ong1_E d_B ao3_I zh_I ix4_E x_B v4_I h_I ang2_E r_B ang4_E iong4_B h_I u4_E b_B u4_E m_B an3_I i4_E SIL 
+BAC009S0252W0275 SIL n_B i3_E zh_B en1_I d_I e5_E h_B ui4_E z_B ai4_I i4_E k_B e3_E ch_B uan1_I d_I ai4_E sh_B e4_I b_I ei5_E d_B e5_E x_B v4_I h_I ang2_E m_B a5_E SIL 
+BAC009S0252W0276 SIL h_B ai2_I sh_I ix4_E uai4_B x_I ing2_E SIL x_B ing4_I n_I eng2_E ing4_B iong4_E d_B eng3_E q_B i2_I t_I a1_E f_B ang1_I m_I ian4_E SIL 
+BAC009S0252W0277 SIL k_B e3_E ch_B uan1_I d_I ai4_E sh_B e4_I b_I ei4_E x_B v4_I h_I ang2_E sh_B ix2_I j_I ian1_E b_B u2_E ch_B ang2_E h_B uo4_I x_I v3_E zh_B ix3_I sh_I ix4_E SIL in1_B ui2_E iong4_B h_I u4_E SIL_S k_B e1_I k_I e4_E SIL 
+BAC009S0252W0278 SIL k_B e3_E ch_B uan1_I d_I ai4_E sh_B e4_I b_I ei4_E ie3_S iu3_S x_B v4_I h_I ang2_E ch_B ang2_E d_B e5_E SIL b_B ie4_E i2_B g_I ai4_I er2_I l_I un4_E SIL 
+BAC009S0252W0279 SIL k_B e3_E ch_B uan1_I d_I ai4_E sh_B e4_I b_I ei5_E zh_B u3_I iao4_E f_B en1_I ui2_E l_B iang3_I d_I a4_I l_I ei4_E SIL 
+BAC009S0252W0280 SIL q_B i2_I zh_I ong1_E i2_B l_I ei4_E g_B ong1_I n_I eng2_E x_B iang1_I d_I ui4_E d_B an1_I i1_E SIL 
+BAC009S0252W0281 SIL zh_B ix1_E f_B u4_I z_I e2_E sh_B ou1_I j_I i2_E h_B e2_E SIL_S SIL 
+BAC009S0252W0282 SIL i4_B b_I an1_E b_B u2_I h_I ui4_E p_B ei4_I b_I ei4_E p_B ing2_I m_I u4_E m_B ei2_I iu3_E zh_B ei4_I iang4_E SIL h_B ao4_I d_I ian4_E d_B a4_I h_I u4_E SIL 
+BAC009S0252W0283 SIL x_B v4_I h_I ang2_E z_B iy4_I r_I an2_E h_B ui4_E ian2_B ch_I ang2_E x_B v3_I d_I uo1_E SIL 
+BAC009S0252W0284 SIL er2_B q_I ie3_E q_B i2_E zh_B ix1_E SIL zh_B ix3_I h_I ui4_E p_B ei4_I b_I ei4_E j_B ian3_I d_I an1_E d_B e5_E ch_B uan2_I g_I an3_I q_I i4_E k_B ong4_I zh_I ix4_I q_I i4_E SIL j_B i2_E c_B un2_I ch_I u3_I q_I i4_E SIL 
+BAC009S0252W0285 SIL SIL_S sh_B e4_I b_I ei4_E d_B e5_E h_B ao4_I d_I ian4_I l_I iang4_E SIL 
+BAC009S0252W0286 SIL er2_B q_I ie3_E zh_B e4_I l_I ei4_E k_B e3_E ch_B uan1_I d_I ai4_E sh_B e4_I b_I ei4_E ie3_S b_B u2_I h_I ui4_E zh_B ix2_I x_I ing2_E SIL_S f_B u4_I z_I a2_E d_B e5_E vn4_B s_I uan4_E SIL 
+BAC009S0252W0287 SIL b_B u2_E zh_B ix1_I ch_I ix2_E x_B iao1_I h_I ao4_E SIL_S SIL_S SIL_S z_B iy1_I van2_E d_B i3_E ing4_B iong4_E SIL 
+BAC009S0252W0288 SIL SIL_S sh_B ix2_I l_I i4_E f_B ang1_I m_I ian4_E j_B iang4_I d_I i1_E d_B ian4_I l_I iang4_E x_B iao1_I h_I ao4_E SIL 
+BAC009S0252W0289 SIL zh_B e4_I l_I ei4_E k_B e3_E ch_B uan1_I d_I ai4_E sh_B e4_I b_I ei4_E x_B v4_I h_I ang2_E n_B eng2_E d_B a2_I d_I ao4_E SIL_S sh_B u4_I ve4_E n_B ai3_I zh_I ix4_E i4_B n_I ian2_E SIL 
+BAC009S0252W0290 SIL iong4_B h_I u4_E uan2_B q_I van2_E b_B u2_I b_I i4_E z_B ai4_I i4_E d_B ian4_I l_I iang4_E x_B iao1_I h_I ao4_E SIL 
+BAC009S0252W0291 SIL zh_B e4_I l_I ei4_E k_B e3_E ch_B uan1_I d_I ai4_E sh_B e4_I b_I ei5_E m_B u4_I q_I ian2_E i3_S zh_B ix4_I n_I eng2_E sh_B ou3_I h_I uan2_E x_B iang4_I l_I ian4_E d_B eng3_E ui2_B zh_I u3_E SIL 
+BAC009S0252W0292 SIL SIL_S zh_B uang1_I sh_I ix4_E ui2_S d_B i4_I i1_E iao4_B s_I u4_E SIL 
+BAC009S0252W0293 SIL t_B a1_I m_I en5_E h_B ai2_E n_B eng2_E zh_B uan3_I h_I uan4_E SIL ui2_S l_B ing4_E i1_B zh_I ong3_E g_B eng1_E ui1_B x_I iao3_E d_B e5_E c_B un2_I z_I ai4_E SIL 
+BAC009S0252W0294 SIL j_B in4_I r_I u4_E uo3_B m_I en5_E d_B e5_E p_B i2_I f_I u1_E er3_B d_I uo3_E n_B ai3_I zh_I ix4_E q_B i4_I g_I uan1_E n_B ei4_I b_I u4_E x_B in1_I z_I ang4_E f_B ei4_I b_I u4_E d_B eng3_E SIL 
+BAC009S0252W0295 SIL ch_B ang2_I sh_I ix2_I j_I ian1_E sh_B ou1_I j_I i2_E j_B ian4_I k_I ang1_E sh_B u4_I j_I v4_E SIL 
+BAC009S0252W0296 SIL SIL_S SIL iong4_B h_I u4_E SIL_S SIL_S i1_B sh_I eng1_E zh_B ix4_I l_I iao2_E d_B eng3_E iong4_B t_I u2_E SIL 
+BAC009S0252W0297 SIL b_B ie4_E SIL_S s_B uo3_I iu3_E k_B e3_E ch_B uan1_I d_I ai4_E sh_B e4_I b_I ei5_E SIL 
+BAC009S0252W0298 SIL van2_B z_I e2_I x_I ing4_E un4_B t_I i3_E h_B ai2_I sh_I ix4_E iao4_S g_B ao3_I q_I ing1_I ch_I u3_E d_B e5_E SIL 
+BAC009S0252W0299 SIL m_B ai3_E SIL_S SIL_S d_B e5_E b_B u2_I z_I ai4_I i4_E x_B v4_I h_I ang2_E b_B ie4_E SIL_S SIL_S SIL_S SIL SIL_S 
+BAC009S0252W0300 SIL k_B e3_E ch_B uan1_I d_I ai4_E sh_B e4_I b_I ei5_E d_B e5_E l_B ing4_I uai4_E i2_B g_I e4_E ui2_S r_B en2_E s_B uo3_E sh_B u2_I zh_I ix1_E d_B e5_E zh_B ong4_I iao4_E f_B en1_I zh_I ix1_E SIL 
+BAC009S0252W0301 SIL n_B eng2_I g_I ou4_E i3_S g_B ao1_I x_I ing4_I n_I eng2_E ch_B u4_I l_I i3_E d_B uo1_I x_I iang4_E r_B en4_I u4_E b_B ing4_E zh_B ix1_I ch_I ix2_E ing4_B iong4_E d_B e5_E k_B e3_E ch_B uan1_I d_I ai4_E sh_B e4_I b_I ei5_E SIL 
+BAC009S0252W0302 SIL d_B ui4_I v2_E zh_B e4_I l_I ei4_E k_B e3_E ch_B uan1_I d_I ai4_E sh_B e4_I b_I ei5_E SIL 
+BAC009S0252W0303 EH1_B N_E SIL SIL_S D_B IY1_E ui4_B l_I ai2_E s_B an1_E D_B IY1_E d_B a3_I in4_E sh_B ix4_E g_B e4_E d_B a4_E sh_B ix4_I ch_I ang3_E SIL 
+BAC009S0252W0304 SIL SIL_S d_B a2_E z_B en3_I m_I e5_E z_B ai4_E q_B van2_I g_I uo2_E SIL b_B u4_I j_I v2_E SIL 
+BAC009S0252W0305 SIL SIL_S uo3_B m_I en5_E m_B u4_I q_I ian2_E z_B ai4_E q_B van2_I g_I uo2_E iu3_S SIL_S j_B i1_I g_I uang1_E g_B ong1_I z_I uo4_I zh_I an4_E SIL 
+BAC009S0252W0306 SIL ui4_B l_I ai2_E ie3_S k_B e3_E z_B uo4_E s_B an1_E D_B IY1_E d_B a3_I in4_E ie4_B u4_E SIL 
+BAC009S0252W0307 SIL uo3_B m_I en5_E sh_B e4_I x_I iang3_E ui4_B l_I ai2_E d_B e5_E m_B o2_I sh_I ix4_E sh_B ix4_E j_B i2_I zh_I ong1_E p_B ing2_I t_I ai2_E j_B iao1_I i4_E SIL 
+BAC009S0252W0308 SIL ie3_S j_B iu4_I sh_I ix4_E t_B ong1_I g_I uo4_E t_B ong3_I i1_E p_B ing2_I t_I ai2_E SIL 
+BAC009S0252W0309 SIL b_B a4_E r_B en4_I u4_E f_B en1_I g_I ei3_E j_B v4_I l_I i2_E k_B e4_I h_I u4_E z_B ui4_I j_I in4_E d_B e5_E g_B ong1_I z_I uo4_I zh_I an4_E SIL 
+BAC009S0252W0310 SIL uo3_B m_I en5_E zh_B e4_I zh_I ong3_E m_B o2_I sh_I ix4_E iao1_S SIL_S g_B ong1_I ch_I ang3_E d_B e5_E g_B ai4_I n_I ian4_E iao1_S h_B ao4_E i1_B x_I ie1_E SIL 
+BAC009S0252W0311 SIL in1_B ui2_E uo3_B m_I en5_E sh_B ix4_E t_B ong3_I i1_E g_B ong1_I i4_E t_B ong3_I i1_E sh_B e4_I b_I ei4_E t_B ong3_I i1_E j_B i4_I sh_I u4_E t_B ong3_I i1_E c_B ai2_I l_I iao4_E SIL 
+BAC009S0252W0312 SIL zh_B ei4_I iang4_E n_B eng2_I g_I ou4_E b_B ao3_I zh_I eng4_E uo3_B m_I en5_E m_B ei3_I g_I e4_E d_B ian3_E z_B uo4_E ch_B u1_I l_I ai2_E d_B e5_E d_B ong1_I x_I i1_E sh_B ix4_E i1_B zh_I ix4_E d_B e5_E SIL 
+BAC009S0252W0313 SIL SIL_S g_B ong1_I ch_I ang3_E d_B e5_E g_B ai4_I n_I ian4_E sh_B ix4_E m_B ei3_I g_I e4_E r_B en2_E d_B ou1_E sh_B ix4_E iong4_B h_I u4_E ie3_S sh_B ix4_E g_B ong1_I z_I uo4_I zh_I e3_E SIL 
+BAC009S0252W0314 SIL d_B an4_E t_B a1_I m_I en5_E d_B e5_E ch_B an3_I p_I in3_E d_B e5_E i2_B zh_I ix4_I x_I ing4_E SIL 
+BAC009S0252W0315 SIL sh_B ou4_I h_I ou4_E d_B e5_E f_B u2_I u4_E b_B u4_I n_I eng2_E b_B ao3_I zh_I eng4_E SIL 
+BAC009S0252W0316 SIL p_B ao4_I m_I o4_E iu3_B l_I i4_I v2_E s_B an1_E D_B IY1_E d_B a3_I in4_E f_B a1_I zh_I an3_E SIL 
+BAC009S0252W0317 SIL EH1_B N_E SIL SIL_S D_B IY1_E SIL er4_B l_I ing2_I i1_E s_B an1_I n_I ian2_E sh_B ix2_I ve4_E SIL 
+BAC009S0252W0318 SIL SIL_S d_B a2_E sh_B e4_I l_I i4_E k_B ong4_I g_I u3_E z_B iy3_I g_I ong1_I s_I iy1_E sh_B ang4_I h_I ai3_E SIL_S d_B a2_E s_B an1_I ui2_E k_B e1_I j_I i4_E SIL 
+BAC009S0252W0319 SIL ui4_B h_I e2_E q_B ian2_I b_I u4_I j_I iu3_E b_B a4_E t_B a1_E b_B ao1_I l_I i2_E SIL 
+BAC009S0252W0320 SIL SIL_S uo3_B m_I en5_E z_B ui4_I ch_I u1_E x_B i1_I uang4_E c_B ong2_E sh_B ang4_I h_I ai3_E k_B ai1_I sh_I ix3_E SIL 
+BAC009S0252W0321 SIL b_B a4_E SIL_S d_B i4_E s_B an1_E SIL D_B IY1_E d_B a3_I in4_E ie4_B u4_E p_B u1_I k_I ai1_E SIL 
+BAC009S0252W0322 SIL d_B ang1_I sh_I ix2_E h_B e2_E zh_B e4_I g_I e4_E t_B uan2_I d_I ui4_E h_B e2_I z_I uo4_E ch_B eng2_I l_I i4_E z_B iy3_I g_I ong1_I s_I iy1_E sh_B ix2_E SIL 
+BAC009S0252W0323 SIL d_B an4_E t_B a1_I m_I en5_E m_B ei2_I iu3_E d_B a2_I d_I ao4_E ch_B eng2_I n_I uo4_E SIL 
+BAC009S0252W0324 SIL in1_B ui2_E zh_B e4_I g_I e4_E h_B ang2_I ie4_E ch_B u4_I v2_E f_B u1_I h_I ua4_I q_I i1_E SIL 
+BAC009S0252W0325 SIL ie4_B u4_E f_B ang1_I m_I ian4_E uo3_B m_I en5_E iao1_B q_I iu2_E b_B ing4_E b_B u4_E g_B ao1_E SIL 
+BAC009S0252W0326 SIL zh_B u3_I iao4_E sh_B ix4_E x_B i1_I uang4_E t_B a1_I m_I en5_E n_B eng2_E SIL i3_B d_I ian3_I d_I ai4_I m_I ian4_E SIL 
+BAC009S0252W0327 SIL d_B an4_I sh_I ix4_E t_B a1_I m_I en5_E b_B u4_I n_I eng2_E an4_B zh_I ao4_E j_B i2_I t_I uan2_E t_B ong3_I i1_E d_B e5_E g_B ui1_I h_I ua4_E q_B v4_E z_B uo4_E SIL 
+BAC009S0252W0328 SIL zh_B e4_E sh_B ix3_I d_I e2_E uo3_B m_I en5_E d_B e5_E s_B an1_E D_B IY1_E d_B a3_I in4_E ie4_B u4_E zh_B eng3_I t_I i3_E d_B e5_E t_B ui1_I j_I in4_E sh_B ou4_I d_I ao5_E ing2_B x_I iang3_E SIL 
+BAC009S0252W0329 SIL uo3_B m_I en5_E h_B ui4_E c_B ong2_E j_B i2_I t_I uan2_E t_B ong3_I i1_E l_B ai2_E z_B uo4_E zh_B e4_I f_I ang1_I m_I ian4_E d_B e5_E g_B ong1_I z_I uo4_E SIL 
+BAC009S0252W0330 SIL EH1_B N_E SIL SIL_S D_B IY1_E er4_B j_I i2_E sh_B ix4_I ch_I ang3_E sh_B ang4_E s_B an1_E D_B IY1_E g_B ai4_I n_I ian4_I g_I u3_E h_B uo3_I r_I e4_E SIL 
+BAC009S0252W0331 SIL er2_S i1_B x_I ie1_E g_B ong1_I s_I iy1_E q_B ve4_E m_B ei2_I iu3_E sh_B ix2_I j_I i4_E ie4_B j_I i4_E zh_B ix1_I ch_I eng1_E SIL 
+BAC009S0252W0332 SIL n_B in2_E z_B en3_I m_I e5_E k_B an4_I d_I ai4_E s_B uo3_I ui4_E d_B e5_E s_B an1_E D_B IY1_E d_B a3_I in4_E g_B ai4_I n_I ian4_E p_B ao4_I m_I o4_E SIL 
+BAC009S0252W0333 SIL SIL_S zh_B e4_I g_I e4_E p_B ao4_I m_I o4_E SIL_S SIL 
+BAC009S0252W0334 SIL h_B ui4_E b_B a4_E zh_B eng4_I f_I u3_E m_B ei2_I t_I i3_E z_B iy1_I b_I en3_E d_B ou1_E SIL d_B iao4_I d_I ong4_E q_B i3_I l_I ai2_E SIL 
+BAC009S0252W0335 SIL d_B a4_I j_I ia1_E d_B ou1_E g_B uan1_I zh_I u4_E s_B an1_E D_B IY1_E h_B ang2_I ie4_E SIL 
+BAC009S0252W0336 SIL uo3_S j_B ve2_I d_I e5_E uai4_B j_I ie4_E zh_B ix4_I i2_E p_B ao4_I m_I o4_E u2_B s_I uo3_I ui4_E SIL 
+BAC009S0252W0337 SIL zh_B ix3_I iao4_E n_B eng2_E c_B u4_I j_I in4_E zh_B e4_I g_I e4_E h_B ang2_I ie4_E f_B a1_I zh_I an3_E j_B iu4_I sh_I ix4_E h_B ao3_E d_B e5_E SIL 
+BAC009S0252W0338 SIL SIL_S q_B van2_I b_I u4_E iu2_S ing1_B g_I uo2_E SIL_S sh_B ix4_I j_I in3_I s_I ai4_E zh_B u3_I b_I an4_I f_I ang1_E SIL d_B u2_I j_I ia1_E sh_B ou4_I q_I van2_E SIL 
+BAC009S0252W0339 SIL h_B ai2_E j_B iang4_E i3_S n_B ian2_I q_I ing1_E z_B uo4_I ui2_E sh_B e4_I j_I i4_E zh_B u3_I t_I i2_E SIL 
+BAC009S0252W0340 SIL d_B ian1_I f_I u4_E ch_B uan2_I t_I ong3_E p_B ing1_I p_I ang1_I q_I iu2_I p_I ai1_E d_B i3_E x_B ing2_I x_I iang4_E SIL 
+BAC009S0252W0341 SIL ch_B uan2_I d_I a2_E SIL_S vn4_B d_I ong4_E zh_B ong4_E d_B e5_E SIL iong3_B q_I i4_E j_B i1_I q_I ing2_E h_B e4_E k_B uai4_I l_I e4_E SIL 
+BAC009S0252W0342 SIL er2_S ui4_B l_I e5_E t_B ui1_I g_I uang3_E SIL_S p_B ing1_I p_I ang1_E s_B uo3_E d_B ai4_I b_I iao3_E d_B e5_E sh_B ix2_I sh_I ang4_E j_B ian4_I k_I ang1_E l_B i3_I n_I ian4_E SIL 
+BAC009S0252W0343 SIL j_B iang4_E SIL_S b_B i3_I s_I ai4_E b_B an4_I ch_I eng2_E i4_B ch_I ang3_E j_B i2_E j_B ing4_I j_I i4_E v3_S q_B v4_I ui4_E v2_S i1_B sh_I en1_E d_B e5_E SIL vn4_B d_I ong4_E p_B a1_E SIL p_B ai4_I d_I ui4_E SIL 
+BAC009S0252W0344 SIL ui2_S p_B ing1_I p_I ang1_E zh_B u4_I r_I u4_E g_B eng4_E d_B uo1_E x_B in1_I x_I ian1_E van2_B s_I u4_E SIL 
+BAC009S0252W0345 SIL t_B e4_I b_I ie2_E sh_B ix4_E z_B ai4_E q_B ing1_I sh_I ao4_I n_I ian2_E q_B vn2_I t_I i3_E zh_B ong4_E SIL 
+BAC009S0252W0346 SIL g_B uan1_I zh_I ong4_E d_B ou1_E sh_B ix4_E zh_B ong1_I n_I ian2_E i3_B sh_I ang4_E q_B vn2_I t_I i3_E SIL 
+BAC009S0252W0347 SIL g_B uo2_I q_I iu2_E h_B ai2_E d_B ei3_E z_B ou3_I j_I in4_E x_B iao4_I van2_E SIL 
+BAC009S0252W0348 SIL ian2_B v3_E zh_B ix1_I zh_I ong1_E t_B ou4_I l_I u4_E ch_B u1_E ui1_B j_I i1_I g_I an3_E SIL 
+BAC009S0252W0349 SIL z_B ai4_E f_B u2_I j_I ian4_E s_B an1_I m_I ing2_E j_B v3_I x_I ing2_E d_B e5_E SIL_S p_B ing1_I p_I ang1_I q_I iu2_E b_B i3_I s_I ai4_E j_B ian4_I x_I i4_E SIL 
+BAC009S0252W0350 SIL i3_B j_I i2_E t_B a1_E d_B ui4_E t_B ui1_I d_I ong4_E g_B uo2_I q_I iu2_E SIL_S d_B e5_E s_B iy1_I l_I u4_E v3_S j_B i4_I h_I ua4_E SIL 
+BAC009S0252W0351 SIL z_B ai4_E j_B ing4_I j_I i4_E t_B i3_I v4_E l_B ing3_I v4_E ui2_S uo3_B g_I uo2_E z_B uo4_I ch_I u1_E l_B e5_E SIL_S SIL 
+BAC009S0252W0352 SIL i3_B uang3_E x_B ve2_I x_I iao4_E iu3_B g_I e4_E sh_B ui3_I n_I i2_E t_B ai2_E SIL 
+BAC009S0252W0353 SIL x_B ian4_I z_I ai4_E g_B e4_I zh_I ong3_E q_B iu2_I l_I ei4_E x_B iang4_I m_I u4_E h_B e2_E q_B van2_I m_I in2_E j_B ian4_I sh_I en1_E x_B iang4_I m_I u4_E k_B ai1_I zh_I an3_E p_B u3_I j_I i2_E SIL 
+BAC009S0252W0354 SIL h_B ai2_I z_I iy5_E m_B en5_E k_B e3_I i3_E x_B van3_I z_I e2_E d_B e5_E vn4_B d_I ong4_E x_B iang4_I m_I u4_E d_B uo1_E l_B iao3_E SIL 
+BAC009S0252W0355 SIL p_B ing1_I p_I ang1_I q_I iu2_E vn4_B d_I ong4_E k_B ai1_I zh_I an3_E q_B ing2_I k_I uang4_E j_B iu4_E b_B u2_E t_B ai4_E l_B i2_I x_I iang3_E l_B iao3_E SIL 
+BAC009S0252W0356 SIL x_B ian4_I z_I ai4_E x_B ve2_I x_I iao4_E l_B i3_E p_B ing1_I p_I ang1_I q_I iu2_E SIL g_B uan3_E q_B iu2_I t_I ai2_E d_B ou1_E iu3_S l_B iao3_E SIL 
+BAC009S0252W0357 SIL j_B ia1_I sh_I ang4_E p_B ing1_I p_I ang1_I q_I iu2_E q_B ve1_I sh_I ao3_E d_B ui4_I k_I ang4_E d_B eng3_E z_B iy4_I sh_I en1_E in1_B s_I u4_E x_B ian4_I zh_I ix4_E SIL 
+BAC009S0252W0358 SIL g_B uan1_I zh_I u4_E h_B e4_E x_B i3_I h_I uan1_E zh_B e4_I x_I iang4_E vn4_B d_I ong4_E d_B e5_E q_B ing1_I sh_I ao4_I n_I ian2_E z_B ai4_E j_B ian3_I sh_I ao3_E SIL 
+BAC009S0252W0359 SIL q_B iu2_I m_I i2_E d_B ou1_E j_B i2_I zh_I ong1_E z_B ai4_E zh_B ong1_I l_I ao3_I n_I ian2_E q_B vn2_I t_I i3_E SIL 
+BAC009S0252W0360 SIL ch_B ong2_I x_I in1_E p_B ei2_I iang3_E h_B ai2_I z_I iy5_E m_B en5_E d_B ui4_E p_B ing1_I p_I ang1_I q_I iu2_E vn4_B d_I ong4_E d_B e5_E x_B i3_I ai4_E v4_S g_B uan1_I zh_I u4_E SIL 
+BAC009S0252W0361 SIL g_B uan1_I j_I ian4_E h_B ai2_E z_B ai4_I v2_E x_B iao4_I van2_E t_B ui1_I g_I uang3_E SIL 
+BAC009S0252W0362 SIL x_B ia4_E i2_B b_I u4_E j_B iang4_E c_B ong2_E s_B an1_I g_I e4_E f_B ang1_I m_I ian4_E t_B ui1_I d_I ong4_E p_B ing1_I p_I ang1_I q_I iu2_E z_B ai4_E q_B ing1_I sh_I ao4_I n_I ian2_E zh_B ong4_E d_B e5_E p_B u3_I j_I i2_E SIL 
+BAC009S0252W0363 SIL q_B i2_I zh_I ong1_E SIL sh_B ou3_I iao4_E sh_B ix4_E j_B v3_I b_I an4_E SIL p_B ing1_I p_I ang1_I q_I iu2_E ch_B uan2_I t_I ong3_E x_B ve2_I x_I iao4_E SIL_S SIL 
+BAC009S0252W0364 SIL m_B u4_I q_I ian2_E g_B uo2_I n_I ei4_E iu3_S SIL_S p_B ing1_I p_I ang1_I q_I iu2_E ch_B uan2_I t_I ong3_E x_B ve2_I x_I iao4_E SIL 
+BAC009S0252W0365 SIL uo3_B m_I en5_E x_B i1_I uang4_E l_B i4_I iong4_E h_B an2_I sh_I u3_I j_I ia4_E q_B i1_E SIL 
+BAC009S0252W0366 SIL z_B u3_I zh_I ix1_E g_B e4_I g_I e4_E x_B ve2_I x_I iao4_E zh_B ix1_I j_I ian1_E x_B iang1_I h_I u4_E d_B a3_E b_B i3_I s_I ai4_E SIL 
+BAC009S0252W0367 SIL d_B a3_I z_I ao4_E i2_B g_I e4_E x_B iao4_I j_I i4_E zh_B ix1_I j_I ian1_E x_B iang1_I h_I u4_E j_B iao1_I l_I iu2_E d_B e5_E p_B ing2_I t_I ai2_E SIL 
+BAC009S0252W0368 SIL j_B i4_I h_I ua4_E z_B ai4_E m_B ing2_I n_I ian2_E k_B ai1_I zh_I an3_E d_B e5_E zh_B ei4_I x_I iang4_E x_B iao4_I van2_E b_B i3_I s_I ai4_E SIL 
+BAC009S0252W0369 SIL m_B u4_I d_I i4_E b_B ing4_I f_I ei1_E p_B ei2_I iang3_E sh_B ix4_I j_I ie4_I g_I uan4_I j_I vn1_E SIL 
+BAC009S0252W0370 SIL er2_B sh_I ix4_E p_B ei2_I iang3_E g_B eng4_E d_B uo1_E d_B e5_E q_B ing1_I sh_I ao4_I n_I ian2_E d_B ui4_E p_B ing1_I p_I ang1_I q_I iu2_E d_B e5_E SIL_S SIL 
+BAC009S0252W0371 SIL d_B ai4_I d_I ong4_E g_B eng4_E d_B uo1_E h_B ai2_I z_I iy5_E c_B an1_I v3_E q_B i2_I zh_I ong1_E SIL 
+BAC009S0252W0372 SIL sh_B ix4_E j_B ie4_I j_I ian4_E l_B an2_I q_I iu2_E d_B eng3_E x_B iang4_I m_I u4_E d_B i3_E j_B ing1_I ian4_E SIL 
+BAC009S0252W0373 SIL k_B ai1_I zh_I an3_E p_B ing1_I p_I ang1_I q_I iu2_E d_B a4_I p_I eng2_I ch_I e1_E SIL_S d_B eng3_E h_B uo2_I d_I ong4_E SIL 
+BAC009S0252W0374 SIL g_B uo2_I j_I i4_I p_I ing1_I l_I ian2_E SIL p_B ing1_I p_I ang1_I q_I iu2_E b_B o2_I u4_I g_I uan3_E i3_S l_B uo4_I h_I u4_E sh_B ang4_I h_I ai3_E SIL 
+BAC009S0252W0375 SIL p_B ing1_I p_I ang1_I q_I iu2_E un2_B h_I ua4_E p_B u3_I j_I i2_E j_B iu4_E d_B ei3_E iong4_S h_B ao3_E zh_B e4_I x_I ie1_E z_B iy1_I van2_E SIL 
+BAC009S0252W0376 SIL b_B i3_I r_I u2_E j_B iang4_E p_B ing1_I p_I ang1_I q_I iu2_E b_B o2_I u4_I g_I uan3_E zh_B ong4_E d_B i3_E i1_B x_I ie1_E c_B ang2_I p_I in3_E g_B u4_I sh_I ix4_E d_B eng3_E SIL 
+BAC009S0252W0377 SIL t_B ong1_I g_I uo4_E d_B a4_I p_I eng2_I ch_I e1_E d_B eng3_E f_B ang1_I sh_I ix4_E s_B ong4_E SIL_S SIL 
+BAC009S0252W0378 SIL d_B a4_I l_I i4_E p_B u3_I j_I i2_E p_B ing1_I p_I ang1_I q_I iu2_E un2_B h_I ua4_E SIL 
+BAC009S0252W0379 SIL h_B ai2_I iao4_E d_B uo1_I q_I v2_I d_I ao4_E t_B an4_I s_I uo3_E p_B ing1_I p_I ang1_I q_I iu2_E z_B ao4_I x_I ing1_E SIL 
+BAC009S0252W0380 SIL m_B ing2_I x_I ing1_E vn4_B d_I ong4_I van2_E d_B ui4_I v2_E q_B ing1_I sh_I ao4_I n_I ian2_E d_B i3_E ing2_B x_I iang3_E f_B ei1_I ch_I ang2_E d_B a4_E SIL 
+BAC009S0252W0381 SIL d_B an4_E zh_B eng3_I t_I i3_E sh_B e4_I h_I ui4_E ing2_B x_I iang3_I l_I i4_E h_B ai2_E b_B u2_I g_I ou4_E SIL 
+BAC009S0252W0382 SIL j_B in1_I h_I ou4_E ch_B u2_E j_B ie2_I h_I e2_E zh_B ong4_I d_I a4_E b_B i3_I s_I ai4_E h_B e2_E q_B van2_I m_I in2_E h_B u4_I d_I ong4_E zh_B ix1_I uai4_E SIL 
+BAC009S0252W0383 SIL k_B e3_I n_I eng2_E t_B an4_I s_I uo3_E k_B ua4_I j_I ie4_E d_B eng3_E f_B ang1_I sh_I ix4_E SIL 
+BAC009S0252W0384 SIL d_B a3_I z_I ao4_E g_B eng4_E d_B uo1_E g_B eng4_E iu3_S ing2_B x_I iang3_E d_B e5_E p_B ing1_I p_I ang1_I q_I iu2_E x_B ing1_E SIL 
+BAC009S0252W0385 SIL zh_B ong1_I g_I uo2_E x_B van3_I sh_I ou3_E m_B a3_I l_I ong2_E h_B e2_E SIL_S j_B ing1_I g_I uo4_E c_B iy3_I q_I ian2_E d_B e5_E b_B an4_I j_I ve2_I s_I ai4_E zh_B eng1_I d_I uo2_E SIL 
+BAC009S0252W0386 SIL_S i1_B er4_I n_I ian2_E SIL zh_B ix1_I h_I ou4_E z_B ai4_I d_I u4_E h_B uo4_I d_I e2_E s_B ai4_I sh_I ix4_E g_B uan4_I j_I vn1_E SIL 
+BAC009S0252W0387 SIL b_B en3_I c_I iy4_E s_B ai4_I sh_I ix4_E g_B ong4_I iu3_E SIL_S q_B iu2_I van2_E c_B an1_I j_I ia1_E SIL 
+BAC009S0252W0388 SIL q_B i2_I zh_I ong1_E p_B ai2_I m_I ing2_E z_B ui4_I g_I ao1_E d_B e5_E SIL_S x_B van3_I sh_I ou3_E z_B uo4_I ui2_E zh_B ong3_I z_I iy5_E q_B iu2_I van2_E zh_B ix2_I j_I ie1_E j_B in4_I r_I u4_E t_B ao2_I t_I ai4_I s_I ai4_E SIL 
+BAC009S0252W0389 SIL q_B i2_I v2_E SIL_S x_B van3_I sh_I ou3_E b_B ei4_E f_B en1_I ui2_E SIL_S SIL 
+BAC009S0252W0390 SIL x_B ian1_I h_I ou4_E j_B i1_I b_I ai4_E l_B e5_E a1_S SIL s_B a4_I er3_E h_B e2_E f_B u2_I l_I ei2_E t_B a3_I s_I iy1_E h_B ou4_E SIL 
+BAC009S0252W0391 SIL m_B a3_I l_I ong2_E z_B ai4_E b_B an4_I j_I ve2_I s_I ai4_E zh_B ong4_E ing2_B l_I ai2_E l_B e5_E v3_S d_B e2_I g_I uo2_E m_B ing2_I j_I iang4_E SIL SIL_S l_B uo4_I f_I u1_E d_B e5_E j_B iao4_I l_I iang4_E SIL 
+BAC009S0252W0392 SIL m_B a3_I l_I ong2_E SIL_S SIL uan2_B sh_I eng4_E d_B ui4_I sh_I ou3_E SIL 
+BAC009S0252W0393 SIL SIL_S SIL z_B e2_E x_B ian1_I h_I ou4_E zh_B an4_I sh_I eng4_E l_B iao3_E SIL SIL_S SIL SIL_S h_B e2_E sh_B ui2_I g_I u3_E s_B un3_E SIL 
+BAC009S0252W0394 SIL l_B iang3_I r_I en2_E r_B ang4_E b_B en3_I x_I iang4_E s_B ai4_I sh_I ix4_E j_B ve2_I s_I ai4_E ch_B eng2_I ui2_E zh_B ong1_I g_I uo2_E x_B van3_I sh_I ou3_E zh_B ix1_I j_I ian1_E d_B e5_E n_B ei4_I zh_I an4_E SIL 
+BAC009S0252W0395 SIL z_B ai4_E m_B a3_I l_I ong2_E d_B uo1_I b_I ian4_E d_B e5_E q_B iu2_I l_I u4_E h_B e2_E g_B ao1_I zh_I ix4_I l_I iang4_E h_B ui2_I q_I iu2_E m_B ian4_I q_I ian2_E SIL 
+BAC009S0252W0396 SIL m_B a3_I l_I ong2_E i3_S i1_B b_I ai3_I i1_I sh_I ix2_E SIL_S i1_B b_I ai3_I i1_I sh_I ix2_E l_B iu4_E sh_B ou1_I h_I uo4_E q_B ian2_E SIL_S sh_B eng4_I l_I i4_E SIL 
+BAC009S0252W0397 SIL SIL_S SIL_S l_B ing3_I x_I ian1_E sh_B ix2_E SIL 
+BAC009S0252W0398 SIL m_B a3_I l_I ong2_E SIL d_B e5_E zh_B u4_I i4_I l_I i4_E iu3_B x_I ie1_E x_B ia4_I j_I iang4_E SIL 
+BAC009S0252W0399 SIL j_B ing1_I g_I uo4_E t_B iao2_I zh_I eng3_E h_B ou4_E d_B e5_E t_B a1_E i3_S sh_B ix2_I i1_E SIL_S n_B a2_I x_I ia4_E SIL_S SIL 
+BAC009S0252W0400 SIL b_B ing4_E z_B ai4_E j_B ie1_I x_I ia4_I l_I ai2_E d_B e5_E b_B i3_I s_I ai4_E SIL_S sh_B ix2_I i1_E SIL_S z_B ai4_I d_I u4_E q_B v3_I sh_I eng4_E SIL 
+BAC009S0252W0401 SIL j_B iang4_E SIL_S n_B an2_I z_I iy3_E sh_B ix4_I j_I ie4_I b_I ei1_E d_B an1_I d_I a3_E g_B uan4_I j_I vn1_E j_B iang3_I b_I ei1_E SIL_S h_B uai2_I zh_I ong1_E SIL 
+BAC009S0252W0402 SIL z_B ai4_E c_B iy3_I q_I ian2_E j_B in4_I x_I ing2_E d_B e5_E s_B an1_I sh_I ix2_I s_I iy4_E m_B ing2_E j_B ve2_I s_I ai4_E zh_B ong4_E SIL 
+BAC009S0252W0403 SIL SIL_S l_B uo4_I f_I u1_E SIL_S er4_S j_B i1_I b_I ai4_E sh_B ui2_I g_I u3_E s_B un3_E SIL 
+BAC009S0252W0404 SIL ing3_B p_I ian1_E d_B e5_E SIL_S b_B i2_I j_I iao3_E ch_B ou1_I x_I iang4_E SIL 
+BAC009S0252W0405 SIL i2_B g_I e4_E d_B ui1_I j_I i1_E zh_B e5_E g_B e4_I zh_I ong3_E sh_B ix4_I j_I ve2_E f_B u2_I h_I ao4_E d_B e5_E k_B u1_I l_I ou2_E SIL 
+BAC009S0252W0406 SIL k_B an4_I sh_I ang4_I q_I v4_E SIL_S g_B ui3_I i4_E SIL 
+BAC009S0252W0407 SIL x_B ian3_I x_I ian4_I ch_I u1_E n_B ong2_I l_I ie4_E d_B e5_E m_B o4_I x_I i1_I g_I e1_E ui4_B d_I ao4_E SIL 
+BAC009S0252W0408 SIL r_B an2_I er2_E uang3_B iu3_E d_B e5_E g_B uan1_I zh_I u4_I d_I ian3_E d_B ou1_E z_B ai4_E x_B v3_E l_B ao3_I s_I an1_E sh_B en1_I sh_I ang3_E SIL 
+BAC009S0252W0409 SIL s_B ou1_I h_I u2_E v2_B l_I e4_E x_B vn4_E SIL j_B v4_E t_B ai2_I uan1_E m_B ei2_I t_I i3_I b_I ao4_I d_I ao4_E SIL 
+BAC009S0252W0410 SIL c_B ai4_I k_I ang1_I iong3_E SIL g_B en1_E SIL_S zh_B u3_I ch_I ix2_E d_B e5_E k_B ang1_I x_I i1_E l_B ai2_E l_B e5_E j_B ing1_I g_I uo4_E SIL_S n_B ian2_I t_I ou2_E SIL 
+BAC009S0252W0411 SIL d_B an4_E l_B iang3_I r_I en2_E ie3_S x_B van1_I b_I u4_E iao4_S t_B ui4_I ch_I u1_E l_B iao3_E SIL 
+BAC009S0252W0412 SIL SIL_S d_B ang4_E q_B i3_E q_B van2_I zh_I ix2_E m_B a1_I m_I a5_E SIL 
+BAC009S0252W0413 SIL SIL_S SIL_S SIL_S SIL 
+BAC009S0252W0414 SIL ie3_S j_B ie1_E l_B iang3_I g_I e4_E n_B v3_I er1_E f_B ang4_I x_I ve2_E SIL 
+BAC009S0252W0415 SIL t_B u2_I zh_I ong1_E SIL_S h_B uan2_E SIL_S t_B a1_E i1_B x_I iu4_E SIL 
+BAC009S0252W0416 SIL zh_B ong1_I g_I uo2_E x_B in1_I un2_I uang3_E SIL sh_B ix2_I l_I iu4_E ve4_S sh_B ix2_I l_I iu4_I r_I iz4_E b_B ao4_I d_I ao4_E SIL r_B iz4_I q_I ian2_E SIL 
+BAC009S0252W0417 SIL f_B an4_I x_I iao3_I x_I van1_E v3_S SIL_S i1_B q_I i3_E b_B ang1_E SIL_S g_B uo4_I sh_I eng1_I r_I iz4_E SIL 
+BAC009S0252W0418 SIL s_B an1_I ui4_E h_B ao4_E j_B ie3_I m_I ei4_E k_B an4_I q_I i3_I l_I ai2_E sh_B ix2_I f_I en1_E h_B uo2_I p_I o1_E SIL 
+BAC009S0252W0419 SIL f_B an4_I x_I iao3_I x_I van1_E z_B ai4_E h_B e2_I ing3_E sh_B ix2_E h_B ai2_E q_B iao4_I p_I i2_E d_B e5_E SIL_S i1_B zh_I ix1_E SIL ian3_S SIL 
+BAC009S0252W0420 SIL s_B ou1_I h_I u2_E v2_B l_I e4_E x_B vn4_E q_B i1_I ve4_E er4_B sh_I ix2_I b_I a1_I r_I iz4_E SIL 
+BAC009S0252W0421 SIL SIL_S z_B ai4_E SIL_S sh_B ai4_E ch_B u1_E h_B e2_E SIL_S x_B v3_E l_B ao3_I s_I an1_E d_B e5_E zh_B ao4_I p_I ian1_E SIL 
+BAC009S0252W0422 SIL m_B u2_I n_I v2_I l_I ia3_E SIL d_B ou1_E SIL_S SIL 
+BAC009S0252W0423 SIL s_B ou1_I h_I u2_E v2_B l_I e4_E x_B vn4_E zh_B e4_E SIL_S SIL 
+BAC009S0252W0424 SIL SIL_S in1_B ui2_E sh_B ou4_I sh_I ang1_E d_B ou1_E m_B ei2_I iu3_E ch_B u1_I l_I ai2_E g_B ong1_I z_I uo4_E SIL 
+BAC009S0252W0425 SIL er2_B sh_I ix4_E zh_B uan1_I x_I in1_E z_B ai4_I j_I ia1_E zh_B ao4_I g_I u4_E s_B an1_I g_I e4_E n_B v3_I er1_E SIL 
+BAC009S0252W0426 SIL t_B a1_E ie3_S x_B ian3_I d_I e5_E SIL f_B ei1_I ch_I ang2_E x_B iang3_I sh_I ou4_E zh_B e4_E d_B uan4_E q_B in1_I z_I iy3_E sh_B ix2_I g_I uang1_E SIL 
+BAC009S0252W0427 SIL p_B in2_I p_I in2_E z_B ai4_E SIL_S sh_B ai4_E ch_B u1_E h_B e2_E h_B ai2_I z_I iy5_E m_B en2_E d_B e5_E h_B u4_I d_I ong4_E SIL 
+BAC009S0252W0428 SIL in3_B l_I ai2_E uang3_B iu3_E SIL_S SIL 
+BAC009S0252W0429 SIL t_B a1_E s_B iy4_I h_I u1_E b_B u4_E m_B an3_I z_I u2_E uang3_B iu3_E zh_B ix1_E f_B a1_I x_I ian4_E d_B ao4_E z_B iy4_I j_I i3_E sh_B ix4_E h_B ao3_E m_B a1_I m_I a5_E SIL 
+BAC009S0252W0430 SIL h_B ai2_I iao4_E ui2_S j_B ie3_I m_I ei4_E m_B en5_E f_B a1_I sh_I eng1_E SIL 
+BAC009S0252W0431 SIL sh_B ix4_I f_I a1_E h_B ou4_E n_B an2_I z_I iy3_E t_B ing2_I l_I iu2_E z_B ai4_E g_B uang3_I ch_I ang3_E b_B ing4_I ui4_E t_B ao2_I z_I ou3_E SIL 
+BAC009S0252W0432 SIL j_B ing3_I ch_I a2_E d_B ao4_I d_I a2_E x_B ian4_I ch_I ang3_E h_B ou4_E j_B iang4_E n_B an2_I z_I iy3_E zh_B ix4_I f_I u2_E SIL 
+BAC009S0252W0433 SIL t_B a1_E k_B an4_I d_I ao5_E i1_B ui4_E n_B v2_I z_I iy3_E x_B iong1_I b_I u4_E SIL_S d_B ao3_I d_I i4_E SIL 
+BAC009S0252W0434 SIL j_B i4_I zh_I e3_E zh_B eng4_I z_I ai4_E g_B an3_I uang3_E sh_B ix4_I f_I a1_E x_B ian4_I ch_I ang3_E SIL 
+BAC009S0252W0435 SIL b_B ei3_I j_I ing1_E s_B an1_I l_I i3_I t_I un2_E k_B an3_E r_B en2_E sh_B ix4_I j_I ian4_E s_B iy3_I zh_I e3_E f_B a3_I g_I uo2_E zh_B ang4_I f_I u1_E SIL SIL_S SIL d_B ao4_I n_I ian4_E uang2_B q_I i1_E SIL 
+BAC009S0252W0436 SIL i1_S n_B an2_I z_I iy3_E ch_B ix2_I d_I ao1_E z_B ai4_E s_B an1_I l_I i3_I t_I un2_E j_B iang4_E i4_B n_I an2_I i4_I n_I v3_E l_B iang3_I m_I ing2_E SIL_S SIL 
+BAC009S0252W0437 SIL l_B iang3_I m_I ing2_E sh_B ang1_I zh_I e3_E b_B ei4_E s_B ong4_I uang3_E f_B u4_I j_I in4_E i1_B van4_E SIL 
+BAC009S0252W0438 SIL n_B v2_I z_I iy3_E in1_S SIL_S SIL_S SIL 
+BAC009S0252W0439 SIL ch_B ix2_I d_I ao1_E n_B an2_I z_I iy3_E b_B ei4_E j_B ing3_I f_I ang1_E d_B ang1_I ch_I ang3_E k_B ong4_I zh_I ix4_E SIL 
+BAC009S0252W0440 SIL zh_B e4_E d_B ui4_E zh_B ong1_I f_I a3_E j_B ie2_I h_I e2_E d_B e5_E q_B ing2_I l_I v3_E z_B iy4_I c_I iy3_E in1_B iang2_E x_B iang1_I g_I e2_E SIL 
+BAC009S0252W0441 SIL f_B a3_I g_I uo2_E zh_B ang4_I f_I u5_E z_B ai4_E s_B an1_I l_I i3_I t_I un2_E sh_B ix4_I f_I a1_E x_B ian4_I ch_I ang3_E SIL ui2_S q_B i1_I z_I iy3_E d_B ian3_I r_I an2_E s_B an1_E SIL zh_B u4_E q_B ing1_I x_I iang1_E SIL 
+BAC009S0252W0442 SIL er2_S x_B ian2_I i2_I r_I en2_E g_B ao1_E m_B ou2_I m_I ou3_E i3_B j_I ing1_E b_B ei4_E j_B ing3_I f_I ang1_E x_B ing2_I sh_I ix4_I j_I v1_I l_I iu2_E SIL 
+BAC009S0252W0443 SIL b_B ei3_I j_I ing1_E s_B an1_I l_I i3_I t_I un2_E k_B an3_E r_B en2_E sh_B ix4_I j_I ian4_E SIL_S in1_S x_B iao3_I f_I an4_E q_B iang1_E d_B i4_I p_I an2_E SIL q_B i3_E ch_B ong1_I t_I u1_E SIL 
+BAC009S0252W0444 SIL b_B ei3_I j_I ing1_E s_B an1_I l_I i3_I t_I un2_E iu1_B i1_I k_I u4_E m_B en2_I k_I ou3_E i1_S n_B an2_I z_I iy3_E ch_B ix2_I d_I ao1_E j_B iang4_E i1_S n_B v2_I z_I iy3_E k_B an2_I d_I ao3_E SIL 
+BAC009S0252W0445 SIL iu1_B i1_I k_I u4_E m_B en2_I k_I ou3_E k_B an3_E SIL_S l_B iao3_I j_I ie3_E sh_B uang1_I f_I ang1_E ui2_S x_B iao3_I f_I an4_E SIL 
+BAC009S0252W0446 SIL i2_B in1_E q_B iang3_I zh_I an4_E d_B i4_I p_I an2_E q_B i3_E ch_B ong1_I t_I u1_E SIL 
+BAC009S0252W0447 SIL b_B ei3_I j_I ing1_E s_B an1_I l_I i3_I t_I un2_E n_B an2_I z_I iy3_E SIL_S i4_B m_I i3_E ch_B ang2_E j_B ian1_I d_I ao1_E sh_B ang1_I r_I en2_E zh_B ix4_E SIL_S SIL 
+BAC009S0252W0448 SIL ch_B ao2_I iang2_I q_I v1_E s_B an1_I l_I i3_I t_I un2_E j_B iu3_I b_I a1_I j_I ie1_E n_B an2_I k_I ou3_E SIL 
+BAC009S0252W0449 SIL i1_S n_B an2_I z_I iy3_E ch_B ix2_I d_I ao1_E u2_B g_I u4_E j_B iang4_E i4_B n_I an2_I i4_I n_I v3_E l_B iang3_I m_I ing2_E SIL_S SIL 
+BAC009S0252W0450 SIL sh_B ang1_I zh_I e3_E s_B ui2_I h_I ou4_E b_B ei4_E s_B ong4_I uang3_E f_B u4_I j_I in4_E i1_B van4_E j_B iu4_I zh_I ix4_E SIL 
+BAC009S0252W0451 SIL l_B iang3_I m_I ing2_E sh_B ang1_I zh_I e3_E ui2_S i1_B d_I ui4_E k_B ua4_I g_I uo2_E x_B in1_I h_I un1_I f_I u1_I f_I u4_E SIL 
+BAC009S0252W0452 SIL sh_B ou4_I sh_I ang1_E n_B v2_I z_I iy3_E in1_S SIL_S s_B iy3_I uang2_E SIL 
+BAC009S0252W0453 SIL g_B ong1_I an1_I j_I i1_I g_I uan1_E zh_B eng4_I z_I ai4_E j_B in4_I i1_I b_I u4_E d_B iao4_I ch_I a2_E zh_B ong4_E SIL 
+BAC009S0252W0454 SIL b_B ei3_I j_I ing1_E sh_B ang4_I k_I ong1_E SIL_S SIL_S t_B u2_E SIL_S SIL sh_B ou3_I j_I i1_E s_B ou1_I h_I u2_E SIL 
+BAC009S0252W0455 SIL t_B ai4_I iang2_E zh_B ou1_I ui2_E iu3_S i4_B q_I van1_E ch_B ao1_E SIL_S g_B uang1_I vn4_E SIL 
+BAC009S0252W0456 SIL sh_B ix4_E r_B iz4_I g_I uang1_E t_B ong1_I g_I uo4_E SIL_S sh_B ix2_E SIL 
+BAC009S0252W0457 SIL sh_B ou4_I d_I ao4_E b_B ing1_I j_I ing1_E d_B e5_E zh_B e2_I sh_I e4_E h_B uo4_E f_B an3_I sh_I e4_E er2_S SIL x_B ing2_I ch_I eng2_E d_B e5_E SIL 
+BAC009S0252W0458 SIL b_B ei3_I j_I ing1_E x_B ia4_I zh_I ou1_E s_B an1_I g_I e4_E g_B ong1_I z_I uo4_I r_I iz4_E ian2_B zh_I ong4_E iong1_B d_I u3_E g_B ao1_I f_I eng1_E j_B iao1_I t_I ong1_E zh_B ix3_I sh_I u4_E j_B iang4_E p_B o4_E j_B iu3_E SIL 
+BAC009S0252W0459 SIL g_B ong1_I z_I uo4_I r_I iz4_E d_B ong1_I b_I u4_E b_B ei3_I b_I u4_E ch_B eng2_I q_I v1_E SIL uan3_S g_B ao1_I f_I eng1_E ch_B ix2_I x_I v4_I sh_I ix2_I j_I ian1_E g_B eng4_I ch_I ang2_E SIL 
+BAC009S0252W0460 SIL x_B in1_E SIL_S SIL k_B uai4_I x_I vn4_E j_B i4_I zh_I e3_E SIL_S SIL b_B a1_I ve4_E sh_B ix2_I i1_I r_I iz4_E b_B ang4_I uan3_E u2_B d_I ian3_E d_B uo1_E SIL 
+BAC009S0252W0461 SIL sh_B ix4_I m_I in2_E m_B en5_E z_B ou3_E z_B ai4_E t_B u1_I r_I an2_E SIL_S d_B e5_E SIL_S zh_B ong4_E SIL 
+BAC009S0252W0462 SIL ie3_S SIL iu3_S b_B u4_I sh_I ao3_E SIL m_B ei2_I d_I ai4_E v3_B j_I v4_E d_B e5_E l_B u4_E r_B en2_E z_B ai4_E b_B ao4_I t_I an1_E t_B ing2_E n_B ei4_E d_B uo3_I v3_E SIL 
+BAC009S0252W0463 SIL b_B ei3_I j_I ing1_E zh_B uan1_I ch_I e1_E g_B ai3_I g_I e2_E f_B eng1_I x_I iang4_E i3_S d_B ing4_E d_B i1_I j_I ia4_E SIL j_B ian1_I zh_I ix2_E SIL ch_B e1_E SIL j_B iang4_E t_B ui4_I ch_I u1_E sh_B ix4_I ch_I ang3_E SIL 
+BAC009S0252W0464 SIL t_B u2_E d_B ong1_I f_I ang1_E SIL_S SIL_S SIL_S SIL 
+BAC009S0252W0465 SIL s_B ui1_I r_I an2_E z_B ai4_E h_B ui4_I sh_I ang4_E b_B ei3_I j_I ing1_I sh_I ix4_E j_B iao1_I t_I ong1_I ui3_E b_B ing4_E m_B ei2_I iu3_E z_B uo4_E r_B en4_I h_I e2_E b_B iao3_I t_I ai4_E SIL 
+BAC009S0252W0466 SIL d_B an4_E b_B u4_I sh_I ao3_E zh_B uan1_I j_I ia1_E r_B en4_I ui2_E b_B ei3_I j_I ing1_E zh_B uan1_I ch_I e1_E g_B ai3_I g_I e2_E f_B eng1_I x_I iang4_E j_B i1_I b_I en3_E i3_S d_B ing4_E SIL 
+BAC009S0252W0467 SIL ui4_B l_I ai2_E j_B iang4_E b_B u2_E z_B eng1_I j_I ia1_E SIL_S z_B eng1_I j_I ia1_E b_B u4_I f_I en4_E SIL_S sh_B u4_I l_I iang4_E SIL 
+BAC009S0252W0468 SIL d_B i1_I j_I ia4_E SIL j_B ian1_I zh_I ix2_E zh_B uan1_I ch_I e1_E j_B iang4_E t_B ui4_I ch_I u1_E b_B ei3_I j_I ing1_E sh_B ix4_I ch_I ang3_E SIL 
+BAC009S0252W0469 SIL b_B ei3_I j_I ing1_E ie4_B zh_I u3_E q_B ian1_I m_I ing2_E z_B ao1_E d_B a4_I l_I iang4_E ui3_B z_I ao4_E s_B iy4_I b_I ai3_E SIL_S ui2_B x_I iu1_E j_B in1_E l_B iu2_I r_I u4_E uai4_B d_I i4_E SIL 
+BAC009S0252W0470 SIL r_B an2_I er2_E ie4_B zh_I u3_E m_B en5_E q_B ve4_E c_B ong2_I ui4_I j_I ian4_I g_I uo4_E r_B en4_I h_I e2_E SIL_S ui2_B h_I u4_E SIL 
+BAC009S0252W0471 SIL c_B ong2_I l_I ai2_E m_B ei2_I iu3_E x_B iang4_E f_B ang2_I g_I uan3_E b_B u4_I m_I en2_E SIL d_B i4_I j_I iao1_E g_B uo4_E sh_B en1_I q_I ing3_E SIL 
+BAC009S0252W0472 SIL s_B uo3_I ui4_E SIL_S sh_B ix4_E ui3_B z_I ao4_E d_B e5_E SIL 
+BAC009S0252W0473 SIL b_B ei3_I j_I ing1_E d_B ong1_I s_I an1_I h_I uan2_E h_B ua2_I ui1_E q_B iao2_E i1_S j_B iao4_I ch_I e1_E z_B iy4_I r_I an2_E h_B ou4_E SIL b_B ao4_I zh_I a4_E SIL 
+BAC009S0252W0474 SIL j_B in1_I t_I ian1_I x_I ia4_I u3_E l_B iang2_I d_I ian3_E sh_B ix2_I f_I en1_E z_B uo3_I iu4_E SIL 
+BAC009S0252W0475 SIL SIL_S i2_B l_I iang4_E h_B ei1_I s_I e4_E x_B iao3_I j_I iao4_I ch_I e1_E z_B ai4_E h_B ua2_I ui1_E q_B iao2_E sh_B ang4_E f_B a1_I sh_I eng1_E z_B iy4_I r_I an2_E SIL 
+BAC009S0252W0476 SIL ch_B e1_I l_I iang4_E q_B i3_I h_I uo3_E u2_S SIL_S SIL 
+BAC009S0252W0477 SIL i1_B m_I ing2_E b_B ai2_I i1_E n_B an2_I z_I iy3_E zh_B an4_E z_B ai4_E SIL_S b_B u4_I van3_I ch_I u4_E i1_B zh_I ix2_E z_B ai4_E d_B a3_I d_I ian4_I h_I ua4_E SIL 
+BAC009S0252W0478 SIL d_B a4_I ve1_E sh_B ix2_I f_I en1_I zh_I ong1_E z_B uo3_I iu4_E x_B iao1_I f_I ang2_I ch_I e1_E g_B an3_I d_I ao4_E b_B ing4_E j_B iang4_E h_B uo3_E p_B u1_I m_I ie4_E SIL 
+BAC009S0252W0479 SIL j_B ie2_I zh_I ix4_E m_B u4_I q_I ian2_E ch_B e1_I l_I iang4_E h_B ai2_E m_B ei2_E ch_B e4_I l_I i2_E x_B ian4_I ch_I ang3_E SIL 
+BAC009S0252W0480 SIL b_B ei3_I j_I ing1_E d_B ong1_I s_I an1_I h_I uan2_E h_B ua2_I ui1_E SIL q_B iao2_I q_I iao2_E sh_B ang4_E n_B ei4_I h_I uan2_E ch_B e1_I d_I ao4_E h_B ei1_I s_I e4_E j_B iao4_I ch_I e1_E z_B iy4_I r_I an2_E SIL 
+BAC009S0252W0481 SIL i1_B l_I iang4_E h_B ei1_I s_I e4_E x_B iao3_I j_I iao4_I ch_I e1_E z_B ai4_E h_B ua2_I ui1_E q_B iao2_E sh_B ang4_E n_B ei4_I h_I uan2_E z_B ui4_E n_B ei4_I c_I e4_E ch_B e1_I d_I ao4_E f_B a1_I sh_I eng1_E z_B iy4_I r_I an2_E SIL 
+BAC009S0252W0482 SIL b_B ei3_I j_I ing1_E d_B ong1_I s_I an1_I h_I uan2_E d_B a4_E h_B uo4_I ch_I e1_E SIL_S SIL_S j_B iu3_E x_B iao3_I sh_I ix2_E SIL 
+BAC009S0252W0483 SIL b_B ei3_I j_I ing1_E d_B ong1_I b_I ian4_I m_I en2_E c_B ao2_I vn4_E m_B a3_I t_I ou2_E g_B ong1_I van2_E k_B ai1_I van2_E zh_B an4_I d_I i4_E uan4_B v2_E p_B ing2_I m_I i3_E SIL 
+BAC009S0252W0484 SIL b_B en3_I b_I ao4_I x_I vn4_E j_B i4_I zh_I e3_E SIL_S z_B uo2_I t_I ian1_E SIL 
+BAC009S0252W0485 SIL b_B ei3_I j_I ing1_E d_B ong1_I b_I ian4_I m_I en2_E q_B iao2_E i1_S g_B ong1_I j_I iao1_E b_B ei4_E SIL_S d_B uo1_I m_I ing2_E ch_B eng2_I k_I e4_E s_B ong4_I i1_E SIL 
+BAC009S0252W0486 SIL x_B in1_E SIL_S j_B ian4_I x_I i2_E j_B i4_I zh_I e3_E SIL SIL_S sh_B e4_E SIL 
+BAC009S0252W0487 SIL b_B ei3_I j_I ing1_E d_B ong1_I n_I an2_E s_B iy4_I h_I uan2_E SIL_S zh_B ui1_I ui3_E u2_S SIL SIL_S SIL 
+BAC009S0252W0488 SIL d_B ong1_I n_I an2_E s_B iy4_I h_I uan2_E SIL_S sh_B ix4_I g_I u4_E sh_B ix4_E SIL_S zh_B ui1_I ui3_E s_B uo3_I zh_I ix4_E SIL 
+BAC009S0252W0489 SIL sh_B ix4_I g_I u4_E f_B a1_I sh_I eng1_E SIL_S h_B uo4_I ch_I e1_E m_B ei2_I iu3_E j_B i2_I sh_I ix2_E i2_B k_I ai1_E SIL 
+BAC009S0252W0490 SIL s_B uo3_I i3_E h_B ou4_I m_I ian4_E d_B e5_E ch_B e1_E j_B iu4_E SIL d_B ou1_E d_B u3_E sh_B ang4_E l_B iao3_E SIL 
+BAC009S0252W0491 SIL q_B ing1_I zh_I ang4_I ch_I e1_E g_B an3_I l_I ai2_E sh_B ix2_E i3_S sh_B ang4_E b_B u2_E q_B v4_E zh_B u3_I l_I u4_E SIL 
+BAC009S0252W0492 SIL z_B ui4_I h_I ou4_E SIL n_B i4_I x_I ing2_E sh_B ang4_I q_I v4_E ch_B u2_I l_I i3_E sh_B ix4_I g_I u4_E SIL 
+BAC009S0252W0493 SIL s_B uo3_I x_I ing4_E sh_B ix4_I g_I u4_E b_B ing4_E m_B ei2_I iu3_E z_B ao4_I ch_I eng2_E SIL_S SIL 
+BAC009S0252W0494 SIL zh_B ix2_I iu3_E d_B ang1_I sh_I ix4_I r_I en2_E van2_S SIL_S sh_B ang1_E SIL 
+BAC009S0252W0495 SIL b_B ei3_I j_I ing1_E d_B ong1_I s_I iy4_I h_I uan2_E SIL_S l_B ian2_E zh_B uang4_E d_B ao4_I l_I u4_E iong1_B d_I u3_E j_B in4_E s_B iy4_I g_I e4_E x_B iao3_I sh_I ix2_E SIL 
+BAC009S0252W0496 SIL SIL_S l_B ian2_E zh_B uang4_E SIL t_B ian1_I d_I u3_E SIL d_B ong1_I s_I iy4_I h_I uan2_E SIL 
+BAC009S0252W0497 SIL SIL_S SIL_S SIL_S SIL 
+BAC009S0252W0498 SIL SIL_S SIL_S SIL_S SIL 
+BAC009S0252W0499 SIL EH1_B N_E SIL_S SIL_S SIL 
+BAC009S0252W0500 SIL SIL_S SIL_S SIL_S SIL 

@@ -1,0 +1,9 @@
+ai2_B ao3_B b_B en1_B h_B i4_B ian1_B in1_B ing2_B j_B q_B t_B u2_B uan2_B x_B zh_B 
+ai2_E ao3_E b_E en1_E h_E i4_E ian1_E in1_E ing2_E j_E q_E t_E u2_E uan2_E x_E zh_E 
+ai2_I ao3_I b_I en1_I h_I i4_I ian1_I in1_I ing2_I j_I q_I t_I u2_I uan2_I x_I zh_I 
+ai2_S ao3_S b_S en1_S h_S i4_S ian1_S in1_S ing2_S j_S q_S t_S u2_S uan2_S x_S zh_S 
+SIL 
+SIL_B 
+SIL_E 
+SIL_I 
+SIL_S 

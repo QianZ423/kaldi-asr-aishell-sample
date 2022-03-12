@@ -1,0 +1,2 @@
+sum-tree-stats /root/data/mys/data/exp/tri/treeacc /root/data/mys/data/exp/tri/1.treeacc 
+LOG (sum-tree-stats[5.5.1008~1-0be61]:main():sum-tree-stats.cc:88) Wrote summed accs ( 36928 individual stats)

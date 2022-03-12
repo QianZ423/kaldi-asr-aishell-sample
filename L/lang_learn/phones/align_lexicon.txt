@@ -1,0 +1,8 @@
+<SIL> <SIL> SIL_S
+<eps> <eps> SIL
+不行 不行 b_B u2_I x_I ing2_E
+今天 今天 j_B in1_I t_I ian1_E
+天气 天气 t_B ian1_I q_I i4_E
+真好 真好 zh_B en1_I h_I ao3_E
+还 还 h_B ai2_E
+还 还 h_B uan2_E

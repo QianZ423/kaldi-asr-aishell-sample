@@ -1,0 +1,29 @@
+# compile-train-graphs --read-disambig-syms=/root/data/mys/data/L/lang/phones/disambig.int /root/data/mys/data/exp/mono/tree /root/data/mys/data/exp/mono/0.mdl /root/data/mys/data/L/lang/L.fst "ark:sym2int.pl --map-oov 1 -f 2- /root/data/mys/data/L/lang/words.txt < /root/data/mys/data/kaldi_file/split1/1/text|" "ark:|gzip -c >/root/data/mys/data/exp/mono/fsts.1.gz" 
+# Started at Fri Feb 25 15:23:04 CST 2022
+#
+compile-train-graphs --read-disambig-syms=/root/data/mys/data/L/lang/phones/disambig.int /root/data/mys/data/exp/mono/tree /root/data/mys/data/exp/mono/0.mdl /root/data/mys/data/L/lang/L.fst 'ark:sym2int.pl --map-oov 1 -f 2- /root/data/mys/data/L/lang/words.txt < /root/data/mys/data/kaldi_file/split1/1/text|' 'ark:|gzip -c >/root/data/mys/data/exp/mono/fsts.1.gz' 
+sym2int.pl: replacing 三十度 with 1
+sym2int.pl: replacing 三十二度 with 1
+sym2int.pl: replacing 九井 with 1
+sym2int.pl: replacing 日本料理 with 1
+sym2int.pl: replacing 尚街 with 1
+sym2int.pl: replacing Loft with 1
+sym2int.pl: replacing 时尚生活 with 1
+sym2int.pl: replacing 小游园 with 1
+sym2int.pl: replacing 瑞福园 with 1
+sym2int.pl: replacing I with 1
+sym2int.pl: replacing T with 1
+sym2int.pl: replacing 番 with 1
+sym2int.pl: replacing 愚路店 with 1
+sym2int.pl: replacing O with 1
+sym2int.pl: replacing P with 1
+sym2int.pl: replacing 舒友 with 1
+sym2int.pl: replacing 听歌曲 with 1
+sym2int.pl: replacing 听歌曲 with 1
+sym2int.pl: replacing 听歌曲 with 1
+sym2int.pl: replacing 听歌曲 with 1
+sym2int.pl: not warning for OOVs any more times
+** Replaced 556 instances of OOVs with 1
+LOG (compile-train-graphs[5.5.1008~1-0be61]:main():compile-train-graphs.cc:147) compile-train-graphs: succeeded for 1000 graphs, failed for 0
+# Accounting: time=5 threads=1
+# Ended (code 0) at Fri Feb 25 15:23:09 CST 2022, elapsed time 5 seconds
